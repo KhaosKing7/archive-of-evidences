@@ -40,7 +40,7 @@ nor upon a straight and rightly-guided path.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1322%4010-05-2026_08-15-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/36c934628be013f1820a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -56,7 +56,7 @@ And it is the reality of Islām: “And whoever seeks a religion other than Isl�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1067%4011-12-2025_00-51-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/320ee18046be03cb1044.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -82,7 +82,7 @@ This illustrates this great matter: indeed, the condition of ikhlāṣ and taw�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1092%4022-12-2025_01-10-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f417849094197697a42c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -100,7 +100,7 @@ Although he is a mushrik, he is also a fool who misguides himself. Allāh says: 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_966%4023-10-2025_06-13-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8920aa36f33f71957da8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -118,7 +118,7 @@ What is meant is the true meaning of this phrase. As for merely pronouncing it w
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_526%4025-03-2025_16-26-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a36cf17d5408ec3a87eb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -211,7 +211,7 @@ Likewise, what you mentioned regarding the meaning of the ṭāghūt—that one 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1265%4005-04-2026_07-57-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/eddb3848b703d489ff48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -231,7 +231,7 @@ And the meaning of His saying “وبدا” is: it became apparent and visible 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_710%4006-06-2025_15-02-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3d65083c0fd24540b3c0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -249,7 +249,7 @@ As for merely pronouncing it without knowledge of its meaning, without certainty
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1080%4015-12-2025_13-07-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/09d1be9c78645f3c58fc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -267,7 +267,7 @@ Whoever does not disavow shirk has not truly realized lā ilāha illā Allāh, e
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1019%4022-11-2025_09-17-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/adc809c4fb88c8b12b8e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -283,7 +283,7 @@ And just as it includes knowledge, it also includes action. It is not conceivabl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1039%4028-11-2025_10-56-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8f19930402e2e9537e4e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -305,7 +305,7 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_20%4027-04-2026_21-56-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -323,8 +323,8 @@ Whoever does not disavow shirk has not truly realized lā ilāha illā Allāh, e
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_36%4028-04-2026_16-18-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_37%4028-04-2026_16-19-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f145e3237565e22db5bb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/adc809c4fb88c8b12b8e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -340,7 +340,7 @@ And just as it includes knowledge, it also includes action. It is not conceivabl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_41%4028-04-2026_16-20-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8f19930402e2e9537e4e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -372,8 +372,8 @@ And in the Messenger of Allah ﷺ we have an excellent example, as we have previ
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_132%4008-07-2026_16-33-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_133%4008-07-2026_16-35-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ce020b18c90bcbf6e65c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4970583b2a196756bce2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -505,7 +505,7 @@ Indeed, from the necessary implication of kufr biṭ-ṭāghūt is declaring dis
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1209%4010-03-2026_06-52-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ddf920c96c00cf1347ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -543,7 +543,7 @@ As for aṭ-ṭāghūt: it is a general term for everything worshipped besides A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_671%4015-05-2025_13-10-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c6bd0dad374bb00aa23d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -563,7 +563,7 @@ Kufr biṭ-ṭāghūt is a condition for the existence of īmān, because kufr b
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1123%4016-01-2026_14-33-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f842f0bc0ce6beef5e79.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -573,7 +573,7 @@ Shaykh Ayman al-ʿAnqarī on Kufr biṭ-ṭāghūt
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1086%4018-12-2025_16-31-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/abb25a83ae92d30912d5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -603,7 +603,7 @@ The verse indicates:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1294%4023-04-2026_03-44-48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dac60ca5cda281ffb3f0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -633,7 +633,7 @@ The intended point is that the matter of barā’ah—from shirk and its people�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1142%4027-01-2026_10-52-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/460c264c7823f115420f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -659,7 +659,7 @@ Allāh does not accept that anyone be associated with Him in any type of ʿibād
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1038%4028-11-2025_00-11-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bbf8d231460c74166b71.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -679,7 +679,7 @@ Benefits regarding Tawhid, Bara’ah from shirk, Kufr bil taghut etc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_18%4027-04-2026_21-55-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b761ae5c46d231f1de3f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -689,7 +689,7 @@ Shaykh Ayman al-ʿAnqarī on Kufr biṭ-ṭāghūt
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_19%4027-04-2026_21-55-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/100f5e5e22aae4598606.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -713,8 +713,8 @@ Indeed, from the necessary implication of kufr biṭ-ṭāghūt is declaring dis
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_26%4027-04-2026_21-58-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_27%4027-04-2026_21-58-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/659f5bacbb790dd3f496.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ddf920c96c00cf1347ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -744,8 +744,8 @@ The intended point is that the matter of barā’ah—from shirk and its people�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_45%4028-04-2026_16-22-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_46%4028-04-2026_16-22-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/460c264c7823f115420f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -882,7 +882,7 @@ Woe unto him! Where is our “declaring the Ummah of Muḥammad disbelievers”?
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_931%4006-10-2025_12-36-35.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1f7f50a58eb5928e484b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -924,7 +924,7 @@ The point of evidence is that a person’s wealth and blood are not protected un
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_827%4009-08-2025_14-19-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8b3c139d592f1ff15f56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -958,7 +958,7 @@ And the Prophet ﷺ boycotted those who stayed behind from a single expedition, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1334%4014-05-2026_04-07-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/98676e1f5850773ca9d2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1000,7 +1000,7 @@ As for affirming the correctness of their creed, this is even more severe. If so
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_804%4021-07-2025_13-42-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/28ae7660e63bef1911d0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1022,7 +1022,7 @@ Whoever mocks anything from the religion of the Messenger ﷺ, or its reward or 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_964%4022-10-2025_16-23-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2d6bb3e9811222f22195.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1048,7 +1048,7 @@ The meaning of Lā ilāha illā Allāh is: “There is no deity truly worthy of 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_971%4025-10-2025_03-44-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e5616b80c16c4d8ee8fd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1272,7 +1272,7 @@ If their words of disbelief were merely akin to witness testimonies against them
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_425%4004-03-2025_10-39-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f0c594a3ca3647bbc61c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1292,7 +1292,7 @@ This proves that actions can be evil and blameworthy even before the coming of t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_992%4004-11-2025_11-13-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/caee19cf03223c8d7f63.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1316,7 +1316,7 @@ Those who truly believe in the Messenger — when it becomes clear to one of the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_776%4005-07-2025_19-10-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3df67c06247562ecfad9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1342,7 +1342,7 @@ Therefore, Allah does not destroy or punish them until He sends to them a messen
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_993%4005-11-2025_09-26-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c822165515b6ca37b09e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1370,7 +1370,7 @@ The latter only took idols as intercessors and mediators, as they said: ‘We do
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_293%4006-02-2025_01-49-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c6a1015c38cb86fcb5dd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1384,7 +1384,7 @@ As the Salaf also issued Takfir on those who said some of the Jahmiya’s saying
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_137%4010-12-2024_12-05-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/87cbb028d87fe46a3a9d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1398,7 +1398,7 @@ And for this reason, everyone who does not worship Allah alone will inevitably b
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_665%4013-05-2025_10-50-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/805160cb8d5662bd21b7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1414,7 +1414,7 @@ For they are all agreed that the dead are not to be called upon, nor is anything
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_793%4013-07-2025_07-30-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/937988e855e23d9deb74.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1440,7 +1440,7 @@ All of this is to establish tawḥīd, which is the foundation and core of the r
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_504%4019-03-2025_15-03-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6ed64f9e5bfb51172fc5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1460,7 +1460,7 @@ Similarly, his enmity toward the Jews, Christians, polytheists, Ṣābians, and 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_519%4022-03-2025_16-45-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cee158f35d711bf3b7a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1480,7 +1480,7 @@ And even worse than this is when someone says, “Forgive me” or “Accept my 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_811%4023-07-2025_15-48-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1bce32b7f18a653fadaf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1496,7 +1496,7 @@ Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_252%4027-01-2025_03-12-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d16e1917cab310f797fd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1512,7 +1512,7 @@ And He said: “So We took retribution from them and drowned them in the sea bec
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_977%4028-10-2025_15-14-21.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ba9648e1ecdaf767f3ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1528,7 +1528,7 @@ However, their actions are still blameworthy and detested; Allāh condemns them,
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_982%4030-10-2025_10-08-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/20a5121078899af432cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1540,7 +1540,7 @@ Some benefits to derive.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1149%4030-01-2026_23-59-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c1669baa17789f962067.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1582,7 +1582,7 @@ Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs again
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_543%4001-04-2025_16-11-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bf4fa28ad275a6b0d5cf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1598,7 +1598,7 @@ As for the reality of his condition, that is left to Allāh, the Exalted. If the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_698%4001-06-2025_14-58-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bd337333e30a8d0d1baf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1662,7 +1662,7 @@ Through this ignorance and delusion, they fell into the gravest of sins and the 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_639%4002-05-2025_17-10-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3d981660429e65513c5b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1738,7 +1738,7 @@ And all praise is due to Allāh, Lord of the Worlds. And may blessings and peace
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_847%4002-09-2025_02-36-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/63f9438f67011f9d849b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1766,7 +1766,7 @@ Sheikh Rajihi on Excuse of ignorance
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_125%4002-12-2024_02-51-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/911ad04fe668dc1c916c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1780,7 +1780,7 @@ Imām ash-Shawkānī (رحمه الله) said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_125%4002-12-2024_02-51-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/911ad04fe668dc1c916c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1804,7 +1804,7 @@ Therefore, Allāh (سبحانه) condemned them and called them Mushrikīn, even
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_126%4002-12-2024_02-53-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/25d06297c0a906fe427a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1818,7 +1818,7 @@ Imām ibn al-Qayyim (رحمه الله) said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_127%4002-12-2024_05-48-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b86bc016de3235b97164.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1852,8 +1852,8 @@ He رحمه الله , said: “Some students of knowledge today are confused an
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_418%4002-03-2025_22-06-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_419%4003-03-2025_06-47-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/be2ced659e8e08e651b1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/eed82b7a4373f5c6bc94.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1881,7 +1881,7 @@ In summary, what I reject is placing belief in anything other than Allāh in a w
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_420%4003-03-2025_09-48-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/93183db04a430bbe33b2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1905,7 +1905,7 @@ the second: A deep sense of fear, for when you understand that a person may fall
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_421%4003-03-2025_12-12-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ffc83e52fb2f0260b23f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1939,7 +1939,7 @@ How true were the words of a Bedouin who, upon hearing some of Islam, declared: 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_422%4003-03-2025_14-34-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a41ae51e052f05d4dd3f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1961,7 +1961,7 @@ Fatawa date: 21 Jul 2025
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_823%4003-08-2025_13-37-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/19889683b542f1181dd7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -1977,7 +1977,7 @@ This is not correct. We deal with what is apparent, and the hearts are left to A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_823%4003-08-2025_13-37-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/19889683b542f1181dd7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2017,7 +2017,7 @@ These fools, however, have generalized the issue and treated all ignorance as an
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_424%4004-03-2025_05-46-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/280605f956ef26d21f38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2053,7 +2053,7 @@ All scholars have declared them disbelievers, and they have not excused them due
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_426%4004-03-2025_13-41-47.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7f4773c88fe293d3d410.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2073,7 +2073,7 @@ Answer: The Quran has reached them: “This is a message for the people” [Ibra
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_428%4004-03-2025_18-30-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/926918889b25c7fb9887.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2089,7 +2089,7 @@ The Murji’ah say now that people are excused due to ignorance, while the Qur�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1303%4004-05-2026_12-24-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d1abfd9c7114252057d2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2119,7 +2119,7 @@ The Permanent Committee for Scholarly Research and Iftāʾ
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_705%4005-06-2025_01-50-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/24de04f0c1f4779500c9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2135,7 +2135,7 @@ Yes. But as for us, we treat him as a disbeliever: he is not inherited from, not
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_770%4003-07-2025_00-44-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/60c259df6d01b85798fa.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2153,7 +2153,7 @@ So whoever restricts this threat to only the stubborn rejecter, and excludes the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_928%4004-10-2025_01-21-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/480dc849369cac5bc7a5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2167,8 +2167,8 @@ So whoever restricts this threat to only the stubborn rejecter, and excludes the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1052%4003-12-2025_08-52-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1053%4004-12-2025_06-25-58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/405fa2c51d4d4bcea8d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b7cc9af9a144557d0030.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2200,7 +2200,7 @@ The Permanent Committee for Schoarly Research and Iftāʾ (al-Lajnah ad-Dāʿima
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_292%4005-02-2025_17-40-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bb18b1d8290b17d640ed.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2236,7 +2236,7 @@ Likewise, the obligation of rational inquiry was established to prevent ignoranc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_433%4005-03-2025_18-39-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1297503857f624655e93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2266,7 +2266,7 @@ And this noble ḥadīth that you used as evidence is in fact a great foundation
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1055%4005-12-2025_12-55-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1c0edab78f3918dc2fa2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2282,7 +2282,7 @@ Sheikh Abdul Muhsin on Udhr bil Jahl in Aqeedah
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_294%4006-02-2025_10-41-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2c26440cadbb78b15ded.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2308,7 +2308,7 @@ However, due to the prevalence of ignorance, the rarity of knowledge, and the la
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_437%4006-03-2025_07-59-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/25de6e59a638c9124e22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2318,7 +2318,7 @@ A question for those who claim that a "Muslim" who commits shirk out of ignoranc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1268%4006-04-2026_01-30-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/82c7ba0c45936f61bde0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2342,7 +2342,7 @@ The book was introduced and praised by the Grand Mufti, our imām, Shaykh Ṣāl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1269%4006-04-2026_15-37-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8d2ec608c41a3668e711.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2396,7 +2396,7 @@ Member: Bakr Abū Zayd
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_778%4006-07-2025_14-27-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b8e2028a65f3dfd2fc90.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2426,7 +2426,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_779%4006-07-2025_15-16-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7f7df100db0da0af1c4f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2456,7 +2456,7 @@ Allah also says about their excuse: “And when they commit a foul deed, they sa
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_780%4006-07-2025_15-39-40.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/79fea21161f1033b9b51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2494,7 +2494,7 @@ For this, look to Aṣḥāb al-Fatarāt (the people of didn’t receive the mes
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1114%4007-01-2026_16-41-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f24d93ff9b488bd01c2d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2512,7 +2512,7 @@ They turned away from guidance while having the capability for it, and instead d
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1203%4007-03-2026_08-11-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bdb84271bda3238c9d2d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2534,7 +2534,7 @@ Third: Whoever does not declare the polytheists as disbelievers, or doubts their
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_570%4007-04-2025_18-35-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0ef1595483e202e05539.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2556,7 +2556,7 @@ He called their du‘ā shirk. It should be explained to them that their du‘ā
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_852%4007-09-2025_11-29-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/62318b0995bfe4a5b117.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2576,7 +2576,7 @@ However, this objector is either among the most foolish of people, the dullest o
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_933%4007-10-2025_09-22-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/63387f1b4dee9dcb7dad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2598,7 +2598,7 @@ This is from their ignorance. The grave worshippers are disbelievers, just as th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_935%4007-10-2025_16-19-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/db56a7637ef3dbf6fc8b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2630,7 +2630,7 @@ He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that on
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_446%4008-03-2025_05-17-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0ac1f592766e23ab52c9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2644,7 +2644,7 @@ By declaring all the grave worshippers as disbelievers, And likewise, the Jahmi 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_447%4008-03-2025_05-18-18.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7fb11775f05cd8c1d5f7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2666,7 +2666,7 @@ And Allah knows best. May peace and blessings be upon Muḥammad, his family, an
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_782%4008-07-2025_14-11-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/586409e30f8acc46f7e9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2688,7 +2688,7 @@ Allāh, said: “Indeed, Allāh does not forgive that partners be associated wit
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_938%4008-10-2025_12-19-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5961ab0cefcec88c9ef1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2708,7 +2708,7 @@ A: Whoever outwardly displays shirk — slaughtering for other than Allāh, or v
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1060%4008-12-2025_00-47-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/67509f51ba47aa1cc976.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2794,7 +2794,7 @@ The belief of the Qadariyyah involves both shirk and taʿṭīl. It entails attr
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_457%4009-03-2025_18-54-44.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/714176e15fa3c6165f46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2816,7 +2816,7 @@ Ibn ’Abd al-Barr said: “Ishaq said: The scholars have unanimously agreed tha
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_577%4009-04-2025_18-50-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/087047e9b62c538e40ae.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2832,7 +2832,7 @@ So, whoever claims that someone committing an act of kufr while being a muʾawwi
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_713%4009-06-2025_10-55-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3a62d3f79d4696706a5d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2872,7 +2872,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_826%4009-08-2025_05-16-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/07e68add6bcbbd3459d0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2900,8 +2900,8 @@ Sheikh Abdul Aziz al Sheikh on Udhr bil Jahl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_228%4010-01-2025_11-20-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_229%4011-01-2025_05-14-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/540b2b41a63e73874e68.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/031a27deeef321778afe.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2915,7 +2915,7 @@ And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1211%4010-03-2026_17-36-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5056ef25daa1118a9de4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2939,7 +2939,7 @@ And with what Allah has clarified of His religion, which His Messengers called t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1323%4010-05-2026_15-59-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0da3fcf1644da33336f1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2981,7 +2981,7 @@ Yet despite this beautifying, embellishing, and confusing of this falsehood by t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1065%4010-12-2025_02-50-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5eef06784e1c445643a9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -2999,7 +2999,7 @@ Duʿāʾ is only to Allāh alone, for He is the One who removes harm and brings 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_719%4011-06-2025_11-17-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e878cd826d4dd3d4eee0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3019,7 +3019,7 @@ The scholars have used these verses and others like them as evidence that taqlī
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_790%4011-07-2025_11-43-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4c7944b772fe3c3578e8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3039,7 +3039,7 @@ And Allāh knows best.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_861%4011-09-2025_23-56-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6523bf5d095604fb11cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3053,7 +3053,7 @@ A: I do not understand how the proof has not been established upon him. The basi
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1162%4013-02-2026_16-19-58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aed133fc76601d003c48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3069,7 +3069,7 @@ And this is the madhhab of the extremists of the Murjiʾah. We ask Allah for wel
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1281%4012-04-2026_03-43-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/75ffa218b1fec50dd685.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3129,7 +3129,7 @@ Then they say: Whoever apostasizes from Islām is to be killed after being offer
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_945%4012-10-2025_06-28-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c95cd4e0ec8202a34113.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3145,7 +3145,7 @@ Sheikh Salih Ash-Sheikh on Udhr Bil Jahl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_343%4013-02-2025_03-10-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/02b1802ef422411fb920.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3165,7 +3165,7 @@ He replied: No, he is not excused — if he knows, or if he is among the Muslims
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1219%4013-03-2026_09-19-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3c552a486bd71e2839f7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3181,7 +3181,7 @@ This audio is more than 10 years old and he still repeats the same thing he clai
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_666%4013-05-2025_20-23-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6ff8ad824785f2861990.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3193,7 +3193,7 @@ And those who think there is a ikhtilaf on this matter. Then the ikhtilaf is for
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_724%4013-06-2025_15-27-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8e1bfa79e5a3fd24a6ce.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3219,7 +3219,7 @@ As for the Mu’tazilah, it has been agreed by the scholars we have encountered 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_481%4014-03-2025_19-42-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e2abf08f31d44af9583b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3245,7 +3245,7 @@ Their evidences are well known from the Qur’ān and Sunnah, and there are many
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_591%4014-04-2025_11-21-33.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/077fc9a9db20c68e3aa4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3267,7 +3267,7 @@ This is a great error, and it completely destroys the religion, leaving no relig
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1285%4014-04-2026_17-19-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/897f8e24aa156c3c1d84.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3293,7 +3293,7 @@ The dispute between us and these extremists is not about theoretical, subtle, or
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_667%4014-05-2025_05-15-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/52986140345261aa4040.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3317,7 +3317,7 @@ al-Qāsimī said regarding the interpretation of His—the Most High—statement
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1079%4014-12-2025_00-41-47.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/35a6b25e07fb05f93d93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3365,7 +3365,7 @@ This is how we reconcile the various statements reported in this area of belief.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_728%4015-06-2025_04-16-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/56540201aa9d936fdf7a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3389,7 +3389,7 @@ Thus, there is no tawḥīd, no Islām, no īmān, and no salvation except throu
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_869%4015-09-2025_02-16-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/37ea48ca4692ec0aa42b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3423,7 +3423,7 @@ The statement of Shaykh ar-Rājihī : https://t.me/salafsaqeedah/2654
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1124%4016-01-2026_14-33-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/93fcaa5b8a2ba6eaf151.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3467,7 +3467,7 @@ And if he is someone who reads the Qurʾān, then the matter is even more seriou
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_359%4016-02-2025_04-46-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/96839fa3db5ba8460cc6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3483,7 +3483,7 @@ If he does any of these, it becomes obligatory upon you to declare him outside o
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_597%4016-04-2025_11-26-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9591c478f5071ce63b53.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3501,7 +3501,7 @@ Know that: This issue is easy to understand for whoever Allah makes it easy for 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_675%4016-05-2025_12-25-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0457b90f9d8bde837b2f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3515,7 +3515,7 @@ And it also teaches you: immense fear — for once you understand that a person 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_677%4016-05-2025_17-44-48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9aeae60747e198f75008.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3569,7 +3569,7 @@ Imām ibn al-Qayyim (رحمه الله) said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_164%4016-12-2024_05-58-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9b16d4e533150787963c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3583,7 +3583,7 @@ Imām ibn al-Qayyim (رحمه الله) also stated:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_165%4016-12-2024_05-59-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8bd2b0c23ba344444233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3597,7 +3597,7 @@ Shaykh ʿAbdul-Laṭīf ibn ʿAbdur-Raḥmān an-Najdī (رحمه الله تع�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_166%4016-12-2024_06-03-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c12d32b4c0171a9ed21b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3633,7 +3633,7 @@ The post can be found on his Facebook page: https://tinyurl.com/mbazmool
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1082%4016-12-2025_00-25-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1dfd1717b3fa119c6140.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3649,7 +3649,7 @@ For this reason, there are people in the remote regions of Africa and elsewhere 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1083%4016-12-2025_13-07-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/435afb65a09e658738c8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3667,7 +3667,7 @@ This is something they have said in these days, when a group from the Murjiʾah 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1084%4016-12-2025_14-44-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e8cc167da2333c6a1af6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3699,7 +3699,7 @@ Answer: No, it is not a disputed issue, except in subtle cases that may be uncle
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_496%4017-03-2025_13-50-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/73dc75687a856e8bccfa.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3729,7 +3729,7 @@ We ask Allah for safety and guidance.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_497%4017-03-2025_14-30-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7220cb858ff8f770520e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3775,7 +3775,7 @@ Therefore, do not use this statement “We say that the statement is disbelief, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_498%4017-03-2025_17-11-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5293c12f47a8ac395a2c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3793,7 +3793,7 @@ Likewise, whoever among them claims that the Qurʾān has had verses removed or 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_678%4017-05-2025_05-02-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/89cdcb926fff3d2978c1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3843,7 +3843,7 @@ No. shirk al-akbar —there is no excuse for anyone in it. Either he repents, an
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1126%4017-01-2026_04-04-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8f16a7baa99548bb35fa.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3879,7 +3879,7 @@ A: Whoever prays behind someone who commits shirk, their prayer is invalid, as l
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_501%4018-03-2025_07-57-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/db30b7785b9ba6bcafc1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3903,7 +3903,7 @@ It is not permissible to follow blindly in this matter because it is the foundat
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_503%4018-03-2025_19-43-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6b4f331f2defcc8237e0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3921,8 +3921,8 @@ A: Yes, even if his outward appearance is Islām, his reality is shirk. But the 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1231%4018-03-2026_13-11-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1232%4019-03-2026_13-41-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5e6a415f4b4ec520753a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/321e3c641e735eddc61e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3942,7 +3942,7 @@ Nor have they differed in the fact that it explicitly labels certain speech as k
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_601%4018-04-2025_08-37-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c4f7456f713e780ad3f0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3964,7 +3964,7 @@ And likewise, according to them, those who doubt the doubter, and those who doub
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_801%4018-07-2025_14-55-55.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b2804b04f5ab324f15a2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -3988,7 +3988,7 @@ But if it is a subtle, hidden matter that someone like him may not know, then he
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_876%4018-09-2025_00-57-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7faee1bfc9e3a4794604.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4020,7 +4020,7 @@ And He says: “O you who have believed, do not take My enemies and your enemies
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_877%4018-09-2025_02-40-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b71c3e0e5b8a8978550d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4060,7 +4060,7 @@ And Allāh has clarified in His Book that some of the polytheists are ignorant f
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_505%4019-03-2025_21-35-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b3da8a15c2a16b59953c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4094,7 +4094,7 @@ So the mushrik is a mushrik—whether he accepts it or refuses it—just as the 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1006%4019-11-2025_03-49-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cb06f7626862a9d1117a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4114,7 +4114,7 @@ These hidden matters do not make someone a kāfir if they act upon or say them�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1088%4019-12-2025_06-50-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d6b37ea16e08f4ab6b32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4134,7 +4134,7 @@ This is disbelief according to the consensus of scholars, and there is no excuse
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_507%4020-03-2025_07-54-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e842c8bc555a1bea197c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4272,7 +4272,7 @@ The fuqahāʾ — may Allāh have mercy on them — mention in their books of ju
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_958%4020-10-2025_03-31-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1c030b9b375c894fdf64.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4290,7 +4290,7 @@ And that defender authored parts, books, fatwās, and responses with differing t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1089%4019-12-2025_06-50-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a8ceaebeea8226b3aba9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4332,7 +4332,7 @@ As for matters which are obscure. Then the person is excused with ignorance and 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1234%4019-03-2026_14-42-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/46e9da8ccd429d6acf0b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4360,7 +4360,7 @@ Answer: They did not actually perform Dhāt Anwāṭ. Had they done so, they wou
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_961%4021-10-2025_11-41-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/47617f02ec733e2aea87.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4382,7 +4382,7 @@ The third angle: His statement, “And if he was excused, how is he commanded to
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1015%4021-11-2025_10-30-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a0136a6f0026818ebd5d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4434,7 +4434,7 @@ Reflecting upon this statement is enough to refute and invalidate it. How much m
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_514%4022-03-2025_06-36-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a75eb6e659d3e625abad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4462,7 +4462,7 @@ He also said, during part of his speech: “This is why it is said: Whoever sins
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_516%4022-03-2025_10-43-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4eefda7e948da9070c2b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4480,7 +4480,7 @@ This type of knowledge is explicitly mentioned in the Book of Allāh and is univ
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_520%4022-03-2025_17-47-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/921642c466ce3ed3b509.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4500,7 +4500,7 @@ This imam—who has been described as maintaining prayer and fasting every other
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_684%4022-05-2025_01-31-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/906bd5f2b4a7b4002e84.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4540,7 +4540,7 @@ This is because we judge according to the apparent, while the inward judgment be
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_742%4022-06-2025_05-02-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/586ff3eb061a912fc4a6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4602,7 +4602,7 @@ As for the rulings of the Hereafter, they are stated in general terms, not speci
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1020%4022-11-2025_10-55-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b94d247e99683766f952.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4624,7 +4624,7 @@ They continued: We take as an example those from among the Companions of the Mes
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_522%4023-03-2025_08-32-55.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e4286d80f32d4cb1d651.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4648,7 +4648,7 @@ As for the ahl al-fatrah — those whom the message and the Qur’ān did not re
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_968%4023-10-2025_10-25-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8de6887e13be77f38260.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4666,7 +4666,7 @@ Likewise the very elderly person to whom the da‘wah never reached, and the ins
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1024%4023-11-2025_15-10-08.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/391470f1d65163d9d93d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4678,7 +4678,7 @@ The Arabic version is here: https://t.me/salafsaqeedah/4285
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1137%4024-01-2026_09-23-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cd4daf1d3d365fbe8f07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4700,7 +4700,7 @@ The third category involves ambiguous matters. In such cases, a person is not ru
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_524%4024-03-2025_11-51-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4867c87dac49fe0ec9bb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4732,7 +4732,7 @@ A debate once took place between him and the Shaykh al-Azhar, who eventually sai
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_525%4024-03-2025_15-30-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/17cf8e82e5dbb5dbf89f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4752,7 +4752,7 @@ As for punishment, (I.e the ruling of Apostasy and disbelief) then no.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_895%4024-09-2025_01-49-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6ea5842a7474ec34aaea.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4772,7 +4772,7 @@ If you know and verify this, you understand that this man is disguised in his de
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1181%4025-02-2026_14-24-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c68a9c8ab6486e7fb390.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4802,7 +4802,7 @@ Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah a
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_527%4025-03-2025_19-40-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/43016959878772be81d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4820,7 +4820,7 @@ Thus, the verse clearly indicates that ḥujjah is established by hearing the Qu
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_898%4025-09-2025_04-58-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/854c2faab2312f42375a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4836,7 +4836,7 @@ A: Kuffār, not muslimīn. As for their punishment, it does not occur until a me
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1097%4025-12-2025_08-22-42.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cbb96a7c21a0767073ef.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4856,7 +4856,7 @@ And the correct view regarding them is that they will be tested on the Day of Re
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1098%4025-12-2025_08-46-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ccf36e13b0328f8373ae.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4886,7 +4886,7 @@ For example, if someone consumes ribā (usury), we judge him as a fāsiq who has
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_400%4026-02-2025_11-09-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4afa97185dc06b5586cd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4904,7 +4904,7 @@ And the extreme groups of the Jahmiyyah, the Qadariyyah, the Rāfiḍah, and oth
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1243%4026-03-2026_07-26-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/19bf66072d318400e7f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4918,7 +4918,7 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_622%4026-04-2025_13-37-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9768e758c69d534b8156.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4936,7 +4936,7 @@ The clear verses also show the disbelief of those who associate others with Alla
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_623%4026-04-2025_17-13-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/09198e037ea23116c766.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4950,7 +4950,7 @@ A: Yes, he is a mushrik, he is a mushrik—unless he enters Islām and makes the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1298%4025-04-2026_14-15-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dba0974605c475114264.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5012,7 +5012,7 @@ As for the obligatory duties, anyone who does not know them and has not received
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_749%4026-06-2025_07-35-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/31b17e0dbe6d0ce439bc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5028,7 +5028,7 @@ For the divine laws do not become binding except after they have been conveyed. 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_751%4026-06-2025_17-30-08.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/db17609c7b3e9d84526f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5056,7 +5056,7 @@ But today, as you know, nothing is hidden. Media is widespread. The Qurʾān is 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_972%4025-10-2025_03-44-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b0764700deb05ed8a321.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5090,7 +5090,7 @@ The Murjiʾah now say: no—whoever commits an act of kufr or shirk or a grave e
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_253%4027-01-2025_03-24-55.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/97ae6b8d18f64662e579.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5106,7 +5106,7 @@ Since the Shaykh makes it clear that Tawḥīd and Shirk can’t coexist in the 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_254%4027-01-2025_03-32-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fd7ac1e28b1d4380f382.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5116,7 +5116,7 @@ Sheikh Muqbil on Excuse of Ignorance
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_257%4027-01-2025_09-25-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ef3362b6b94e0b9d5581.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5142,7 +5142,7 @@ If he does not, he is blameworthy, and the proof stands against him. There is no
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1143%4027-01-2026_16-06-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6339828b4536065556d5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5152,8 +5152,8 @@ A clear explanation on the matter by Shaykh al-ʿUṣaymī
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1246%4026-03-2026_17-46-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1247%4027-03-2026_09-44-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dac07d2d86916cf97734.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4310085212b33076afb6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5169,7 +5169,7 @@ Answer: Whoever commits kufr—by statement, action, belief, or doubt—then he 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1247%4027-03-2026_09-44-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4310085212b33076afb6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5189,7 +5189,7 @@ The questioner has confused two matters: the issue of takfīr and the issue of j
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_754%4027-06-2025_14-12-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/97155b14981f7a38788e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5223,7 +5223,7 @@ And from this platform, I call upon this man to repent to Allah – Exalted is H
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_814%4027-07-2025_20-28-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1b3eaacb1eb27804ff27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5257,7 +5257,7 @@ And one is not excused by ignorance in this matter, for the obligation of knowin
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_906%4027-09-2025_06-46-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/435eadf94e0c0dff5f3c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5265,7 +5265,7 @@ And one is not excused by ignorance in this matter, for the obligation of knowin
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_264%4028-01-2025_22-44-40.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a3cb943eedad5de6362f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5285,7 +5285,7 @@ So in this is a refutation against the one who says that whoever says a statemen
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1250%4028-03-2026_06-02-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6a27086403054d184e4d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5309,7 +5309,7 @@ I say: Shaykh al-Islām did not say they are excused due to ignorance; rather, h
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_630%4028-04-2025_21-01-40.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/765b35fb1d47c9518e84.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5325,7 +5325,7 @@ Sheikh fawzan on the one who asks for intercession from the dead and the lies as
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_265%4029-01-2025_03-19-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f3ebf583d971991f625f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5361,7 +5361,7 @@ The disbeliever is one who rejects the tawḥīd of Allah and belies His Messeng
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_631%4029-04-2025_06-26-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/50eaad78cc187e9a3480.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5377,7 +5377,7 @@ If you understand this, then know that the core difference between the messenger
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_632%4029-04-2025_10-15-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/957f5ebb7342c8cc19e0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5395,7 +5395,7 @@ This applies in general; but as for judging a specific individual, that is left 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_692%4029-05-2025_17-22-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5cec9b1bd39fe04b2b0d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5459,7 +5459,7 @@ Likewise, the saying of al-Ḥawāriyyīn: “Can your Lord send down to us a ta
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_979%4029-10-2025_03-36-40.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e4886c7d0e38760c44c3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5477,7 +5477,7 @@ Duʿāʾ is only to Allāh alone, for He is the One who removes harm and brings 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1104%4029-12-2025_08-47-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1a93de1b6a066b4bd874.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5543,7 +5543,7 @@ The second — which clarifies the preceding statement — is that he compared t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_916%4030-09-2025_04-50-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4212f78c9e7002f3bb49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5571,7 +5571,7 @@ Whoever commits major shirk is a mushrik, and the worldly consequences follow: o
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_694%4031-05-2025_11-57-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1babdc9a0814231560d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5589,7 +5589,7 @@ Likewise, in some Muslim countries, people pray, give zakāt, fast, and perform 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_840%4031-08-2025_07-12-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a82f103e010493ec511e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5695,8 +5695,8 @@ And He said: “So We took retribution from them and drowned them in the sea bec
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_14%4027-04-2026_21-53-35.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_15%4027-04-2026_21-54-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4e66b441064d9e9589a0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ba9648e1ecdaf767f3ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5712,7 +5712,7 @@ However, their actions are still blameworthy and detested; Allāh condemns them,
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_16%4027-04-2026_21-54-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/20a5121078899af432cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5726,7 +5726,7 @@ And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_17%4027-04-2026_21-54-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5056ef25daa1118a9de4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5738,7 +5738,7 @@ The Arabic version is here: https://t.me/salafsaqeedah/4285
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_17%4027-04-2026_21-54-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5056ef25daa1118a9de4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5756,7 +5756,7 @@ A: Yes, even if his outward appearance is Islām, his reality is shirk. But the 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_20%4027-04-2026_21-56-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5776,7 +5776,7 @@ He replied: No, he is not excused — if he knows, or if he is among the Muslims
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_22%4027-04-2026_21-57-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3c552a486bd71e2839f7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5802,7 +5802,7 @@ Questioner: Clear.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_31%4028-04-2026_16-18-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f169c87f6f78a04ac233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5816,7 +5816,7 @@ A: You treat him as a Muslim while he is committing shirk and you can hear him c
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_44%4028-04-2026_16-21-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/eacc919a66ba4ff78380.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5832,7 +5832,7 @@ And both types are not judged to be Muslims, nor do they enter into the Label of
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_49%4028-04-2026_16-23-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d84e498fa5d1a2dc3f11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5856,7 +5856,7 @@ I say: Shaykh al-Islam affirms and calls them disbelievers / mushriks even if th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_57%4028-04-2026_22-20-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aa6e1487ec0b50e0e31c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5928,7 +5928,7 @@ Shaykh Ṣāliḥ al-Usaymī حفظه الله on the clarification of the posit
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_58%4029-04-2026_21-05-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/19bf66072d318400e7f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5946,7 +5946,7 @@ And the extreme groups of the Jahmiyyah, the Qadariyyah, the Rāfiḍah, and oth
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_58%4029-04-2026_21-05-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/19bf66072d318400e7f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5960,7 +5960,7 @@ Shaykh ʿAbdul-Laṭīf ibn ʿAbdur-Raḥmān an-Najdī (رحمه الله تع�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_61%4029-04-2026_21-15-38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c12d32b4c0171a9ed21b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -5976,7 +5976,7 @@ Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_62%4029-04-2026_21-15-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d16e1917cab310f797fd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6000,8 +6000,8 @@ These fools, however, have generalized the issue and treated all ignorance as an
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_62%4029-04-2026_21-15-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_63%4029-04-2026_21-18-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d16e1917cab310f797fd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/280605f956ef26d21f38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6031,8 +6031,8 @@ Therefore, do not use this statement “We say that the statement is disbelief, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_63%4029-04-2026_21-18-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_64%4029-04-2026_21-18-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/280605f956ef26d21f38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5293c12f47a8ac395a2c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6058,8 +6058,8 @@ And Allāh has clarified in His Book that some of the polytheists are ignorant f
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_64%4029-04-2026_21-18-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_65%4029-04-2026_21-19-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5293c12f47a8ac395a2c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b3da8a15c2a16b59953c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6077,7 +6077,7 @@ i say: Look at how the Sheikh points out the supporters of the grave worshippers
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_66%4029-04-2026_21-19-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9768e758c69d534b8156.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6091,7 +6091,7 @@ And for this reason, everyone who does not worship Allah alone will inevitably b
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_67%4029-04-2026_21-19-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/805160cb8d5662bd21b7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6117,8 +6117,8 @@ i say: Ibn Taymiyyah affirms the person here fell into shirk, (and the one who c
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_67%4029-04-2026_21-19-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_68%4029-04-2026_21-19-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/805160cb8d5662bd21b7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3df67c06247562ecfad9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6136,7 +6136,7 @@ These are clear statements that he applied their worldly descriptions I.e label 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_69%4029-04-2026_21-21-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1df50c23971378bf08a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6160,8 +6160,8 @@ He further confirms this here:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_69%4029-04-2026_21-21-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_70%4029-04-2026_21-21-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1df50c23971378bf08a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/caee19cf03223c8d7f63.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6185,7 +6185,7 @@ But today, as you know, nothing is hidden. Media is widespread. The Qurʾān is 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_71%4030-04-2026_16-46-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9469381b8cd956642dd4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6227,7 +6227,7 @@ I say : the establishment of the proof is only for the muqallid layman in regard
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_72%4030-04-2026_19-09-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/07e68add6bcbbd3459d0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6281,8 +6281,8 @@ Member: Bakr Abū Zayd
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_72%4030-04-2026_19-09-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_73%4030-04-2026_19-14-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/07e68add6bcbbd3459d0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b8e2028a65f3dfd2fc90.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6314,7 +6314,7 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_74%4030-04-2026_19-29-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0a740a97606a589490d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6330,8 +6330,8 @@ Likewise, the obligation of rational inquiry was established to prevent ignoranc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_74%4030-04-2026_19-29-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_75%4030-04-2026_19-33-38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0a740a97606a589490d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1297503857f624655e93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6349,7 +6349,7 @@ The Permanent Committee for Schoarly Research and Iftāʾ (al-Lajnah ad-Dāʿima
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_76%4030-04-2026_19-36-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bb18b1d8290b17d640ed.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6365,7 +6365,7 @@ This is why it is very important to know a scholar fully before trying to isolat
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_76%4030-04-2026_19-36-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bb18b1d8290b17d640ed.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6375,7 +6375,7 @@ Is there “ikhtilaf” on the matter of excuse of ignorance? sheikh fawzan
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_77%4002-05-2026_10-14-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0c4c973cee2b49774c58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6391,7 +6391,7 @@ The Murji’ah say now that people are excused due to ignorance, while the Qur�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_81%4004-05-2026_14-36-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d1abfd9c7114252057d2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6407,7 +6407,7 @@ As for judging him with kufr outwardly and inwardly, then this is suspended unti
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_81%4004-05-2026_14-36-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d1abfd9c7114252057d2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6425,8 +6425,8 @@ Yet despite this, all of the scholars declared them disbelievers and did not exc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_82%4005-05-2026_18-51-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_83%4005-05-2026_22-39-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e9f19f364f040a2b188c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2cbe9f60984417eb556f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6450,7 +6450,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_90%4015-05-2026_19-18-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dbf88b3c4b7182010b0b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6470,7 +6470,7 @@ Rather, that itself is the religion according to him, and that is the Islamic um
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_94%4015-05-2026_20-05-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0d34edf2c29b0f6c689d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6488,7 +6488,7 @@ You have resembled those who invented shirk and innovated into the religion of A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_95%4015-05-2026_20-05-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2bd49b372e4532bedac2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6506,7 +6506,7 @@ You have resembled those who invented shirk and innovated into the religion of A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_102%4017-05-2026_20-26-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/728b01a4a77ab55e24de.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6528,8 +6528,8 @@ You have resembled those who invented shirk and innovated into the religion of A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_102%4017-05-2026_20-26-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_103%4019-05-2026_04-28-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/728b01a4a77ab55e24de.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ee7cb3df55a0f3069321.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6553,7 +6553,7 @@ The Ummah has agreed that this category are disbelievers, even if they are ignor
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_105%4025-05-2026_17-41-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a2d2ecfaa82b0d982ece.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6567,7 +6567,7 @@ Whoever says or does what constitutes disbelief has thereby disbelieved, even if
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_105%4025-05-2026_17-41-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a2d2ecfaa82b0d982ece.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6585,7 +6585,7 @@ Whoever does not takfīr the kāfir is himself a kāfir. This is from the Nawāq
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_110%4025-05-2026_17-59-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/92dbea7618d438c1a614.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6605,7 +6605,7 @@ He is considered from the Ahl al-Fatrah if nothing reached him. However, we trea
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_112%4001-06-2026_09-18-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5adc4fe20a46914d6ed7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6617,7 +6617,7 @@ Is takfīr al mushrikīn from disbelief in the Tāghūt | Shaykh Ayman al ‘Anq
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_113%4004-06-2026_18-38-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fcdd1329db98c3537f66.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6633,7 +6633,7 @@ As for what is in the hearts, we judge according to what is outward, while the h
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_127%4007-06-2026_19-10-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8f4141cf65c97de3bcac.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6649,7 +6649,7 @@ The Excuse of Ignorance in Major Shirk According to the Salaf | Shaykh Salih Al-
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_128%4010-06-2026_22-03-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7b0cf089aa8fb419ca29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6675,7 +6675,7 @@ The book was introduced by our shaykh, the Muftī, Shaykh Ṣāliḥ al-Fawzān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_128%4010-06-2026_22-03-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7b0cf089aa8fb419ca29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -6707,7 +6707,7 @@ Yes, and shirk is from the outwardly apparent matters; it is not from the hidden
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_135%4010-07-2026_19-35-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/111439d20479744a564b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7718,7 +7718,7 @@ So whoever directs any act of worship to other than Allah — such as duʿāʾ a
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_926%4003-10-2025_15-45-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ecca5ef8a5cbc35fc2bd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7750,7 +7750,7 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_448%4008-03-2025_05-34-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0a740a97606a589490d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7766,7 +7766,7 @@ The one who does that is takfired by the mere belief and action, even if he does
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1313%4008-05-2026_09-15-05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5d20c545c7e5caaa3bf6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7790,7 +7790,7 @@ And this has specific cases which do not include one who worships an idol, a gra
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1316%4009-05-2026_03-55-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f9529ae7d69af3e6474c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7806,7 +7806,7 @@ Until he (Ibn Taymiyyah) said: And Allah did not legislate for any prophet from 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_718%4011-06-2025_06-15-18.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/02bbcf9f06bf3c961711.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7828,7 +7828,7 @@ However, this does not necessarily mean that it is to be used as evidence for th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1117%4011-01-2026_01-13-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4fa3544a918e08d3fc26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7848,7 +7848,7 @@ Al-ʿIrāqī (Dāwūd ibn Jirjīs) said: “But we do not takfir the people for 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1328%4012-05-2026_03-27-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dd2adfec07c9bd89a55f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7872,7 +7872,7 @@ He has also opposed the scholars of Ahl al-Sunnah from every madhhab. How far re
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1003%4018-11-2025_05-38-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c0d0a9baa1509c03f38d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7890,7 +7890,7 @@ So reflect on what is in these verses, and what the Exalted has arranged as a co
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1004%4019-11-2025_00-31-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/093e0fb176f6bd34deda.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -7936,7 +7936,7 @@ I asked after : May Allah reward you, Shaykh.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_812%4024-07-2025_06-24-38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/98c9da8a6924a4491924.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8381,7 +8381,7 @@ So, whoever loves a created being as they love the Creator has committed shirk, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_418%4002-03-2025_22-06-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/be2ced659e8e08e651b1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8395,7 +8395,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_969%4024-10-2025_07-44-08.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/06a779a6b0957feece93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8419,7 +8419,7 @@ And those who take Awliyâ’ besides Him (say): "We worship them only that they
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1027%4024-11-2025_17-04-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b71f47620cbf507bbdc0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8441,7 +8441,7 @@ Yet they take this to deny His ʿulūww over His creation and His distinction fr
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1029%4025-11-2025_07-57-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/90c94e59cce1fb9eec8c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8457,7 +8457,7 @@ And when one of them goes to the grave which he venerates, weeps at it, humbles 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_899%4025-09-2025_04-58-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0d626bfe4669a40608ab.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8473,7 +8473,7 @@ So if the Prophet ﷺ forbade ṣalāh that includes du‘ā’ directed exclusi
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1040%4029-11-2025_01-24-47.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fbc3fc8b36d4a21d1db7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8491,7 +8491,7 @@ Is it imagined that those who were pleased with idols, worshipped them, protecte
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1150%4001-02-2026_16-58-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/79471ff187859919c5fa.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8519,7 +8519,7 @@ And whoever’s love, hatred, giving, and withholding is for his own desire, the
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_410%4001-03-2025_15-21-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a7750afba7604a4e07e0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8557,7 +8557,7 @@ In this, it is evident that calling upon others besides Allah for something that
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_411%4001-03-2025_16-49-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d261881b576f30be1046.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8573,7 +8573,7 @@ And both types are not judged to be Muslims, nor do they enter into the Label of
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1192%4001-03-2026_06-21-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d84e498fa5d1a2dc3f11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8587,7 +8587,7 @@ Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_843%4001-09-2025_01-03-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/382f942e863df988a7e9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8603,7 +8603,7 @@ Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_844%4001-09-2025_01-05-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2c38e1359fcadec21bee.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8627,7 +8627,7 @@ And this is the reality of the two shahādatayn (testimonies). Whoever fulfills 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_922%4001-10-2025_00-54-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7e2e26ef732c057ea12f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8641,7 +8641,7 @@ Merely uttering “lā ilāha illā Allāh” is not sufficient without understa
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1151%4002-02-2026_12-53-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4cc04d0cff1e8e1b9083.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8663,7 +8663,7 @@ And among them — and this is the most dangerous of the kinds — are those who
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_846%4002-09-2025_01-03-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6a31f7397753da024d05.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8679,7 +8679,7 @@ Rather, associating in duʿāʾ is the greatest shirk of the mushrikīn to whom 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_924%4002-10-2025_00-36-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0f3ce502acacecb9836a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8701,7 +8701,7 @@ And there is ijmāʿ among the scholars that whoever directs any part of either 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_991%4002-11-2025_07-04-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/00474e519ecf1fd7845c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8759,7 +8759,7 @@ This is an example of a single act whose ruling changes based on its recipient: 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_552%4003-04-2025_16-23-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f82795e129a7baf4c033.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8781,7 +8781,7 @@ It will become clear to you that Islām is not established except by showing enm
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1302%4003-05-2026_13-32-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4977fa2b3077b9f99c2a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8821,7 +8821,7 @@ The correct view is that it is valid, but praying behind a upright person is bet
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1154%4004-02-2026_00-05-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/68a9dadaf9ed963907c9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8843,7 +8843,7 @@ All of the prophets are upon the religion of Islām. It entails submission to Al
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1200%4004-03-2026_23-03-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6b408ec1ff3025277004.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8863,7 +8863,7 @@ Those servants, those graves, those idols, those prophets, angels, righteous peo
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_824%4004-08-2025_00-56-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e60558cbe0949540f38b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8905,7 +8905,7 @@ The rites of sacrifice are part of worship; and so on and so forth. Whoever dedi
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_431%4005-03-2025_12-30-35.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/569f487a2dd86c5f60cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8921,7 +8921,7 @@ So whoever does not follow it does not achieve salvation from the punishment of 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1202%4005-03-2026_07-06-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8ebae07be44472bdc076.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8977,7 +8977,7 @@ The second issue, which is the major one: exposing the doubt of the scholars of 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1305%4005-05-2026_19-01-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/dfb3b54d76cbf3d26b0c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9001,7 +9001,7 @@ Whoever does not worship Allah is a disbelieving arrogant one; Whoever worships 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_706%4005-06-2025_06-49-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e9bd90e8732e7d54954e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9053,7 +9053,7 @@ It is said to this unfortunate one: reflect upon yourself! Are you inside these 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1307%4006-05-2026_10-30-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/96758495ecb97773e1e5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9083,7 +9083,7 @@ Thus it became clear that the form of requesting shafāʿah and duʿāʾ from th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_850%4006-09-2025_01-20-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5969a56c70dcfc30497a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9109,7 +9109,7 @@ And the likes of these verses regarding the clarification of the Tawḥīd to wh
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1113%4007-01-2026_02-11-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5a720130c6d8ce5da4a1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9125,7 +9125,7 @@ So this mushrik may say: “The matter is in the hand of Allah, but this righteo
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1310%4007-05-2026_03-54-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9b2be8bb934a87b61609.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9139,7 +9139,7 @@ And whoever turns away from the speech of the ahl al-ʿilm, and holds that whoev
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1311%4007-05-2026_12-11-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c1dba323ec14da40758c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9153,7 +9153,7 @@ And a man goes out from īmān to islām, and nothing takes him out of islām ex
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_853%4007-09-2025_12-34-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a3717d193a2ea2512345.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9185,7 +9185,7 @@ al-Nuʿmān ibn Bashīr narrated from the Prophet ﷺ, that he said: “Duʿāʾ
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1115%4007-01-2026_16-41-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/85ffde18e2af32d69bb1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9207,7 +9207,7 @@ And whoever does not have the description of kufr established upon him, while he
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1206%4008-03-2026_15-13-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0eef3dd6adbd91e7bb3c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9223,7 +9223,7 @@ Such as saying: “Yā Rasūl Allāh, yā Kaʿbat Allāh, yā Maqām Ibrāhīm,�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1312%4008-05-2026_02-02-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a2a62f51e5af737f13cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9239,7 +9239,7 @@ And tawḥīd is what the Prophet ﷺ said: ‘I have been commanded to fight th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1315%4008-05-2026_16-33-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fa6c55aa4043899d1bb5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9253,7 +9253,7 @@ A : Duʿāʾ is shafāʿah. What is the meaning of shafāʿah? Its meaning is th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1061%4009-12-2025_00-26-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aa23a239d53fd24f9421.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9271,7 +9271,7 @@ And Allah grants success. May peace and blessings be upon our Prophet Muhammad, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_312%4009-02-2025_02-15-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/53b3d5ee7f6866ccd112.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9291,7 +9291,7 @@ Along with that, he becomes devoted and worshipful to Allah alone, hoping in non
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1159%4009-02-2026_13-58-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7eb127ab2a8eb1efa362.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9305,7 +9305,7 @@ Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1208%4009-03-2026_17-37-38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ab7cbbfc906e88240471.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9325,7 +9325,7 @@ Raising the hands in opening and bowing, lifting the head—these are to magnify
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_575%4009-04-2025_06-02-44.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c7af5a196040903124f2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9347,7 +9347,7 @@ c. Sincerity does not occur except with the resolve of the heart and intention.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_855%4009-09-2025_14-11-58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/242694a45e00b6bf6e82.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9367,7 +9367,7 @@ And as for the statement of the ignorant: “You are declaring the muslimīn to 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_941%4009-10-2025_13-54-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f539745afb5b3e351d61.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9387,7 +9387,7 @@ As for the kāfir, Allāh does not approve of him, and no one can intercede for 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1061%4009-12-2025_00-26-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aa23a239d53fd24f9421.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9407,7 +9407,7 @@ An example of that: a person performs wuḍū’ and perfects the wuḍū’, th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1063%4009-12-2025_11-55-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/09b444e023b2a9f1a4f9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9425,7 +9425,7 @@ And by Allah, we do not know shirk to have ever been except in one of three ways
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_460%4010-03-2025_10-57-43.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/327a549c637eb848ce4b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9455,7 +9455,7 @@ By knowledge, one is saved from the path of the Christians—which is misguidanc
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1210%4010-03-2026_11-25-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/53d564117aaa9276880f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9471,7 +9471,7 @@ Among them is Allāh’s statement: “Or have they taken other than Allāh as i
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1277%4010-04-2026_03-47-18.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4e66b441064d9e9589a0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9485,7 +9485,7 @@ And the ḥadīth indicates teaching by gradual stages: beginning with the most 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1280%4010-04-2026_22-33-09.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ee08bad71e2b3681ded1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9509,7 +9509,7 @@ A: No, this is not correct. Also, if we say that it is obligatory, then this its
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1321%4010-05-2026_03-57-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d66f939c89c221926668.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9529,7 +9529,7 @@ And takfīr for abandoning these uṣūl (foundations) and not believing in them
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_857%4010-09-2025_15-45-48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fc4104c623f5cc2f45ac.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9551,7 +9551,7 @@ So if a person knows that someone died upon Shirk al-akbar — even if he was a 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1116%4011-01-2026_01-13-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f753d539993a7fac13fc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9597,7 +9597,7 @@ That merely pronouncing them is not sufficient; rather, it is necessary that he 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1160%4011-02-2026_16-14-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0d7a5170b883343a9162.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9615,7 +9615,7 @@ Regarding the verse: “Indeed, Allah will judge between them concerning that ov
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_467%4011-03-2025_15-15-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1a3c1a0d9fae34964c81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9635,7 +9635,7 @@ Allah, the Almighty, is addressing the polytheists who associate idols and false
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_468%4011-03-2025_15-47-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fcc300c6aeb8d5763f58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9651,7 +9651,7 @@ These are six matters. Whoever brings them outwardly has brought what protects h
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1212%4011-03-2026_06-48-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4319372f1a307c017070.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9669,7 +9669,7 @@ In summary: this is its price — the one that saves it from the punishment of A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1213%4011-03-2026_17-43-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8eb1b5c916fd218b8559.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9685,7 +9685,7 @@ It is obligatory upon a Muslim to fear Allāh, exalted is He. If he wishes to ca
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1070%4011-12-2025_09-11-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e82e496d097f3f116532.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9701,7 +9701,7 @@ For if he had known the meaning of ‘Lā ilāha illā Allāh,’ he would have 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1329%4012-05-2026_09-34-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f6ba668f4cecc6f86396.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9717,7 +9717,7 @@ And this is the meaning of the statement of the author: “Indeed, worship is Ta
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1330%4012-05-2026_15-28-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/56feb666caf24e3d4cae.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9733,7 +9733,7 @@ Like the Jews who say “Lā ilāha illā Allāh” yet are mushrikūn, merely u
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_862%4012-09-2025_03-21-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/63d56465625e15d12512.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9749,7 +9749,7 @@ So it is obligatory upon the mukallafīn (legally responsible Muslims) to hold t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1218%4013-03-2026_08-24-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/659f5bacbb790dd3f496.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9769,7 +9769,7 @@ So whoever’s action is the action of the Muslims is called a Muslim, and whoev
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1283%4013-04-2026_03-41-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cdad95764353bae6cdaf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9805,8 +9805,8 @@ The third situation is the case of the mutaḥākimīn—those who seek judgment
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_662%4012-05-2025_20-27-53.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_663%4013-05-2025_08-20-53.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4302f8b00031bb1ea08b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f021198076522067eb19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9828,7 +9828,7 @@ But all sinners — except those whom Allah guides — act arrogantly. They are 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_664%4013-05-2025_10-18-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/07758b05c78ba75cdd03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9846,7 +9846,7 @@ Rather, he is from those about whom Allah said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1332%4013-05-2026_03-52-58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/47579170c6aec44523dc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9864,7 +9864,7 @@ Otherwise, every type from the types of worship: whoever directs it to other tha
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1333%4013-05-2026_16-55-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/20d8e8ac04330e2ac7c9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9878,7 +9878,7 @@ As for a person saying: “La ilāha illā Allāh” without understanding its m
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_947%4013-10-2025_04-05-40.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b3f118048645db622ff6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9908,7 +9908,7 @@ Likewise, what is slaughtered upon first entering a house out of fear of the jin
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1122%4014-01-2026_13-45-35.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a94fb4c1eceb4180809c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9938,7 +9938,7 @@ For this reason we know that whoever worships other than Allāh is opposing ever
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1220%4014-03-2026_09-34-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/291f4fb7a4d71f5f7341.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9980,7 +9980,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1335%4014-05-2026_09-15-58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/781e584ddfde704e7ad4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9996,7 +9996,7 @@ Lā ilāha illā Allāh — how could this shirk be hidden from him, to the poin
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_830%4014-08-2025_17-57-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d383220eb81dfe0321d9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10008,7 +10008,7 @@ We hear from some who claim to be Muslims the phrase: “O Messenger of Allah, i
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_867%4014-09-2025_07-49-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0b0872f4f25cb4c545b0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10030,7 +10030,7 @@ Anyone with the slightest knowledge, upon seeing the condition of people today a
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_949%4014-10-2025_02-04-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1852ba39834e8f0bbbab.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10044,7 +10044,7 @@ You are looking here at his belief of lā ilāha illā Allāh through action. So
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1000%4014-11-2025_04-39-42.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9c840e87aab90fbe864c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10062,7 +10062,7 @@ A: Yes, I clarified an understanding — not the wording of the Shaykh himself. 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1002%4014-11-2025_10-14-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9702752c445d1e81d02a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10076,7 +10076,7 @@ So if an arguer disputes that the worship of shrines, and calling upon the dead 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1338%4015-05-2026_03-22-18.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f67e2ff5a0f7215ebe79.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10108,7 +10108,7 @@ Amongst the beneficial Sharḥ of this great and important book are from shaykh 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1223%4016-03-2026_11-37-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6327954e91474876b916.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10128,7 +10128,7 @@ And the most obligatory form of jihād is striving against them, with proof and 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1343%4016-05-2026_04-54-39.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4ca1e48d492560e831d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10174,7 +10174,7 @@ So it becomes clear to the seeker of the truth that whoever argues in favor of t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_952%4016-10-2025_03-47-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/cb9a878f1a6218ca850e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10188,7 +10188,7 @@ His statement: “And that they not associate anything with Him” — meaning, 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_954%4016-10-2025_11-51-44.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/893a033c3f34be656c1b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10210,7 +10210,7 @@ As for those who perform ṭawāf around graves, they are seeking nearness to th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1168%4017-02-2026_08-11-13.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aa0a543a1653a7a9d99b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10228,7 +10228,7 @@ And His saying, exalted be His mention: “And you set up rivals to Him while He
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_499%4017-03-2025_21-00-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/636ad0af9fefa003f38d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10246,7 +10246,7 @@ The verse “And avoid the ṭāghūt” encompasses both abandoning the worship
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1224%4017-03-2026_05-41-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10300,7 +10300,7 @@ Meaning: if he doubts the obligation of disavowal from every object of worship b
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1085%4017-12-2025_08-02-56.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/57749c673537d23e168e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10320,7 +10320,7 @@ But if you turn to Allāh and listen to the proofs of Allāh and His clear evide
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1228%4018-03-2026_08-31-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8bb438968007f3c02b45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10340,7 +10340,7 @@ Answer: No, this is not correct about Ibn Taymiyyah. Ibn Taymiyyah explicitly st
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_878%4018-09-2025_04-11-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a09cbb7581fe9a15c22e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10356,7 +10356,7 @@ And whoever believes that anyone other than Allah has that power, he is a mushri
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_880%4018-09-2025_23-47-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/205db3f73d61ee25ddb0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10418,7 +10418,7 @@ Whoever realises tawḥīd in his heart, and removes from it everything besides 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1086%4018-12-2025_16-31-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/abb25a83ae92d30912d5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10440,7 +10440,7 @@ Mere utterance does not benefit. It is well known that people differ in levels o
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1128%4019-01-2026_04-14-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1286e5f759849dfd835f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10464,7 +10464,7 @@ And this is a important Fatāwā on should review: https://t.me/salafsaqeedah/43
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1289%4018-04-2026_18-16-12.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c6fc36e4809cb995cbe2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10482,7 +10482,7 @@ This type of person causes great harm to Islām, especially to the common people
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1290%4019-04-2026_13-17-42.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/89f508f5eb98e9a22614.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10510,7 +10510,7 @@ And the greatest right of Islam and its fundamental foundation is: worshipping A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1131%4020-01-2026_06-30-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7db0eb72a0e4e49db357.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10530,7 +10530,7 @@ This is the right of Allāh upon His servants, and it is the first of rights, as
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1291%4020-04-2026_05-10-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b8f729a7b231ee4dfbc6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10556,7 +10556,7 @@ A: “Yes; he did not lie. Ibn Taymiyyah explicitly stated this. Ibn Taymiyyah m
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1011%4020-11-2025_07-39-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f169c87f6f78a04ac233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10578,7 +10578,7 @@ Thus, the point is not merely that a person worships Allah; he must also avoid s
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1012%4020-11-2025_15-58-27.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/79f52f2d3759f9bdd643.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10596,7 +10596,7 @@ And several scholars said regarding His saying, the Exalted: "So by your Lord, W
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_511%4021-03-2025_13-54-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ec33640d8e9abc9eee22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10612,7 +10612,7 @@ But these mushrikūn reversed the matter, and inverted the religion, and made th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1171%4022-02-2026_11-14-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13f848c7ad3173fddb46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10632,7 +10632,7 @@ His statement: “Whoever bears witness that Lā ilāha illā Allāh (there is n
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_886%4022-09-2025_00-49-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/0b465f6e79d04f6de8d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10652,7 +10652,7 @@ So whoever directs anything of the worship that is befitting only for Allāh to 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_887%4022-09-2025_00-49-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/82dedc5a10c25d191e68.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10668,7 +10668,7 @@ These are the ones whom Allāh, Glorified and Exalted, is pleased with, as He sa
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1018%4022-11-2025_03-01-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7eefa360f86f65f49887.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10684,7 +10684,7 @@ Whoever says this has lied about Allah and fabricated falsehood, for Allah has i
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_523%4023-03-2025_13-54-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b5aa8a3433a084666784.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10706,7 +10706,7 @@ This verse does not exclude anyone. Whoever commits Shirk al-Akbar, his deeds ar
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1238%4023-03-2026_17-41-09.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1adcd0459b76b80ce115.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10724,7 +10724,7 @@ This includes all types of ʿworship, so it is obligatory to devote them purely 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_892%4023-09-2025_03-45-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bc180d8c5d3f248a9d77.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10744,7 +10744,7 @@ Whoever does this has committed disbelief, even if he says, “Lā ilāha illa A
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1096%4024-12-2025_02-22-22.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10756,7 +10756,7 @@ one can refer to the scan here: https://t.me/salafsaqeedah/1577
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1242%4024-03-2026_16-19-38.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/05e9fc32a01c38f242f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10776,7 +10776,7 @@ And this is the shirk akbar which this statement nullifies. If they were of thos
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1297%4025-04-2026_14-15-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a680ec542c56bb9d294a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10818,7 +10818,7 @@ In fact, it is ʿibādah itself.  It is narrated from an-Nuʿmān ibn Bashīr th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_973%4026-10-2025_15-53-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d0e234faff505ac8ff2f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10840,7 +10840,7 @@ For this reason, directing shafāʿah toward other than Allāh becomes major shi
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1030%4026-11-2025_00-42-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6f962661ba3061854807.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10856,7 +10856,7 @@ Answer: No, this is still shirk al-akbar. The reason is that the dead cannot mak
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1031%4026-11-2025_04-09-53.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7d84e7f2ca591f49b1a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10874,7 +10874,7 @@ The evidences for this are too many to enumerate. Many people do not distinguish
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1033%4026-11-2025_11-54-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f1287efe3dce9426b0dd.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10894,7 +10894,7 @@ So if the grave worshippers today say: “We only intend intercession,” we say
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1299%4027-04-2026_16-27-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1c49c9407fdbe3ddabf0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10910,7 +10910,7 @@ This, and similar matters, which would be lengthy to explain, has been unanimous
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_57%4027-08-2024_16-13-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/64163770f535131ab2f2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10926,7 +10926,7 @@ But this objector does not know the reality of Islām, nor the difference betwee
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_908%4027-09-2025_10-32-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/083431e5e8576e013c8f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10952,7 +10952,7 @@ And Allah grants success. May blessings and peace be upon our Prophet Muḥammad
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_975%4027-10-2025_03-25-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/03c2e055dd285b08313c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10966,7 +10966,7 @@ To call upon a deceased created being who does not respond through known tangibl
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1034%4027-11-2025_02-16-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6c4178f63c24b616bf37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10984,7 +10984,7 @@ And His saying: “Then his reckoning is only with his Lord.” It means: the re
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1035%4027-11-2025_03-44-36.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f8fcc93538dbd56e6e57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11002,7 +11002,7 @@ The exception to this is du‘āʾ to the Living, All-Powerful, Present Allāh; 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1037%4027-11-2025_12-29-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5689c2755b7c53afcfb0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11010,7 +11010,7 @@ The exception to this is du‘āʾ to the Living, All-Powerful, Present Allāh; 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1144%4029-01-2026_11-54-20.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c5ee2c65cc57654ad101.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11044,7 +11044,7 @@ For these reasons, among others, Allah, the Exalted, has declared that He will n
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_408%4028-02-2025_14-25-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3682df45c85228c71919.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11060,7 +11060,7 @@ He took words from Shaykh al-Islām Ibn Taymiyyah regarding the people of bidʿa
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_629%4028-04-2025_17-24-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/25483343f194fcf34d4b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11080,7 +11080,7 @@ I say : as for the part of the question made regarding Shaykh al-Islam, it was a
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1300%4027-04-2026_16-27-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/140395e18efcc22d95be.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11104,7 +11104,7 @@ The rebuke in these verses applies to anyone who calls upon those who possess th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_535%4029-03-2025_10-13-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ad766aff053fdb4074ac.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11126,7 +11126,7 @@ Or approaching al-Badawī or al-Dusūqī or al-Ḥusayn or ʿAlī and saying: �
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_690%4029-05-2025_09-14-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/848bb0abc2e55aa4b733.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11152,7 +11152,7 @@ Rather, he must act in accordance with it, dedicating his religion, worship, and
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_838%4029-08-2025_11-03-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/faaefa44e08acd08af2a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11170,7 +11170,7 @@ And the most obligatory form of jihād is to strive against them — with proof,
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_914%4029-09-2025_16-19-23.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fbfc2e2dd497bd7f6d77.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11198,7 +11198,7 @@ This is the correct understanding of wasīlah.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_539%4030-03-2025_22-41-32.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5964cb953f3af0227f46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11212,7 +11212,7 @@ Sufyān — meaning Sufyān al-Thawrī — reported from Abū Sinān al-Shaybān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_980%4030-10-2025_05-42-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ffcfed9431324dc636bc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11238,7 +11238,7 @@ That idols do not hear the one who calls upon them, nor respond to him—contrar
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1043%4030-11-2025_13-26-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4270eb5b53c8a354dee2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11284,7 +11284,7 @@ The crux of the issue is this: the theologians say that tawḥīd is not complet
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_842%4031-08-2025_22-38-33.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/db6a86198592830ded93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11310,7 +11310,7 @@ Shaykh al-Fawzān said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_986%4031-10-2025_18-12-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bb49a3f1e09a292b4116.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11328,7 +11328,7 @@ The verse “And avoid the ṭāghūt” encompasses both abandoning the worship
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_20%4027-04-2026_21-56-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11346,7 +11346,7 @@ For this reason we know that whoever worships other than Allāh is opposing ever
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_24%4027-04-2026_21-57-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/291f4fb7a4d71f5f7341.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11362,7 +11362,7 @@ So it is obligatory upon the mukallafīn (legally responsible Muslims) to hold t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_26%4027-04-2026_21-58-25.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/659f5bacbb790dd3f496.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11376,7 +11376,7 @@ Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_28%4027-04-2026_21-58-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ab7cbbfc906e88240471.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11390,8 +11390,8 @@ Merely uttering “lā ilāha illā Allāh” is not sufficient without understa
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_46%4028-04-2026_16-22-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_47%4028-04-2026_16-22-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/460c264c7823f115420f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4cc04d0cff1e8e1b9083.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11407,7 +11407,7 @@ So this mushrik may say: “The matter is in the hand of Allah, but this righteo
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_84%4007-05-2026_11-18-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/9b2be8bb934a87b61609.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11431,7 +11431,7 @@ A: No, this is not correct. Also, if we say that it is obligatory, then this its
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_86%4008-05-2026_10-29-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/879c6a28b56f0c967358.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11447,7 +11447,7 @@ For if he had known the meaning of ‘Lā ilāha illā Allāh,’ he would have 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_88%4012-05-2026_15-44-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f6ba668f4cecc6f86396.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11465,7 +11465,7 @@ Rather, he is from those about whom Allah said:
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_89%4013-05-2026_09-42-59.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/47579170c6aec44523dc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11485,7 +11485,7 @@ And this category of people has been overpowered by Shayṭān, such that they t
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_103%4019-05-2026_04-28-07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ee7cb3df55a0f3069321.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11503,7 +11503,7 @@ And whoever does not takfir the one whom the Qurʾān has declared a kāfir has 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_113%4004-06-2026_18-38-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fcdd1329db98c3537f66.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11521,7 +11521,7 @@ And whoever does not takfir the one whom the Qurʾān has declared a kāfir has 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_113%4004-06-2026_18-38-50.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fcdd1329db98c3537f66.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11563,7 +11563,7 @@ A: Yes, I clarified an understanding — not the wording of the Shaykh himself. 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_131%4008-07-2026_16-33-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/faeb68066ae74d2c9d72.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11577,7 +11577,7 @@ Source: Mukhtaṣar Ḍawābiṭ al-Takfīr by Shaykh Abī al-ʿAlā ar-Rāshid 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_32%4028-04-2026_16-18-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/06a779a6b0957feece93.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -11596,7 +11596,7 @@ Source: Fatāwā ʿUlamāʾ al-Balad al-Ḥarām p.45
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_34%4028-04-2026_16-18-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8920aa36f33f71957da8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -11613,7 +11613,7 @@ Source: Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.53
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_39%4028-04-2026_16-19-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7d84e7f2ca591f49b1a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -11636,7 +11636,7 @@ Rather, their worship of the dead was in the form of idols and statues on graves
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_41%4028-04-2026_16-20-16.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/8f19930402e2e9537e4e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11759,7 +11759,7 @@ Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa al-�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_110%4025-05-2026_17-59-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/92dbea7618d438c1a614.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -11807,7 +11807,7 @@ Source: al-Ibānah al-Kubrā 1/359-360
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_57%4027-08-2024_16-13-11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/64163770f535131ab2f2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -11977,7 +11977,7 @@ Allah, the Almighty, is addressing the polytheists who associate idols and false
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_468%4011-03-2025_15-47-30.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/fcc300c6aeb8d5763f58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11995,7 +11995,7 @@ Source: Ṣaḥīḥ al-Bukhārī p.1858
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_499%4017-03-2025_21-00-51.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/636ad0af9fefa003f38d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12024,7 +12024,7 @@ Source: Masʾalah fīman Yukaffiru Ghayrahū min al-Muslimīn - Shaykh by Abdull
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_516%4022-03-2025_10-43-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4eefda7e948da9070c2b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12057,7 +12057,7 @@ Source: Fatāwā wa Rasāʾil by Sheikh ʿAbd al-Laṭīf 12/197-198
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_525%4024-03-2025_15-30-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/17cf8e82e5dbb5dbf89f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12163,7 +12163,7 @@ Source: Ta'ẓīm Qadr aṣ-Ṣalāh - Imām  al-Marwazī 1/268
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_575%4009-04-2025_06-02-44.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/c7af5a196040903124f2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12180,7 +12180,7 @@ Source: Al-Adillah wa Al-Barāhīn ʿalā ʿAdam Al-ʿUḏhr bil Jahl fī Uṣū
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_629%4028-04-2025_17-24-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/25483343f194fcf34d4b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12203,7 +12203,7 @@ Source: al-Ajwibah wa-al-Buḥūth wa-al-Mudārasāt al-Mushtamilah ʿalayhā al
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_664%4013-05-2025_10-18-24.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/07758b05c78ba75cdd03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12443,7 +12443,7 @@ Woe unto him! Where is our “declaring the Ummah of Muḥammad disbelievers”?
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_931%4006-10-2025_12-36-35.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1f7f50a58eb5928e484b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -12642,7 +12642,7 @@ Source: ʿAqīdat at-Tawḥīd by Shaykh al-Fawzān p.51
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_964%4022-10-2025_16-23-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/2d6bb3e9811222f22195.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12671,7 +12671,7 @@ footnote
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_973%4026-10-2025_15-53-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/d0e234faff505ac8ff2f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -12730,7 +12730,7 @@ Source: al-Hadiyyah as-Saniyyah wa at-Tuḥfah an-Najdiyyah by Shaykh Sulaymān 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1018%4022-11-2025_03-01-49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7eefa360f86f65f49887.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12808,7 +12808,7 @@ Shaykh al-Islam here points out this is the belief of the Ashāʿirah, he also m
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1029%4025-11-2025_07-57-37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/90c94e59cce1fb9eec8c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -12822,7 +12822,7 @@ Source: al-Qawl al-Mufīd ʿalā Kitāb at-Tawḥīd 1/160
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1034%4027-11-2025_02-16-26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6c4178f63c24b616bf37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12841,7 +12841,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Ibn Bāz p.54
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1037%4027-11-2025_12-29-01.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5689c2755b7c53afcfb0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12862,7 +12862,7 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1063%4009-12-2025_11-55-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/09b444e023b2a9f1a4f9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -12953,7 +12953,7 @@ So Shirk came from this type, all the Shirk of the Mushrikīn. his saying that i
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1115%4007-01-2026_16-41-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/85ffde18e2af32d69bb1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -12975,7 +12975,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Ṣāliḥ al-Luḥaydān p.65
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1116%4011-01-2026_01-13-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f753d539993a7fac13fc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13004,7 +13004,7 @@ Source: Al-Ittiḥāf fī al-Radd ʿalā al-Ṣaḥāf by Shaykh ʿAbd al-Laṭ�
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1131%4020-01-2026_06-30-46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7db0eb72a0e4e49db357.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13025,7 +13025,7 @@ Source: Subul as-Salām Sharḥ Nawāqiḍ al-Islām by Shaykh Ibn Bāz p.263-26
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1219%4013-03-2026_09-19-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3c552a486bd71e2839f7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13044,7 +13044,7 @@ And Allah said to His Messenger ﷺ: “So proclaim openly that which you are co
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1223%4016-03-2026_11-37-54.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6327954e91474876b916.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13066,7 +13066,7 @@ As for matters which are obscure. Then the person is excused with ignorance and 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1234%4019-03-2026_14-42-00.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/46e9da8ccd429d6acf0b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13086,7 +13086,7 @@ Source: at-Tanḍīd Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd al-ʿAzīz ar-R
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1299%4027-04-2026_16-27-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1c49c9407fdbe3ddabf0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13225,7 +13225,7 @@ Source: Sharḥ Tafsīr Kalimat at-Tawḥīd  by Shaykh Ṣāliḥ al-Fawzān p.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_45%4028-04-2026_16-22-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13242,7 +13242,7 @@ Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_85%4008-05-2026_10-29-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5d20c545c7e5caaa3bf6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13271,7 +13271,7 @@ Source: Fatāwā al-Aʾimmah an-Najdiyyah 3/116-117
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_949%4014-10-2025_02-04-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/1852ba39834e8f0bbbab.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13322,7 +13322,7 @@ Source: Fatāwā ʿUlamāʾ al-Balad al-Ḥarām p.63-64
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_975%4027-10-2025_03-25-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/03c2e055dd285b08313c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13345,7 +13345,7 @@ Source: Ibṭāl at-Tandīd by Shaykh Ḥamad ibn ʿAtīq p.84-85
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_991%4002-11-2025_07-04-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/00474e519ecf1fd7845c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13430,7 +13430,7 @@ Source: Sharḥ Maʿnā al-Ṭāghūt by Shaykh al-Fawzān p.12-13
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1038%4028-11-2025_00-11-41.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/bbf8d231460c74166b71.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13453,7 +13453,7 @@ However, this does not necessarily mean that it is to be used as evidence for th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1117%4011-01-2026_01-13-10.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4fa3544a918e08d3fc26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13479,7 +13479,7 @@ Source: Asʾilah wa Ajwibah fī al-Īmān wa al-Kufr by Shaykh ʿAbd al-ʿAzīz 
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1154%4004-02-2026_00-05-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/68a9dadaf9ed963907c9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13512,7 +13512,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd Allāh al-Ghunaymān 1/84
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1297%4025-04-2026_14-15-14.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a680ec542c56bb9d294a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13772,7 +13772,7 @@ A: This is shirk. Seeking needs from the dead is shirk—whether duʿāʾ or any
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_30%4027-04-2026_21-59-03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b69b09c2ccf8cd359910.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13798,7 +13798,7 @@ Source: Subul as-Salām Sharḥ Nawāqiḍ al-Islām by Shaykh Ibn Bāz p.84-85
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_31%4028-04-2026_16-18-04.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f169c87f6f78a04ac233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13823,8 +13823,8 @@ Source: al-Radd ʿalā al-Manṭiqiyyīn by Ibn Taymiyyah p.571-572
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_37%4028-04-2026_16-19-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_38%4028-04-2026_16-19-34.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/adc809c4fb88c8b12b8e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b71f47620cbf507bbdc0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13839,8 +13839,8 @@ A : Duʿāʾ is shafāʿah. What is the meaning of shafāʿah? Its meaning is th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_44%4028-04-2026_16-21-45.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_45%4028-04-2026_16-22-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/eacc919a66ba4ff78380.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13852,7 +13852,7 @@ We hear from some who claim to be Muslims the phrase: “O Messenger of Allah, i
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_56%4028-04-2026_16-24-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13f848c7ad3173fddb46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13866,7 +13866,7 @@ This refutes those who claim that doing so at the grave is merely a bidʿah whil
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_98%4017-05-2026_20-23-18.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f7110278a07a99381b1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13884,8 +13884,8 @@ They did not do as the Christians do, seeking intercession through angels or thr
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_107%4025-05-2026_17-41-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_105%4025-05-2026_17-41-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/72ce276cd6b1156d58e1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a2d2ecfaa82b0d982ece.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -13964,7 +13964,7 @@ Source: Taḥrīr qawl al-shaykh Muḥammad ibn ʿUthaymīn fī tārik al-tawḥ
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_690%4029-05-2025_09-14-28.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/848bb0abc2e55aa4b733.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -13985,7 +13985,7 @@ Those servants, those graves, those idols, those prophets, angels, righteous peo
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_824%4004-08-2025_00-56-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/e60558cbe0949540f38b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -14037,7 +14037,7 @@ Thus it became clear that the form of requesting shafāʿah and duʿāʾ from th
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_850%4006-09-2025_01-20-19.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/5969a56c70dcfc30497a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -14057,7 +14057,7 @@ Source: Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.59
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_878%4018-09-2025_04-11-52.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/a09cbb7581fe9a15c22e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14078,7 +14078,7 @@ Source: as-Sayf al-Maslūl ʿalā ʿĀbid ar-Rasūl by Shaykh ʿAbd ar-Raḥmān
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_933%4007-10-2025_09-22-29.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/63387f1b4dee9dcb7dad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14186,7 +14186,7 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1061%4009-12-2025_00-26-17.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/aa23a239d53fd24f9421.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14207,7 +14207,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd Allāh al-Ghunaymān 1/70
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1123%4016-01-2026_14-33-15.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/f842f0bc0ce6beef5e79.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14505,7 +14505,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbdullāh al-Ghunaymān 1/157-15
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Java%20programs/archival%20website/Archive/ChatExport_2026-05-15/photos/photo_1143%4027-01-2026_16-06-57.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/6339828b4536065556d5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14575,8 +14575,8 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_133%4008-07-2026_16-35-02.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_134%4010-07-2026_19-35-06.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/4970583b2a196756bce2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/7f63945c897769ce2aaf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
 ---
@@ -14778,5 +14778,5 @@ Source: Ighāthat al-Lahfān fī Maṣāyid ash-Shayṭān 1/359
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="file:///C:/Users/ymelt/Downloads/Telegram%20Desktop/ChatExport_2026-07-19/photos/photo_56%4028-04-2026_16-24-31.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/13f848c7ad3173fddb46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
