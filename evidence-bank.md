@@ -23,8 +23,6 @@ He explains “we have rejected you” to mean: “We reject the disbelief in Al
 
 Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/317, commentary on al-Mumtaḥanah 60:4.
 
-[Back to contents](#contents)
-
 <a id="loving-and-hating"></a>
 
 ### Ibn Taymiyyah on the agreement of the religious communities
@@ -206,8 +204,6 @@ Al-Ṭabarī says that the believers have an excellent example in Ibrāhīm and 
 He continues: “Likewise, O believers in Allāh, disavow the mushrik enemies of Allāh. Do not take them as allies until they believe in Allāh alone, disavow the worship of everything besides Him, and openly show them enmity and hatred.”
 
 Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/318, commentary on al-Mumtaḥanah 60:4.
-
-[Back to contents](#contents)
 
 <a id="kufr-bit-taghut"></a>
 
@@ -540,8 +536,6 @@ Al-Ṭabarī then gives his preferred comprehensive definition: “The correct v
 He explains the verse to mean that whoever denies the lordship of every object worshipped besides Allāh, rejects it, and believes that Allāh alone is his deity, Lord, and object of worship has grasped the firmest handhold.
 
 Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 4/556–559, commentary on al-Baqarah 2:256.
-
-[Back to contents](#contents)
 
 <a id="takfir-al-mushrikin"></a>
 
@@ -952,8 +946,6 @@ Ibn Taymiyyah explains that a person’s description as Muslim, Jewish, Christia
 He continues: “Every ruling attached to religious names, such as Islām, faith, disbelief, hypocrisy, apostasy, Judaism, and Christianity, applies only to the person who possesses the qualities that necessitate it. A person’s being one of the mushrikīn or one of the People of the Book belongs to this same category. Whoever is himself a mushrik has the ruling of the people of shirk even if his parents were not mushrikīn; and whoever has mushrik parents but is himself a Muslim has the ruling of the Muslims, not the ruling of the mushrikīn.”
 
 Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
-
-[Back to contents](#contents)
 
 <a id="ibn-taymiyyah-udhr"></a>
 
@@ -7618,8 +7610,6 @@ This section can be built almost entirely from quoted distinctions:
 
 The Permanent Committee answer at 3/96–99 is useful for organizing this section, but the exported Telegram version contains ellipses and should remain a summary until the unabridged Arabic source is obtained. Sulaymān ibn ʿAbd Allāh’s complete sequence at al-Durar 8/160–161 can be used immediately.
 
-[Back to contents](#contents)
-
 <a id="other-tawhid"></a>
 
 <!-- telegram-source: dar/messages4.html#message3219 -->
@@ -7653,8 +7643,6 @@ The answer contrasts this with Jews, Christians, Communists, and similar groups,
 Source: Fatāwā al-Lajnah al-Dāʾimah, 3/96–99. Telegram translation and scan retained in the export.
 
 This is useful for the article’s “between the two extremes” section because it prevents collapsing the original act, the doer, and every confused third party into one undifferentiated ruling.
-
-[Back to contents](#contents)
 
 <a id="the-excuser"></a>
 
@@ -8038,8 +8026,6 @@ Ibn Taymiyyah says that those who worship Allāh alone without associating anyth
 He then states: “Even if they returned from this apostasy to Islām, their inner affairs are with Allāh. However, there is no disagreement among the Muslims that commanding shirk is disbelief and apostasy when done by a Muslim, and that praising it, commending it, and encouraging it is disbelief and apostasy when done by a Muslim.”
 
 Source: Ibn Taymiyyah, Bayān Talbīs al-Jahmiyyah, 3/54.
-
-[Back to contents](#contents)
 
 <a id="ignorant-major-shirk"></a>
 
