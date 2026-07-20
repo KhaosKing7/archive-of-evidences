@@ -288,6 +288,116 @@
     .topic-panel > h2:first-child {
       margin-top: 48px;
     }
+    .archive-tools {
+      display: grid;
+      gap: 10px;
+      margin: 20px 0 24px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: rgba(33, 30, 24, .58);
+      font-family: system-ui, sans-serif;
+    }
+    .archive-tools label {
+      color: #d7c28f;
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+    .archive-tools input,
+    .archive-tools select {
+      width: 100%;
+      padding: 10px 11px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--text);
+      font: inherit;
+      font-size: .84rem;
+    }
+    .filter-checks {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .filter-checks label {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      color: var(--muted);
+      font-size: .78rem;
+      font-weight: 500;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .filter-checks input { width: auto; }
+    .filter-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .filter-count {
+      color: var(--muted);
+      font-size: .76rem;
+    }
+    .filter-clear {
+      padding: 6px 9px;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      background: transparent;
+      color: var(--gold);
+      cursor: pointer;
+      font: inherit;
+      font-size: .75rem;
+    }
+    .evidence-entry[hidden],
+    .filtered-heading[hidden] { display: none; }
+    .scholar-index-intro {
+      color: var(--muted);
+      font-family: system-ui, sans-serif;
+    }
+    .scholar-grid {
+      display: grid;
+      gap: 14px;
+      margin-top: 28px;
+    }
+    .scholar-card {
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: rgba(28, 26, 23, .72);
+      overflow: hidden;
+    }
+    .scholar-card summary {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 15px 17px;
+      cursor: pointer;
+      color: #e5c77f;
+      font-family: system-ui, sans-serif;
+      font-weight: 700;
+    }
+    .scholar-meta {
+      color: var(--muted);
+      font-size: .76rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .scholar-statements {
+      margin: 0;
+      padding: 4px 20px 18px 38px;
+      font-family: system-ui, sans-serif;
+      font-size: .86rem;
+    }
+    .scholar-statements li { margin: 9px 0; }
+    .scholar-statements a { text-decoration: none; }
+    .scholar-empty {
+      color: var(--muted);
+      font-family: system-ui, sans-serif;
+    }
     @media (max-width: 900px) {
       .layout { display: block; }
       aside {
@@ -300,12 +410,18 @@
       }
       .topic-tabs { display: none; }
       .topic-select { display: block; }
+      .archive-tools { grid-template-columns: 1fr 1fr; }
+      .archive-tools > :first-child,
+      .archive-tools > :nth-child(2),
+      .archive-tools .filter-checks,
+      .archive-tools .filter-footer { grid-column: 1 / -1; }
       nav { grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
       main { padding: 38px 20px 80px; }
       h2 { margin-top: 60px; }
     }
     @media print {
       aside, .top-link { display: none; }
+      .evidence-entry[hidden], .filtered-heading[hidden] { display: block; }
       .topic-panel[hidden] { display: block; }
       .layout { display: block; }
       main { padding: 0; }
@@ -328,13 +444,42 @@
         <button class="topic-tab" type="button" role="tab" aria-selected="false" data-topic="istighatha">
           Istighāthah &amp; Tawassul
         </button>
+        <button class="topic-tab" type="button" role="tab" aria-selected="false" data-topic="scholars">
+          Scholar Index
+        </button>
       </div>
       <label class="topic-select-label" for="topic-select">Evidence collection</label>
       <select id="topic-select" class="topic-select">
         <option value="tawhid">Kufr biṭ-Ṭāghūt</option>
         <option value="istighatha">Istighāthah, Ṭalab al-Duʿāʾ &amp; Tawassul</option>
+        <option value="scholars">Scholar Index</option>
       </select>
       <div class="topic-summary" id="topic-summary"></div>
+      <div class="archive-tools" id="archive-tools">
+        <label>Search all text
+          <input id="archive-search" type="search" placeholder="Words, translation, citation…">
+        </label>
+        <label>Book or source
+          <input id="book-filter" type="search" placeholder="e.g. Majmūʿ al-Fatāwā">
+        </label>
+        <label>Scholar
+          <select id="scholar-filter"><option value="">All scholars</option></select>
+        </label>
+        <label>Century
+          <select id="century-filter"><option value="">All centuries</option></select>
+        </label>
+        <label>Category
+          <select id="category-filter"><option value="">All categories</option></select>
+        </label>
+        <div class="filter-checks">
+          <label><input id="arabic-only" type="checkbox"> Arabic available</label>
+          <label><input id="scan-only" type="checkbox"> Scan available</label>
+        </div>
+        <div class="filter-footer">
+          <span class="filter-count" id="filter-count" aria-live="polite"></span>
+          <button class="filter-clear" id="filter-clear" type="button">Clear filters</button>
+        </div>
+      </div>
       <p class="category-title">Categories</p>
       <nav id="topic-nav" aria-label="Categories"></nav>
     </aside>
@@ -10324,6 +10469,11 @@
 <p><img class="source-scan" src="assets/scans/13f848c7ad3173fddb46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 </section>
+<section class="topic-panel" id="topic-scholars" data-topic-panel="scholars" hidden>
+<h2 id="scholar-index-title">Scholar Index</h2>
+<p class="scholar-index-intro">Scholars are arranged chronologically. Open a name to see every attributed statement in the archive, then select a statement to return to its complete entry and source material.</p>
+<div class="scholar-grid" id="scholar-grid"></div>
+</section>
 </article>
     </main>
   </div>
@@ -10335,7 +10485,7 @@
         links: [
           ['section-1', 'The religion of Ibrāhīm'],
           ['section-2', 'Loving and hating for the sake of Allāh'],
-          ['section-3', 'Kufr biṭ-ṭāghūt'],
+          ['section-3', 'Kufr biṭ-Ṭāghūt'],
           ['section-4', 'Declaring the mushrikīn disbelievers'],
           ['section-5', 'The ignorant person who commits major shirk'],
           ['section-6', 'One who calls the mushrik a Muslim or excuses the mushrikīn'],
@@ -10355,25 +10505,367 @@
           ['subsection-101', 'Living and capable'],
           ['subsection-102', 'Grave visitation']
         ]
+      },
+      scholars: {
+        summary: 'A chronological index of scholars, with links to every attributed statement in both evidence collections.',
+        links: [['scholar-index-title', 'Chronological index']]
       }
     };
+
+    const scholarCatalog = [
+      ['ʿUmar ibn al-Khaṭṭāb', 23, ['umar ibn al khattab']],
+      ['ʿAdī ibn Ḥātim', 68, ['adi ibn hatim']],
+      ['Saʿīd ibn Jubayr', 95, ['said ibn jubayr']],
+      ['Mujāhid ibn Jabr', 104, ['mujahid ibn jabr', 'mujahid']],
+      ['Al-Shaʿbī', 110, ['al shabi', 'ash shabi']],
+      ['Qatādah', 117, ['qatadah']],
+      ['Sufyān al-Thawrī', 161, ['sufyan al thawri', 'sufyan ath thawri']],
+      ['Mālik ibn Anas', 179, ['malik ibn anas', 'imam malik']],
+      ['Al-Shāfiʿī', 204, ['al shafii', 'imam al shafii']],
+      ['Isḥāq ibn Rāhawayh', 238, ['ishaq ibn rahawayh']],
+      ['Aḥmad ibn Ḥanbal', 241, ['ahmad ibn hanbal', 'imam ahmad']],
+      ['Al-Bukhārī', 256, ['al bukhari', 'imam al bukhari']],
+      ['Al-Dārimī', 280, ['al darimi', 'ad darimi']],
+      ['ʿAbd Allāh ibn Aḥmad', 290, ['abd allah ibn ahmad', 'abdullah ibn ahmad']],
+      ['Al-Marwazī', 294, ['al marwazi']],
+      ['Al-Ṭabarī', 310, ['al tabari', 'at tabari', 'ibn jarir al tabari']],
+      ['Muḥammad ibn ʿAqīl ibn al-Azhar', 316, ['muhammad ibn aqil ibn al azhar']],
+      ['Al-Barbahārī', 329, ['al barbahari']],
+      ['Al-Ājurrī', 360, ['al ajurri']],
+      ['Al-Malaṭī', 377, ['al malati']],
+      ['Ibn Baṭṭah', 387, ['ibn battah']],
+      ['Ibn Ḥazm', 456, ['ibn hazm']],
+      ['Ibn ʿAbd al-Barr', 463, ['ibn abd al barr']],
+      ['Al-Baghawī', 516, ['al baghawi']],
+      ['Al-Kāsānī', 587, ['al kasani']],
+      ['Ibn Qudāmah', 620, ['ibn qudamah']],
+      ['Al-Qarāfī', 684, ['al qarafi']],
+      ['Ibn Taymiyyah', 728, ['ibn taymiyyah', 'shaykh al islam ibn taymiyyah', 'sheikh al islam ibn taymiyyah']],
+      ['Ibn al-Qayyim', 751, ['ibn al qayyim', 'ibn qayyim']],
+      ['Ibn Kathīr', 774, ['ibn kathir']],
+      ['Muḥammad ibn ʿAbd al-Wahhāb', 1206, ['muhammad ibn abd al wahhab', 'imam al mujaddid']],
+      ['Ḥamad ibn Nāṣir', 1225, ['hamad ibn nasir']],
+      ['The sons of Muḥammad ibn ʿAbd al-Wahhāb', 1230, ['sons of muhammad ibn abd al wahhab']],
+      ['Sulaymān ibn ʿAbd Allāh', 1233, ['sulayman ibn abd allah']],
+      ['Al-Shawkānī', 1250, ['al shawkani']],
+      ['ʿAbd Allāh Abā Buṭayn', 1282, ['abd allah aba butayn', 'abdullah aba butayn', 'aba butayn', 'abu batayn']],
+      ['ʿAbd al-Raḥmān ibn Ḥasan', 1285, ['abd al rahman ibn hasan', 'abd ar rahman ibn hasan', 'abd al rahman ash shaykh']],
+      ['ʿAbd al-Laṭīf Āl al-Shaykh', 1293, ['abd al latif al al shaykh', 'abd al latif al ash shaykh', 'shaykh abd al latif', 'sheikh abd al latif']],
+      ['Ḥamad ibn ʿAtīq', 1301, ['hamad ibn atiq']],
+      ['Isḥāq ibn ʿAbd al-Raḥmān', 1319, ['ishaq ibn abd al rahman', 'ishaq ibn abd ar rahman']],
+      ['Al-Qāsimī', 1332, ['al qasimi']],
+      ['Sulaymān ibn Saḥmān', 1349, ['sulayman ibn sahman', 'sulayman ibn suhman', 'sulayman ibn suhman']],
+      ['ʿAbd al-Raḥmān al-Saʿdī', 1376, ['abd al rahman al sadi', 'al sadi']],
+      ['Muḥammad ibn Ibrāhīm Āl al-Shaykh', 1389, ['muhammad ibn ibrahim al al shaykh', 'muhammad ibn ibrahim']],
+      ['ʿAbd al-Raḥmān ibn Qāsim', 1392, ['abd al rahman ibn qasim', 'ibn qasim']],
+      ['ʿAbd al-ʿAzīz ibn Bāz', 1420, ['abd al aziz ibn baz', 'ibn baz', 'bin baz']],
+      ['Muḥammad Nāṣir al-Dīn al-Albānī', 1420.1, ['muhammad nasir al din al albani', 'al albani']],
+      ['Muḥammad ibn Ṣāliḥ al-ʿUthaymīn', 1421, ['muhammad ibn salih al uthaymin', 'ibn uthaymin']],
+      ['Muqbil ibn Hādī al-Wādiʿī', 1422, ['muqbil ibn hadi', 'shaykh muqbil', 'sheikh muqbil', 'al wadii']],
+      ['Zayd al-Madkhalī', 1435, ['zayd al madkhali']],
+      ['Ṣāliḥ al-Luḥaydān', 1443, ['salih al luhaydan', 'al luhaydan']],
+      ['Permanent Committee', 1490, ['permanent committee', 'standing committee', 'al lajnah ad daima']],
+      ['Ṣāliḥ al-Fawzān', 1501, ['salih al fawzan', 'al fawzan', 'shaykh fawzan', 'sheikh fawzan']],
+      ['ʿAbd Allāh al-Ghunaymān', 1502, ['abd allah al ghunayman', 'abdullah al ghunayman', 'al ghunayman']],
+      ['ʿAbd al-Muḥsin al-ʿAbbād', 1503, ['abd al muhsin al abbad']],
+      ['ʿAbd al-ʿAzīz al-Rājiḥī', 1504, ['abd al aziz al rajihi', 'al rajihi', 'ar rajihi', 'shaykh rajihi', 'sheikh rajihi']],
+      ['ʿAbd al-ʿAzīz Āl al-Shaykh', 1505, ['abd al aziz al al shaykh']],
+      ['Ṣāliḥ Āl al-Shaykh', 1506, ['salih al al shaykh', 'salih al ash shaykh', 'salih ash shaykh', 'salih ash sheikh']],
+      ['Khālid al-Mushayqiḥ', 1507, ['khalid al mushayqih']],
+      ['Ṣāliḥ al-ʿUṣaymī', 1508, ['salih al usaymi']],
+      ['Ṣāliḥ al-Suḥaymī', 1509, ['salih al suhaymi']],
+      ['Ṣāliḥ ibn Muḥammad al-Suwayyiḥ', 1510, ['salih ibn muhammad al suwayyih', 'salih ibn muhammad as suwaih', 'salih ibn muhammad al suwaih']],
+      ['Ayman al-ʿAnqarī', 1511, ['ayman al anqari']],
+      ['ʿAbd Allāh al-Jarbūʿ', 1512, ['abd allah al jarbu', 'abdullah al jarbu']],
+      ['Manṣūr al-Samārī', 1513, ['mansur al samari', 'mansur as samari']],
+      ['Abū al-ʿAlāʾ Rāshid', 1514, ['abu al ala rashid', 'abi al ala ar rashid', 'abu al ala ar rashid']],
+      ['Ṣāliḥ al-Sindī', 1515, ['salih al sindi', 'salih sindi']],
+      ['Aḥmad Bāzmūl', 1516, ['ahmad bazmul']],
+      ['ʿAbd Allāh al-Dawsarī', 1517, ['abd allah al dawsari', 'abdullah al dawsari']],
+      ['ʿAbd Allāh ibn Zayd', 1518, ['abd allah ibn zayd', 'abdullah ibn zayd']]
+    ].map(([name, death, aliases], order) => ({ name, death, order, aliases }));
+
+    const normalize = value => String(value || '')
+      .normalize('NFKD').replace(/\p{M}/gu, '').replace(/\p{Lm}/gu, '')
+      .replace(/[‘’'`]/g, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim().toLowerCase();
+    scholarCatalog.forEach(scholar => {
+      scholar.keys = [scholar.name, ...scholar.aliases].map(normalize).sort((a, b) => b.length - a.length);
+    });
 
     const topicTabs = [...document.querySelectorAll('.topic-tab')];
     const topicSelect = document.querySelector('#topic-select');
     const topicNav = document.querySelector('#topic-nav');
     const topicSummary = document.querySelector('#topic-summary');
     const panels = [...document.querySelectorAll('[data-topic-panel]')];
+    const controls = {
+      search: document.querySelector('#archive-search'),
+      book: document.querySelector('#book-filter'),
+      scholar: document.querySelector('#scholar-filter'),
+      century: document.querySelector('#century-filter'),
+      category: document.querySelector('#category-filter'),
+      arabic: document.querySelector('#arabic-only'),
+      scan: document.querySelector('#scan-only'),
+      count: document.querySelector('#filter-count'),
+      clear: document.querySelector('#filter-clear')
+    };
+    const structuralIds = new Set([
+      ...topics.tawhid.links.map(([id]) => id),
+      ...topics.istighatha.links.map(([id]) => id),
+      'section-11'
+    ]);
     let activeTopic = 'tawhid';
     let observer;
+    let evidenceEntries = [];
+    let scholarCards = [];
+
+    function identifyScholar(text) {
+      const normalized = normalize(text).slice(0, 1600);
+      let best = null;
+      scholarCatalog.forEach(scholar => {
+        scholar.keys.forEach(key => {
+          const index = normalized.indexOf(key);
+          if (index < 0) return;
+          if (!best || index < best.index || (index === best.index && key.length > best.key.length)) {
+            best = { scholar, index, key };
+          }
+        });
+      });
+      return best?.scholar || null;
+    }
+
+    function sourceLabel(entry) {
+      const paragraphs = [...entry.querySelectorAll('p')].map(p => p.textContent.trim()).filter(Boolean);
+      const source = [...paragraphs].reverse().find(text => /^(source|reference|references|\[)/i.test(text));
+      const fallback = entry.querySelector('h3')?.textContent.trim() || paragraphs[0] || 'Statement';
+      const label = (source || fallback).replace(/^source:\s*/i, '');
+      return label.length > 150 ? label.slice(0, 147) + '…' : label;
+    }
+
+    function prepareEvidenceEntries() {
+      let entryNumber = 0;
+      ['tawhid', 'istighatha'].forEach(topic => {
+        const panel = document.querySelector('[data-topic-panel="' + topic + '"]');
+        let category = topics[topic].links[0]?.[1] || topic;
+        let categoryId = topics[topic].links[0]?.[0] || '';
+        let pending = [];
+
+        const flush = () => {
+          const meaningful = pending.some(node => node.nodeType === Node.ELEMENT_NODE || node.textContent.trim());
+          if (!meaningful) { pending = []; return; }
+          const wrapper = document.createElement('div');
+          wrapper.className = 'evidence-entry';
+          wrapper.id = 'evidence-' + (++entryNumber);
+          pending[0].before(wrapper);
+          pending.forEach(node => wrapper.appendChild(node));
+          pending = [];
+
+          const text = wrapper.textContent.replace(/\s+/g, ' ').trim();
+          const opening = [
+            wrapper.querySelector('h3')?.textContent || '',
+            ...[...wrapper.querySelectorAll(':scope > p')].slice(0, 4).map(p => p.textContent),
+            sourceLabel(wrapper)
+          ].join(' ');
+          const scholar = identifyScholar(opening);
+          wrapper.dataset.topic = topic;
+          wrapper.dataset.category = category;
+          wrapper.dataset.categoryId = categoryId;
+          wrapper.dataset.scholar = scholar?.name || '';
+          wrapper.dataset.death = scholar?.death || '';
+          wrapper.dataset.century = scholar
+            ? (scholar.death >= 1500 ? 'Contemporary / institution' : Math.ceil(scholar.death / 100) + suffix(Math.ceil(scholar.death / 100)) + ' century AH')
+            : 'Unattributed';
+          wrapper.dataset.source = sourceLabel(wrapper);
+          wrapper.dataset.search = normalize(text);
+          wrapper.dataset.hasArabic = String(Boolean(wrapper.querySelector('.arabic-source, .arabic-text[lang="ar"]')));
+          wrapper.dataset.hasScan = String(Boolean(wrapper.querySelector('.scan-source, img.source-scan')));
+          evidenceEntries.push(wrapper);
+        };
+
+        [...panel.childNodes].forEach(node => {
+          const isElement = node.nodeType === Node.ELEMENT_NODE;
+          const isStructural = isElement && /^(H2|H3)$/.test(node.tagName) && structuralIds.has(node.id);
+          if (isStructural) {
+            flush();
+            category = node.textContent.replace(/^\d+\.\s*/, '').trim();
+            categoryId = node.id;
+            return;
+          }
+          if (isElement && node.tagName === 'HR') {
+            flush();
+            return;
+          }
+          pending.push(node);
+        });
+        flush();
+      });
+    }
+
+    function suffix(number) {
+      const lastTwo = number % 100;
+      if (lastTwo >= 11 && lastTwo <= 13) return 'th';
+      return ({ 1: 'st', 2: 'nd', 3: 'rd' })[number % 10] || 'th';
+    }
+
+    function optionSort(a, b) {
+      return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+    }
+
+    function replaceOptions(select, placeholder, values) {
+      const previous = select.value;
+      select.replaceChildren(new Option(placeholder, ''), ...values.map(value => new Option(value, value)));
+      if (values.includes(previous)) select.value = previous;
+    }
+
+    function entriesInScope() {
+      return activeTopic === 'scholars' ? evidenceEntries : evidenceEntries.filter(entry => entry.dataset.topic === activeTopic);
+    }
+
+    function populateFilterOptions() {
+      const scoped = entriesInScope();
+      const scholarNames = [...new Set(scoped.map(entry => entry.dataset.scholar).filter(Boolean))]
+        .sort((a, b) => {
+          const first = scholarCatalog.find(s => s.name === a)?.order ?? 999;
+          const second = scholarCatalog.find(s => s.name === b)?.order ?? 999;
+          return first - second;
+        });
+      const centuries = [...new Set(scoped.map(entry => entry.dataset.century).filter(Boolean))]
+        .sort((a, b) => {
+          if (a === 'Unattributed') return 1;
+          if (b === 'Unattributed') return -1;
+          if (a === 'Contemporary / institution') return 1;
+          if (b === 'Contemporary / institution') return -1;
+          return parseInt(a) - parseInt(b);
+        });
+      const categories = [...new Set(scoped.map(entry => entry.dataset.category).filter(Boolean))].sort(optionSort);
+      replaceOptions(controls.scholar, 'All scholars', scholarNames);
+      replaceOptions(controls.century, 'All centuries', centuries);
+      replaceOptions(controls.category, 'All categories', categories);
+    }
+
+    function entryMatches(entry) {
+      const search = normalize(controls.search.value);
+      const book = normalize(controls.book.value);
+      return (!search || entry.dataset.search.includes(search))
+        && (!book || normalize(entry.dataset.source + ' ' + entry.textContent).includes(book))
+        && (!controls.scholar.value || entry.dataset.scholar === controls.scholar.value)
+        && (!controls.century.value || entry.dataset.century === controls.century.value)
+        && (!controls.category.value || entry.dataset.category === controls.category.value)
+        && (!controls.arabic.checked || entry.dataset.hasArabic === 'true')
+        && (!controls.scan.checked || entry.dataset.hasScan === 'true');
+    }
+
+    function updateVisibleHeadings(entries) {
+      const visibleCategories = new Set(entries.filter(entry => !entry.hidden).map(entry => entry.dataset.categoryId));
+      document.querySelectorAll('#topic-' + activeTopic + ' h2[id], #topic-' + activeTopic + ' h3[id]').forEach(heading => {
+        if (!structuralIds.has(heading.id)) return;
+        heading.classList.add('filtered-heading');
+        heading.hidden = !visibleCategories.has(heading.id);
+      });
+    }
+
+    function applyFilters() {
+      if (activeTopic === 'scholars') {
+        let shownEntries = 0;
+        let shownScholars = 0;
+        scholarCards.forEach(card => {
+          const matching = card._entries.filter(entryMatches);
+          card.hidden = matching.length === 0;
+          card.querySelectorAll('[data-entry-link]').forEach(link => {
+            link.hidden = !matching.some(entry => entry.id === link.dataset.entryLink);
+          });
+          card.querySelector('[data-scholar-count]').textContent = matching.length + (matching.length === 1 ? ' statement' : ' statements');
+          shownEntries += matching.length;
+          if (matching.length) shownScholars++;
+        });
+        controls.count.textContent = shownScholars + ' scholars · ' + shownEntries + ' statements';
+        document.querySelector('#scholar-empty').hidden = shownScholars !== 0;
+        return;
+      }
+
+      const scoped = entriesInScope();
+      let visible = 0;
+      scoped.forEach(entry => {
+        entry.hidden = !entryMatches(entry);
+        if (!entry.hidden) visible++;
+      });
+      updateVisibleHeadings(scoped);
+      controls.count.textContent = visible + ' of ' + scoped.length + ' entries';
+    }
+
+    function clearFilters(apply = true) {
+      controls.search.value = '';
+      controls.book.value = '';
+      controls.scholar.value = '';
+      controls.century.value = '';
+      controls.category.value = '';
+      controls.arabic.checked = false;
+      controls.scan.checked = false;
+      if (apply) applyFilters();
+    }
+
+    function buildScholarIndex() {
+      const grid = document.querySelector('#scholar-grid');
+      const grouped = new Map();
+      evidenceEntries.forEach(entry => {
+        if (!entry.dataset.scholar) return;
+        if (!grouped.has(entry.dataset.scholar)) grouped.set(entry.dataset.scholar, []);
+        grouped.get(entry.dataset.scholar).push(entry);
+      });
+
+      scholarCatalog.forEach(scholar => {
+        const entries = grouped.get(scholar.name);
+        if (!entries?.length) return;
+        const card = document.createElement('details');
+        card.className = 'scholar-card';
+        card.dataset.scholarCard = scholar.name;
+        card._entries = entries;
+        const life = scholar.death >= 1500 ? 'Contemporary' : 'd. ' + Math.floor(scholar.death) + ' AH';
+        const summary = document.createElement('summary');
+        const name = document.createElement('span');
+        name.textContent = scholar.name;
+        const meta = document.createElement('span');
+        meta.className = 'scholar-meta';
+        meta.innerHTML = '<span>' + life + '</span><span data-scholar-count>' + entries.length + (entries.length === 1 ? ' statement' : ' statements') + '</span>';
+        summary.append(name, meta);
+        const list = document.createElement('div');
+        list.className = 'scholar-statements';
+        entries.forEach(entry => {
+          const link = document.createElement('a');
+          link.href = '#' + entry.id;
+          link.dataset.entryLink = entry.id;
+          const collection = entry.dataset.topic === 'tawhid' ? 'Kufr biṭ-Ṭāghūt' : 'Istighāthah & Tawassul';
+          link.textContent = collection + ' · ' + entry.dataset.category + ' · ' + entry.dataset.source;
+          link.addEventListener('click', event => {
+            event.preventDefault();
+            clearFilters(false);
+            activateTopic(entry.dataset.topic);
+            requestAnimationFrame(() => {
+              entry.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              history.replaceState(null, '', '#' + entry.id);
+            });
+          });
+          list.appendChild(link);
+        });
+        card.append(summary, list);
+        grid.appendChild(card);
+        scholarCards.push(card);
+      });
+      const empty = document.createElement('p');
+      empty.id = 'scholar-empty';
+      empty.className = 'scholar-empty';
+      empty.textContent = 'No scholars or statements match these filters.';
+      empty.hidden = true;
+      grid.appendChild(empty);
+    }
 
     function topicForHash(hash) {
-      const id = hash.replace(/^#/, '');
+      const id = decodeURIComponent(hash.replace(/^#/, ''));
       if (!id) return null;
+      const target = document.getElementById(id);
+      if (target?.closest('[data-topic-panel]')) return target.closest('[data-topic-panel]').dataset.topicPanel;
       for (const [topic, definition] of Object.entries(topics)) {
-        if (definition.links.some(([target]) => target === id)) return topic;
+        if (definition.links.some(([targetId]) => targetId === id)) return topic;
       }
-      if (id === 'section-11' || id === 'topic-istighatha') return 'istighatha';
-      if (id === 'topic-tawhid') return 'tawhid';
       return null;
     }
 
@@ -10386,12 +10878,10 @@
     function observeCurrentTopic() {
       if (observer) observer.disconnect();
       observer = new IntersectionObserver(entries => {
-        const visible = entries
-          .filter(entry => entry.isIntersecting)
+        const visible = entries.filter(entry => entry.isIntersecting)
           .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
         if (visible[0]) setActiveLink(visible[0].target.id);
       }, { rootMargin: '-12% 0px -76% 0px' });
-
       for (const [id] of topics[activeTopic].links) {
         const target = document.getElementById(id);
         if (target) observer.observe(target);
@@ -10414,9 +10904,7 @@
     function activateTopic(topic, options = {}) {
       if (!topics[topic]) return;
       activeTopic = topic;
-      panels.forEach(panel => {
-        panel.hidden = panel.dataset.topicPanel !== topic;
-      });
+      panels.forEach(panel => { panel.hidden = panel.dataset.topicPanel !== topic; });
       topicTabs.forEach(tab => {
         const isActive = tab.dataset.topic === topic;
         tab.classList.toggle('active', isActive);
@@ -10424,17 +10912,22 @@
       });
       topicSelect.value = topic;
       renderNavigation();
-
+      populateFilterOptions();
+      applyFilters();
       if (options.scroll) {
-        document.querySelector('[data-topic-panel="' + topic + '"]')
-          ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        document.querySelector('[data-topic-panel="' + topic + '"]')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
         history.replaceState(null, '', '#topic-' + topic);
       }
     }
 
-    topicTabs.forEach(tab => {
-      tab.addEventListener('click', () => activateTopic(tab.dataset.topic, { scroll: true }));
+    prepareEvidenceEntries();
+    buildScholarIndex();
+    Object.values(controls).forEach(control => {
+      if (!control || control === controls.count || control === controls.clear) return;
+      control.addEventListener(control.tagName === 'INPUT' && !['checkbox'].includes(control.type) ? 'input' : 'change', applyFilters);
     });
+    controls.clear.addEventListener('click', () => clearFilters());
+    topicTabs.forEach(tab => tab.addEventListener('click', () => activateTopic(tab.dataset.topic, { scroll: true })));
     topicSelect.addEventListener('change', () => activateTopic(topicSelect.value, { scroll: true }));
     window.addEventListener('hashchange', () => {
       const requestedTopic = topicForHash(location.hash);
@@ -10443,9 +10936,7 @@
 
     const initialTopic = topicForHash(location.hash) || 'tawhid';
     activateTopic(initialTopic);
-    if (location.hash) {
-      requestAnimationFrame(() => document.querySelector(location.hash)?.scrollIntoView());
-    }
+    if (location.hash) requestAnimationFrame(() => document.querySelector(location.hash)?.scrollIntoView());
   </script>
 </body>
 </html>
