@@ -386,6 +386,7 @@
       font-weight: 500;
       white-space: nowrap;
     }
+    .scholar-meta span + span::before { content: ' · '; }
     .scholar-statements {
       margin: 0;
       padding: 4px 20px 18px 38px;
@@ -393,7 +394,21 @@
       font-size: .86rem;
     }
     .scholar-statements li { margin: 9px 0; }
-    .scholar-statements a { text-decoration: none; }
+    .scholar-statements a {
+      display: block;
+      text-decoration: none;
+      line-height: 1.55;
+    }
+    .statement-title {
+      display: block;
+      color: var(--gold);
+    }
+    .statement-source {
+      display: block;
+      margin-top: 2px;
+      color: var(--muted);
+      font-size: .78rem;
+    }
     .scholar-empty {
       color: var(--muted);
       font-family: system-ui, sans-serif;
@@ -10545,11 +10560,11 @@
       ['Ibn Kathīr', 774, ['ibn kathir']],
       ['Muḥammad ibn ʿAbd al-Wahhāb', 1206, ['muhammad ibn abd al wahhab', 'imam al mujaddid']],
       ['Ḥamad ibn Nāṣir', 1225, ['hamad ibn nasir']],
-      ['The sons of Muḥammad ibn ʿAbd al-Wahhāb', 1230, ['sons of muhammad ibn abd al wahhab']],
+      ['The sons of Muḥammad ibn ʿAbd al-Wahhāb', 1230, ['sons of muhammad ibn abd al wahhab', 'husayn and abd allah', 'shaykhs husayn and abd allah']],
       ['Sulaymān ibn ʿAbd Allāh', 1233, ['sulayman ibn abd allah']],
       ['Al-Shawkānī', 1250, ['al shawkani']],
       ['ʿAbd Allāh Abā Buṭayn', 1282, ['abd allah aba butayn', 'abdullah aba butayn', 'aba butayn', 'abu batayn']],
-      ['ʿAbd al-Raḥmān ibn Ḥasan', 1285, ['abd al rahman ibn hasan', 'abd ar rahman ibn hasan', 'abd al rahman ash shaykh']],
+      ['ʿAbd al-Raḥmān ibn Ḥasan', 1285, ['abd al rahman ibn hasan', 'abd ar rahman ibn hasan', 'abd ar rahman bin hasan', 'abd al rahman bin hasan', 'abd al rahman ash shaykh']],
       ['ʿAbd al-Laṭīf Āl al-Shaykh', 1293, ['abd al latif al al shaykh', 'abd al latif al ash shaykh', 'shaykh abd al latif', 'sheikh abd al latif']],
       ['Ḥamad ibn ʿAtīq', 1301, ['hamad ibn atiq']],
       ['Isḥāq ibn ʿAbd al-Raḥmān', 1319, ['ishaq ibn abd al rahman', 'ishaq ibn abd ar rahman']],
@@ -10619,7 +10634,7 @@
     let scholarCards = [];
 
     function identifyScholar(text) {
-      const normalized = normalize(text).slice(0, 1600);
+      const normalized = normalize(text);
       let best = null;
       scholarCatalog.forEach(scholar => {
         scholar.keys.forEach(key => {
@@ -10631,6 +10646,80 @@
         });
       });
       return best?.scholar || null;
+    }
+
+    function identifyPrimaryScholar(wrapper) {
+      const heading = wrapper.querySelector(':scope > h3')?.textContent.trim() || '';
+      const paragraphs = [...wrapper.querySelectorAll(':scope > p')]
+        .map(p => p.textContent.replace(/\s+/g, ' ').trim())
+        .filter(text => text && !/^(english|arabic)$/i.test(text));
+      const source = sourceLabel(wrapper);
+
+      if (/^scholars explaining/i.test(heading) || /^this section intentionally/i.test(paragraphs[0] || '')) return null;
+
+      const byAuthor = text => {
+        const normalized = normalize(text);
+        const markers = [' explained by ', ' commentary by ', ' translated by ', ' by '];
+        for (const marker of markers) {
+          const index = normalized.lastIndexOf(marker);
+          if (index >= 0) {
+            const scholar = identifyScholar(normalized.slice(index + marker.length));
+            if (scholar) return scholar;
+          }
+        }
+        return null;
+      };
+
+      const explicitByline = byAuthor(paragraphs[0] || '') || byAuthor(heading);
+      if (explicitByline) return explicitByline;
+
+      for (const text of paragraphs.slice(0, 3)) {
+        const scholar = identifyScholar(text.slice(0, 260));
+        if (!scholar) continue;
+        const keyPosition = Math.min(...scholar.keys.map(key => {
+          const position = normalize(text).indexOf(key);
+          return position < 0 ? Infinity : position;
+        }));
+        if (keyPosition <= 90 && /\b(said|stated|wrote|reported|asked|answered|explains?|says|commented|mentioned|transmits?)\b|قال|ذكر|سئل/i.test(text.slice(0, 280))) return scholar;
+      }
+
+      const normalizedHeading = normalize(heading);
+      const editorialHeading = /^(scholars|statements|related principles|benefits|index|the position of)/.test(normalizedHeading);
+      if (!editorialHeading) {
+        const headingScholar = identifyScholar(heading.slice(0, 260));
+        if (headingScholar) {
+          const position = Math.min(...headingScholar.keys.map(key => {
+            const index = normalizedHeading.indexOf(key);
+            return index < 0 ? Infinity : index;
+          }));
+          if (position <= 55) return headingScholar;
+        }
+      }
+
+      const openingScholar = identifyScholar((paragraphs[0] || '').slice(0, 180));
+      if (openingScholar) return openingScholar;
+
+      const sourceByline = byAuthor(source);
+      if (sourceByline) return sourceByline;
+      return null;
+    }
+
+    function statementTitle(entry) {
+      const heading = entry.querySelector(':scope > h3')?.textContent.replace(/\s+/g, ' ').trim();
+      if (heading && !/^(full statement|scholars explaining|related principles)/i.test(heading)) return heading;
+      const paragraphs = [...entry.querySelectorAll(':scope > p')]
+        .map(p => p.textContent.replace(/\s+/g, ' ').trim())
+        .filter(text => text && !/^(english|arabic|source:|reference:|\[)/i.test(text));
+      let title = paragraphs.find(text => !/\b(said|stated|wrote|reported|was asked|says|explains|transmits?)\s*:?$/i.test(text)) || paragraphs[0] || 'Statement';
+      return title.length > 180 ? title.slice(0, 177) + '…' : title;
+    }
+
+    function citationKey(entry) {
+      let source = normalize(entry.dataset.source);
+      scholarCatalog.forEach(scholar => scholar.keys.forEach(key => { source = source.replaceAll(key, ' '); }));
+      source = source.replace(/\b(source|reference|by|shaykh|sheikh|imam|al allamah)\b/g, ' ').replace(/\s+/g, ' ').trim();
+      if (source.length > 12 && source !== 'statement') return 'source:' + source + '|text:' + normalize(statementTitle(entry)).slice(0, 180);
+      return 'text:' + entry.dataset.search.slice(0, 500);
     }
 
     function sourceLabel(entry) {
@@ -10660,12 +10749,7 @@
           pending = [];
 
           const text = wrapper.textContent.replace(/\s+/g, ' ').trim();
-          const opening = [
-            wrapper.querySelector('h3')?.textContent || '',
-            ...[...wrapper.querySelectorAll(':scope > p')].slice(0, 4).map(p => p.textContent),
-            sourceLabel(wrapper)
-          ].join(' ');
-          const scholar = identifyScholar(opening);
+          const scholar = identifyPrimaryScholar(wrapper);
           wrapper.dataset.topic = topic;
           wrapper.dataset.category = category;
           wrapper.dataset.categoryId = categoryId;
@@ -10689,6 +10773,11 @@
             category = node.textContent.replace(/^\d+\.\s*/, '').trim();
             categoryId = node.id;
             return;
+          }
+          const isTelegramBoundary = node.nodeType === Node.COMMENT_NODE && /^\s*telegram-source:/i.test(node.textContent);
+          const isStatementHeading = isElement && node.tagName === 'H3' && !structuralIds.has(node.id);
+          if (isTelegramBoundary || isStatementHeading) {
+            flush();
           }
           if (isElement && node.tagName === 'HR') {
             flush();
@@ -10745,7 +10834,11 @@
     function entryMatches(entry) {
       const search = normalize(controls.search.value);
       const book = normalize(controls.book.value);
-      return (!search || entry.dataset.search.includes(search))
+      const scholarMatches = search.length >= 5
+        ? scholarCatalog.filter(scholar => scholar.keys.some(key => key.includes(search) || search.includes(key)))
+        : [];
+      const searchedScholar = scholarMatches.length === 1 ? scholarMatches[0].name : '';
+      return (!search || (searchedScholar ? entry.dataset.scholar === searchedScholar : entry.dataset.search.includes(search)))
         && (!book || normalize(entry.dataset.source + ' ' + entry.textContent).includes(book))
         && (!controls.scholar.value || entry.dataset.scholar === controls.scholar.value)
         && (!controls.century.value || entry.dataset.century === controls.century.value)
@@ -10813,7 +10906,10 @@
       });
 
       scholarCatalog.forEach(scholar => {
-        const entries = grouped.get(scholar.name);
+        const entries = grouped.get(scholar.name)?.filter((entry, index, all) => {
+          const key = citationKey(entry);
+          return all.findIndex(candidate => citationKey(candidate) === key) === index;
+        });
         if (!entries?.length) return;
         const card = document.createElement('details');
         card.className = 'scholar-card';
@@ -10827,14 +10923,21 @@
         meta.className = 'scholar-meta';
         meta.innerHTML = '<span>' + life + '</span><span data-scholar-count>' + entries.length + (entries.length === 1 ? ' statement' : ' statements') + '</span>';
         summary.append(name, meta);
-        const list = document.createElement('div');
+        const list = document.createElement('ul');
         list.className = 'scholar-statements';
         entries.forEach(entry => {
+          const item = document.createElement('li');
+          item.dataset.entryLink = entry.id;
           const link = document.createElement('a');
           link.href = '#' + entry.id;
-          link.dataset.entryLink = entry.id;
           const collection = entry.dataset.topic === 'tawhid' ? 'Kufr biṭ-Ṭāghūt' : 'Istighāthah & Tawassul';
-          link.textContent = collection + ' · ' + entry.dataset.category + ' · ' + entry.dataset.source;
+          const title = document.createElement('span');
+          title.className = 'statement-title';
+          title.textContent = statementTitle(entry);
+          const source = document.createElement('span');
+          source.className = 'statement-source';
+          source.textContent = collection + ' · ' + entry.dataset.category + ' · ' + entry.dataset.source;
+          link.append(title, source);
           link.addEventListener('click', event => {
             event.preventDefault();
             clearFilters(false);
@@ -10844,7 +10947,8 @@
               history.replaceState(null, '', '#' + entry.id);
             });
           });
-          list.appendChild(link);
+          item.appendChild(link);
+          list.appendChild(item);
         });
         card.append(summary, list);
         grid.appendChild(card);
