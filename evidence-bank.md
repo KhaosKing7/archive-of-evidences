@@ -153,6 +153,25 @@ Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 2/128.
 
 This passage continues by citing al-Mumtaḥanah 60:4 and the declarations of Ibrāhīm عليه السلام against what his people worshipped.
 
+### Al-Ṭabarī on the example of Ibrāhīm and those with him
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>يَقُولُ تَعَالَى ذِكْرُهُ لِلْمُؤْمِنِينَ بِهِ مِنْ أَصْحَابِ رَسُولِ اللَّهِ ﷺ: قَدْ كَانَتْ لَكُمْ أَيُّهَا الْمُؤْمِنُونَ قُدْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ خَلِيلِ الرَّحْمَنِ تَقْتَدُونَ بِهِ، وَالَّذِينَ مَعَهُ مِنْ أَنْبِيَاءِ اللَّهِ ... حِينَ قَالُوا لِقَوْمِهِمُ الَّذِينَ كَفَرُوا بِاللَّهِ وَعَبَدُوا الطَّاغُوتَ: أَيُّهَا الْقَوْمُ إِنَّا بُرَآءُ مِنْكُمْ، وَمِنَ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ مِنَ الْآلِهَةِ وَالْأَنْدَادِ.</p>
+<p>وَقَوْلُهُ: كَفَرْنَا بِكُمْ، يَقُولُ: أَنْكَرْنَا مَا كُنْتُمْ عَلَيْهِ مِنَ الْكُفْرِ بِاللَّهِ وَجَحَدْنَا عِبَادَتَكُمْ مَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَنْ تَكُونَ حَقًّا، وَظَهَرَ بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا عَلَى كُفْرِكُمْ بِاللَّهِ وَعِبَادَتِكُمْ مَا سِوَاهُ، وَلَا صُلْحَ بَيْنَنَا وَلَا هُوَادَةَ حَتَّى تُؤْمِنُوا بِاللَّهِ وَحْدَهُ ... فَتُفْرِدُوهُ بِالْعِبَادَةِ.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>جامع البيان</em>، 23/317، عند تفسير سورة الممتحنة، الآية 4.</p>
+</div>
+</details>
+
+**English**
+
+Al-Ṭabarī explains that Allāh gave the believers a good example in Ibrāhīm and the prophets with him. They told their people, who disbelieved in Allāh and worshipped the ṭāghūt, that they were entirely free of them and of the deities and rivals they worshipped besides Allāh.
+
+He explains “we have rejected you” to mean: “We reject the disbelief in Allāh upon which you remain, and we deny that your worship of anything besides Allāh is true. Enmity and hatred have appeared forever between us and you because of your disbelief in Allāh and your worship of other than Him. There will be no reconciliation or truce until you believe in Allāh alone and single Him out in worship.”
+
+Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/317, commentary on al-Mumtaḥanah 60:4.
+
 [Back to contents](#contents)
 
 <a id="loving-and-hating"></a>
@@ -462,6 +481,25 @@ Source: Ṣāliḥ Āl al-Shaykh, Sharḥ Thalāthat al-Uṣūl, pp. 137–138.
 “The issue of openly displaying enmity is different from the existence of enmity itself. A person may be excused from the first because of fear and inability, due to His saying, ‘Unless you protect yourselves from them as a precaution.’ The second is indispensable because it is included in kufr biṭ-ṭāghūt, and it is inseparably connected to loving Allāh and His Messenger.”
 
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Majmūʿat al-Rasāʾil wa-al-Masāʾil al-Najdiyyah, 3/314.
+
+### Al-Ṭabarī on separating from the enemies of Allāh
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>يَقُولُ تَعَالَى ذِكْرُهُ: لَقَدْ كَانَ لَكُمْ أَيُّهَا الْمُؤْمِنُونَ قُدْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ فِي هَذِهِ الْأُمُورِ الَّتِي ذَكَرْنَاهَا مِنْ مُبَايَنَةِ الْكُفَّارِ وَمُعَادَاتِهِمْ وَتَرْكِ مُوَالَاتِهِمْ، إِلَّا فِي قَوْلِ إِبْرَاهِيمَ لِأَبِيهِ: لَأَسْتَغْفِرَنَّ لَكَ.</p>
+<p>فَكَذَلِكَ أَنْتُمْ أَيُّهَا الْمُؤْمِنُونَ بِاللَّهِ، فَتَبَرَّءُوا مِنْ أَعْدَاءِ اللَّهِ مِنَ الْمُشْرِكِينَ بِهِ، وَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّى يُؤْمِنُوا بِاللَّهِ وَحْدَهُ، وَيَتَبَرَّءُوا عَنْ عِبَادَةِ مَا سِوَاهُ، وَأَظْهِرُوا لَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>جامع البيان</em>، 23/318، عند تفسير سورة الممتحنة، الآية 4.</p>
+</div>
+</details>
+
+**English**
+
+Al-Ṭabarī says that the believers have an excellent example in Ibrāhīm and those with him in separating from the disbelievers, opposing them, and abandoning allegiance to them, with the stated exception concerning Ibrāhīm’s promise to seek forgiveness for his father.
+
+He continues: “Likewise, O believers in Allāh, disavow the mushrik enemies of Allāh. Do not take them as allies until they believe in Allāh alone, disavow the worship of everything besides Him, and openly show them enmity and hatred.”
+
+Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/318, commentary on al-Mumtaḥanah 60:4.
 
 [Back to contents](#contents)
 
@@ -827,6 +865,29 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Fatḥ al-Malik al-Wahhāb fī Radd Shu
 “The seventh, which is the great matter: worship of Allāh is not realized except through disbelief in the ṭāghūt. This contains the meaning of His saying, ‘Whoever disbelieves in the ṭāghūt and believes in Allāh has grasped the firmest handhold.’”
 
 Source: Muḥammad ibn ʿAbd al-Wahhāb, Kitāb al-Tawḥīd, p. 9 in the local library edition.
+
+### Al-Ṭabarī and the Salaf on the meaning of ṭāghūt
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ عُمَرُ بْنُ الْخَطَّابِ: الطَّاغُوتُ الشَّيْطَانُ.</p>
+<p>وَقَالَ مُجَاهِدٌ: الطَّاغُوتُ الشَّيْطَانُ. وَقَالَ الشَّعْبِيُّ: الطَّاغُوتُ الشَّيْطَانُ. وَقَالَ قَتَادَةُ: الطَّاغُوتُ الشَّيْطَانُ.</p>
+<p>وَالصَّوَابُ مِنَ الْقَوْلِ عِنْدِي فِي الطَّاغُوتِ أَنَّهُ كُلُّ ذِي طُغْيَانٍ طَغَى عَلَى اللَّهِ فَعُبِدَ مِنْ دُونِهِ، إِمَّا بِقَهْرٍ مِنْهُ لِمَنْ عَبَدَهُ، وَإِمَّا بِطَاعَةٍ مِمَّنْ عَبَدَهُ لَهُ؛ إِنْسَانًا كَانَ ذَلِكَ الْمَعْبُودُ، أَوْ شَيْطَانًا، أَوْ وَثَنًا، أَوْ صَنَمًا، أَوْ كَائِنًا مَا كَانَ مِنْ شَيْءٍ.</p>
+<p>فَتَأْوِيلُ الْكَلَامِ إِذَنْ: فَمَنْ يَجْحَدُ رُبُوبِيَّةَ كُلِّ مَعْبُودٍ مِنْ دُونِ اللَّهِ فَيَكْفُرْ بِهِ، وَيُؤْمِنْ بِاللَّهِ، يَقُولُ: وَيُصَدِّقْ بِاللَّهِ أَنَّهُ إِلَهُهُ وَرَبُّهُ وَمَعْبُودُهُ دُونَ غَيْرِهِ، فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>جامع البيان</em>، 4/556–559، عند تفسير سورة البقرة، الآية 256.</p>
+</div>
+</details>
+
+**English**
+
+ʿUmar ibn al-Khaṭṭāb, Mujāhid, al-Shaʿbī, and Qatādah are each reported to have said: “The ṭāghūt is Satan.”
+
+Al-Ṭabarī then gives his preferred comprehensive definition: “The correct view concerning the ṭāghūt, in my judgment, is that it is every transgressor against Allāh who is worshipped besides Him, whether he compels the worshipper or the worshipper obeys him, and whether that object of worship is a human being, a devil, an idol, an image, or anything else.”
+
+He explains the verse to mean that whoever denies the lordship of every object worshipped besides Allāh, rejects it, and believes that Allāh alone is his deity, Lord, and object of worship has grasped the firmest handhold.
+
+Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 4/556–559, commentary on al-Baqarah 2:256.
 
 [Back to contents](#contents)
 
@@ -1229,6 +1290,25 @@ Its worship consists of seeking blessings from it, turning toward it with suppli
 Kufr biṭ-ṭāghūt is a condition for the existence of faith because kufr biṭ-ṭāghūt is the avoidance of shirk. This is like the statement of Allāh: ‘Worship Allāh and associate nothing with Him.’ [al-Nisāʾ 4:36] Therefore, supplication, circumambulation, and all worship must be purely for Allāh alone. No part of it belongs to any created being whatsoever.”
 
 Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
+
+### Ibn Taymiyyah: commanding or praising shirk is apostasy by agreement
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>فَمَنْ تَكُونُ هَذِهِ حَالُهُ فِي الشِّرْكِ وَعِبَادَةِ الْأَوْثَانِ كَيْفَ يَصْلُحُ أَنْ يَذُمَّ أَهْلَ التَّوْحِيدِ الَّذِينَ يَعْبُدُونَ اللَّهَ تَعَالَى لَا يُشْرِكُونَ بِهِ شَيْئًا، وَلَمْ يَعْبُدُوا لَا شَمْسًا وَلَا قَمَرًا وَلَا كَوْكَبًا وَلَا وَثَنًا، بَلْ يَرَوْنَ الْجِهَادَ لِهَؤُلَاءِ الْمُشْرِكِينَ الَّذِينَ ارْتَدَّ إِلَيْهِمْ أَبُو مَعْشَرٍ وَالرَّازِيُّ وَغَيْرُهُمَا مُدَّةً؟</p>
+<p>وَإِنْ كَانُوا رَجَعُوا عَنْ هَذِهِ الرِّدَّةِ إِلَى الْإِسْلَامِ فَإِنَّ سَرَائِرَهُمْ عِنْدَ اللَّهِ، لَكِنْ لَا نِزَاعَ بَيْنَ الْمُسْلِمِينَ أَنَّ الْأَمْرَ بِالشِّرْكِ كُفْرٌ وَرِدَّةٌ إِذَا كَانَ مِنْ مُسْلِمٍ، وَأَنَّ مَدْحَهُ وَالثَّنَاءَ عَلَيْهِ وَالتَّرْغِيبَ فِيهِ كُفْرٌ وَرِدَّةٌ إِذَا كَانَ مِنْ مُسْلِمٍ.</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>بيان تلبيس الجهمية</em>، 3/54.</p>
+</div>
+</details>
+
+**English**
+
+Ibn Taymiyyah says that those who worship Allāh alone without associating anything with Him, and who worship neither the sun, moon, stars, nor idols, regard striving against such mushrikīn as one of the obligations.
+
+He then states: “Even if they returned from this apostasy to Islām, their inner affairs are with Allāh. However, there is no disagreement among the Muslims that commanding shirk is disbelief and apostasy when done by a Muslim, and that praising it, commending it, and encouraging it is disbelief and apostasy when done by a Muslim.”
+
+Source: Ibn Taymiyyah, Bayān Talbīs al-Jahmiyyah, 3/54.
 
 [Back to contents](#contents)
 
@@ -7004,6 +7084,25 @@ Concerning people of this kind, their doubts must first be removed before they a
 
 Source: ʿAbd Allāh al-Ghunaymān, statement preserved in the Dār as-Salafiyyah ʿUdhr bil-Jahl collection.
 
+### Ibn Taymiyyah: religious descriptions follow the person’s own belief and action
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَكَوْنُ الرَّجُلِ مُسْلِمًا أَوْ يَهُودِيًّا أَوْ نَصْرَانِيًّا وَنَحْوَ ذَلِكَ مِنْ أَسْمَاءِ الدِّينِ هُوَ حُكْمٌ يَتَعَلَّقُ بِنَفْسِهِ؛ لِاعْتِقَادِهِ وَإِرَادَتِهِ وَقَوْلِهِ وَعَمَلِهِ؛ لَا يَلْحَقُهُ هَذَا الِاسْمُ بِمُجَرَّدِ اتِّصَافِ آبَائِهِ بِذَلِكَ.</p>
+<p>وَكُلُّ حُكْمٍ عُلِّقَ بِأَسْمَاءِ الدِّينِ مِنْ إِسْلَامٍ وَإِيمَانٍ وَكُفْرٍ وَنِفَاقٍ وَرِدَّةٍ وَتَهَوُّدٍ وَتَنَصُّرٍ إِنَّمَا يَثْبُتُ لِمَنِ اتَّصَفَ بِالصِّفَاتِ الْمُوجِبَةِ لِذَلِكَ. وَكَوْنُ الرَّجُلِ مِنَ الْمُشْرِكِينَ أَوْ أَهْلِ الْكِتَابِ هُوَ مِنْ هَذَا الْبَابِ؛ فَمَنْ كَانَ بِنَفْسِهِ مُشْرِكًا فَحُكْمُهُ حُكْمُ أَهْلِ الشِّرْكِ وَإِنْ كَانَ أَبَوَاهُ غَيْرَ مُشْرِكَيْنِ، وَمَنْ كَانَ أَبَوَاهُ مُشْرِكَيْنِ وَهُوَ مُسْلِمٌ فَحُكْمُهُ حُكْمُ الْمُسْلِمِينَ لَا حُكْمُ الْمُشْرِكِينَ.</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>مجموع الفتاوى</em>، 35/226–227.</p>
+</div>
+</details>
+
+**English**
+
+Ibn Taymiyyah explains that a person’s description as Muslim, Jewish, Christian, or another religious designation relates to the person himself through his belief, will, speech, and action. The designation does not attach to him merely because his parents had it.
+
+He continues: “Every ruling attached to religious names, such as Islām, faith, disbelief, hypocrisy, apostasy, Judaism, and Christianity, applies only to the person who possesses the qualities that necessitate it. A person’s being one of the mushrikīn or one of the People of the Book belongs to this same category. Whoever is himself a mushrik has the ruling of the people of shirk even if his parents were not mushrikīn; and whoever has mushrik parents but is himself a Muslim has the ruling of the Muslims, not the ruling of the mushrikīn.”
+
+Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
+
 [Back to contents](#contents)
 
 <a id="ibn-taymiyyah-udhr"></a>
@@ -8521,6 +8620,25 @@ _________والترمذي حديث بشير بن إسماعيل ثنا سيار 
 مع معصيتهم ومخالفتهم في الدين والملة، قد دلت آية سورة التحريم على المنع منه، وعدم الانتفاع بالتعلق والقرابة والنسب والتوسل بذلك لمن لم يؤمن بما جاؤوا به من الهدى ودين الحق.1وكذلك في الحديث لما أنزل عليه قوله: {وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ} . [الشعراء:214] قال: "يا معشر قريش، اشتروا أنفسكم من الله، لا أغني عنكم من الله شيئاً" 2.وأكبر من3 هذا من يدعوهم، ويستغيث بهم، ويتقرب إليهم بعبادتهم على أنها وسيلة له، وشفعاء، فإن هذا هو عين الشرك الذي ذمه القرآن وعابه، وإن سمي توسلاً.وأما ما ذكره بعد هذا الكلام من نسبة الذي ينهى عن دعاء غير الله إلى الجهل وعدم الفهم، فهذا يتناول كل من نهى عن دعاء الأنبياء والصالحين، ومعلوم أن الرسل نهت عن دعاء غير الله بما لا يقدر عليه إلا الله، بل وفيما لا تدعو4 إليه حاجة ولا ضرورة من جنس المسألة، فلازم كلامه مسبة الأنبياء، وأتباعهم إلى يوم القيامة، فنعوذ بالله من حال أهل الجهالة والسفاهة.
 
 ---
+
+### ʿAbd al-Laṭīf Āl ash-Shaykh against Islām by mere affiliation
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>الْأَمْرُ الثَّانِي: أَنَّهُ زَعَمَ أَنَّ مَنِ انْتَسَبَ إِلَى الْإِسْلَامِ يَكُونُ مُسْلِمًا بِمُجَرَّدِ انْتِسَابِهِ إِلَيْهِ؛ فَعَلَى زَعْمِهِ أَنَّ عُبَّادَ الْقُبُورِ الْيَوْمَ، مِمَّنْ يَدْعُونَ الْأَنْبِيَاءَ وَالْأَوْلِيَاءَ وَالصَّالِحِينَ، وَسَائِرَ مَنْ كَفَرَ بِاللَّهِ وَأَشْرَكَ بِهِ مِمَّنْ يَتَلَفَّظُ بِالشَّهَادَتَيْنِ، أَنَّهُمْ مُسْلِمُونَ بِمُجَرَّدِ انْتِسَابِهِمْ إِلَى الْإِسْلَامِ، تَحِلُّ نِسَاؤُهُمْ وَتُؤْكَلُ ذَبَائِحُهُمْ؛ وَقَدْ تَبَيَّنَ لَكَ مَا أَمَرَ اللَّهُ بِهِ فِيهِمْ وَرَسُولُهُ، مِنْ تَكْفِيرِهِمْ وَعَدَمِ إِسْلَامِهِمْ.</p>
+<p>الْأَمْرُ الثَّالِثُ: أَنَّهُ زَعَمَ أَنَّ الرَّجُلَ يَكُونُ مُسْلِمًا بِنَفْسِهِ، لَا بِاعْتِقَادِهِ وَإِرَادَتِهِ وَقَوْلِهِ وَعَمَلِهِ؛ وَزَعَمَ أَنَّ هَذَا الْقَوْلَ لِشَيْخِ الْإِسْلَامِ ابْنِ تَيْمِيَّةَ، وَهُوَ نَقْلٌ مُحَرَّفٌ مُتَصَرَّفٌ فِيهِ كَمَا بَيَّنَّاهُ فِي الرَّدِّ، وَأَنَّ هَذَا لَا يَقُولُهُ عَالِمٌ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>الدرر السنية في الأجوبة النجدية</em>، 10/493، في الرد على داود بن جرجيس.</p>
+</div>
+</details>
+
+**English**
+
+ʿAbd al-Laṭīf Āl ash-Shaykh says that Dāwūd ibn Jirjīs claimed that anyone affiliated with Islām is Muslim by mere affiliation. On that claim, present-day grave worshippers who call upon prophets, awliyāʾ, and righteous people, and anyone else who disbelieves in Allāh and associates partners with Him while pronouncing the two testimonies, would be Muslims merely because they affiliate themselves with Islām, their women would be lawful in marriage, and their slaughter would be eaten. He responds that Allāh and His Messenger have made clear that they are to be declared disbelievers and are not Muslims.
+
+He then rejects the claim that a man is Muslim “in himself” without reference to his belief, will, speech, and action, and states that the attribution of this claim to Ibn Taymiyyah is a distorted and manipulated quotation that no scholar would affirm.
+
+Source: ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān Āl ash-Shaykh, al-Durar al-Saniyyah, 10/493, in his refutation of Dāwūd ibn Jirjīs.
 
 ## 9. Between the two extremes
 
