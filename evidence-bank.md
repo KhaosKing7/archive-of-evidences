@@ -4752,6 +4752,31 @@ Third: Whoever does not declare the polytheists as disbelievers, or doubts their
 </details>
 ---
 
+### Muḥammad ibn ʿAbd al-Wahhāb against calling grave worshippers Muslims
+
+<details class="source-panel arabic-source" data-origin="user-supplied-scan">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ: وَهَذَا يَعْرِفُهُ مَنْ لَهُ أَدْنَى إِلْمَامٍ بِشَيْءٍ مِنَ الْعِلْمِ وَالدِّينِ، فَتَسْمِيَةُ عُبَّادِ الْقُبُورِ مُسْلِمِينَ، لِأَنَّهُمْ يُصَلُّونَ وَيَصُومُونَ، وَيُؤْمِنُونَ بِالْبَعْثِ، مُجَرَّدُ تَعْمِيَةٍ عَلَى الْعَوَامِّ، وَتَلْبِيسٍ، لِيَنْفُقَ شِرْكُهُمْ، وَيُقَالَ بِإِسْلَامِهِمْ وَإِيمَانِهِمْ، وَيَأْبَى اللَّهُ ذَلِكَ وَرَسُولُهُ وَالْمُؤْمِنُونَ.</p>
+<p class="arabic-citation">المصدر: محمد بن عبد الوهاب، نقله عبد اللطيف آل الشيخ، <em>الدرر السنية في الأجوبة النجدية</em>، 12/536.</p>
+</div>
+</details>
+
+**English**
+
+Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
+
+“This is known to anyone who has even the slightest acquaintance with knowledge and the religion. Thus, calling the grave worshippers ‘Muslims’ because they pray, fast, and believe in the Resurrection is nothing but deceiving the common people and causing confusion, so that their shirk may be promoted and it may be claimed that they are Muslims and believers. But Allāh, His Messenger ﷺ, and the believers reject that.”
+
+Source: Muḥammad ibn ʿAbd al-Wahhāb, as transmitted by ʿAbd al-Laṭīf Āl al-Shaykh, *al-Durar al-Saniyyah*, 12/536.
+
+<details class="source-panel scan-source" data-origin="user-supplied-scan">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/0f525e94cb6c1c4a081d.png" alt="Arabic source scan from al-Durar al-Saniyyah, 12/536" loading="lazy"></p>
+</details>
+
+---
+
 ### The sons of Muḥammad ibn ʿAbd al-Wahhāb
 
 “Whoever says, ‘I do not oppose the mushrikīn,’ or opposes them but does not declare them disbelievers, or says, ‘I do not oppose the people of lā ilāha illā Allāh even if they commit disbelief and shirk and oppose the religion of Allāh,’ or says, ‘I do not oppose the domes,’ is not a Muslim.”
