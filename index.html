@@ -488,6 +488,14 @@
     }
     .entry-tool:hover { border-color: var(--gold-soft); background: var(--panel-2); }
     .entry-tool:disabled { opacity: .32; cursor: not-allowed; }
+    .quote-caption {
+      margin: 5px 0 15px;
+      padding-left: 11px;
+      border-left: 2px solid var(--gold);
+      color: #e1b64f;
+      font: 650 .84rem/1.45 system-ui, sans-serif;
+      letter-spacing: .01em;
+    }
     .copy-toast {
       position: fixed;
       z-index: 50;
@@ -8677,7 +8685,7 @@
 
     function formattedBlockText(root, selector) {
       return [...root.querySelectorAll(selector)]
-        .filter(node => !node.closest('.entry-tools') && !node.closest('.source-panel'))
+        .filter(node => !node.closest('.entry-tools') && !node.closest('.source-panel') && !node.classList.contains('quote-caption'))
         .map(node => node.textContent.replace(/\s+/g, ' ').trim())
         .filter(Boolean)
         .filter(text => !/^(English|Arabic)$/i.test(text))
@@ -8742,6 +8750,97 @@
       entry.prepend(tools);
     }
 
+    function sentenceCase(value) {
+      const text = value.replace(/\s+/g, ' ').replace(/[.:;\s]+$/, '').trim();
+      return text ? text.charAt(0).toUpperCase() + text.slice(1) + '.' : '';
+    }
+
+    function captionForEntry(entry) {
+      const heading = entry.querySelector(':scope > h3')?.textContent.replace(/\s+/g, ' ').trim() || '';
+      const text = normalize(entry.textContent);
+      const category = normalize(entry.dataset.category);
+      const descriptiveHeading = heading
+        .replace(/^full statement of\s+/i, '')
+        .replace(/^diagram:\s*/i, '')
+        .split(/:\s+|\s+on\s+/i)
+        .slice(1)
+        .join(': ');
+      if (descriptiveHeading && descriptiveHeading.length >= 12 && descriptiveHeading.length <= 145
+        && !/^(full definition|full statement|collected statements|related principles|the categories)$/i.test(descriptiveHeading)) {
+        return sentenceCase(descriptiveHeading);
+      }
+
+      if (/does not declare|doesnt declare|fails? to declare|not declaring|doubts? (?:their|the) disbelief/.test(text)) {
+        return 'The ruling on one who does not declare the mushrikīn disbelievers.';
+      }
+      if (/calls? (?:the )?(?:mushrik|grave worshippers?).{0,35}muslim|consider(?:s|ed)? them muslim/.test(text)) {
+        return 'Why calling those who commit major shirk Muslims contradicts tawḥīd.';
+      }
+      if (/excuses? (?:the )?(?:mushrik|grave worshippers?).{0,45}ignorance|excused because of (?:his|their) ignorance/.test(text)) {
+        return 'The ruling on excusing the mushrikīn because of ignorance.';
+      }
+      if (/ahl al fatrah|people of the interval|unreached by the message|message did not reach/.test(text)) {
+        return 'The distinction between the worldly ruling and punishment in the Hereafter.';
+      }
+      if (/intermediar|wasitah|wasa it/.test(text) && /dead|absent|invoke|calling upon|supplicat/.test(text)) {
+        return 'Taking intermediaries and calling upon them besides Allāh.';
+      }
+      if (/request(?:ing)? (?:du a|dua)|ask(?:ing)? (?:the dead|them to supplicate)|intercession from the dead/.test(text)) {
+        return 'Requesting duʿāʾ or intercession from the dead.';
+      }
+      if (/living present capable|alive present|within (?:his|their) ability/.test(text)) {
+        return 'What may be requested from a living, present, capable person.';
+      }
+      if (/grave visitation|visit(?:ing)? graves|visitation of graves/.test(text)) {
+        return 'Grave visitation and the means that can lead to shirk.';
+      }
+      if (/tawassul/.test(text)) {
+        return 'The forms of tawassul and the distinction between what is legislated and prohibited.';
+      }
+      if (/istighath|seek(?:ing)? help from (?:the dead|them)|calls? upon the dead|invok(?:e|ing) the dead/.test(text)) {
+        return 'Why calling upon the dead or absent is major shirk.';
+      }
+      if (/love|loving|hate|hatred|enmity|alliance|loyalty|disavow/.test(text) && /shirk|mushrik|disbeliever/.test(text)) {
+        return 'Loyalty to the believers and disavowal from shirk and its people.';
+      }
+      if (/taghut|ṭāghūt/.test(entry.textContent.toLowerCase())) {
+        return 'What disbelief in the ṭāghūt requires in belief and action.';
+      }
+      if (/ibrahim|ibrāhīm/.test(entry.textContent.toLowerCase())) {
+        return 'The religion of Ibrāhīm: worshipping Allāh alone and rejecting shirk.';
+      }
+      if (/ignorant person who commits major shirk|ibn taymiyyah s position/.test(category)) {
+        return 'The name and ruling of the ignorant person who commits major shirk.';
+      }
+      if (/one who calls the mushrik/.test(category)) {
+        return 'The ruling on calling a mushrik Muslim or excusing the mushrikīn.';
+      }
+      if (/declaring the mushrikin/.test(category)) {
+        return 'The place of declaring the mushrikīn disbelievers within tawḥīd.';
+      }
+      if (/refutations of dawud/.test(category)) {
+        return 'A response to Dāwūd ibn Jirjīs concerning shirk, ignorance, and takfīr.';
+      }
+      if (/between the two extremes/.test(category)) {
+        return 'The middle course between neglecting takfīr and unjustified chains of takfīr.';
+      }
+      if (/foundations/.test(category)) {
+        return 'The foundational distinction between worship, duʿāʾ, and permissible requests.';
+      }
+      return sentenceCase(entry.dataset.category || 'A concise clarification of this issue');
+    }
+
+    function addQuoteCaption(entry) {
+      const caption = document.createElement('p');
+      caption.className = 'quote-caption';
+      caption.textContent = captionForEntry(entry);
+      const heading = entry.querySelector(':scope > h3');
+      const tools = entry.querySelector(':scope > .entry-tools');
+      if (heading) heading.after(caption);
+      else if (tools) tools.after(caption);
+      else entry.prepend(caption);
+    }
+
     function prepareEvidenceEntries() {
       let entryNumber = 0;
       ['tawhid', 'istighatha'].forEach(topic => {
@@ -8759,6 +8858,10 @@
           pending[0].before(wrapper);
           pending.forEach(node => wrapper.appendChild(node));
           pending = [];
+
+          [...wrapper.querySelectorAll(':scope > h4, :scope > p')].forEach(node => {
+            if (/^English\s*:?$/i.test(node.textContent.trim())) node.remove();
+          });
 
           const text = wrapper.textContent.replace(/\s+/g, ' ').trim();
           const scholar = identifyPrimaryScholar(wrapper);
@@ -8783,6 +8886,7 @@
             wrapper.appendChild(sourcePanel);
           });
           addEntryTools(wrapper);
+          addQuoteCaption(wrapper);
           evidenceEntries.push(wrapper);
         };
 
