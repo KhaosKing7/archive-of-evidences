@@ -96,9 +96,10 @@ const arabicOnly = entries.filter(entry => {
 const exactGroups = new Map();
 for (const entry of entries) {
   if (entry.normalized.length < 100) continue;
-  const group = exactGroups.get(entry.normalized) ?? [];
+  const duplicateKey = `${entry.section}\0${entry.normalized}`;
+  const group = exactGroups.get(duplicateKey) ?? [];
   group.push(entry);
-  exactGroups.set(entry.normalized, group);
+  exactGroups.set(duplicateKey, group);
 }
 const exactDuplicates = [...exactGroups.values()].filter(group => group.length > 1);
 
@@ -110,12 +111,28 @@ for (let leftIndex = 0; leftIndex < candidates.length; leftIndex += 1) {
   for (let rightIndex = leftIndex + 1; rightIndex < candidates.length; rightIndex += 1) {
     const left = candidates[leftIndex];
     const right = candidates[rightIndex];
+    if (left.section !== right.section) continue;
     if (left.normalized === right.normalized) continue;
     const score = similarity(left.tokenSet, right.tokenSet);
     if (score >= 0.88) nearDuplicates.push({ left, right, score });
   }
 }
 nearDuplicates.sort((left, right) => right.score - left.score);
+
+const containedDuplicates = [];
+for (let leftIndex = 0; leftIndex < candidates.length; leftIndex += 1) {
+  for (let rightIndex = leftIndex + 1; rightIndex < candidates.length; rightIndex += 1) {
+    const left = candidates[leftIndex];
+    const right = candidates[rightIndex];
+    if (left.section !== right.section || left.normalized === right.normalized) continue;
+    const shorter = left.normalized.length <= right.normalized.length ? left : right;
+    const longer = shorter === left ? right : left;
+    if (shorter.normalized.length >= 140 && longer.normalized.includes(shorter.normalized)) {
+      containedDuplicates.push({ shorter, longer, ratio: shorter.normalized.length / longer.normalized.length });
+    }
+  }
+}
+containedDuplicates.sort((left, right) => right.ratio - left.ratio);
 
 const assetPaths = [...html.matchAll(/(?:src|href)="(assets\/[^"]+)"/g)].map(match => match[1]);
 const missingAssets = [...new Set(assetPaths)].filter(asset => !fs.existsSync(path.join(root, asset)));
@@ -214,6 +231,7 @@ const report = {
     arabicOnly: arabicOnly.length,
     exactDuplicateGroups: exactDuplicates.length,
     nearDuplicatePairs: nearDuplicates.length,
+    containedDuplicatePairs: containedDuplicates.length,
     missingAssets: missingAssets.length,
     emptyHeadings: emptyHeadings.length,
     suspiciousTranslationRatios: translationRatios.length,
@@ -229,6 +247,11 @@ const report = {
     score: Number(pair.score.toFixed(3)),
     left: compactEntry(pair.left),
     right: compactEntry(pair.right),
+  })),
+  containedDuplicates: containedDuplicates.map(pair => ({
+    ratio: Number(pair.ratio.toFixed(3)),
+    shorter: compactEntry(pair.shorter),
+    longer: compactEntry(pair.longer),
   })),
   emptyHeadings,
   suspiciousTranslationRatios: translationRatios,
@@ -249,6 +272,7 @@ if (jsonMode) {
     arabicOnly: report.arabicOnly,
     exactDuplicates: report.exactDuplicates,
     nearDuplicates: report.nearDuplicates,
+    containedDuplicates: report.containedDuplicates,
     emptyHeadings,
     suspiciousTranslationRatios: translationRatios,
     telegramMediaCandidates,

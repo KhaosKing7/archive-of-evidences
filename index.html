@@ -118,22 +118,40 @@
     blockquote p:last-child { margin-bottom: 0; }
     p, blockquote { unicode-bidi: plaintext; }
     .source-panel {
-      margin: 18px 0 28px;
+      margin: 14px 0 0;
       overflow: hidden;
       border: 1px solid var(--line);
-      border-radius: 9px;
-      background: rgba(28, 26, 23, .72);
+      border-radius: 7px;
+      background: rgba(20, 19, 16, .72);
     }
     .source-panel summary {
-      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      padding: 10px 13px;
       cursor: pointer;
       color: #e5c77f;
       font-family: system-ui, sans-serif;
-      font-size: .9rem;
+      font-size: .82rem;
       font-weight: 650;
       letter-spacing: .015em;
+      list-style: none;
       user-select: none;
     }
+    .source-panel summary::-webkit-details-marker { display: none; }
+    .source-panel summary::before {
+      content: '+';
+      width: 20px;
+      height: 20px;
+      display: grid;
+      flex: 0 0 20px;
+      place-items: center;
+      border: 1px solid var(--gold-soft);
+      border-radius: 4px;
+      color: var(--gold);
+      font: 700 14px/1 system-ui, sans-serif;
+    }
+    .source-panel[open] summary::before { content: '−'; }
     .source-panel[open] summary {
       border-bottom: 1px solid var(--line);
       background: var(--panel-2);
@@ -360,6 +378,50 @@
       font: inherit;
       font-size: .84rem;
     }
+    .multi-combobox { position: relative; }
+    .filter-chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+    .filter-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      max-width: 100%;
+      padding: 4px 7px;
+      border: 1px solid var(--gold-soft);
+      border-radius: 999px;
+      background: var(--panel-2);
+      color: var(--text);
+      font-size: .72rem;
+      line-height: 1.2;
+    }
+    .filter-chip button { padding: 0; border: 0; background: transparent; color: var(--gold); cursor: pointer; font: inherit; }
+    .combobox-options {
+      position: absolute;
+      z-index: 20;
+      top: calc(100% + 4px);
+      left: 0;
+      right: 0;
+      max-height: 240px;
+      overflow: auto;
+      padding: 5px;
+      border: 1px solid var(--gold-soft);
+      border-radius: 7px;
+      background: #171510;
+      box-shadow: 0 14px 38px rgba(0,0,0,.45);
+    }
+    .combobox-options[hidden] { display: none; }
+    .combobox-option {
+      width: 100%;
+      padding: 8px 9px;
+      border: 0;
+      border-radius: 5px;
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+      font: inherit;
+      font-size: .79rem;
+      text-align: left;
+    }
+    .combobox-option:hover, .combobox-option:focus { background: var(--panel-2); outline: none; }
     .filter-checks {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -398,11 +460,51 @@
     }
     .evidence-entry[hidden],
     .filtered-heading[hidden] { display: none; }
-    .evidence-entry.entry-separated {
-      margin-top: 44px;
-      padding-top: 44px;
-      border-top: 1px solid var(--line);
+    .evidence-entry {
+      position: relative;
+      margin: 22px 0;
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: 11px;
+      background: rgba(25, 23, 19, .6);
+      scroll-margin-top: 28px;
     }
+    .evidence-entry:target { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(213,173,85,.12); }
+    .evidence-entry.entry-separated { margin-top: 28px; }
+    .evidence-entry > h3:first-of-type { margin-top: 6px; }
+    .entry-tools { display: flex; justify-content: flex-end; gap: 6px; margin: -8px -8px 12px 0; }
+    .entry-tool {
+      width: 31px;
+      height: 31px;
+      display: grid;
+      place-items: center;
+      padding: 0;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--gold);
+      cursor: pointer;
+      font: 700 .72rem/1 system-ui, sans-serif;
+    }
+    .entry-tool:hover { border-color: var(--gold-soft); background: var(--panel-2); }
+    .entry-tool:disabled { opacity: .32; cursor: not-allowed; }
+    .copy-toast {
+      position: fixed;
+      z-index: 50;
+      right: 22px;
+      bottom: 76px;
+      padding: 8px 11px;
+      border: 1px solid var(--gold-soft);
+      border-radius: 6px;
+      background: var(--panel);
+      color: var(--text);
+      font: .8rem system-ui, sans-serif;
+      opacity: 0;
+      transform: translateY(6px);
+      pointer-events: none;
+      transition: .18s ease;
+    }
+    .copy-toast.show { opacity: 1; transform: translateY(0); }
     .scholar-index-intro {
       color: var(--muted);
       font-family: system-ui, sans-serif;
@@ -462,6 +564,10 @@
       color: var(--muted);
       font-family: system-ui, sans-serif;
     }
+    .book-grid { display: grid; gap: 14px; margin-top: 28px; }
+    .book-card { border: 1px solid var(--line); border-radius: 9px; background: rgba(28,26,23,.72); overflow: hidden; }
+    .book-card summary { display: flex; justify-content: space-between; gap: 16px; padding: 15px 17px; cursor: pointer; color: #e5c77f; font-family: system-ui,sans-serif; font-weight: 700; }
+    .book-statements { margin: 0; padding: 4px 20px 18px 38px; font-family: system-ui,sans-serif; font-size: .86rem; }
     @media (max-width: 900px) {
       .layout { display: block; }
       aside {
@@ -511,29 +617,50 @@
         <button class="topic-tab" type="button" role="tab" aria-selected="false" data-topic="scholars">
           Scholar Index
         </button>
+        <button class="topic-tab" type="button" role="tab" aria-selected="false" data-topic="books">
+          Book Index
+        </button>
       </div>
       <label class="topic-select-label" for="topic-select">Evidence collection</label>
       <select id="topic-select" class="topic-select">
         <option value="tawhid">Kufr biṭ-Ṭāghūt</option>
         <option value="istighatha">Istighāthah, Ṭalab al-Duʿāʾ &amp; Tawassul</option>
         <option value="scholars">Scholar Index</option>
+        <option value="books">Book Index</option>
       </select>
       <div class="topic-summary" id="topic-summary"></div>
       <div class="archive-tools" id="archive-tools">
         <label>Search all text
           <input id="archive-search" type="search" placeholder="Words, translation, citation…">
         </label>
-        <label>Book or source
-          <input id="book-filter" type="search" placeholder="e.g. Majmūʿ al-Fatāwā">
+        <label>Books or sources
+          <div class="multi-combobox" id="book-combobox">
+            <input id="book-filter" type="search" placeholder="Type to find books…" role="combobox" aria-expanded="false" aria-controls="book-options" autocomplete="off">
+            <div class="combobox-options" id="book-options" role="listbox" hidden></div>
+            <div class="filter-chips" id="book-chips"></div>
+          </div>
         </label>
-        <label>Scholar
-          <select id="scholar-filter"><option value="">All scholars</option></select>
+        <label>Scholars
+          <div class="multi-combobox" id="scholar-combobox">
+            <input id="scholar-filter" type="search" placeholder="Type to find scholars…" role="combobox" aria-expanded="false" aria-controls="scholar-options" autocomplete="off">
+            <div class="combobox-options" id="scholar-options" role="listbox" hidden></div>
+            <div class="filter-chips" id="scholar-chips"></div>
+          </div>
         </label>
         <label>Century
           <select id="century-filter"><option value="">All centuries</option></select>
         </label>
         <label>Category
           <select id="category-filter"><option value="">All categories</option></select>
+        </label>
+        <label>Sort statements
+          <select id="sort-filter">
+            <option value="earliest">Earliest scholar first</option>
+            <option value="relevance">Most relevant</option>
+            <option value="latest">Latest scholar first</option>
+            <option value="added">Most recently added</option>
+            <option value="book">Book and page order</option>
+          </select>
         </label>
         <div class="filter-checks">
           <label><input id="arabic-only" type="checkbox"> Arabic available</label>
@@ -8249,10 +8376,16 @@
 <p class="scholar-index-intro">Scholars are arranged chronologically. Open a name to see every attributed statement in the archive, then select a statement to return to its complete entry and source material.</p>
 <div class="scholar-grid" id="scholar-grid"></div>
 </section>
+<section class="topic-panel" id="topic-books" data-topic-panel="books" hidden>
+<h2 id="book-index-title">Book Index</h2>
+<p class="scholar-index-intro">Books and named source works are arranged alphabetically. Open a title to see every cited passage from that work.</p>
+<div class="book-grid" id="book-grid"></div>
+</section>
 </article>
     </main>
   </div>
   <a class="top-link" href="#top" aria-label="Back to top">↑</a>
+  <div class="copy-toast" id="copy-toast" role="status" aria-live="polite"></div>
   <script>
     const topics = {
       tawhid: {
@@ -8283,6 +8416,10 @@
       scholars: {
         summary: 'A chronological index of scholars, with links to every attributed statement in both evidence collections.',
         links: [['scholar-index-title', 'Chronological index']]
+      },
+      books: {
+        summary: 'An alphabetical index of books and named source works, with links to every cited passage.',
+        links: [['book-index-title', 'Book index']]
       }
     };
 
@@ -8375,8 +8512,13 @@
       search: document.querySelector('#archive-search'),
       book: document.querySelector('#book-filter'),
       scholar: document.querySelector('#scholar-filter'),
+      scholarOptions: document.querySelector('#scholar-options'),
+      scholarChips: document.querySelector('#scholar-chips'),
+      bookOptions: document.querySelector('#book-options'),
+      bookChips: document.querySelector('#book-chips'),
       century: document.querySelector('#century-filter'),
       category: document.querySelector('#category-filter'),
+      sort: document.querySelector('#sort-filter'),
       arabic: document.querySelector('#arabic-only'),
       scan: document.querySelector('#scan-only'),
       count: document.querySelector('#filter-count'),
@@ -8391,6 +8533,12 @@
     let observer;
     let evidenceEntries = [];
     let scholarCards = [];
+    let bookCards = [];
+    let availableBooks = [];
+    let availableScholars = [];
+    const selectedBooks = new Set();
+    const selectedScholars = new Set();
+    const relevanceRanks = Object.freeze({});
 
     function identifyScholar(text) {
       const normalized = normalize(text);
@@ -8489,6 +8637,111 @@
       return label.length > 150 ? label.slice(0, 147) + '…' : label;
     }
 
+    function sourceWorks(entry) {
+      const titles = [...entry.querySelectorAll('p em')]
+        .map(node => node.textContent.replace(/\s+/g, ' ').trim())
+        .filter(title => title.length >= 4 && title.length <= 140);
+      if (titles.length) return [...new Set(titles)];
+      const source = entry.dataset.source || sourceLabel(entry);
+      const cleaned = source
+        .replace(/^.*?,\s*/, '')
+        .replace(/\b(?:vol\.?|volume|p\.?|pp\.?|page)\s*\d+[\s\S]*$/i, '')
+        .replace(/\s+\d+\s*\/\s*\d+[\s\S]*$/, '')
+        .replace(/[.\s]+$/, '')
+        .trim();
+      return cleaned.length >= 4 && cleaned.length <= 140 ? [cleaned] : [];
+    }
+
+    function numericHash(value) {
+      let hash = 2166136261;
+      for (let index = 0; index < value.length; index += 1) {
+        hash ^= value.charCodeAt(index);
+        hash = Math.imul(hash, 16777619);
+      }
+      return String(hash >>> 0).padStart(10, '0');
+    }
+
+    function stableEntryId(wrapper, topic, category) {
+      const sourceComment = [...wrapper.childNodes].find(node =>
+        node.nodeType === Node.COMMENT_NODE && /telegram-source:/i.test(node.textContent)
+      );
+      const key = [
+        topic,
+        category,
+        sourceComment?.textContent.trim() || '',
+        wrapper.querySelector(':scope > h3')?.textContent || '',
+        sourceLabel(wrapper)
+      ].join('|');
+      return 'evidence-' + numericHash(normalize(key));
+    }
+
+    function formattedBlockText(root, selector) {
+      return [...root.querySelectorAll(selector)]
+        .filter(node => !node.closest('.entry-tools') && !node.closest('.source-panel'))
+        .map(node => node.textContent.replace(/\s+/g, ' ').trim())
+        .filter(Boolean)
+        .filter(text => !/^(English|Arabic)$/i.test(text))
+        .filter((text, index, all) => all.indexOf(text) === index)
+        .join('\n\n');
+    }
+
+    function englishCopyText(entry) {
+      return formattedBlockText(entry, ':scope > h3, :scope > h4, :scope > p, :scope > blockquote, :scope > ul > li, :scope > ol > li');
+    }
+
+    function arabicCopyText(entry) {
+      const panel = entry.querySelector('.arabic-source .arabic-text, .arabic-text[lang="ar"]');
+      if (!panel) return '';
+      return [...panel.querySelectorAll('p, h4, blockquote, li')]
+        .map(node => node.textContent.replace(/\s+/g, ' ').trim())
+        .filter(Boolean)
+        .join('\n\n');
+    }
+
+    async function copyText(value, message) {
+      try {
+        await navigator.clipboard.writeText(value);
+      } catch {
+        const area = document.createElement('textarea');
+        area.value = value;
+        area.style.position = 'fixed';
+        area.style.opacity = '0';
+        document.body.appendChild(area);
+        area.select();
+        document.execCommand('copy');
+        area.remove();
+      }
+      const toast = document.querySelector('#copy-toast');
+      toast.textContent = message;
+      toast.classList.add('show');
+      clearTimeout(copyText.timer);
+      copyText.timer = setTimeout(() => toast.classList.remove('show'), 1500);
+    }
+
+    function addEntryTools(entry) {
+      const arabic = arabicCopyText(entry);
+      const tools = document.createElement('div');
+      tools.className = 'entry-tools';
+      const definitions = [
+        ['↗', 'Copy permanent link', () => new URL('#' + entry.id, location.href).href, 'Permanent link copied', false],
+        ['EN', 'Copy English with citation', () => englishCopyText(entry), 'English copied', false],
+        ['ع', 'Copy Arabic with citation', () => arabic, 'Arabic copied', true],
+        ['⇄', 'Copy Arabic and English with citations', () => arabic ? arabic + '\n\n' + englishCopyText(entry) : englishCopyText(entry), 'Arabic and English copied', true]
+      ];
+      definitions.forEach(([icon, label, value, message, requiresArabic]) => {
+        const button = document.createElement('button');
+        button.className = 'entry-tool';
+        button.type = 'button';
+        button.textContent = icon;
+        button.title = label;
+        button.setAttribute('aria-label', label);
+        if (requiresArabic && !arabic) button.disabled = true;
+        button.addEventListener('click', () => copyText(value(), message));
+        tools.appendChild(button);
+      });
+      entry.prepend(tools);
+    }
+
     function prepareEvidenceEntries() {
       let entryNumber = 0;
       ['tawhid', 'istighatha'].forEach(topic => {
@@ -8502,7 +8755,7 @@
           if (!meaningful) { pending = []; return; }
           const wrapper = document.createElement('div');
           wrapper.className = 'evidence-entry';
-          wrapper.id = 'evidence-' + (++entryNumber);
+          entryNumber += 1;
           pending[0].before(wrapper);
           pending.forEach(node => wrapper.appendChild(node));
           pending = [];
@@ -8512,15 +8765,24 @@
           wrapper.dataset.topic = topic;
           wrapper.dataset.category = category;
           wrapper.dataset.categoryId = categoryId;
+          wrapper.dataset.originalOrder = String(entryNumber);
           wrapper.dataset.scholar = scholar?.name || '';
           wrapper.dataset.death = scholar?.death || '';
           wrapper.dataset.century = scholar
             ? (scholar.death >= 1500 ? 'Contemporary / institution' : Math.ceil(scholar.death / 100) + suffix(Math.ceil(scholar.death / 100)) + ' century AH')
             : 'Unattributed';
           wrapper.dataset.source = sourceLabel(wrapper);
+          wrapper.dataset.books = JSON.stringify(sourceWorks(wrapper));
           wrapper.dataset.search = normalize(text);
           wrapper.dataset.hasArabic = String(Boolean(wrapper.querySelector('.arabic-source, .arabic-text[lang="ar"]')));
           wrapper.dataset.hasScan = String(Boolean(wrapper.querySelector('.scan-source, img.source-scan')));
+          wrapper.id = stableEntryId(wrapper, topic, category);
+          [...wrapper.querySelectorAll(':scope > details.source-panel')].forEach(sourcePanel => {
+            const summary = sourcePanel.querySelector(':scope > summary');
+            if (summary) summary.textContent = sourcePanel.classList.contains('arabic-source') ? 'Arabic text' : 'Source scan';
+            wrapper.appendChild(sourcePanel);
+          });
+          addEntryTools(wrapper);
           evidenceEntries.push(wrapper);
         };
 
@@ -8566,7 +8828,80 @@
     }
 
     function entriesInScope() {
-      return activeTopic === 'scholars' ? evidenceEntries : evidenceEntries.filter(entry => entry.dataset.topic === activeTopic);
+      return ['scholars', 'books'].includes(activeTopic) ? evidenceEntries : evidenceEntries.filter(entry => entry.dataset.topic === activeTopic);
+    }
+
+    function selectedSetFor(kind) { return kind === 'book' ? selectedBooks : selectedScholars; }
+    function inputFor(kind) { return kind === 'book' ? controls.book : controls.scholar; }
+    function optionsFor(kind) { return kind === 'book' ? controls.bookOptions : controls.scholarOptions; }
+    function chipsFor(kind) { return kind === 'book' ? controls.bookChips : controls.scholarChips; }
+    function valuesFor(kind) { return kind === 'book' ? availableBooks : availableScholars; }
+
+    function renderChips(kind) {
+      const selected = selectedSetFor(kind);
+      const container = chipsFor(kind);
+      container.replaceChildren(...[...selected].map(value => {
+        const chip = document.createElement('span');
+        chip.className = 'filter-chip';
+        chip.append(document.createTextNode(value));
+        const remove = document.createElement('button');
+        remove.type = 'button';
+        remove.textContent = '×';
+        remove.setAttribute('aria-label', 'Remove ' + value);
+        remove.addEventListener('click', () => {
+          selected.delete(value);
+          renderChips(kind);
+          renderCombobox(kind);
+          applyFilters();
+        });
+        chip.appendChild(remove);
+        return chip;
+      }));
+    }
+
+    function renderCombobox(kind) {
+      const input = inputFor(kind);
+      const menu = optionsFor(kind);
+      const selected = selectedSetFor(kind);
+      const query = normalize(input.value);
+      const matches = valuesFor(kind)
+        .filter(value => !selected.has(value) && (!query || normalize(value).includes(query)))
+        .slice(0, 80);
+      menu.replaceChildren(...matches.map(value => {
+        const option = document.createElement('button');
+        option.className = 'combobox-option';
+        option.type = 'button';
+        option.role = 'option';
+        option.textContent = value;
+        option.addEventListener('mousedown', event => event.preventDefault());
+        option.addEventListener('click', () => {
+          selected.add(value);
+          input.value = '';
+          renderChips(kind);
+          renderCombobox(kind);
+          applyFilters();
+          input.focus();
+        });
+        return option;
+      }));
+      menu.hidden = !matches.length || document.activeElement !== input;
+      input.setAttribute('aria-expanded', String(!menu.hidden));
+    }
+
+    function setupCombobox(kind) {
+      const input = inputFor(kind);
+      input.addEventListener('focus', () => renderCombobox(kind));
+      input.addEventListener('input', () => renderCombobox(kind));
+      input.addEventListener('keydown', event => {
+        const first = optionsFor(kind).querySelector('.combobox-option');
+        if (event.key === 'ArrowDown' && first) { event.preventDefault(); first.focus(); }
+        if (event.key === 'Enter' && first) { event.preventDefault(); first.click(); }
+        if (event.key === 'Escape') { optionsFor(kind).hidden = true; input.setAttribute('aria-expanded', 'false'); }
+      });
+      input.addEventListener('blur', () => setTimeout(() => {
+        optionsFor(kind).hidden = true;
+        input.setAttribute('aria-expanded', 'false');
+      }, 80));
     }
 
     function populateFilterOptions() {
@@ -8586,21 +8921,74 @@
           return parseInt(a) - parseInt(b);
         });
       const categories = [...new Set(scoped.map(entry => entry.dataset.category).filter(Boolean))].sort(optionSort);
-      replaceOptions(controls.scholar, 'All scholars', scholarNames);
+      availableScholars = scholarNames;
+      availableBooks = [...new Set(scoped.flatMap(entry => JSON.parse(entry.dataset.books || '[]')))].sort(optionSort);
+      [...selectedScholars].forEach(value => { if (!availableScholars.includes(value)) selectedScholars.delete(value); });
+      [...selectedBooks].forEach(value => { if (!availableBooks.includes(value)) selectedBooks.delete(value); });
+      renderChips('scholar');
+      renderChips('book');
+      renderCombobox('scholar');
+      renderCombobox('book');
       replaceOptions(controls.century, 'All centuries', centuries);
       replaceOptions(controls.category, 'All categories', categories);
     }
 
+    function scholarOrder(entry) {
+      if (!entry.dataset.scholar) return Number.MAX_SAFE_INTEGER;
+      return scholarCatalog.find(scholar => scholar.name === entry.dataset.scholar)?.order ?? Number.MAX_SAFE_INTEGER;
+    }
+
+    function relevanceOrder(entry) {
+      return relevanceRanks[entry.id] ?? Number(entry.dataset.originalOrder);
+    }
+
+    function compareEntries(left, right) {
+      const mode = controls.sort.value;
+      if (mode === 'latest') {
+        return scholarOrder(right) - scholarOrder(left) || relevanceOrder(left) - relevanceOrder(right);
+      }
+      if (mode === 'added') {
+        return Number(right.dataset.originalOrder) - Number(left.dataset.originalOrder);
+      }
+      if (mode === 'book') {
+        const leftBook = JSON.parse(left.dataset.books || '[]')[0] || left.dataset.source;
+        const rightBook = JSON.parse(right.dataset.books || '[]')[0] || right.dataset.source;
+        return leftBook.localeCompare(rightBook, undefined, { numeric: true, sensitivity: 'base' })
+          || left.dataset.source.localeCompare(right.dataset.source, undefined, { numeric: true, sensitivity: 'base' })
+          || relevanceOrder(left) - relevanceOrder(right);
+      }
+      if (mode === 'relevance') {
+        return relevanceOrder(left) - relevanceOrder(right);
+      }
+      return scholarOrder(left) - scholarOrder(right) || relevanceOrder(left) - relevanceOrder(right);
+    }
+
+    function sortEvidenceEntries() {
+      ['tawhid', 'istighatha'].forEach(topic => {
+        const grouped = new Map();
+        evidenceEntries.filter(entry => entry.dataset.topic === topic).forEach(entry => {
+          const group = grouped.get(entry.dataset.categoryId) || [];
+          group.push(entry);
+          grouped.set(entry.dataset.categoryId, group);
+        });
+        grouped.forEach((entries, categoryId) => {
+          const heading = document.getElementById(categoryId);
+          if (!heading) return;
+          heading.after(...entries.sort(compareEntries));
+        });
+      });
+    }
+
     function entryMatches(entry) {
       const search = normalize(controls.search.value);
-      const book = normalize(controls.book.value);
       const scholarMatches = search.length >= 5
         ? scholarCatalog.filter(scholar => scholar.keys.some(key => key.includes(search) || search.includes(key)))
         : [];
       const searchedScholar = scholarMatches.length === 1 ? scholarMatches[0].name : '';
+      const books = JSON.parse(entry.dataset.books || '[]');
       return (!search || (searchedScholar ? entry.dataset.scholar === searchedScholar : entry.dataset.search.includes(search)))
-        && (!book || normalize(entry.dataset.source + ' ' + entry.textContent).includes(book))
-        && (!controls.scholar.value || entry.dataset.scholar === controls.scholar.value)
+        && (!selectedBooks.size || [...selectedBooks].some(book => books.includes(book)))
+        && (!selectedScholars.size || selectedScholars.has(entry.dataset.scholar))
         && (!controls.century.value || entry.dataset.century === controls.century.value)
         && (!controls.category.value || entry.dataset.category === controls.category.value)
         && (!controls.arabic.checked || entry.dataset.hasArabic === 'true')
@@ -8627,11 +9015,23 @@
       });
     }
 
+    function sortIndexCard(card) {
+      const list = card.querySelector('ul');
+      if (!list) return;
+      const items = new Map([...list.children].map(item => [item.dataset.entryLink, item]));
+      card._entries.slice().sort(compareEntries).forEach(entry => {
+        const item = items.get(entry.id);
+        if (item) list.appendChild(item);
+      });
+    }
+
     function applyFilters() {
+      sortEvidenceEntries();
       if (activeTopic === 'scholars') {
         let shownEntries = 0;
         let shownScholars = 0;
         scholarCards.forEach(card => {
+          sortIndexCard(card);
           const matching = card._entries.filter(entryMatches);
           card.hidden = matching.length === 0;
           card.querySelectorAll('[data-entry-link]').forEach(link => {
@@ -8643,6 +9043,25 @@
         });
         controls.count.textContent = shownScholars + ' scholars · ' + shownEntries + ' statements';
         document.querySelector('#scholar-empty').hidden = shownScholars !== 0;
+        return;
+      }
+
+      if (activeTopic === 'books') {
+        let shownEntries = 0;
+        let shownBooks = 0;
+        bookCards.forEach(card => {
+          sortIndexCard(card);
+          const matching = card._entries.filter(entryMatches);
+          card.hidden = matching.length === 0;
+          card.querySelectorAll('[data-entry-link]').forEach(link => {
+            link.hidden = !matching.some(entry => entry.id === link.dataset.entryLink);
+          });
+          card.querySelector('[data-book-count]').textContent = matching.length + (matching.length === 1 ? ' statement' : ' statements');
+          shownEntries += matching.length;
+          if (matching.length) shownBooks++;
+        });
+        controls.count.textContent = shownBooks + ' books · ' + shownEntries + ' statements';
+        document.querySelector('#book-empty').hidden = shownBooks !== 0;
         return;
       }
 
@@ -8661,6 +9080,10 @@
       controls.search.value = '';
       controls.book.value = '';
       controls.scholar.value = '';
+      selectedBooks.clear();
+      selectedScholars.clear();
+      renderChips('book');
+      renderChips('scholar');
       controls.century.value = '';
       controls.category.value = '';
       controls.arabic.checked = false;
@@ -8734,6 +9157,71 @@
       grid.appendChild(empty);
     }
 
+    function buildBookIndex() {
+      const grid = document.querySelector('#book-grid');
+      const grouped = new Map();
+      evidenceEntries.forEach(entry => {
+        JSON.parse(entry.dataset.books || '[]').forEach(book => {
+          if (!grouped.has(book)) grouped.set(book, []);
+          grouped.get(book).push(entry);
+        });
+      });
+
+      [...grouped.keys()].sort(optionSort).forEach(book => {
+        const entries = grouped.get(book).filter((entry, index, all) => {
+          const key = citationKey(entry);
+          return all.findIndex(candidate => citationKey(candidate) === key) === index;
+        });
+        const card = document.createElement('details');
+        card.className = 'book-card';
+        card.dataset.bookCard = book;
+        card._entries = entries;
+        const summary = document.createElement('summary');
+        const title = document.createElement('span');
+        title.textContent = book;
+        const count = document.createElement('span');
+        count.className = 'scholar-meta';
+        count.dataset.bookCount = '';
+        count.textContent = entries.length + (entries.length === 1 ? ' statement' : ' statements');
+        summary.append(title, count);
+        const list = document.createElement('ul');
+        list.className = 'book-statements';
+        entries.forEach(entry => {
+          const item = document.createElement('li');
+          item.dataset.entryLink = entry.id;
+          const link = document.createElement('a');
+          link.href = '#' + entry.id;
+          const statement = document.createElement('span');
+          statement.className = 'statement-title';
+          statement.textContent = statementTitle(entry);
+          const source = document.createElement('span');
+          source.className = 'statement-source';
+          source.textContent = entry.dataset.category + ' · ' + entry.dataset.source;
+          link.append(statement, source);
+          link.addEventListener('click', event => {
+            event.preventDefault();
+            clearFilters(false);
+            activateTopic(entry.dataset.topic);
+            requestAnimationFrame(() => {
+              entry.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              history.replaceState(null, '', '#' + entry.id);
+            });
+          });
+          item.appendChild(link);
+          list.appendChild(item);
+        });
+        card.append(summary, list);
+        grid.appendChild(card);
+        bookCards.push(card);
+      });
+      const empty = document.createElement('p');
+      empty.id = 'book-empty';
+      empty.className = 'scholar-empty';
+      empty.textContent = 'No books or statements match these filters.';
+      empty.hidden = true;
+      grid.appendChild(empty);
+    }
+
     function topicForHash(hash) {
       const id = decodeURIComponent(hash.replace(/^#/, ''));
       if (!id) return null;
@@ -8798,10 +9286,14 @@
 
     prepareEvidenceEntries();
     buildScholarIndex();
+    buildBookIndex();
+    setupCombobox('book');
+    setupCombobox('scholar');
     Object.values(controls).forEach(control => {
-      if (!control || control === controls.count || control === controls.clear) return;
+      if (!control || [controls.count, controls.clear, controls.book, controls.scholar, controls.bookOptions, controls.scholarOptions, controls.bookChips, controls.scholarChips, controls.sort].includes(control)) return;
       control.addEventListener(control.tagName === 'INPUT' && !['checkbox'].includes(control.type) ? 'input' : 'change', applyFilters);
     });
+    controls.sort.addEventListener('change', applyFilters);
     controls.clear.addEventListener('click', () => clearFilters());
     topicTabs.forEach(tab => tab.addEventListener('click', () => activateTopic(tab.dataset.topic, { scroll: true })));
     topicSelect.addEventListener('change', () => activateTopic(topicSelect.value, { scroll: true }));
