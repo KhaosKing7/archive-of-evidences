@@ -293,22 +293,6 @@ Source: ʿAbd al-Raḥmān ibn Ḥasan, al-Durar al-Saniyyah, 11/545.
 
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Majmūʿat al-Rasāʾil wa-al-Masāʾil al-Najdiyyah, 3/314.
 
-<!-- telegram-source: dar/messages4.html#message3993 -->
-
-Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
-
-There is no disavowal from shirk and from the worship of anyone besides Allāh except by His Tawḥīd, and there is no Tawḥīd except by disavowal from every deity besides Allāh.
-
-And just as it includes knowledge, it also includes action. It is not conceivable that there be testimony, submission, or performance of its meaning except with knowledge and action. And this, which we have established, is indicated by the expressions of the scholars among the linguists, the mufassirīn (exegetes), and others.”
-
-[Fatḥ al-Malik al-Wahhāb fī Radd Shubha al-Murtāb by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.35]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/8f19930402e2e9537e4e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message560 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
@@ -396,24 +380,6 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages4.html#message3930 -->
-
-Shaykh Ṣāliḥ al-Fawzān said:
-
-As for the one who worships Allah but also worships others alongside Him, this person has not truly realized lā ilāha illā Allāh, even if he utters it with his tongue. The one who says lā ilāha illā Allāh but then goes to graves, seeks needs from them, rubs himself with them, seeks help from them, or circumambulates them, has not purified himself from shirk.
-
-Thus, lā ilāha illā Allāh does not benefit him, even if he repeats it with every breath. Lā ilāha illā Allāh is not merely a phrase to be spoken; it has implications, meanings, and requirements that must be realized—worship of Allah alone and disavowal of shirk and mushrikīn.
-
-Whoever does not disavow shirk has not truly realized lā ilāha illā Allāh, even if he utters it or makes for himself morning and evening litanies, carries a rosary of great length to glorify Allah, or repeats litanies containing lā ilāha illā Allāh thousands of times. This does not benefit him until he follows what Ibrāhīm عليه السلام did—purifying himself from shirk.
-
-[Iʿānat al-Mustafīd bi-Sharḥ Kitāb at-Tawḥīd by al-ʿAllāmah Shaykh Ṣāliḥ al-Fawzān p.172-173]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/adc809c4fb88c8b12b8e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -688,30 +654,6 @@ The verse indicates:
 
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Fatḥ al-Malik al-Wahhāb fī Radd Shubhat al-Murtāb, p. 35.
 
-<!-- telegram-source: dar/messages5.html#message4613 -->
-
-Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
-
-“The seventh — the great issue — "is that the worship of Allah does not occur", nor is it conceivable for anyone, nor does anyone among the creation attain it, "except with kufr biṭ-ṭāghūt" (Disbelief in false deities). It is only attained when one disbelieves in the ṭāghūt.
-
-The author derived this from "Worship Allah and avoid the ṭāghūt" (an-Naḥl: 36). For the verse indicates two matters: that you worship Allah and avoid the ṭāghūt. Thus it indicates two commands, the first being connected with the second.
-
-Your attentiveness to the secret in that is that many people think that mere acknowledgment alone, or action alone, is sufficient. But the texts are contrary to that.
-
-Rather, the verse indicates another matter: belief and testimony that the worship of other than Allah is kufr and misguidance. So whenever a person hesitates—even out of caution—his blood and wealth are not protected. Hence comes His statement: "Whoever disbelieves in ṭāghūt and believes in Allâh, then he has grasped the most trustworthy handhold" (al-Baqarah: 256).
-
-From that it follows the takfīr of the mushrikīn. For if he truly disbelieved in what is worshipped besides Allah, he would act upon that and declare kufr upon the one from whom this action occurs—namely shirk.
-
-Indeed, from the necessary implication of kufr biṭ-ṭāghūt is declaring disbelief upon the one who worships other than Allah. So if he does not declare them kuffār, we know that he has not worshipped Allah alone.”
-
-[Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/202-203]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/ddf920c96c00cf1347ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message539 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
@@ -735,22 +677,6 @@ Indeed, from the necessary implication of kufr biṭ-ṭāghūt is declaring dis
 <p><img class="source-scan" src="assets/scans/659f5bacbb790dd3f496.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 <p><img class="source-scan" src="assets/scans/ddf920c96c00cf1347ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
----
-
-<!-- telegram-source: dar/messages5.html#message4964 -->
-
-Shaykh al-Fawzān was asked:
-
-Q: Is our declaring takfīr upon the grave-worshippers from this ummah considered part of affirming kufr biṭ-ṭāghūt?
-
-A: Yes, without a doubt; without a doubt. The ṭāghūt is whatever is worshipped besides Allah while being pleased with that, or calling to it.
-
-But if he is worshipped while not being pleased with that, then the ṭāghūt is the one whom Shayṭān commanded them with, so they are worshipping Shayṭān and not worshipping the righteous man or the walī; rather they worship Shayṭān who commanded them to do that.
-
-As for the righteous man and the followers of the prophets, they will disavow those who worshipped them on the Day of Judgment, and they will say: “We did not command them, nor were we aware of their worship of us.”
-
-“They will say: "Glorified be You! You are our Walî instead of them. Nay, but they used to worship the jinn.” [Sabaʾ:41] meaning, the Shayāṭīn “most of them were believers in them”  because they obeyed the Shayāṭīn, so they became worshippers of the Shayāṭīn. Yes.
-
 ---
 
 <!-- telegram-source: dar/messages4.html#message3986 -->
@@ -831,36 +757,6 @@ Both are necessary. If someone says “Allāh” only, or “tawḥīd for Allā
 
 ---
 
-<!-- telegram-source: dar/messages5.html#message4343 -->
-
-Shaykh Ṣāliḥ Āl al-Shaykh said:
-
-He said: "Al-barā’ah (disavowal) from shirk and its people” has been explained with several explanations—its root and its branches. The root of barā’ah is hatred in the heart; meaning hatred of shirk and its people.
-
-What follows that hatred is showing enmity toward them, and declaring as unbelievers those whom Allāh and His Messenger declared unbelievers—declaring mushrikīn as unbelievers, and fighting them when that is legislated.
-
-And this is also the meaning of kufr biṭ-ṭāghūt for disbelief in the ṭāghūt is to hate it, to show enmity to its people, and to declare as unbelievers the people of the ṭāghūt, meaning those who worship other than Allāh, and to fight them when that is legislated. The root of barā’ah from shirk is hatred, and following that hatred are several things:
-
-First: enmity.
-
-Second: takfīr. And it is known that takfīr follows knowledge.
-
-Third: fighting them when that is legislated; and that also requires knowledge.
-
-Thus it becomes clear that the common people—meaning those who are not scholars—are responsible for the root of barā’ah, which is hatred; as for its branches, they follow the degree of knowledge. Hatred is necessary: he must hate shirk. If he does not hate shirk, then he is not a Muslim. If he loves Islam and its people, and loves tawḥīd and its people, but he does not hate shirk and its people, then he is not a Muslim.
-
-However, he may hate shirk and the people of shirk in principle, yet love certain mushrikīn for some worldly reason. Such a person is not a mushrik, but his Islam is deficient—just as previously explained in distinguishing loyalty and alliance.
-
-The intended point is that the matter of barā’ah—from shirk and its people—its root is hatred, and following it are several things: enmity, takfīr, and fighting; and all of these are dependent on knowledge, and they vary according to people.
-
-[Sharḥ Thalāthat al-Uṣūl by Shaykh Ṣāliḥ Āl al-Shaykh p.137-138]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/460c264c7823f115420f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message571 -->
 
 Shaykh Ṣāliḥ Āl al-Shaykh said:
@@ -892,40 +788,6 @@ The intended point is that the matter of barā’ah—from shirk and its people�
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message4136 -->
-
-Shaykh Ayman al-ʿAnqarī on Kufr biṭ-ṭāghūt
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/abb25a83ae92d30912d5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: personal/messages.html#message522 -->
-
-Shaykh Ayman al-ʿAnqarī on Kufr biṭ-ṭāghūt
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/100f5e5e22aae4598606.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: personal/messages.html#message902 -->
-
-هل تكفير المشركين من الكفر بالطاغوت؟ | الشيخ أيمن العنقري
-
-Is takfīr al mushrikīn from disbelief in the Tāghūt | Shaykh Ayman al ‘Anqarī
-
----
-
-<!-- telegram-source: personal/messages.html#message498 -->
-
-Benefits regarding Tawhid, Bara’ah from shirk, Kufr bil taghut etc
-
----
-
 ## 4. Declaring the mushrikīn disbelievers
 
 ### Ibn Taymiyyah: religious descriptions follow the person’s own belief and action
@@ -946,6 +808,27 @@ Ibn Taymiyyah explains that a person’s description as Muslim, Jewish, Christia
 He continues: “Every ruling attached to religious names, such as Islām, faith, disbelief, hypocrisy, apostasy, Judaism, and Christianity, applies only to the person who possesses the qualities that necessitate it. A person’s being one of the mushrikīn or one of the People of the Book belongs to this same category. Whoever is himself a mushrik has the ruling of the people of shirk even if his parents were not mushrikīn; and whoever has mushrik parents but is himself a Muslim has the ruling of the Muslims, not the ruling of the mushrikīn.”
 
 Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
+
+### Ayman al-ʿAnqarī: takfīr of the mushrikīn is part of kufr biṭ-ṭāghūt
+
+<!-- telegram-source: personal/messages.html#message522 -->
+
+Shaykh Ayman al-ʿAnqarī explained:
+
+“The Shaykh said: ‘This is among the clearest matters demonstrating the meaning of lā ilāha illā Allāh. He did not make merely pronouncing it a protection for a person’s blood and wealth. Nor did he make knowing its meaning while pronouncing it sufficient, nor affirming it, nor even that the person calls upon Allāh alone without associating any partner with Him.’
+
+Some people say, ‘I am free from shirk,’ while remaining allied with the mushrikīn who worship the awliyāʾ. They say, ‘I say lā ilāha illā Allāh and disavow shirk.’ We say that this is not enough. One must disavow the mushrikīn. One must disavow both the worshipper and what is worshipped besides Allāh.
+
+Allāh says: ‘You already have an excellent example in Ibrāhīm and those with him, when they said to their people, “Indeed, we are free from you and whatever you worship besides Allāh. We have rejected you, and enmity and hatred have appeared between us and you forever until you believe in Allāh alone.”’ [al-Mumtaḥanah 60:4]
+
+What will they do with this verse? Their reinterpretation of it is among the distortions of the Murjiʾah and those who manipulate the texts. The wording is explicit. Allāh made kufr biṭ-ṭāghūt a condition. Declaring the mushrikīn disbelievers is included in it without doubt and is indispensable. If a person does not reject the mushrik, he has not fulfilled kufr biṭ-ṭāghūt.”
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-522.mp4"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
+
+---
 
 <a id="ibn-taymiyyah-udhr"></a>
 
@@ -997,15 +880,23 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 
 ---
 
-### Ṣāliḥ al-Fawzān
+### Ṣāliḥ al-Fawzān: takfīr of the grave worshippers is part of kufr biṭ-ṭāghūt
 
-Question: “Is our declaring the grave worshippers from this ummah disbelievers considered part of affirming kufr biṭ-ṭāghūt?”
+<!-- telegram-source: personal/messages.html#message662 -->
 
-Answer: “Yes, without a doubt, without a doubt.”
+Shaykh al-Fawzān was asked:
 
-The answer continues by distinguishing between an object worshipped while pleased with the worship and a righteous person who is worshipped without approving it.
+Q: Is our declaring takfīr upon the grave-worshippers from this ummah considered part of affirming kufr biṭ-ṭāghūt?
 
-[Telegram export, Tawḥīd topic; source audio or scan retained in the export]
+A: Yes, without a doubt; without a doubt. The ṭāghūt is whatever is worshipped besides Allah while being pleased with that, or calling to it.
+
+But if he is worshipped while not being pleased with that, then the ṭāghūt is the one whom Shayṭān commanded them with, so they are worshipping Shayṭān and not worshipping the righteous man or the walī; rather they worship Shayṭān who commanded them to do that.
+
+As for the righteous man and the followers of the prophets, they will disavow those who worshipped them on the Day of Judgment, and they will say: “We did not command them, nor were we aware of their worship of us.”
+
+“They will say: "Glorified be You! You are our Walî instead of them. Nay, but they used to worship the jinn.” [Sabaʾ:41] meaning, the Shayāṭīn “most of them were believers in them”  because they obeyed the Shayāṭīn, so they became worshippers of the Shayāṭīn. Yes.
+
+---
 
 ### Full statement of ʿAbd Allāh al-Ghunaymān
 
@@ -1043,6 +934,1544 @@ Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
 Source: al-Durar al-Saniyyah, 9/291.
 
 ## 5. The ignorant person who commits major shirk
+
+
+### Ibn Taymiyyah: collected statements on the ignorant person who commits major shirk
+
+These entries are also retained in section 7 as a standalone presentation of Ibn Taymiyyah’s position. They are repeated here so they remain available in their proper topical category.
+
+### The name of shirk and punishment before the message
+
+Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
+
+"Verily, Allāh separated between what is before the Message and what comes after it in regards to Asmāʾ (labels) and ʾAḥkām (rulings), and also gathered them together.
+
+‎Thus, the label 'Mushrik' is established before the Message (Ḥujjah) due to him performing Shirk with his Lord and setting up with Him another Ilāh and rival before the Messenger. So these Asmāʾ (labels) are established [before the Message]. Likewise, the label of Jahl (ignorance) and Jāhilīyyah, and it is said 'Jāhilīyyah' and 'Jāhil' before the coming of the Messenger. As for punishment [for the ignorant mushrik], then, no."
+
+Source: Majmūʿ al-Fatāwa, 20/24.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 24</h4>
+<p>وَإِذَا تَبَيَّنَ هَذَا فَكُلُّ مُجْتَهِدٍ مُصِيبٌ غَيْرُ خَاطِئٍ وَغَيْرُ مُخْطِئٍ أَيْضًا إذَا أُرِيدَ بِالْخَطَأِ الْإِثْمُ عَلَى قِرَاءَةِ ابْنِ عَامِرٍ وَلَا يَكُونُ مِنْ مُجْتَهِدٍ خَطَأٌ وَهَذَا هُوَ الَّذِي أَرَادَهُ مَنْ قَالَ: كُلُّ مُجْتَهِدٍ مُصِيبٌ وَقَالُوا: الْخَطَأُ وَالْإِثْمُ مُتَلَازِمَانِ فَعِنْدَهُمْ لَفْظُ الْخَطَأِ كَلَفْظِ الْخَطِيئَةِ عَلَى قِرَاءَةِ ابْنِ عَامِرٍ وَهُمْ يُسَلِّمُونَ أَنَّهُ يَخْفَى عَلَيْهِ بَعْضُ الْعِلْمِ الَّذِي عَجَزَ عَنْهُ لَكِنْ لَا يُسَمُّونَهُ خَطَأً؛ لِأَنَّهُ لَمْ يُؤْمَرْ بِهِ وَقَدْ يُسَمُّونَهُ خَطَأً إضَافِيًّا بِمَعْنَى: أَنَّهُ أَخْطَأَ شَيْئًا لَوْ عَلِمَهُ لَكَانَ عَلَيْهِ أَنْ يَتْبَعَهُ وَكَانَ هُوَ حُكْمَ اللَّهِ فِي حَقِّهِ؛ وَلَكِنَّ الصَّحَابَةَ وَالْأَئِمَّةَ الْأَرْبَعَةَ رضي الله عنهم وَجُمْهُورَ السَّلَفِ يُطْلِقُونَ لَفْظَ الْخَطَأِ عَلَى غَيْرِ الْعَمْدِ؛ وَإِنْ لَمْ يَكُنْ إثْمًا كَمَا نَطَقَ بِذَلِكَ الْقُرْآنُ وَالسُّنَّةُ فِي غَيْرِ مَوْضِعٍ كَمَا قَالَ النَّبِيُّ صلى الله عليه وسلم فِي الْحَدِيثِ الصَّحِيحِ: {إذَا اجْتَهَدَ الْحَاكِمُ فَأَصَابَ فَلَهُ أَجْرَانِ وَإِذَا اجْتَهَدَ فَأَخْطَأَ فَلَهُ أَجْرٌ} . وَقَالَ غَيْرُ وَاحِدٍ مِنْ الصَّحَابَةِ كَابْنِ مَسْعُودٍ: أَقُولُ فِيهَا بِرَأْيِي فَإِنْ يَكُنْ صَوَابًا فَمِنْ اللَّهِ وَإِنْ يَكُنْ خَطَأً فَمِنِّي وَمِنْ الشَّيْطَانِ؛ وَاَللَّهُ وَرَسُولُهُ بَرِيئَانِ مِنْهُ. وَقَالَ عَلِيٌّ فِي قِصَّةِ الَّتِي أَرْسَلَ إلَيْهَا عُمَرُ فَأَسْقَطَتْ - لَمَّا قَالَ لَهُ عُثْمَانُ وَعَبْدُ الرَّحْمَنِ رضي الله عنهما أَنْتَ مُؤَدِّبٌ وَلَا شَيْءَ عَلَيْك - إنْ كَانَا اجْتَهَدَا فَقَدْ أَخْطَآ وَإِنْ لَمْ يَكُونَا اجْتَهَدَا فَقَدْ غَشَّاك.</p>
+</div>
+</details>
+
+---
+
+Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
+
+"Those who follow the views of Jahm and al-Ṣāliḥī have explicitly stated that reviling Allah and His Messenger, speaking the doctrine of the Trinity, and uttering any statement of disbelief are not, in themselves, kufr (disbelief) in the inward sense. Rather, they claim these acts are merely external indicators of disbelief. According to them, it is possible for someone who insults and curses (Allah and His Messenger) to still be, inwardly, a believer who knows Allah, affirms His Oneness, and has faith in Him. But when they are confronted with explicit scriptural evidence or consensus that such a person is a disbeliever both inwardly and outwardly, they respond: ‘This only means that such actions necessarily imply inward denial (takdhīb), and that faith necessarily negates such actions.’"
+
+He continues: "It is said to them: We possess two undeniable facts:
+
+First: A fact known with absolute certainty from the religion itself.
+
+Second: A fact known with absolute certainty from our own reasoning when we reflect upon it."
+
+As for the first: "We know that whoever reviles Allah and His Messenger willingly and without coercion, or speaks words of disbelief voluntarily, or mocks Allah, His signs, or His Messenger—such a person is a disbeliever both inwardly and outwardly.
+
+Whoever claims that such a person could still, in their heart, be a believer in Allah while merely being outwardly a disbeliever, has stated something whose falsehood is necessarily known from the religion itself.
+
+Allah has mentioned the statements of the disbelievers in the Qurʾān, ruling them as disbelievers and declaring that they deserve punishment because of their words.
+
+If their words of disbelief were merely akin to witness testimonies against them or mistaken confessions that could be invalid, Allah would not have made them deserving of punishment based on testimonies that might be true or false. Rather, in such a case, He would have stipulated the condition of those testimonies being true before punishing them. This is evident in verses such as: ‘They have certainly disbelieved who say, "Allah is one of three."’ (Al-Māʾidah 5:73) ‘They have certainly disbelieved who say, "Allah is the Messiah, the son of Mary."’ (Al-Māʾidah 5:72) —and similar statements."
+
+Source: Majmūʿ al-Fatāwā by Ibn Taymiyyah 7/557-558.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 557</h4>
+<p>{مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ وَذَلِكَ أَضْعَفُ الْإِيمَانِ وَفِي رِوَايَةٍ وَلَيْسَ وَرَاءَ ذَلِكَ مِنْ الْإِيمَانِ مِثْقَالُ حَبَّةِ خَرْدَلٍ} . فَهَذَا يُبَيِّنُ أَنَّ الْقَلْبَ إذَا لَمْ يَكُنْ فِيهِ بُغْضُ مَا يَكْرَهُهُ اللَّهُ مِنْ الْمُنْكَرَاتِ كَانَ عَادِمًا لِلْإِيمَانِ وَالْبُغْضُ وَالْحُبُّ مِنْ أَعْمَالِ الْقُلُوبِ. وَمِنْ الْمَعْلُومِ أَنَّ إبْلِيسَ وَنَحْوَهُ يَعْلَمُونَ أَنَّ اللَّهَ عز وجل حَرَّمَ هَذِهِ الْأُمُورَ وَلَا يُبْغِضُونَهَا بَلْ يَدْعُونَ إلَى مَا حَرَّمَ اللَّهُ وَرَسُولُهُ.</p>
+<p>وَ &quot; أَيْضًا &quot; فَهَؤُلَاءِ الْقَائِلُونَ بِقَوْلِ جَهْمٍ والصالحي قَدْ صَرَّحُوا بِأَنَّ سَبَّ اللَّهِ وَرَسُولِهِ؛ وَالتَّكَلُّمَ بِالتَّثْلِيثِ وَكُلَّ كَلِمَةٍ مِنْ كَلَامِ الْكُفْرِ لَيْسَ هُوَ كُفْرًا فِي الْبَاطِنِ وَلَكِنَّهُ دَلِيلٌ فِي الظَّاهِرِ عَلَى الْكُفْرِ وَيَجُوزُ مَعَ هَذَا أَنْ يَكُونَ هَذَا السَّابُّ الشَّاتِمُ فِي الْبَاطِنِ عَارِفًا بِاَللَّهِ مُوَحِّدًا لَهُ مُؤْمِنًا بِهِ فَإِذَا أُقِيمَتْ عَلَيْهِمْ حُجَّةٌ بِنَصِّ أَوْ إجْمَاعٍ أَنَّ هَذَا كَافِرٌ بَاطِنًا وَظَاهِرًا. قَالُوا: هَذَا يَقْتَضِي أَنَّ ذَلِكَ مُسْتَلْزِمٌ لِلتَّكْذِيبِ الْبَاطِنِ وَأَنَّ الْإِيمَانَ يَسْتَلْزِمُ عَدَمَ ذَلِكَ؛ فَيُقَالُ لَهُمْ: مَعَنَا أَمْرَانِ مَعْلُومَانِ. (أَحَدُهُمَا) : مَعْلُومٌ بِالِاضْطِرَارِ مِنْ الدِّينِ. وَ (الثَّانِي) مَعْلُومٌ بِالِاضْطِرَارِ مِنْ أَنْفُسِنَا عِنْدَ التَّأَمُّلِ. أَمَّا &quot; الْأَوَّلُ &quot;: فَإِنَّا نَعْلَمُ أَنَّ مَنْ سَبَّ اللَّهَ وَرَسُولَهُ طَوْعًا بِغَيْرِ كُرْهٍ؛ بَلْ مَنْ تَكَلَّمَ بِكَلِمَاتِ الْكُفْرِ طَائِعًا غَيْرَ مُكْرَهٍ وَمَنْ اسْتَهْزَأَ بِاَللَّهِ وَآيَاتِهِ وَرَسُولِهِ فَهُوَ</p>
+<h4 dir="rtl">ص. 558</h4>
+<p>كَافِرٌ بَاطِنًا وَظَاهِرًا وَأَنَّ مَنْ قَالَ: إنَّ مِثْلَ هَذَا قَدْ يَكُونُ فِي الْبَاطِنِ مُؤْمِنًا بِاَللَّهِ وَإِنَّمَا هُوَ كَافِرٌ فِي الظَّاهِرِ فَإِنَّهُ قَالَ قَوْلًا مَعْلُومَ الْفَسَادِ بِالضَّرُورَةِ مِنْ الدِّينِ. وَقَدْ ذَكَرَ اللَّهُ كَلِمَاتِ الْكُفَّارِ فِي الْقُرْآنِ وَحَكَمَ بِكُفْرِهِمْ وَاسْتِحْقَاقِهِمْ الْوَعِيدَ بِهَا وَلَوْ كَانَتْ أَقْوَالُهُمْ الكفرية بِمَنْزِلَةِ شَهَادَةِ الشُّهُودِ عَلَيْهِمْ أَوْ بِمَنْزِلَةِ الْإِقْرَارِ الَّذِي يَغْلَطُ فِيهِ الْمُقِرُّ لَمْ يَجْعَلْهُمْ اللَّهُ مِنْ أَهْلِ الْوَعِيدِ بِالشَّهَادَةِ الَّتِي قَدْ تَكُونُ صِدْقًا وَقَدْ تَكُونُ كَذِبًا بَلْ كَانَ يَنْبَغِي أَنْ لَا يُعَذِّبَهُمْ إلَّا بِشَرْطِ صِدْقِ الشَّهَادَةِ وَهَذَا كَقَوْلِهِ تَعَالَى: {لَقَدْ كَفَرَ الَّذِينَ قَالُوا إنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ} {لَقَدْ كَفَرَ الَّذِينَ قَالُوا إنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ} وَأَمْثَالُ ذَلِكَ. وَأَمَّا &quot; الثَّانِي &quot;: فَالْقَلْبُ إذَا كَانَ مُعْتَقِدًا صِدْقَ الرَّسُولِ وَأَنَّهُ رَسُولُ اللَّهِ وَكَانَ مُحِبًّا لِرَسُولِ اللَّهِ مُعَظِّمًا لَهُ امْتَنَعَ مَعَ هَذَا أَنْ يَلْعَنَهُ وَيَسُبَّهُ فَلَا يُتَصَوَّرُ ذَلِكَ مِنْهُ إلَّا مَعَ نَوْعٍ مِنْ الِاسْتِخْفَافِ بِهِ وَبِحُرْمَتِهِ فَعُلِمَ بِذَلِكَ أَنَّ مُجَرَّدَ اعْتِقَادِ أَنَّهُ صَادِقٌ لَا يَكُونُ إيمَانًا إلَّا مَعَ مَحَبَّتِهِ وَتَعْظِيمِهِ بِالْقَلْبِ. وَ &quot; أَيْضًا &quot; فَإِنَّ اللَّهَ سُبْحَانَهُ قَالَ: {أَلَمْ تَرَ إلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ} وَقَالَ: {فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى} فَتَبَيَّنَ أَنَّ الطَّاغُوتَ يُؤْمَنُ بِهِ وَيُكْفَرُ بِهِ. وَمَعْلُومٌ أَنَّ مُجَرَّدَ التَّصْدِيقِ بِوُجُودِهِ وَمَا هُوَ عَلَيْهِ مِنْ الصِّفَاتِ يَشْتَرِكُ فِيهِ الْمُؤْمِنُ وَالْكَافِرُ؛ فَإِنَّ الْأَصْنَامَ وَالشَّيْطَانَ وَالسِّحْرَ يَشْتَرِكُ فِي الْعِلْمِ بِحَالِهِ الْمُؤْمِنُ وَالْكَافِرُ. وَقَدْ قَالَ اللَّهُ تَعَالَى فِي السِّحْرِ: {حَتَّى يَقُولَا إنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ</p>
+</div>
+</details>
+
+---
+
+Shaykh al-Islam Ibn Taymiyyah says:
+
+“As for others besides these, some of them pray facing the grave, some prostrate to it, and some prostrate at the doorway of a structure built over the grave. Some even consider prostration to the one buried sufficient, substituting it for the five daily prayers — so they prostrate to this dead person and do not prostrate to the Creator. Sometimes, the one buried is believed to be righteous, though in reality he is not — and this is found in places like Egypt, al-Shām, al-ʿIrāq, and elsewhere.
+
+Some of them ask from the dead what should only be asked from Allāh, saying: “Forgive me,” “Provide for me,” “Grant me victory,” and similar requests — just as a person says such things in his prayer to Allāh, exalted be He. These and similar matters are, without doubt, contrary to the religion of all the messengers, as anyone who knows the religion of Islām would understand. Indeed, they are a form of shirk that Allāh and His Messenger have forbidden — rather, it is the very shirk for which the Messenger ﷺ fought the mushrikīn.
+
+If the people doing this are excused due to ignorance and the ḥujjah (proof) has not been established against them — as those who were not reached by a messenger are excused — then their judgment is with Allāh (In the hereafter). As He said: “We do not punish until We have sent a messenger” [al-Isrāʾ: 15].
+
+Otherwise, they deserve the worldly and eternal punishment that others like them among the mushrikīn deserve . Allāh said: “So do not set up rivals to Allāh while you know” [al-Baqarah: 22].
+
+And in the ḥadīth: “Indeed, shirk in this ummah is more hidden than the crawling of ants.”
+
+Those who truly believe in the Messenger — when it becomes clear to one of them the reality of what the Messenger brought, and it becomes clear to him that he had fallen into shirk — then he repents to Allāh and renews his Islām, embracing Islām again in repentance from that shirk .”
+
+Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa-al-Īmān wa-ʿIbādāt Ahl al-Shirk wa-al-Nifāq p.69-70.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: قاعدة عظيمة في الفرق بين العبادات</p>
+<h4 dir="rtl">ص. 69</h4>
+<p>النعمان الملقب بالمفيد، وغيره، مناسك حج المشاهد، ومنهم من يفضل الحج إلى بيوت المخلوقين على الحج إلى بيت الخالق، ويقولون: هذا الحج الأكبر، وحج البيت هو الحج الأصغر، ومن الناس من يقول: وحق النبي الذي تحج المطايا إليه، فيجعلون الحج إلى المخلوق.</p>
+<p>ولمّا كان السفر إلى المساجد الثلاثة مشروعًا، والمسجدان الأفضلان في الحرمين: الحرم المكي، والحرم المدني؛ صار الناس يقولون لمن حج إلى بيت الله: فلان حج الحرمين، فإن السفر المشروع إلى المدينة من جنس الحج /24ب/ المشروع، لكنه مستحب، والمنهي عنه من جنس الحج المنهي عنه، وهذا موجود في المنتسبين إلى السُّنّة والشّيعة، ومنهم من يقال له: أتبيع زيارتك لشيخك بحجة، أو ثنتين أو ثلاثة، أو عشر حجج؟ فيقول: لا، ويعتقد أن زيارة شيخه مرة أفضل من عشر حجج.</p>
+<p>ومنهم من يحج فيأتي إلى المدينة، ثم يرجع ولا يذهب إلى مكة، ويقول: حصل مقصودي من الحج، ومنهم من إذا سافر إلى مكان يضاف إلى نبي، كالمكان المضاف إلى يوسف بمصر، يُحْرِم إذا ذهب إليه كما يحرم الحاج، ومنهم من يستقبل قبر شيخه إذا صلى، ويستدبر الكعبة، ويقول: هذه قبلة الخاصة، والكعبة قبلة العامة، وهذا موجود في كثير من أعيان العباد والزُّهاد وممن له قصد وعلم.</p>
+<p>وأما غير هؤلاء فمنهم من يصلي إلى القبر، ومنهم من يسجد له،</p>
+<h4 dir="rtl">ص. 70</h4>
+<p>ومنهم من يسجد من باب المكان المبني على القبر، ومنهم من يستغني بالسجود لصاحب القبر عن الصلوات الخمس، فيسجدون لهذا الميت ولا يسجدون للخالق، وقد يكون ذلك الميت ممن يظن به الخير، وليس كذلك، كما يوجد مثل هذا في مصر، والشام، والعراق، وغير ذلك.</p>
+<p>ومنهم من يطلب من الميت ما يطلب من الله، فيقول: اغفر لي، وارزقني، وانصرني، ونحو ذلك /25أ/ كما يقول المصلي في صلاته لله تعالى، إلى أمثال هذه الأمور التي لا يشك من عرف دين الإسلام أنها مخالفة لدين المرسلين أجمعين، فإنها من الشرك الذي حرمه الله ورسوله، بل من الشرك الذي قاتل عليه الرسول صلى الله عليه وسلم المشركين، وأن أصحابها إن كانوا يعذرون (1) بالجهل، وأن الحجة لم تقم عليهم، كما يعذر من لم يبعث إليه رسول، كما قال تعالى: {وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولًا} [الإسراء: 15] وإلا كانوا مستحقين من عقوبة الدنيا والآخرة ما يستحقه أمثالهم من المشركين، قال تعالى: {فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ} [البقرة: 22] وفي الحديث: «إِنَّ الشِّرْكَ فِي هَذِهِ الْأُمَّةِ أَخْفَى مِنْ دَبِيبِ النَّمْلِ» .</p>
+<p>والذين يؤمنون بالرسول، إذا تبين لأحدهم حقيقة ما جاء به الرسول، وتبين أنه مشرك، فإنه يتوب إلى الله، ويجدد إسلامه، فيسلم إسلامًا يتوب فيه من هذا الشرك، ولم يكن في الصحابة والتابعين من يقصد زيارة أحد لأجل هذا، لا قبر النبي صلى الله عليه وسلم ولا قبر غيره، ولا كان أحدٌ منهم بعد السلام على</p>
+<p>(1) غيرت في المطبوع إلى: (معذورين) .</p>
+</div>
+</details>
+
+---
+
+Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+The name Mushrik is established before the message; for indeed he associates partners with his Lord, equates others with Him, sets up alongside Him other gods, and makes for Him equals even before the Messenger. So these labels are established
+
+And likewise the name of jahl (ignorance) and jāhiliyyah (the state of ignorance) is applied: it is said “jāhiliyyah” and “jāhil” before the coming of the Messenger.
+
+As for punishment, (I.e the ruling of Apostasy and disbelief) then no.
+
+Source: Majmū al-Fatāwā by Ibn Taymiyyah 20/38.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 38</h4>
+<p>إلَهٍ غَيْرُهُ إنْ أَنْتُمْ إلَّا مُفْتَرُونَ} فَجَعَلَهُمْ مُفْتَرِينَ قَبْلَ أَنْ يَحْكُمَ بِحُكْمِ يُخَالِفُونَهُ؛ لِكَوْنِهِمْ جَعَلُوا مَعَ اللَّهِ إلَهًا آخَرَ فَاسْمُ الْمُشْرِكِ ثَبَتَ قَبْلَ الرِّسَالَةِ؛ فَإِنَّهُ يُشْرِكُ بِرَبِّهِ وَيَعْدِلُ بِهِ وَيَجْعَلُ مَعَهُ آلِهَةً أُخْرَى وَيَجْعَلُ لَهُ أَنْدَادًا قَبْلَ الرَّسُولِ وَيُثْبِتُ أَنَّ هَذِهِ الْأَسْمَاءَ مُقَدَّمٌ عَلَيْهَا وَكَذَلِكَ اسْمُ الْجَهْلِ وَالْجَاهِلِيَّةِ يُقَالُ: جَاهِلِيَّةً وَجَاهِلًا قَبْلَ مَجِيءِ الرَّسُولِ وَأَمَّا التَّعْذِيبُ فَلَا. وَالتَّوَلِّي عَنْ الطَّاعَةِ كَقَوْلِهِ: {فَلَا صَدَّقَ وَلَا صَلَّى} {وَلَكِنْ كَذَّبَ وَتَوَلَّى} فَهَذَا لَا يَكُونُ إلَّا بَعْدَ الرَّسُولِ مِثْلَ قَوْلِهِ عَنْ فِرْعَوْنَ. {فَكَذَّبَ وَعَصَى} كَانَ هَذَا بَعْدَ مَجِيءِ الرَّسُولِ إلَيْهِ كَمَا قَالَ تَعَالَى. {فَأَرَاهُ الْآيَةَ الْكُبْرَى} {فَكَذَّبَ وَعَصَى} وَقَالَ: {فَعَصَى فِرْعَوْنُ الرَّسُولَ} (1).</p>
+<p>(1)</p>
+<p>هذا آخر ما وجد بالأصل</p>
+</div>
+</details>
+
+---
+
+Shaykh Al-Islam Ibn Taymiyyah said:
+
+Allāh has distinguished between what comes before the message and what comes after it in asmā ʾ (names) and aḥkām (rulings), and He has also joined between them in asmā ʾ and aḥkām . This serves as an argument against both groups: those who claim that actions have no inherent goodness or evil, and those who claim that people deserve punishment in either case.
+
+As for the first group, Allāh described them as wrongdoers, transgressors, and corrupters, as He said: “Go to Firʿawn; indeed, he has transgressed” (Qurʾān 79:17), and He said: “And when your Lord called Mūsā: Go to the wrongdoing people — the people of Firʿawn. Will they not fear?” (Qurʾān 26:10–11), and He said: “Verily, Firʿawn exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them: killing their sons, and letting their females live. Verily, he was of the Mufsidûn(i.e. corrupter).” (Qurʾān 28:4).
+
+Thus, He informed that Firʿawn and his people were unjust, transgressors, and corrupters. These are names of condemnation of deeds, and condemnation applies only to evil and reprehensible action.
+
+This proves that actions can be evil and blameworthy even before the coming of the messenger; yet, they do not deserve punishment until the messenger has come to them. As Allāh said: “And We do not punish until We have sent a messenger” (Qurʾān 17:15).
+
+Source: Majmū al-Fatāwa 20/37 by Ibn Taymiyyah.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 37</h4>
+<p>فَصْلٌ:</p>
+<p>وَقَدْ فَرَّقَ اللَّهُ بَيْنَ مَا قَبْلَ الرِّسَالَةِ وَمَا بَعْدَهَا فِي أَسْمَاءَ وَأَحْكَامٍ وَجَمَعَ بَيْنَهُمَا فِي أَسْمَاءَ وَأَحْكَامٍ وَذَلِكَ حُجَّةٌ عَلَى الطَّائِفَتَيْنِ: عَلَى مَنْ قَالَ: إنَّ الْأَفْعَالَ لَيْسَ فِيهَا حَسَنٌ وَقَبِيحٌ. وَمَنْ قَالَ: إنَّهُمْ يَسْتَحِقُّونَ الْعَذَابَ عَلَى الْقَوْلَيْنِ. أَمَّا الْأَوَّلُ فَإِنَّهُ سَمَّاهُمْ ظَالِمِينَ وَطَاغِينَ وَمُفْسِدِينَ؛ لِقَوْلِهِ: {اذْهَبْ إلَى فِرْعَوْنَ إنَّهُ طَغَى} وَقَوْلِهِ: {وَإِذْ نَادَى رَبُّكَ مُوسَى أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ} {قَوْمَ فِرْعَوْنَ أَلَا يَتَّقُونَ} وَقَوْلِهِ: {إنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ إنَّهُ كَانَ مِنَ الْمُفْسِدِينَ} فَأَخْبَرَ أَنَّهُ ظَالِمٌ وَطَاغٍ وَمُفْسِدٌ هُوَ وَقَوْمُهُ وَهَذِهِ أَسْمَاءُ ذَمِّ الْأَفْعَالِ؛ وَالذَّمُّ إنَّمَا. يَكُونُ فِي الْأَفْعَالِ السَّيِّئَةِ الْقَبِيحَةِ فَدَلَّ ذَلِكَ عَلَى أَنَّ الْأَفْعَالَ تَكُونُ قَبِيحَةً مَذْمُومَةً قَبْلَ مَجِيءِ الرَّسُولِ إلَيْهِمْ لَا يَسْتَحِقُّونَ الْعَذَابَ إلَّا بَعْدَ إتْيَانِ الرَّسُولِ إلَيْهِمْ؛ لِقَوْلِهِ: {وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولًا} . وَكَذَلِكَ أَخْبَرَ عَنْ هُودَ أَنَّهُ قَالَ لِقَوْمِهِ: {اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ</p>
+</div>
+</details>
+
+---
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+If a person intentionally prostrates to the sun at the time of its rising or setting, then he is most deserving of prohibition, condemnation, and punishment. For this reason, such a person is a kāfir.
+
+Likewise, whoever makes duʿāʾ to other than Allāh or makes ḥajj to other than Allāh is also a mushrik. What he has done is kufr , though he may not know that this is shirk and ḥarām.
+
+Just as many people who entered Islām — such as the Tatār and others — had small idols made of felt or other materials, to which they would show devotion and veneration, not knowing that this was ḥarām in the dīn of Islām . Some even showed taqarrub to fire, also not knowing that it was ḥarām.
+
+Thus, many forms of shirk may remain hidden from some of those who enter Islām, and they do not realize that it is shirk. Such a person is misguided, and his action in which he committed shirk is invalid. However, he does not deserve punishment until the ḥujjah has been established against him.
+
+Source: Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah p.205-206.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: الرد على الإخنائي</p>
+<h4 dir="rtl">ص. 205</h4>
+<p>لعن رسول الله صلى الله عليه وسلم في الأحاديث [الصحيحة المستفيضة] ما هو أقرب من هؤلاء وهم الذين اتخذوا قبور أنبيائهم مساجد يحذ ما فعلوا، وأخبر أن من كان قبلنا كانوا يتخذون قبور أنبيائهم وصالحيهم مساجد. وقال: (ألا فلا تتخذوا القبور مساجد فإني أنهاكم عن ذلك). فإذا كان قد نهى ولعن من يتخذها مسجدًا يعبد الله فيه ويدعى لأن ذلك ذريعة ومظنة إلى دعاء المخلوق صاحب القبر وعبادته، فكيف بنفس الشرك الذي سد ذريعته ونهى عن اتخاذها مساجد لئلا يفضي ذلك إليه؟ فمعلوم أن صاحبه أحق باللعنة والنهي، وهذا كما أنه نهى عن الصلاة عند طلوع الشمس وعند غروبها، وقال: / (فإنها تطلع بين قرني شيطان، وحينئذ يسجد لها الكفار). ونهى عن تحري الصلاة في هذا الوقت لما فيه من مشابهة الكفار في الصورة، وإن كان المصلي يقصد السجود لله لا للشمس، لكن نهى عن المشابهة في الصورة لئلا يفضي إلى المشاركة في القصد. فإذا قصد الإنسان السجود للشمس وقت طلوع الشمس ووقت غروبها كان أحق [بالنهي والذم] والعقاب، ولهذا يكون هذا كافرًا.</p>
+<h4 dir="rtl">ص. 206</h4>
+<p>كذلك من دعا غير الله وحج إلى غير الله هو أيضًا مشرك، والذي فعله كفر، لكن قد لا يكون عالمًا بأن هذا شرك محرم.</p>
+<p>كما أن كثيرًا من الناس دخلوا في الإسلام من التتار وغيرهم وعندهم أصنام لهم صغار من لبد وغيره وهم يتقربون إليها ويعظمونها ولا يعلمون أن ذلك محرم [في دين الإسلام، ويتقربون إلى النار أيضًا ولا يعلمون أن ذلك محرم]، فكثير من أنواع الشرك قد يخفى على بعض من دخل في الإسلام ولا يعلم أنه شرك، فهذا ضال وعمله الذي أشرك فيه باطل، لكن لا يستحق العقوبة حتى تقوم عليه الحجة، قال تعالى: {فلا تجعلوا لله أندادًا وأنتم تعلمون} [سورة البقرة: (22)]، وفي صحيح أبي حاتم وغيره عن النبي صلى الله عليه وسلم أنه قال: (الشرك في هذه الأمة أخفى من دبيب النمل) فقال أبو بكر [رضي الله عنه]: يا رسول الله كيف ننجو منه؟ قال: (قل اللهم إني أعوذ بك أن أشرك بك شيئًا وأنا أعلم، وأستغفرك لما لا أعلم).</p>
+</div>
+</details>
+
+---
+
+### Clear matters and obscure matters
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+This applies when dealing with obscure doctrinal issues; in such cases, it may be said that a person is mistaken and misguided but should not be declared a disbeliever until the proof that establishes disbelief against him has been made clear.
+
+However, this situation also occurs among certain groups in matters that are clear and well known to both the general public and the scholars of Islām—indeed, even the Jews and Christians recognize that Muḥammad (ﷺ) was sent with these teachings and that he declared those who opposed them to be disbelievers.
+
+For example, his command to worship Allāh alone with no partner, and his prohibition against worshiping anyone besides Allāh—whether angels, prophets, the sun, the moon, the stars, idols, or anything else. These are among the most apparent symbols of Islām. Likewise, his command to establish the five daily prayers, his obligation regarding them, and his emphasis on their importance.
+
+Similarly, his enmity toward the Jews, Christians, polytheists, Ṣābians, and Magians, as well as his prohibition of immoral acts, usury, alcohol, gambling, and other such matters. Yet, despite all of this, many of their leaders have fallen into these prohibited actions and thus became apostates, even though they may later repent and return to Islām.
+
+Source: Majmū' al-Fatāwā by Ibn Taymiyyah 4/54.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 54</h4>
+<p>أَحَقُّ بِالْحَشْوِ وَالضَّلَالِ مِنْ هَؤُلَاءِ؟ وَذَلِكَ يَقْتَضِي وُجُودَ الرِّدَّةِ فِيهِمْ كَمَا يُوجَدُ النِّفَاقُ فِيهِمْ كَثِيرًا. وَهَذَا إذَا كَانَ فِي الْمَقَالَاتِ الْخَفِيَّةِ فَقَدْ يُقَالُ: إنَّهُ فِيهَا مُخْطِئٌ ضَالٌّ لَمْ تَقُمْ عَلَيْهِ الْحُجَّةُ الَّتِي يَكْفُرُ صَاحِبُهَا؛ لَكِنَّ ذَلِكَ يَقَعُ فِي طَوَائِفَ مِنْهُمْ فِي الْأُمُورِ الظَّاهِرَةِ الَّتِي تَعْلَمُ الْعَامَّةُ وَالْخَاصَّةُ مِنْ الْمُسْلِمِينَ أَنَّهَا مِنْ دِينِ الْمُسْلِمِينَ؛ بَلْ الْيَهُودُ وَالنَّصَارَى يَعْلَمُونَ: أَنَّ مُحَمَّدًا صلى الله عليه وسلم بُعِثَ بِهَا وَكَفَّرَ مُخَالِفَهَا؛ مِثْلُ أَمْرِهِ بِعِبَادَةِ اللَّهِ وَحْدَهُ لَا شَرِيكَ لَهُ وَنَهْيُهُ عَنْ عِبَادَةِ أَحَدٍ سِوَى اللَّهِ مِنْ الْمَلَائِكَةِ وَالنَّبِيِّينَ وَالشَّمْسِ وَالْقَمَرِ وَالْكَوَاكِبِ وَالْأَصْنَامِ وَغَيْرِ ذَلِكَ؛ فَإِنَّ هَذَا أَظْهَرُ شَعَائِرِ الْإِسْلَامِ وَمِثْلُ أَمْرِهِ بِالصَّلَوَاتِ الْخَمْسِ وَإِيجَابِهِ لَهَا وَتَعْظِيمِ شَأْنِهَا وَمِثْلُ مُعَادَاتِهِ لِلْيَهُودِ وَالنَّصَارَى وَالْمُشْرِكِينَ وَالصَّابِئِينَ وَالْمَجُوسِ وَمِثْلُ تَحْرِيمِ الْفَوَاحِشِ وَالرِّبَا وَالْخَمْرِ وَالْمَيْسِرِ وَنَحْوِ ذَلِكَ. ثُمَّ تَجِدُ كَثِيرًا مِنْ رُؤَسَائِهِمْ وَقَعُوا فِي هَذِهِ الْأُمُورِ فَكَانُوا مُرْتَدِّينَ وَإِنْ كَانُوا قَدْ يَتُوبُونَ مِنْ ذَلِكَ وَيَعُودُونَ إلَى الْإِسْلَامِ فَقَدْ حُكِيَ عَنْ الْجَهْمِ بْنِ صَفْوَانَ: أَنَّهُ تَرَكَ الصَّلَاةَ أَرْبَعِينَ يَوْمًا لَا يَرَى وُجُوبَهَا؛ كَرُؤَسَاءِ الْعَشَائِرِ مِثْلِ الْأَقْرَعِ بْنِ حَابِسٍ وعُيَيْنَة بْنِ حِصْنٍ وَنَحْوِهِمْ مِمَّنْ ارْتَدَّ عَنْ الْإِسْلَامِ وَدَخَلَ فِيهِ فَفِيهِمْ مَنْ كَانَ يُتَّهَمُ بِالنِّفَاقِ وَمَرَضِ الْقَلْبِ وَفِيهِمْ مَنْ لَمْ يَكُنْ كَذَلِكَ. أَوْ يُقَالُ: هُمْ لِمَا فِيهِمْ مِنْ الْعِلْمِ يُشَبَّهُونَ بِعَبْدِ اللَّهِ بْنِ أَبِي سَرْحٍ الَّذِي كَانَ</p>
+</div>
+</details>
+
+---
+
+Shaykh Al-Islam Ibn Taymiyyah said:
+
+Yes — many people may find certain texts difficult to understand, so they appear problematic to them because of their limited comprehension of their meanings. Yet, it is not permissible that there be anything in the Qur’ān which contradicts sound reason or clear sensory knowledge, except that the Qur’ān itself contains clarification of its meaning. For Allah has made the Qur’ān a healing for what is in the hearts and a bayān (clear explanation) for mankind. Hence, it cannot be otherwise.
+
+However, at times the traces of the message may become obscure in certain places or eras, such that people no longer know what the Messenger ﷺ brought — either because they do not know the wording itself, or because they know the wording but not its meaning. In such cases, they fall into a state of jāhiliyyah (ignorance) due to the absence of the light of prophethood. From this arise shirk and the division of the religion into sects — like the tribulations that lead to bloodshed. These trials, whether in word or in deed, stem from jāhiliyyah because the light of prophethood is hidden from them. As Mālik ibn Anas said: “When knowledge decreases, harshness appears; and when the āthār diminish, desires emerge.”
+
+For this reason, fitan have been likened to the dark portions of the night. Imām Aḥmad said in his sermon: “Praise be to Allah who, in every period of interruption (fatrah), leaves remnants of the people of knowledge.” The guidance that reaches the inhabitants of the earth is only from the light of prophethood, as Allah said:
+
+“Then if there comes to you guidance from Me, then whoever follows My Guidance he shall neither go astray, nor shall be distressed.” (Ṭā Hā:123).
+
+Thus, the people of guidance and success are those who follow the prophets — the Muslims and believers in every time and place. The people of punishment and misguidance are those who belie the prophets. As for those of jāhiliyyah who have not received what the prophets brought — they remain in misguidance, ignorance, shirk, and evil.
+
+Yet Allah says: “And We never punish until We have sent a Messenger.” (al-Isrāʾ:15) “Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers” (al-Nisāʾ:165) “And never will your Lord destroy the towns (populations) until He sends to their mother town a Messenger reciting to them Our Verses. And never would We destroy the towns unless the people thereof are wrongdoers.” (al-Qaṣaṣ:59).
+
+Therefore, Allah does not destroy or punish them until He sends to them a messenger. And there are multiple āthār indicating that those to whom the message did not reach in this world will be sent a messenger on the Day of Resurrection, in the plain of the qiyāmah.
+
+Source: Majmū al-Fatāwa 17/307-308 by Ibn Taymiyyah.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 307</h4>
+<p>الْمُخَالَفَةِ لِلْكِتَابِ وَالسُّنَّةِ فَتُرَدُّ. وَلِهَذَا كُلُّ طَائِفَةٍ أَنُكِرَ عَلَيْهَا مَا ابْتَدَعَتْ احْتَجَّتْ بِمَا ابْتَدَعَتْهُ الْأُخْرَى كَمَا يُوجَدُ فِي أَلْفَاظِ أَهْل الرَّأْيِ وَالْكَلَامِ وَالتَّصَوُّفِ وَإِنَّمَا يَجُوزُ أَنْ يُقَالَ فِي بَعْضِ الْآيَاتِ إنَّهُ مُشْكِلٌ وَمُتَشَابِهٌ إذَا ظَنَّ أَنَّهُ يُخَالِفُ غَيْرَهُ مِنْ الْآيَاتِ الْمُحْكَمَةِ الْبَيِّنَةِ فَإِذَا جَاءَتْ نُصُوصٌ بَيِّنَةٌ مُحْكَمَةٌ بِأَمْرِ وجَاءَ نَصٌّ آخَرُ يَظُنُّ أَنَّ ظَاهِرَهُ يُخَالِفُ ذَلِكَ يُقَالُ فِي هَذَا إنَّهُ يَرُدُّ الْمُتَشَابِهَ إلَى الْمُحْكَمِ أَمَّا إذَا نَطَقَ الْكِتَابُ أَوْ السُّنَّةُ بِمَعْنَى وَاحِدٍ لَمْ يَجُزْ أَنْ يُجْعَلَ مَا يُضَادُّ ذَلِكَ الْمَعْنَى هُوَ الْأَصْلُ وَيَجْعَلَ مَا فِي الْقُرْآنِ وَالسُّنَّةِ مُشْكِلًا مُتَشَابِهًا فَلَا يُقْبَلُ مَا دَلَّ عَلَيْهِ. نَعَمْ قَدْ يُشْكِلُ عَلَى كَثِيرٍ مِنْ النَّاسِ نُصُوصٌ لَا يَفْهَمُونَهَا فَتَكُونُ مُشْكِلَةً بِالنِّسْبَةِ إلَيْهِمْ لِعَجْزِ فَهِمَهُمْ عَنْ مَعَانِيهَا وَلَا يَجُوزُ أَنْ يَكُونَ فِي الْقُرْآنِ مَا يُخَالِفُ صَرِيحَ الْعَقْلِ وَالْحِسِّ إلَّا وَفِي الْقُرْآنِ بَيَانُ مَعْنَاهُ فَإِنَّ الْقُرْآنَ جَعَلَهُ اللَّهُ شِفَاءً لِمَا فِي الصُّدُورِ وَبَيَانًا لِلنَّاسِ فَلَا يَجُوزُ أَنْ يَكُونَ بِخِلَافِ ذَلِكَ؛ لَكِنَّ قَدْ تَخْفَى آثَارُ الرِّسَالَةِ فِي بَعْضِ الْأَمْكِنَةِ وَالْأَزْمِنَةِ حَتَّى لَا يَعْرِفُونَ مَا جَاءَ بِهِ الرَّسُول صلى الله عليه وسلم. إمَّا أَنْ لَا يَعْرِفُوا اللَّفْظَ وَإِمَّا أَنْ يَعْرِفُوا اللَّفْظَ وَلَا يَعْرِفُوا مَعْنَاهُ فَحِينَئِذٍ يَصِيرُونَ فِي جَاهِلِيَّةٍ بِسَبَبِ عَدَمِ نُورِ النُّبُوَّةِ وَمِنْ هَهُنَا يَقَعُ الشِّرْكُ وَتَفْرِيقُ الدِّينِ شِيَعًا كَالْفِتَنِ الَّتِي تُحْدِثُ السَّيْفَ فَالْفِتَنُ الْقَوْلِيَّةُ وَالْعَمَلِيَّةُ</p>
+<h4 dir="rtl">ص. 308</h4>
+<p>هِيَ مِنْ الْجَاهِلِيَّةِ بِسَبَبِ خَفَاءِ نُورِ النُّبُوَّةِ عَنْهُمْ كَمَا قَالَ مَالِكُ بْنُ أَنَسٍ: إذَا قَلَّ الْعِلْمُ ظَهَرَ الْجَفَاءُ وَإِذَا قَلَّتْ الْآثَارُ ظَهَرَتْ الْأَهْوَاءُ. وَلِهَذَا شُبِّهَتْ الْفِتَنُ بِقِطَعِ اللَّيْلِ الْمُظْلِمِ وَلِهَذَا قَالَ أَحْمَد فِي خُطْبَتِهِ: الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ فِي كُلِّ زَمَانٍ فَتْرَةً بَقَايَا مِنْ أَهْلِ الْعِلْمِ. فَالْهُدَى الْحَاصِلُ لِأَهْلِ الْأَرْضِ إنَّمَا هُوَ مِنْ نُورِ النُّبُوَّةِ كَمَا قَالَ تَعَالَى: {فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَى} فَأَهْلُ الْهُدَى وَالْفَلَاحِ: هُمْ الْمُتَّبِعُونَ لِلْأَنْبِيَاءِ وَهُمْ الْمُسْلِمُونَ الْمُؤْمِنُونَ فِي كُلِّ زَمَانٍ وَمَكَانٍ. وَأَهْلُ الْعَذَابِ وَالضَّلَالِ: هُمْ الْمُكَذِّبُونَ لِلْأَنْبِيَاءِ يَبْقَى أَهْلُ الْجَاهِلِيَّةِ الَّذِينَ لَمْ يَصِلُ إلَيْهِمْ مَا جَاءَتْ بِهِ الْأَنْبِيَاءُ. فَهَؤُلَاءِ فِي ضَلَالٍ وَجَهْلٍ وَشِرْكٍ وَشَرٍّ لَكِنَّ اللَّهَ يَقُولُ: {وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولًا} وَقَالَ: {رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ} وَقَالَ: {وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِي أُمِّهَا رَسُولًا يَتْلُو عَلَيْهِمْ آيَاتِنَا وَمَا كُنَّا مُهْلِكِي الْقُرَى إلَّا وَأَهْلُهَا ظَالِمُونَ} فَهَؤُلَاءِ لَا يُهْلِكُهُمْ اللَّهُ وَيُعَذِّبُهُمْ حَتَّى يُرْسِلَ إلَيْهِمْ رَسُولًا. وَقَدْ رُوِيَتْ آثَارٌ مُتَعَدِّدَةٌ فِي أَنَّ مِنْ لَمْ تَبْلُغْهُ الرِّسَالَةُ فِي الدُّنْيَا فَإِنَّهُ يُبْعَثُ إلَيْهِ رَسُولٌ يَوْمَ الْقِيَامَةِ فِي عَرَصَاتِ الْقِيَامَةِ.</p>
+</div>
+</details>
+
+---
+
+<!-- telegram-source: personal/messages.html#message596 -->
+
+Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+The name Mushrik is established before the message; for indeed he associates partners with his Lord, equates others with Him, sets up alongside Him other gods, and makes for Him equals even before the Messenger. So these labels are established
+
+And likewise the name of jahl (ignorance) and jāhiliyyah (the state of ignorance) is applied: it is said “jāhiliyyah” and “jāhil” before the coming of the Messenger.
+
+As for punishment, (I.e the ruling of Apostasy and disbelief) then no.
+
+[Majmū al-Fatāwā by Ibn Taymiyyah 20/38]
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+And He – the Exalted – said: “And if We had destroyed them with a punishment before him, they would have said, ‘Our Lord, why did You not send to us a messenger, so we follow Your signs before we are humiliated and disgraced?’” [Ṭā-Hā 20:134]
+
+So this makes clear that He would not punish the kuffār until He sent to them a messenger. And He clarified that before the messenger they had already acquired the deeds which necessitate abhorrence and blame, and these are a cause for the punishment. But the condition of the punishment is the establishment of the ḥujjah against them through the message.
+
+[al-Jawāb aṣ-Ṣaḥīḥ liman Baddala Dīn al-Masīḥ by Ibn Taymiyyah 2/314]
+
+I say: The shaykh رحمه الله is clear. He differentiate between the name of disbeliever being applied but also clarifies the punishment (I.e ruling) is only applied after proof is given.
+
+---
+
+<!-- telegram-source: personal/messages.html#message594 -->
+
+Shaykh Al-Islam Ibn Taymiyyah said:
+
+Yes — many people may find certain texts difficult to understand, so they appear problematic to them because of their limited comprehension of their meanings. Yet, it is not permissible that there be anything in the Qur’ān which contradicts sound reason or clear sensory knowledge, except that the Qur’ān itself contains clarification of its meaning. For Allah has made the Qur’ān a healing for what is in the hearts and a bayān (clear explanation) for mankind. Hence, it cannot be otherwise.
+
+However, at times the traces of the message may become obscure in certain places or eras, such that people no longer know what the Messenger ﷺ brought — either because they do not know the wording itself, or because they know the wording but not its meaning. In such cases, they fall into a state of jāhiliyyah (ignorance) due to the absence of the light of prophethood. From this arise shirk and the division of the religion into sects — like the tribulations that lead to bloodshed. These trials, whether in word or in deed, stem from jāhiliyyah because the light of prophethood is hidden from them. As Mālik ibn Anas said: “When knowledge decreases, harshness appears; and when the āthār diminish, desires emerge.”
+
+For this reason, fitan have been likened to the dark portions of the night. Imām Aḥmad said in his sermon: “Praise be to Allah who, in every period of interruption (fatrah), leaves remnants of the people of knowledge.” The guidance that reaches the inhabitants of the earth is only from the light of prophethood, as Allah said:
+
+“Then if there comes to you guidance from Me, then whoever follows My Guidance he shall neither go astray, nor shall be distressed.” (Ṭā Hā:123).
+
+Thus, the people of guidance and success are those who follow the prophets — the Muslims and believers in every time and place. The people of punishment and misguidance are those who belie the prophets. As for those of jāhiliyyah who have not received what the prophets brought — they remain in misguidance, ignorance, shirk, and evil.
+
+Yet Allah says: “And We never punish until We have sent a Messenger.” (al-Isrāʾ:15) “Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers” (al-Nisāʾ:165) “And never will your Lord destroy the towns (populations) until He sends to their mother town a Messenger reciting to them Our Verses. And never would We destroy the towns unless the people thereof are wrongdoers.” (al-Qaṣaṣ:59).
+
+Therefore, Allah does not destroy or punish them until He sends to them a messenger. And there are multiple āthār indicating that those to whom the message did not reach in this world will be sent a messenger on the Day of Resurrection, in the plain of the qiyāmah.
+
+[Majmū al-Fatāwa 17/307-308 by Ibn Taymiyyah]
+
+We know by consensus they are not Muslims. From this we can establish that the name is applied before the ruling is given as this is contingent on the message being received and that they are treated as Ahl al-Fatrah prior to this.
+
+---
+
+### Those unreached by the message and inability to learn
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+For indeed, the condition of the kāfir is not without one of two possibilities: either he conceives of the message, or he does not. If he does not conceive of it, then he is in a state of heedlessness concerning it and lacks īmān in it — as Allāh said: “And do not obey the one whose heart We have made heedless of Our remembrance, who follows his desire, and whose affair has exceeded all bounds.” (Sūrat al-Kahf :28)
+
+And He said: “So We took retribution from them and drowned them in the sea because they denied Our signs and were among those heedless of them.” (Sūrat al-Aʿrāf :136) However, pure heedlessness only applies to one to whom the message has not reached. As for kufr for which punishment is incurred, it does not occur except after the message has reached.
+
+Source: Majmū' al-Fatāwā by Ibn Taymiyyah 2/78.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 78</h4>
+<p>وَإِنْ لَمْ يَضُمَّ أَحَدُهُمَا إلَى ذَلِكَ مَا جَاءَ بِهِ الرَّسُولُ فَإِمَّا أَنْ يَضُمَّ ضِدَّهُ أَوْ لَا يَضُمَّ شَيْئًا؛ فَإِنْ ضَمَّ إلَى ذَلِكَ ضِدَّ مَا جَاءَ بِهِ الرَّسُولُ: وَقَعَ فِي التَّكْذِيبِ وَهُوَ الْكُفْرُ الْمُرَكَّبُ وَإِنْ لَمْ يَضُمَّ إلَيْهِ شَيْءٌ بَقِيَ فِي الْكُفْرِ الْبَسِيطِ سَوَاءٌ كَانَ فِي رَيْبٍ أَوْ فِي إعْرَاضٍ وَغَفْلَةٍ.</p>
+<p>فَإِنَّ حَالَ الْكَافِرِ: لَا تَخْلُو مِنْ أَنْ يَتَصَوَّرَ الرِّسَالَةَ أَوْ لَا؛ فَإِنْ لَمْ يَتَصَوَّرْهَا فَهُوَ فِي غَفْلَةٍ عَنْهَا وَعَدَمِ إيمَانٍ بِهَا. كَمَا قَالَ: {وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا} وَقَالَ: {فَانْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ فِي الْيَمِّ بِأَنَّهُمْ كَذَّبُوا بِآيَاتِنَا وَكَانُوا عَنْهَا غَافِلِينَ} لَكِنَّ الْغَفْلَةَ الْمَحْضَةَ لَا تَكُونُ إلَّا لِمَنْ لَمْ تَبْلُغْهُ الرِّسَالَةُ وَالْكُفْرُ الْمُعَذَّبُ عَلَيْهِ لَا يَكُونُ إلَّا بَعْدَ بُلُوغِ الرِّسَالَةِ. فَلِهَذَا قَرَنَ التَّكْذِيبَ بِالْغَفْلَةِ وَإِنْ تَصَوَّرَ مَا جَاءَ بِهِ الرَّسُولُ وَانْصَرَفَ فَهُوَ مُعْرِضٌ عَنْهُ كَمَا قَالَ تَعَالَى. {فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَى} {وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا} وَكَمَا قَالَ: {رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا} وَكَمَا قَالَ: {وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا} . وَإِنْ كَانَ مَعَ ذَلِكَ لَا حَظَّ لَهُ؛ لَا مُصَدِّقَ وَلَا مُكَذِّبَ وَلَا مُحِبَّ وَلَا مُبْغِضَ فَهُوَ فِي رَيْبٍ مِنْهُ كَمَا أَخْبَرَ بِذَلِكَ عَنْ حَالِ كَثِيرٍ مِنْ الْكُفَّارِ مُنَافِقٍ وَغَيْرِهِ كَمَا قَالَ: {إنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ} وَكَمَا قَالَ مُوسَى: {أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ مِنْ قَبْلِكُمْ قَوْمِ نُوحٍ</p>
+</div>
+</details>
+
+---
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+And whoever grows up among the ignorant mushrikīn will not be blamed, hated, or disgraced by them so long as he follows their same religion, as long as he is known among them for truthfulness, trustworthiness, doing what they recognize as obligatory, and avoiding what they recognize as evil.
+
+And Allāh the Exalted said: “And We do not punish until We have sent a Messenger.” [Sūrat al-Isrāʾ 17:15] Thus, such people were not deserving of punishment before the coming of the Message, even if neither he nor they knew what the Messenger had been sent with
+
+Source: Tafsīr Āyāt Ashkalat by Ibn Taymiyyah 1/192-193.
+
+---
+
+<!-- telegram-source: personal/messages.html#message514 -->
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+For indeed, the condition of the kāfir is not without one of two possibilities: either he conceives of the message, or he does not. If he does not conceive of it, then he is in a state of heedlessness concerning it and lacks īmān in it — as Allāh said: “And do not obey the one whose heart We have made heedless of Our remembrance, who follows his desire, and whose affair has exceeded all bounds.” (Sūrat al-Kahf :28)
+
+And He said: “So We took retribution from them and drowned them in the sea because they denied Our signs and were among those heedless of them.” (Sūrat al-Aʿrāf :136) However, pure heedlessness only applies to one to whom the message has not reached. As for kufr for which punishment is incurred, it does not occur except after the message has reached.
+
+[Majmū' al-Fatāwā by Ibn Taymiyyah 2/78]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/4e66b441064d9e9589a0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ba9648e1ecdaf767f3ad.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message1966 -->
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+This applies when dealing with obscure doctrinal issues; in such cases, it may be said that a person is mistaken and misguided but should not be declared a disbeliever until the proof that establishes disbelief against him has been made clear.
+
+However, this situation also occurs among certain groups in matters that are clear and well known to both the general public and the scholars of Islām—indeed, even the Jews and Christians recognize that Muḥammad (ﷺ) was sent with these teachings and that he declared those who opposed them to be disbelievers.
+
+For example, his command to worship Allāh alone with no partner, and his prohibition against worshiping anyone besides Allāh—whether angels, prophets, the sun, the moon, the stars, idols, or anything else. These are among the most apparent symbols of Islām. Likewise, his command to establish the five daily prayers, his obligation regarding them, and his emphasis on their importance.
+
+Similarly, his enmity toward the Jews, Christians, polytheists, Ṣābians, and Magians, as well as his prohibition of immoral acts, usury, alcohol, gambling, and other such matters. Yet, despite all of this, many of their leaders have fallen into these prohibited actions and thus became apostates, even though they may later repent and return to Islām.
+
+[Majmū' al-Fatāwā by Ibn Taymiyyah 4/54]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/cee158f35d711bf3b7a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message612 -->
+
+Shaykh al-Islam Ibn Taymiyyah says:
+
+“As for others besides these, some of them pray facing the grave, some prostrate to it, and some prostrate at the doorway of a structure built over the grave. Some even consider prostration to the one buried sufficient, substituting it for the five daily prayers — so they prostrate to this dead person and do not prostrate to the Creator. Sometimes, the one buried is believed to be righteous, though in reality he is not — and this is found in places like Egypt, al-Shām, al-ʿIrāq, and elsewhere.
+
+Some of them ask from the dead what should only be asked from Allāh, saying: “Forgive me,” “Provide for me,” “Grant me victory,” and similar requests — just as a person says such things in his prayer to Allāh, exalted be He. These and similar matters are, without doubt, contrary to the religion of all the messengers, as anyone who knows the religion of Islām would understand. Indeed, they are a form of shirk that Allāh and His Messenger have forbidden — rather, it is the very shirk for which the Messenger ﷺ fought the mushrikīn.
+
+If the people doing this are excused due to ignorance and the ḥujjah (proof) has not been established against them — as those who were not reached by a messenger are excused — then their judgment is with Allāh (In the hereafter). As He said: “We do not punish until We have sent a messenger” [al-Isrāʾ: 15].
+
+Otherwise, they deserve the worldly and eternal punishment that others like them among the mushrikīn deserve . Allāh said: “So do not set up rivals to Allāh while you know” [al-Baqarah: 22].
+
+And in the ḥadīth: “Indeed, shirk in this ummah is more hidden than the crawling of ants.”
+
+Those who truly believe in the Messenger — when it becomes clear to one of them the reality of what the Messenger brought, and it becomes clear to him that he had fallen into shirk — then he repents to Allāh and renews his Islām, embracing Islām again in repentance from that shirk .”
+
+[Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa-al-Īmān wa-ʿIbādāt Ahl al-Shirk wa-al-Nifāq p.69-70]
+
+i say: Ibn Taymiyyah affirms the person here fell into shirk, (and the one who commits shirk is a mushrik) who needs to renew his islam.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/805160cb8d5662bd21b7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/3df67c06247562ecfad9.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message614 -->
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+And whoever grows up among the ignorant mushrikīn will not be blamed, hated, or disgraced by them so long as he follows their same religion, as long as he is known among them for truthfulness, trustworthiness, doing what they recognize as obligatory, and avoiding what they recognize as evil.
+
+And Allāh the Exalted said: “And We do not punish until We have sent a Messenger.” [Sūrat al-Isrāʾ 17:15] Thus, such people were not deserving of punishment before the coming of the Message, even if neither he nor they knew what the Messenger had been sent with
+
+[Tafsīr Āyāt Ashkalat by Ibn Taymiyyah 1/192-193]
+
+These are clear statements that he applied their worldly descriptions I.e label of mushrik and separated the rulings of punishment being applied after the proof is established upon them.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/1df50c23971378bf08a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+### Tawḥīd, major shirk, and the description of the doer
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+Similarly, his statement that if the polytheists were to abandon the worship of idols, they would still remain ignorant of the truth to the extent of what they had abandoned, is among the types of disbelief (kufr) that are universally and necessarily known to be false by all religious communities.
+
+The people of all religions (meaning the Christian , Jews and Muslims) agree [by Ijmā] that all the messengers prohibited the worship of idols and declared those who practice it to be disbelievers. A believer is not considered truly faithful until he renounces the worship of idols and everything worshiped besides Allah.
+
+As Allah, the Exalted, says: ‘You already have an excellent example in Abraham and those with him, when they said to their people, “We totally dissociate ourselves from you and ˹shun˺ whatever ˹idols˺ you worship besides Allah. We reject you. The enmity and hatred that has arisen between us and you will last until you believe in Allah alone’ [Al-Mumtaḥanah: 4]….
+
+…This is more apparent and evident among the people of the various religions, such as the Jews and the Christians—let alone the Muslims—than needing to be supported by a specific text.
+
+Whoever says that the idol worshipers, if they abandon them, would still be ignorant of the truth to the extent they have abandoned these idols, is more disbelieving than the Jews and the Christians And whoever does not declare them disbelievers is more disbelieving than the Jews and the Christians, for the Jews and Christians declare the idol worshipers to be disbelievers.
+
+How then, can one claim that someone who abandons the worship of idols is ignorant of the truth to the same extent they have abandoned it?
+
+Moreover, it is said: ‘The scholar knows whom they worshiped and in which form He appeared for them to worship.’ The differentiation and multiplicity in idols is similar to the different members of a visible form, or the different spiritual powers in an invisible form. But to worship anything other than Allah is far worse than the disbelief of idol worshipers.
+
+The latter only took idols as intercessors and mediators, as they said: ‘We do not worship them except to bring us closer to Allah’ (Az-Zumar: 3). Allah, the Exalted, says: ‘Or have they taken gods besides Allah? Say: ‘What! Even though they have no power over anything and cannot reason?’’ (Az-Zumar: 43).
+
+Source: Majmū al-Fatawā by Ibn Taymiyyah 2/128-129.
+
+---
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+And for this reason, everyone who does not worship Allah alone will inevitably be a worshipper of something else. He worships other than Him and thus becomes a mushrik. There is no third category among the children of Ādam. Rather, one is either a muwaḥḥid, or a mushrik, or someone who mixes this with that, like the altered ones from among the religions — such as the Christians and those like them from among the misguided who claim affiliation with Islam.
+
+Source: Majmū' al-Fatāwā by Ibn Taymiyyah 14/282.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: مجموع الفتاوى</p>
+<h4 dir="rtl">ص. 282</h4>
+<p>تَرَكَ الْمَحْظُورَ إلَّا عَلَى تَرْكٍ يَقُومُ بِنَفْسِهِ. وَتَارِكُ الْمَأْمُورِ: إنَّمَا يُعَاقَبُ عَلَى تَرْكٍ يَقُومُ بِنَفْسِهِ. وَهُوَ أَنْ يَأْمُرَهُ الرَّسُولُ صلى الله عليه وسلم بِالْفِعْلِ فَيَمْتَنِعُ. فَهَذَا الِامْتِنَاعُ أَمْرٌ وُجُودِيٌّ. وَلِذَلِك فَهُوَ يَشْتَغِلُ عَمَّا أُمِرَ بِهِ بِفِعْلِ ضِدِّهِ، كَمَا يَشْتَغِلُ عَنْ عِبَادَةِ اللَّهِ وَحْدَهُ بِعِبَادَةِ غَيْرِهِ. فَيُعَاقَبُ عَلَى ذَلِك. وَلِهَذَا كَانَ كُلُّ مَنْ لَمْ يَعْبُدْ اللَّهَ وَحْدَهُ، فَلَا بُدَّ أَنْ يَكُونَ عَابِدًا لِغَيْرِهِ. يَعْبُدُ غَيْرَهُ فَيَكُونُ مُشْرِكًا. وَلَيْسَ فِي بَنِي آدَمَ قِسْمٌ ثَالِثٌ. بَلْ إمَّا مُوَحِّدٌ، أَوْ مُشْرِكٌ، أَوْ مَنْ خَلَطَ هَذَا بِهَذَا كَالْمُبَدِّلِينَ مِنْ أَهْلِ الْمِلَلِ: النَّصَارَى وَمَنْ أَشَبَهَهُمْ مِنْ الضُّلَّالِ، الْمُنْتَسِبِينَ إلَى الْإِسْلَامِ. قَالَ اللَّهُ تَعَالَى {فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ} {إنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ} {إنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ} وَقَدْ قَالَ تَعَالَى {إنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ} لَمَّا قَالَ إبْلِيسُ {لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ} {إلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ} قَالَ تَعَالَى {إنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ} . فَإِبْلِيسُ لَا يُغْوِي الْمُخْلَصِينَ. وَلَا سُلْطَانَ لَهُ عَلَيْهِمْ. إنَّمَا سُلْطَانُهُ عَلَى الْغَاوِينَ. وَهُمْ الَّذِينَ يَتَوَلَّوْنَهُ، وَهُمْ الَّذِينَ بِهِ مُشْرِكُونَ.</p>
+</div>
+</details>
+
+---
+
+Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
+
+He (Abū Buṭayn) said: He (Ibn Taymiyyah) asserted in many places the takfīr of whoever commits what he mentioned of the various types of shirk, and he transmitted the ijmāʿ of the Muslims on that, without excluding the jāhil or the like.
+
+And Allāh, the Exalted, said: “Indeed, Allāh does not forgive that partners be associated with Him” (al-Nisāʾ: 48). And He related about al-Masīḥ that he said: “Whoever associates partners with Allāh, Allāh has surely forbidden Paradise for him, and his abode will be the Fire” (al-Māʾidah: 72).
+
+So whoever restricts this threat to only the stubborn rejecter, and excludes the ignorant, or the interpreter, or the blind follower, then such a person has opposed Allāh and His Messenger and departed from the path of the believers.
+
+Source: al-ʿUdhr bil-Jahl taḥta al-Mijhar ash-Sharʿī by Madḥat Āl Farāj p.54.
+
+---
+
+### Scholars explaining or transmitting Ibn Taymiyyah’s position
+
+Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
+
+So, if you understand this and grasp it fully, know that this is the path of the messengers, those who followed in their footsteps from among their family, companions, and successors, as well as the rightly guided scholars who came after them. The proof of God is the Qur'an, and whoever the Qur'an reaches has no excuse. Not every form of ignorance is an excuse for its possessor.
+
+These ignorant followers of the disbelievers are considered disbelievers by the consensus of the Ummah—except for those who are truly incapable of reaching the truth and knowing it, those who have no means to do so under any circumstance, despite their love for the truth, their desire for it, their seeking of it, and the absence of anyone to guide them. Also exempt are those who are new to Islam or those who grew up in a remote desert. These are the ones whom the scholars have mentioned as excused, for the proof has not been established against them. Thus, an individual is not declared a disbeliever until they are made aware and the proof is established against them with clarification.
+
+As for the deception and misleading arguments of some who claim that Shaykh al-Islām refrained from declaring an ignorant individual a disbeliever, this is mere obfuscation meant to deceive those with weak insight. His stance was only in specific matters whose evidences might be obscure to some people, such as issues related to divine decree (qadar), irjāʾ (postponing judgment on sinners), and similar topics introduced by the people of desires (ahl al-ahwāʾ). Some of their statements contain elements of disbelief because they reject clear and recurrent proofs from the Qur'an and Sunnah. Thus, the statement itself may be disbelief, but the one who utters it is not necessarily judged a disbeliever due to potential barriers, such as ignorance or unawareness of the scriptural text or its meaning. Religious obligations are only binding once they have been conveyed, which is why he mentioned this in his discussion on the innovations of the people of desires.
+
+Shaykh al-Islām (Ibn Taymiyyah) explicitly clarified this when he spoke about the excommunication (takfīr) of certain prominent theologians. After establishing this principle, he said:
+
+"If the matter pertains to obscure issues ( masāʾil khafiyyah) , one might say that there is no takfīr. However, regarding clear and evident issues or those necessarily known in the religion (maʿlūm min al-dīn bil-ḍarūrah) , there is no hesitation in declaring the speaker a disbeliever."
+
+These fools, however, have generalized the issue and treated all ignorance as an excuse without distinction. They equated clear and evident matters—those known as essential parts of the religion—with obscure issues whose proofs may be hidden from some people. Likewise, they compared those living among Muslims with those raised in a remote desert or newly converted to Islam. As a result, they deviated and led many others astray, veering away from the straight path.
+
+Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al-Jahmiyyah p.116-117.
+
+---
+
+A doubt the Murjiah bring to excuse Shirk
+
+al-‘Allāmah ‘Abdullāh Abā Butayn said:
+
+Some who argue in defense of the polytheists cite the story of the man who instructed his family to burn his body after his death as evidence that someone who commits an act of disbelief out of ignorance is not deemed a disbeliever—only the stubborn rejecter is.
+
+The response to this is that ALLĀH (ﷻ) sent His messengers as bearers of glad tidings and warnings so that people would have no excuse before Him after the messengers had been sent. The greatest message they conveyed and called people to was the worship of ALLĀH (ﷻ) alone, without any partner, and the prohibition of associating others with Him in worship.
+
+If someone who commits major polytheism is excused due to ignorance, then who is not excused? The implication of this claim is that ALLĀH (ﷻ) has no argument against anyone except the stubborn rejecter. However, the proponent of this argument cannot remain consistent in their reasoning; they will inevitably contradict themselves. For instance, they cannot refrain from declaring as disbelievers those who doubt Muḥammad’s (ﷺ) prophethood, the resurrection, or other fundamental tenets of faith—yet the doubter, too, is ignorant.
+
+he then goes on to say:
+
+The one who claims that a person who commits kufr (disbelief) due to ta’wīl (misinterpretation), ijtihād (independent reasoning), khata’ (mistake), taqlīd (blind following), or jahl (ignorance) is excused is in clear opposition to the Kitāb (Qur’an), the Sunnah, and the Ijmāʿ (scholarly consensus) without a doubt. Moreover, such a person must inevitably contradict their own principle, for if they were to apply it consistently, they would inevitably fall into kufr themselves—just as one would if they hesitated in declaring as kāfir someone who doubts the Risālah (prophethood) of Muḥammad ﷺ.
+
+As for the man who instructed his family to burn his body and whom ALLĀH (ﷻ) forgave despite his doubt regarding one of the attributes of the Almighty Lord, He forgave him because the message had not reached him—this is what several scholars have stated.
+
+For this reason Ibn Taymiyyah رحمه الله, said: "Whoever doubts one of the attributes of the Lord, and such doubt is in something that one like him should not be ignorant of, is a disbeliever. However, if it is something that one like him could be ignorant of, he is not deemed a disbeliever." He further stated: "This is why the Prophet (ﷺ) did not declare the man who doubted ALLĀH’S power to be a disbeliever,because such disbelief only applies after the message has reached a person." Ibn ʿAqīl also held this view, interpreting the case as one where the man had not received the message.
+
+Shaykh Taqi Ad-Dīn's stance regarding ALLĀH’S attributes was that ignorance does not render a person a disbeliever. However, when it comes to polytheism and similar matters, he did not hold the same view, as will be shown later,إن شاء الله. We have already mentioned some of his statements regarding the Ittihadiyyah (a sect that believed in the unity of existence) and others, and his ruling that whoever doubts their disbelief is himself a disbeliever.
+
+The author of Al-Ikhtiyarat stated: "Apostasy applies to anyone who associates others with ALLĀH (ﷻ), hates the Prophet (ﷺ) or what he brought, fails to reject wrongdoing in his heart, believes that some of the Companions fought alongside the disbelievers or deems such an act permissible, denies a matter upon which there is definitive consensus, or places intermediaries between himself and ALLĀH (ﷻ) relying on them, calling upon them, and seeking from them—this is unanimous disbelief."
+
+He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that one like him should not be ignorant of is an apostate. However, if it is something one like him could be ignorant of, he is not an apostate. This is why the Prophet (ﷺ) did not declare the man who doubted ALLĀH’S power to be a disbeliever."
+
+---
+
+Shaykẖ ʿAbd Al-Laṭīf said:
+
+As for the Jahmiyyah and the worshipers of graves, citing such texts to argue against declaring them disbelievers is only done by someone who has not truly understood Islam and the message with which Allah sent His noble messengers.
+
+The essence of what the messengers brought and called to is the obligation of worshiping Allah alone with no partners, sincerely dedicating all acts of devotion to Him, and not associating any of His creation in what is exclusively His right. Moreover, they affirmed what Allah described Himself with—attributes of perfection and majesty.
+
+Whoever opposes this message, denies it, or invalidates it is a misguided disbeliever, even if he says, “La ilaha illa Allah” and claims to be a Muslim. This is because the shirk he commits contradicts the very meaning of the testimony of faith. Thus, merely uttering “La ilaha illa Allah” does not benefit him, as he has spoken words he did not act upon, nor did he believe in what they entail.
+
+As for the statement: “We say that the statement is disbelief, but we do not judge the speaker as a disbeliever,”
+
+This is an absolute misunderstanding because such an expression only applies to specific individuals. The issue of declaring an individual a disbeliever (takfīr al-mu‘ayyan) is well known: if someone utters a statement that is itself an act of disbelief, it is said, “Whoever says this statement is a disbeliever.” However, when a specific individual says it, he is not judged as a disbeliever until the proof that necessitates disbelief for its denier has been established against him.
+
+This applies to hidden matters whose evidences may be obscure to some people, such as issues related to qadar and irjā’ and similar matters that were introduced by the people of desires (ahl al-ahwā’). Some of their statements entail disbelief because they involve rejecting the clear and established proofs from the Qur’an and Sunnah. In such cases, while the statement itself may be disbelief, the one who utters it is not necessarily judged as a disbeliever due to possible barriers like ignorance or lack of knowledge about contradicting the text or its implications.
+
+Religious rulings only become binding after they have been conveyed. Shaykh al-Islām Ibn Taymiyyah (may Allah sanctify his soul) mentioned this in many of his writings. He also stated that some prominent scholars of kalām were declared disbelievers after he had clarified this principle. He said:
+
+“This applies to hidden matters, and it may be said that no judgment of disbelief should be made in such cases. However, regarding the obvious and clear issues or those known by necessity in religion, there is no hesitation in declaring the one who contradicts them a disbeliever.”
+
+Therefore, do not use this statement “We say that the statement is disbelief, but we do not judge the speaker as a disbeliever” as a crutch to refute those who declare a town disbelieving when it refuses to worship Allah alone or denies His attributes, after the proof has been established against it and the truth has been made clear.
+
+Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al-Jahmiyyah p.157-159.
+
+---
+
+Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
+
+Shaykh al-Islām (Ibn Taymiyyah), may Allāh have mercy on him, said: “Building mosques on graves is prohibited, and even if something other than a mosque is built on them, it is prohibited by the consensus of scholars, as it is a means to shirk and a forbidden act.”
+
+He also said: “Know that the term ‘du’ā’ in the Qur’ān refers to two meanings: the ‘du’ā’ of worship’ and the ‘du’ā’ of asking.’ Every worshipper is a seeker, and every seeker is a supplicant. One term can encompass the other when separated from its context, and when both meanings are combined, it refers to one who asks for the seeking of benefits and the removal of harm through the forms of asking and requesting.”
+
+I (Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan) say: Look at this contradiction, confusion, and inconsistency. There is no doubt that disbelief opposes faith, invalidates it, and nullifies deeds, as confirmed by the Qur’ān, Sunnah, and the consensus of Muslims. Allāh, the Exalted, says: “And whoever disbelieves in the faith, his deeds are invalid, and he is among the losers in the Hereafter.” (Al-Mā’idah: 5).
+
+It is said that every disbeliever is mistaken, and the polytheists have their justifications. They believe that their polytheism towards the righteous is an act of honoring them that benefits them and wards off harm. But Allāh did not excuse them for this mistake or misinterpretation. Allāh says: “And those who take protectors besides Him say, ‘We only worship them that they may bring us nearer to Allāh.’
+
+Allāh will judge between them concerning what they differ.” (Az-Zumar: 3). And He also says: “Say, ‘Shall we inform you of the greatest losers in deeds? Those whose efforts have been wasted in this worldly life while they think that they are doing good.’” (Al-Kahf: 103-104). Where is the reason of this person in relation to these and similar clear verses?
+
+The scholars, may Allāh have mercy on them, followed the path of uprightness and discussed the ruling of apostasy. None of them said that if a person commits an act of disbelief or says something of disbelief while not knowing that it contradicts the testimony of faith, he is not considered a disbeliever due to his ignorance.
+
+And Allāh has clarified in His Book that some of the polytheists are ignorant followers, yet their ignorance and blind imitation did not prevent them from facing Allāh’s punishment, as He said:  “And among the people is he who disputes about Allāh without knowledge and follows every rebellious devil … to His saying: ‘The punishment of the Blaze.’” [Al-Ḥajj: 3-4]
+
+Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Takfīr al-Muʿayyan By Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan Āl ash-Shaykh p.30-31.
+
+---
+
+Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
+
+“The issue of declaring a specific individual a disbeliever (takfīr al-mu‘ayyan):
+
+Some people claim that an individual should never be declared a disbeliever. They misunderstand certain statements of Ibn Taymiyyah and mistakenly believe that only those whom the Qur’an explicitly declares as disbelievers—such as Pharaoh—can be ruled as such. However, the Qur’anic texts do not specify every single person. They study the rulings on apostasy but never apply them to anyone! This is utter misguidance and extreme ignorance. Rather, these rulings must be applied—but with conditions.
+
+As for those who hesitated to declare an individual a disbeliever in matters where the evidence may be unclear, they do not rule takfīr until the prophetic proof has been fully established against the person, in both its authenticity and meaning. Once the proof has been clearly explained, the person is ruled a disbeliever—whether he understands and rejects it, or claims not to understand. Not all disbelief stems from mere obstinacy.
+
+However, regarding matters that are known by necessity to be part of what the Messenger ﷺ brought, if someone opposes them, then he is ruled a disbeliever immediately, without the need for further clarification—whether in fundamental or subsidiary matters—unless he is new to Islam.
+
+The third category involves ambiguous matters. In such cases, a person is not ruled a disbeliever, even after evidence has been presented to him—whether the issue pertains to fundamentals or secondary issues. An example of this is the man who instructed his family to burn his body after his death.”
+
+Source: Muʿjam al-Tawḥīd 3/74.
+
+---
+
+Sheikh Sulaymān ibn Suhmān said:
+
+“Know that not every error, ijtihād, or ignorance is excused. Allah has informed us in the Qur’an of the ignorance of many disbelievers while still explicitly declaring their disbelief. He also described the Christians as ignorant, even though no Muslim doubts their disbelief. We are certain that most Jews and Christians today are ignorant followers, yet we still affirm their disbelief and the disbelief of anyone who doubts their disbelief.
+
+The Qur’an makes it clear that doubting the fundamentals of religion is itself disbelief. Doubt is wavering between two positions—such as someone who neither affirms nor denies the truthfulness of the Messenger, or neither affirms nor denies the occurrence of resurrection, or someone who neither believes in the obligation of prayer nor in its lack of obligation, or who neither affirms nor denies the prohibition of fornication. This is disbelief by the consensus of the scholars, and there is no excuse for one who is in such a state simply because he does not understand Allah’s evidences and proofs. There is no excuse for him after the proof has reached him, even if he fails to comprehend it.
+
+What led the followers of ‘Ittiḥādiyyah and Ḥulūliyyah into their blatant disbelief, grievous shirk, and complete denial of the true existence of the Lord of the worlds except their errors in this matter, in which they exercised their reasoning and went astray, misleading others from the straight path?
+
+What led Al-Ḥallāj to his fate, with scholars unanimously agreeing on his execution, except the consequences of his so-called ijtihād? What caused the Qarmaṭians to embrace their vile heresies and abandon the bonds of Islam except their exercise of reasoning in what they falsely believed?
+
+What led the Rāfiḍah to their disbelief, their polytheism, their worship of the Twelve Imams and others, and their cursing of the Companions of the Messenger of Allah (ﷺ) and his noble wives, except their so-called ijtihād? These people are the predecessors of this man and his likes, in claiming that ‘every error is excused.’
+
+The logical conclusion of this claim would be that no one should be deemed sinful or declared a disbeliever for errors in all matters of fundamental belief—such as faith in Allah’s existence, His Lordship, His exclusive right to be worshiped, His Decree and Predestination, belief in His perfect attributes, His knowledge of all events before they occur, and other essential tenets.
+
+If one were to deny responsibility and accountability for errors in these matters, it would entail exonerating the deniers of Allah’s essence, those who negate His Lordship, those who deny His names and attributes, those who reject His exclusive right to be worshiped, and those who claim that Allah does not know future events before they happen, such as the extreme Qadarites. Likewise, it would exonerate those who attribute worldly occurrences to celestial bodies, those who claim the existence of two eternal principles—light and darkness.
+
+If this heretic upholds all of this, then he is more disbelieving and misguided than the Jews and Christians. But if he claims that there is a distinction between these matters and the current issue of dispute—namely, invoking the dead and the absent for things that only Allah can do—then let him prove this distinction with clear evidence.
+
+If he fails to do so, his argument collapses, and people of knowledge will recognize him as a deceiver and a sophist, not a scholar of fiqh and religion. He will be exposed as someone unfamiliar with Islam and its adherents, unable to distinguish between monotheists and polytheists. Rather, he remains in the darkness of natural ignorance, doubt, and manifest confusion.
+
+Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah and are well-versed in his principles can truly understand his words.
+
+---
+
+al-‘Allāmah ‘Abdullāh Abā Butayn said:
+
+As for the objector who asks: “Didn’t Ibn Taymiyyah excuse the one who misinterprets or blindly follows others, and say that Allāh forgives the ignorant in ways He does not forgive others?” The response to this is: Such a statement is only cited by someone who agrees with Ibn Taymiyyah that seeking help from the Prophet (ﷺ) and other deceased individuals is prohibited and is shirk. They may then argue that the ignorant might be excused.
+
+However, if someone denies Ibn Taymiyyah’s stance on this matter, criticizes those who follow him, or even considers them disbelievers, then they have no basis for excusing the individuals in question—because they do not see them as mistaken at all, but rather as rewarded for following what they believe is Allāh’s command: “Seek means of approach to Him” (Al-Māʾidah 5:35), according to this distorter of Allāh’s words. Thus, there is no reason to seek an excuse for them.
+
+Everything the Sheikh stated in this matter—meaning Tawḥīd—was not merely his personal opinion, but rather a clarification of what is clearly established in the Qurʾān, Sunnah, and scholarly consensus. May Allāh have mercy on him and be pleased with him.
+
+The Sheikh also said: A person may do something they believe to be righteous without knowing that it is actually forbidden. In such a case, they will be rewarded for their good intention and excused due to their ignorance. This is a broad topic. He also said: ‘The ignorant are forgiven in ways that others are not.’ However, he meant this generally, not in every specific case.
+
+That is why he also said in Sharḥ al-ʿUmda: “Any rejection of Allāh’s message or command is disbelief, whether minor or major. However, if the matter is obscure and the correct understanding is difficult to reach, then one may be excused—especially in minor issues related to jurisprudence. But if the issue is well known and fundamental to the religion, there is no excuse.”
+
+And he was also told that shirk is never forgiven, even if it is minor. His student, the author of al-Furūʿ, narrated that he said: “That is because of the generality of Allāh’s statement: ‘Indeed, Allāh does not forgive associating partners with Him’ (An-Nisāʾ 4:48).”
+
+In al-Risālah as-Saniyyah, Ibn Taymiyyah wrote: “Whoever exaggerates in their reverence for a prophet or righteous person and attributes to them some aspect of divinity—i.e, by calling upon them instead of Allāh, saying: ‘O my master, so-and-so, help me,’ or ‘save me,’ or ‘I put my trust in you,’ or ‘I am under your protection’—then this is all shirk and misguidance. The individual must be given a chance to repent; if they do, they are forgiven, but if they refuse, they must be executed.”
+
+Similarly, in the case of those who believe in intermediaries, he said: “If someone commits this, they must be called to repent; if they refuse, they are to be executed.”
+
+The general meaning of Allāh’s statement: “Indeed, Allāh does not forgive associating partners with Him” (An-Nisāʾ 4:48), applies to every polytheist. The jurists of all Islamic schools of thought state in their sections on apostasy that whoever associates partners with Allāh has committed disbelief, and they cite this verse and others like it as evidence. None of them excluded the ignorant from this ruling. Allāh also says: “Say: Shall We tell you who are the greatest losers in their deeds? They are those whose efforts in the worldly life were misguided, while they thought they were doing good” (Al-Kahf 18:103-104).
+
+And: “A group was guided, while a group deserved to be in error, for they took devils as allies instead of Allāh, and they thought they were guided” (Al-Aʿrāf 7:30).
+
+Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs against those who claim that Allāh does not punish anyone for a sin they committed or a misguidance they believed in—unless they knew it was wrong. If that were true, there would be no difference between the misguided ones who think they are upon guidance and those who are truly guided.
+
+---
+
+Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
+
+"As for al-`Irāqī and his misguided companions, they argued that the Sheikh (Ibn Taymiyyah) does not declare the ignorant to be disbelievers and that he says they are excused. They made this claim in a vague manner without providing details, and used this misconception as a shield to reject the Quranic verses and prophetic hadiths. They raised their voices against the monotheists, as was the case with their predecessors from the worshippers of graves and polytheists. And to Allah is the final return, and He is the Judge between His servants regarding what they differed in."
+
+Source: Minhāj al-Tāsīs wa al-Taqdīs p.227.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: منهاج التأسيس والتقديس</p>
+<h4 dir="rtl">ص. 227</h4>
+<p>بها وأنها مصقودة لذاتها المحمودة وعواقبها الحميدة.</p>
+<p>وهذا الأصل هو أساس الكلام في هذه الطبقات الذي عليه ينبني، مع تلقي أحكامها من نصوص الكتاب والسنة لا من آراء الرجال وعقولهم، ولا يدري قدر الكلام في هذه الطبقة إلا من عرف ما في كتب الناس، ووقف على أقوال الطوائف في هذا الباب، وانتهى إلى غاية مرامهم ونهاية إقدامهم والله الموفق للسداد الهادي إلى الرشاد.</p>
+<p>وأما من لم يثبت حكمة ولا تعليلا، ورد الأمر إلى محض المشيئة التي ترجح أحد المثلين على الآخر بلا مرجح، فقد أراح نفسه من هذا المقام الضنك واقتحام عقبات هذه المسائل العظيمة، وأدخلها كلها تحت قوله تعالى: {لا يُسْأَلُ عَمَّا يَفْعَلُ} [الانبياء: من الآية23] لكمال حكمته وعلمه، ووضعه الأشياء مواضعها وأنه ليس في أفعاله خلل ولا عبث ولا فساد يسأل عنه كما يسأل المخلوق، وهو الفعال لما يريد، ولكن لا يريد أن يفعل إلا ما هوم خير ومصلحة ورحمة وحكمة، فلا يفعل الشر ولا الفساد ولا الجور، ولا خلاف مقتضى حكمته لكمال أسمائه وصفاته وهو الغني الحميد العليم الحكيم&quot; انتهى.</p>
+<p>فقف هنا وتأمل هذا التفصيل البديع، فإنه رحمه الله لم يستثن إلا من عجز عن إدراك الحق مع شدّة طلبه وإرادته له، فهذا الصنف هو المراد في كلام شيخ الإسلام وابن القيم وأمثالهما من المحققين رحمهم الله.</p>
+<p>وأما العراقي وإخوانه المبطلون، فشبهوا بأن الشيخ لا يكفر الجاهل، وأنه يقول: هو معذور، وأجملوا القول ولم يفصلوا، وجعلوا هذه الشبهة ترساً يدفعون به الآيات القرآنية والأحاديث النبوية، وصاحوا على عباد الله الموحدين، كما جرى لأسلافهم من عباد القبور والمشركين، وإلى الله المصير، وهو الحاكم بعلمه وعدله بين عباده فيما كانوا فيه يختلفون.</p>
+<p>وأما من أعرض عن الهدى ودين الحق، ولم يرفع به رأساً بعد معرفته أو مع تمكنه من معرفته، فالأدلة القرآنية والأحاديث النبوية دالة على دخول هؤلاء</p>
+</div>
+</details>
+
+---
+
+Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
+
+He (Ibn Qayyim) said: “Islam is the monotheism of Allah and worshipping Him alone with no partner, believing in His Messenger, and following what he brought. If a person does not fulfill this, he is not a Muslim. Even if he is not oppositional, he is an ignorant disbeliever. The nature of this category is that they are ignorant disbelievers, not oppositional. Their lack of opposition does not take them out of disbelief. The disbeliever is the one who denies the oneness of Allah and denies His Messenger, either out of opposition or ignorance, or following the traditions of their forefathers out of stubbornness.”
+
+Allah has informed us in the Qur’an, in several places, of the punishment for those who blindly follow their ancestors from the disbelievers. They will dispute in Hell, and the followers will say: “Our Lord, these are the ones who led us astray, so give them double the punishment in the Fire.” Allah will say: “For each there is double, but you do not know.” (Al-A’raf: 38) This is a summarized explanation, and this verse has many similar instances in the Qur’an. Praise be to Allah for the clarity of the explanation.
+
+The clear verses also show the disbelief of those who associate others with Allah in His worship. Allah says: “When man is touched with harm, he calls upon his Lord, turning to Him alone. But when He grants him a favor from Himself, he forgets what he had been calling to Him before, and he makes equals to Allah to mislead others from His way. Say: ‘Enjoy your disbelief for a little while; indeed, you are of the companions of the Fire.’” (Az-Zumar: 8)
+
+Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Takfīr al-Muʿayyan By Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan Āl ash-Shaykh p.32.
+
+---
+
+Sheikh Sulaymān ibn Suhmān said:
+
+As for the statement: “And I used to affirm that Allah has forgiven this ummah for its mistakes, including mistakes in both doctrinal and practical matters.”
+
+I say: The actual words of the Sheikh (Ibn Taymiyyah) have been altered in a way that obscures his intent and meaning. At the beginning of his statement, he said: “I am always— and those who sit with me know this— one of the strongest opponents of labelling a specific individual as a disbeliever, a sinner, or an evildoer unless it is known that the prophetic proof has been established against him. Whoever opposes it is sometimes a disbeliever, sometimes a sinner, and sometimes an evildoer. And I affirm that Allah has forgiven this ummah…”
+
+Thus, the Sheikh’s statement about not declaring a specific individual a disbeliever before the proof is established refers to specific issues where the evidence may be unclear to some people, such as matters of Qadar, Irjāʾ, and similar theological positions held by sects of Ahl al-Ahwāʾ.
+
+Some of their statements may contain aspects of disbelief, such as rejecting certain clear proofs from the Qur’an and Sunnah. Such statements may be classified as kufr, but the one making them is not necessarily ruled a disbeliever due to the possibility of an extenuating factor, such as ignorance or lack of awareness of the text itself or its interpretation. This is because taklīf only applies after the message has reached a person.
+
+That is why Ibn Taymiyyah mentioned this in the context of the innovations of Ahl al-Ahwāʾ. He explicitly clarified this by stating—when discussing the disbelief of certain prominent theological figures after establishing this principle:
+
+“This applies when the matter is obscure (khafiyyah), so one might argue against declaring such a person a disbeliever. However, when it comes to clear and obvious matters, or those known necessarily from the religion, then there is no hesitation in declaring the one who denies them a disbeliever.” This has already been explained previously.
+
+The dispute between us and these extremists is not about theoretical, subtle, or interpretive issues where the evidence might be unclear. Rather, the dispute concerns the act of directing exclusive rights of Allah to saints and righteous people—such as supplication, love, fear, hope, seeking aid, and other forms of worship. This is something known necessarily from the religion of Islam—that only Allah deserves such acts of devotion. Whoever directs any of these acts to anyone other than Allah is a disbeliever and a polytheist.
+
+Source: al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād p. 159-160.
+
+---
+
+Shaykh Ṣāliḥ al-Fawzān Was asked:
+
+Q: certain preachers who claim to follow Salafiyyah, (who are really) modern-day Murji'ah, have spread a particular interpretation of Ibn Taymiyyah's words. They say: "We don't do individual takfir until conditions are met and obstacles are removed." Or they say: "Not everyone who commits Kufr is necessarily ruled as Kafir." Or statements that are general concerning the ruling by what is apparent of Islam.
+
+Similarly, may Allah protect you, is about to Imam al-Mujaddid Muhammad ibn Abdul-Wahhab and his statement: "We do not takfir those who worship the grave of Abdul-Qadir, and the grave of Ahmad al-Badawi and their likes, due to their ignorance, and due to no one informing them." (To clarify this statement in’sha’allah which is heavily used by the Murji’ah, This is related to the hukm (ruling) for the hereafter  however they are labeled a mushrik in this life).  [Durar as-Saniyyah, 1/104]
+
+Similarly, with the statements of some scholars that say only judge can do takfir, As well as words of Ibn Uthaymeen about a person who commits shirk. They argue using these general statements, that the individual ignorant grave-worshipper, who claims Islam, is a Muslim in reality. They attribute this understanding to the scholars. Is this true?
+
+A: This is a lie and slander against them (the scholars), and is misguidance. This is a lie and slander against them.
+
+---
+
+Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
+
+Question: Is a person excused due to ignorance if he performs acts of shirk, such as circumambulating a grave, without knowing that what he is doing is shirk against Allah Almighty?
+
+Answer: Those who committed such acts before the sending of the Prophet ﷺ are referred to as Ahl al-Fatrah (people of the interval between prophets), and there is scholarly discussion concerning them. As for after the sending of the Prophet ﷺ and the revelation of the Qur’ān, Allah says: “And We never punish until We have sent a Messenger.” [al-Isrāʾ: 15]
+
+So, Allah has sent the Messenger and revealed the Qur’ān. Is the mushrik then excused if he is misled into believing that circumambulating graves, invoking them besides Allah, or sacrificing to them is permissible, due to the deception of evil scholars who disguise and beautify shirk for him—so much so that the truth becomes obscured and he no longer recognizes it? Some scholars have said: Yes, he may be excused in such a case, but he is treated in this world like a mushrik—i.e., he is not washed, not prayed over, and not buried in Muslim cemeteries—just as Ahl al-Fatrah are treated.
+
+This view was adopted by Shaykh Muḥammad ibn ʿAbd al-Wahhāb, may Allah have mercy on him, who said:
+
+“We do not declare anyone a disbeliever until the proof has been established upon him.” Other scholars, however, held that no one is excused after the sending of the Messenger ﷺ, since Allah says: “And We never punish until We have sent a Messenger.”, and indeed, the Messenger has been sent, and the Qur’ān has been revealed and is recited. Its texts are clear in warning against shirk and in defining it. Therefore, they are not excused.
+
+These two positions are both attributed to the scholars, and were mentioned by Shaykh al-Islām Ibn Taymiyyah and others. May Allah grant everyone success in obeying Him, bless all with righteous deeds and beneficial knowledge, and may peace and blessings be upon Muḥammad, his family, and his companions.
+
+https://shamela.ws/book/37010/193
+
+══════════════
+
+I say: In this we see the ijmā’ that the label of mushrik is still applied to the one who commits shirk.
+
+---
+
+Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
+
+“Is the one who performs ṭawāf around graves or commits acts of shirk out of ignorance—meaning he does not know that what he is doing is shirk—to be excused? Please provide detail.
+
+The Shaykh said: "The scholars have 2 opinions on this after the mission/prohethood (بعثة) of Prophet ﷺ — Ahl Al-Fiṭrah after the prophethood/mission of Prophet ﷺ, regarding them their is a scholarly discussion.
+
+But after the Prophet ﷺ was sent and the Qur’ān was revealed—Allah says: “And We never punish until We have sent a messenger”—and indeed Allah has sent the Messenger and revealed the Qur’ān.
+
+So is the mushrik excused if the matter has been confused for him—if he was performing ṭawāf around graves and calling upon them—and he did not perceive the truth, nor recognize it, because of the deception of corrupt scholars who distort things for him and beautify shirk in his eyes?
+
+Some scholars have said he is excused in such a case, but he is treated in this world as a mushrik: he is not washed, not prayed over, not buried among Muslims, and no pilgrimage is performed on his behalf, nor is mercy invoked for him. In the Hereafter, his matter is left to Allah.
+
+This is the position adopted by Shaykh Muḥammad ibn ʿAbd al-Wahhāb رحمه الله. He said that no one is declared a kāfir until the ḥujjah (proof) is established against him.
+
+Other scholars said no one is excused after the Prophet ﷺ, because Allah says: “And We never punish until We have sent a messenger”—and the Messenger has been sent and the Qur’ān revealed, and the Qur’ān is recited and the texts are clear regarding the prohibition of shirk. Therefore, they are not excused. These are two views held by scholars.
+
+In any case, those who say he is excused also say that in this world he is treated as a mushrik: he is not washed, not prayed over, not buried in the Muslim cemeteries, pilgrimage is not performed for him, and mercy is not invoked for him. As for the Hereafter, his matter is with Allah.
+
+Shaykh al-Islām Ibn Taymiyyah رحمه الله said a profound statement. He said:
+
+There are two types of shirk: greater and lesser. Whoever is free from both dies upon tawḥīd. Whoever is free from both dies upon tawḥīd and enters Paradise. Whoever is free from the greater enters Paradise.
+
+Whoever dies upon the greater shirk enters the Fire. And whoever dies upon the lesser shirk—if his good deeds outweigh his bad—enters Paradise. That is because of the abundance of tawḥīd alongside a small amount of shirk. But if his bad deeds outweigh his good, he will be punished for this lesser shirk. Shirk is accounted for whether it is greater or if it is extensive in amount.
+
+If it is small in comparison to much sincerity, this is the view of Shaykh al-Islām رحمه الله: shirk is held accountable in both of its forms—greater and abundant in quantity. If someone dies upon greater shirk, he dies from among the people of the Fire.
+
+As for lesser shirk, it depends on whether his good deeds outweigh the bad or the opposite. If the bad deeds outweigh, then his good deeds are nullified and shirk overcomes them. But if the good deeds, especially tawḥīd, are abundant, they may outweigh the shirk.”
+
+---
+
+A brother requested me what are some good Najdī treatise on the matter of ʿUdhr bil Jahl, those seeking the truth these treatise below should be sufficient in one seeking it.
+
+These are some Important works of the Imāms of Najdī Daʿwah on the matter of takfīr, ʿuḏhr bil jahl and refuting the Mumayyiʿah (those who water-down the religion) & Murjiʾah.
+
+• Mufīd Al-Mustafīd fī Kufr Tārik At-Tawḥīd (Beneficial Insight on the Disbelief of One Who Abandons Tawḥīd) by Al-Imām Muḥammad bin ʿAbdu Al-Wahhāb (رحمه الله) [d. 1206 AH].
+
+https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D9%81%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF-%D9%81%D9%8A-%D9%83%D9%81%D8%B1-%D8%AA%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-pdf
+
+• Al-Intiṣār li-Ḥizb Allāh Al-Muwaḥḥidīn wa Ar-Radd ʿalā Al-Mujādil ʿan Al-Mushrikīn (The Victory of Allāh’s Monotheistic Party and the Refutation of Those Who Argue on Behalf of the Polytheists) by Shaykh ʿAbdullāh Abā Buṭayn (رحمه الله) [d. 1286 AH], the Muftī of the Najdī lands.
+
+https://archive.org/details/2828Pdf/page/n13/mode/2up
+
+• Taʾsīs At-Taqdīs fī Kashf Shubuhāt Dāwūd bin Jirjīs (The Foundation of Sanctity in Clarifying the Misconceptions of Dāwūd bin Jirjīs) also by Shaykh ʿAbdullāh Abā Buṭayn (رحمه الله).
+
+https://archive.org/details/2449Pdf
+
+• Minhāj At-Taʾsīs wa At-Taqdīs fī Kashf Shubuhāt Dāwūd bin Jirjīs (The Methodology of Foundation and Sanctity in Clarifying the Misconceptions of Dāwūd bin Jirjīs ) by Shaykh ʿAbd Al-Laṭīf bin ʿAbd al-Raḥmān bin Ḥasan (رحمه الله) [d. 1296 AH].
+
+https://ia800303.us.archive.org/22/items/WAQ33713/33713.pdf
+
+• Kashf Ash-Shubhatayn (Exposing the Two Misconceptions) by Shaykh Sulaymān bin Saḥmān (رحمه الله) [d. 1349 AH].
+
+https://archive.org/details/2940Pdf_201812
+
+• Kashf Al-Awhām wa Al-Iltibās fī Tashbīh Baʿḍ Al-Aghbiyāʾ min An-Nās (Exposing the Delusions and Confusion in the Analogies of Some of the Ignorant People), another significant treatise by Shaykh Sulaymān bin Saḥmān (رحمه الله).
+
+https://archive.org/details/1995_20230116
+
+• Al-Adillah wa Al-Barāhīn ʿalā ʿAdam Al-ʿUḏhr bil Jahl fī Uṣūl Ad-Dīn (The Evidence and Proofs on the Non-Excusability of Ignorance in the Fundamentals of Religion) by the Shaykh ʿAbd Ar-Raḥmān bin Ḥasan Āl Ash-Shaykh [d. 1285 AH].
+
+https://archive.org/details/di3rkuuhq_tmpmail_201709
+
+• Taḥqīq Madhhab Shaykh al-Islām Ibn Taymiyyah fī Masʾalatī al-ʿUdhru bil-Jahl wa-Takfīr al-Muʿayyan (Verification of the stance of Shaykh al-Islām Ibn Taymiyyah on the Issues of Excusing Due to Ignorance and Declaring Specific Individuals as Disbelievers) By Shaykh ʿAbd al-Raḥmān ibn Ḥasan Āl ash-Shaykh.
+
+https://archive.org/details/20200111_20200111_0515/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D9%85%D8%B0%D9%87%D8%A8%20%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%20%D8%A7%D8%A8%D9%86%20%D8%AA%D9%8A%D9%85%D9%8A%D8%A9%20%D9%81%D9%8A%20%D9%85%D8%B3%D8%A3%D9%84%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B0%D8%B1%20%D8%A8%D8%A7%D9%84%D8%AC%D9%87%D9%84%20%D9%88%D8%AA%D9%83%D9%81%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%86
+
+• The tenth volume of Ad-Durar As-Saniyyah, which contains several important treatises by the Imāms of the Najdī Daʿwah (رحمهم الله).
+
+https://archive.org/details/1241825/00_41814/
+
+---
+
+Shaykh Sulaymān ibn Saḥmān said:
+
+As for the deception and confusion by some of these people who claim that Shaykh al-Islām (Ibn Taymiyyah) refrained from declaring takfīr upon a specific ignorant individual — this is from distortion and misleading by those blind in perception. For what is intended by that relates to specific issues whose evidence may be hidden from some people — such as issues of qadar, irjāʾ, and similar matters which were spoken about by the people of desires. For some of their statements contain matters of disbelief — such as rejection of the clear and recurrent evidences of the Book and the Sunnah — so the statement that includes rejection of some revealed texts is disbelief, but the one who says it is not ruled to be a disbeliever due to the possibility of a preventing factor, such as ignorance or not knowing the actual text or its indication.
+
+For the divine laws do not become binding except after they have been conveyed. And that is why he mentioned it in his discourse concerning the innovations of the people of desires. And he explicitly stated this, for after he explained this matter regarding the takfīr of specific individuals from among the mutakallimīn, he said: “This is when the matter pertains to subtle issues — so it may be said that no takfīr is to be made. But as for what occurs from them in clear, obvious issues — or in matters known by necessity from the religion — then there is no hesitation in the disbelief of the one who says it.”
+
+Source: Kashf al-Awhām by Shaykh Sulaymān ibn Saḥmān p.116-117.
+
+---
+
+An important fatawa and advice from Shaykh ʿAbd Allāh al-Jarbūʿ that I requested
+
+Question I asked the Shaykh:
+
+Shaykh, I have a question. I am from Britain, and here there is a well-known group that claims to be Salafī (SPUBS And their likes). Anyone who disagrees with them on this particular issue is labeled by them as a ḥaddādī , a takfīrī , or a khārijī .
+
+Shaykh, they have attributed to scholars such as Shaykh Ibn Bāz, Shaykh Ibn ʿUthaymīn, Shaykh al-Fawzān, Ibn Taymiyyah, and others — that they excuse the mushrik and say that he is still a Muslim until the ḥujjah (proof) is established against him. They have (also) cited the ḥadīth of ash-shafā ʿ ah (intercession) in their writings to claim that a person can abandon all deeds and still enter Paradise.
+
+Shaykh, I have gathered many, many, many statements from the scholars and translated them into English to warn against this group. Despite that, I was met with opposition, boycotting, insults, verbal abuse, and cursing — simply because I speak out against them. I have not found anyone here who opposes their beliefs. I need your advice on how to deal with this matter.
+
+He responded: The ones you mentioned — Shaykh Ibn Taymiyyah, Ibn al-Qayyim, Ibn Kathīr, Shaykh Ibn Bāz — yes, they affirm al- ʿ udhr bil-jahl (excusing due to ignorance), but they still say that the mushrik is a kāfir . Their texts explicitly state that the ignorant one is given the same ruling as Ahl al-Fatrah — a disbeliever in the rulings of this world, while his matter is left to Allāh in the Hereafter (maybe he is excused).
+
+The excuse of ignorance does not mean that someone who worships aṭ-ṭāghūt (false deities) is a Muslim. These people are blind — they do not know what Islām is. They are shallow-minded and followers of Dāwūd ibn Jirjīs. They are the brothers of the grave-worshippers and the polytheists.
+
+Stay far away from them with the strongest form of separation. Do not pray behind them. Shaykh Ibn Bāz and Shaykh al-Fawzān explicitly gave fatāwā that whoever does not declare the mushrik to be a kāfir is just like him — they said it verbatim — and that one must not pray behind such people.
+
+These individuals — and we seek refuge in Allāh — have fallen into disbelief. They themselves are disbelievers. Whoever does not declare the mushrik to be a kāfir is himself a kāfir .
+
+Yes, al- ʿ udhr bil-jahl does not mean that a person who worships aṭ-ṭāghūt is a Muslim or that he is not a disbeliever. No. It means that if a person has not had knowledge reach him, even if he is a polytheist, then he will be questioned and tested on the Day of Judgement — as Ibn Kathīr said, and the authentic āthār support that they will be tested on the Day of Judgement.
+
+That is the meaning of the excuse of ignorance. But to make ignorance equivalent to Islām — to claim that a person committing shirk due to ignorance is a Muslim — this is blindness of insight. Truly, these people are blind in their hearts.
+
+Allāh ﷻ says: “So shall We make the Muslims like the criminals? What is [the matter] with you? How do you judge?” (Sūrat al-Qalam, 68:35–36)
+
+What is wrong with you? How do you rule? What kind of evil, corrupt ruling is this?
+
+The statement of Ibrāhīm عليه السلام is decisive — that no one is truly a Muslim except one who separates completely from shirk. Whoever falls into shirk — his deeds are rendered void, and he becomes among the losers, among the disbelievers, among the criminals.
+
+These people are brothers of the worshippers of aṭ-ṭāghūt — stay away from them. Stay away from them.
+
+This is not the path of the Salaf . It is not the way of the pious predecessors. Abandon them. Do not let them distract you from your path or mislead you.
+
+This is a great darkness. Whoever says that the one who commits shirk is still a Muslim — he has fallen into kufr .
+
+Shaykh al-Islām (Ibn Taymiyyah) stated that a group from the Salaf declared such people disbelievers. Among those who said this were {unclear}, Aḥmad ibn Ḥanbal, Abū ʿUbayd, and others.
+
+I asked after : May Allah reward you, Shaykh.
+
+---
+
+Fatawa I requested from Shaykh Abdullah Ibn Zayd Al-Musallam حفظه الله. The oldest student of Shaykh ibn Uthaymeen رحمه الله (he was his student for 20+ years) regarding a certain group of so called “Salafi’s” (SPUBS and their likes) in UK.
+
+I asked the Shaykh:
+
+As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
+
+Shaykh, I have a question. I’m from Britain. Here, there’s a group that claims to be Salafī. Anyone who doesn’t adhere to their creed is, according to them, a Takfīrī Ḥaddādī. They claim that Shaykh Ibn ʿUthaymīn, Shaykh al-Fawzān, Shaykh Ibn Bāz, Ibn Taymiyyah, and others excuse the ignorant mushrik and say that the mushrik is a Muslim. People here don’t listen to what I say and follow their way due to extremism, so I hope you can answer me and advise me.
+
+The Shaykh responded: Wa ʿalaykum as-salām wa raḥmatullāhi wa barakātuh.
+
+Leave them. Focus on the good of your religion and being steadfast in it. Keep away from them.
+
+Fatawa date: 21 Jul 2025
+
+---
+
+An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
+
+Shaykh Ayman al-ʿAnqarī said:
+
+He (Ibn Taymiyyah) said in al-Radd ʿalā al-Ikhnāʾī (pp. 387–388):
+
+“And among them are those who pray toward the grave of their shaykh, and face it in prayer, and say: ‘This is the qiblah for the private,’ and the Kaʿbah is the qiblah for the general.” “And I know of those who did this and that. And they are people with worship, asceticism, and religion, but in them is ignorance and misguidance, just as the monks of the Christians and others are among the most ascetic of people, and the most diligent in worship, yet with ignorance and misguidance….”
+
+I (Ayman al-ʿAnqarī) say: Upon reflection on the words of the Shaykh, it becomes clear that they have no excuse, for several reasons:
+
+The first: He did not describe them as Muslim, for he did not call them Muslims. His words: “They have worship, asceticism, and religion” do not imply that they are Muslim. And indeed, he did not call them that.
+
+The second — which clarifies the preceding statement — is that he compared them to the Christians, and described the Christians as ignorant, even though he said of them: “Just as the monks of the Christians and others are among the most ascetic of people, and the most diligent in worship, yet with ignorance and misguidance.” Does this statement imply that the Christians are Muslim?!
+
+Source: Taḥrīr Qawl Shaykh al-Islām Ibn Taymiyyah raḥimahullāh fī Fāʿil ash-Shirk al-Akbar by Shaykh Ayman al-ʿAnqarī p.91-92.
+
+---
+
+The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
+
+Shaykh Ibn Bāz was asked:
+
+Q: What was the position of the Salaf — may Allāh have mercy on them — such as Imām Ibn Taymiyyah and Ibn ʿAbd al-Wahhāb regarding the issue of al-ʿudhr bi’l-jahl (Excuse due to ignorance)? Is it something recognised? Did the Salaf address it? Or is it false, having no basis in the matter of tawḥīd?
+
+A: Ignorance, in general, may sometimes be an excuse and at other times not be an excuse.
+
+If a legally accountable person is far removed from Islām and from knowledge — such as one who grows up in lands distant from the Muslims, and the message, the Qurʾān, and the Sunnah have not reached him — then such a person is excused due to ignorance. He has the ruling of Ahl al-Fatrah on Yawm al-Qiyāmah (Day of Resurrection). They will be tested: if he responds, he will enter Jannah; and if he disobeys, he will enter the Fire.
+
+A person may also be excused in minor matters from the subsidiary rulings that may be hidden from someone like him — as the Prophet ﷺ taught the man who was wearing a cloak and had applied perfume while in iḥrām for ʿumrah. The Prophet ﷺ said to him, while he was compliant: “Remove the cloak from yourself, wash off the perfume, and do in your ʿumrah what you would do in your ḥajj.” He did not command him to offer any expiation. So in subsidiary matters, yes, ignorance may be excused.
+
+Likewise, in the case of one who is far removed from hearing the Qurʾān and the Sunnah — in remote regions of the world — such people are Ahl al-Fatrah. The correct view is that they will be tested on the Day of Resurrection: whoever responds to the command will enter Jannah, and whoever disobeys will enter the Fire.
+
+As for one who lives among the Muslims, where the Qurʾān and the Sunnah are known, then ignorance is not an excuse for him — neither in ʿaqīdah nor in other than it. Allāh said: “This Qurʾān has been revealed to me that I may warn you thereby and whomever it reaches.” Allāh knows best. The Qurʾān and the Sunnah are to be learned. Allāh al-Mustaʿān.
+
+---
+
+Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
+
+And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a specific individual to be a Kāfir, but this is not the case. Rather, what he intends is the matter whose evidence is hidden. As for that whose evidence is clear, then this assumption is not conceivable in it.
+
+Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/344.
+
+---
+
+Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh response to the Sufi grave worshipper Dāwūd ibn Jirjīs and his claim that the two Shaykh’s Ibn Taymiyyah and Ibn Qayyim used to excuse the one who commits shirk and label them a Muslim.
+
+The Murjiʾah have adopted many of his quotes and arguments and lies in our time also to defend their misguidance.
+
+Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
+
+It has already been explained to you that this is ignorance, confusion, and misguidance, and that he (Dāwūd ibn Jirjīs) did not understand the words of the Shaykh nor did he know its subject and what was intended by it.
+
+And how could the two Shaykhs (Ibn Taymiyyah and Ibn Qayyim) not judge someone with kufr or shirk when Allah, His Messenger, and all people of knowledge have judged with it?
+
+These two Shaykhs rule that whoever commits what necessitates kufr, apostasy, or shirk is judged according to that and according to what he has committed, kufr, shirk, or transgression, except if there is a legal impediment that prevents the general application.
+
+And this has specific cases which do not include one who worships an idol, a grave, a human, or a clod, due to the clarity of the proof and the establishment of the proof by the messengers.
+
+Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.592.
+
+---
+
+Shaykh ʿAbdullāh Abā Buṭayn [d. 1282 AH] said:
+
+"What Ibn Taymiyyah mentioned, that whoever does this is a kāfir by the consensus of the Muslims, is exactly what is practiced today at the well-known shrines across most of the lands of Islam. Rather, they have gone far beyond that, adding to it slaughtering and making vows for them, and some have even gone further to the point of prostrating to them on the ground.
+
+So we say: whoever today commits these acts at these shrines is a mushrik, a kāfir, without the slightest doubt, by the proof of the Book, the Sunnah, and the consensus. And we know that those who fall into this, while claiming Islam, were only driven into it by ignorance. Had they known that it distances a person from Allah to the furthest extent, and that it is from the very shirk Allah has forbidden, they would never have dared to approach it.
+
+Yet despite this, all of the scholars declared them disbelievers and did not excuse them with ignorance, contrary to what some of the misguided assert, claiming that such people are excused because they are ignorant. This claim is nothing but speaking about Allah without knowledge."
+
+Source: Al-Durar al-Saniyyah, vol. 10, p. 404.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: الدرر السنية في الأجوبة النجدية</p>
+<h4 dir="rtl">ص. 404</h4>
+<p>بمعنى: أن الخلق يسألونهم، وهم يسألون الله، كما أن الوسائط عند الملوك يسألون الملوك حوائج الناس، لقربهم منهم، والناس يسألونهم أدبا منهم، أن يباشروا سؤال الملك، أو لأن طلبهم من الوسائط أنفع من طلبهم من الملك، لكونهم أقرب إلى الملك من الطالب، فمن أثبتهم وسائط على هذا الوجه فهو كافر مشرك، يجب أن يستتاب فإن تاب وإلا قتل.</p>
+<p>فانظر قوله: فهو كافر بإجماع المسلمين، فجزم بكفر من هذه حاله، وأنه إجماع المسلمين، ولم يقل في هذا الموضع لم يمكن تكفير من فعل ذلك حتى يبين له ما جاء به الرسول، وقوله: فمن أثبتهم وسائط على هذا الوجه فهو كافر مشرك، يجب أن يستتاب، فجزم بكفره قبل الاستتابة.</p>
+<p>وكلامه في هذا الموضع نقله صاحب &quot;الفروع&quot; فيه، وكذا صاحب &quot;الإنصاف&quot; و&quot;الإقناع&quot; وغيرهم؛ وهذا الذي ذكر الشيخ أن من فعله كافر بإجماع المسلمين، هو الذي يفعل اليوم عند هذه المشاهد المشهورة في أكثر بلاد الإسلام، بل زادوا على ذلك أضعافه، وضموا إلى ذلك الذبح والنذر لهم، وبعضهم زاد السجود لهم في الأرض.</p>
+<p>فنقول: كل من فعل اليوم ذلك عند هذه المشاهد،</p>
+</div>
+</details>
+
+---
+
+شيخ الإسلام ابن تيمية يفرّق بين الحكم الدنيوي والحكم الأخروي، خلافًا لمن يزعم أنه لا يفرّق بينهما
+
+═══ ¤❁✿❁¤ ═══
+
+📌 قنوات النشر
+
+● يوتيوب
+
+https://youtube.com/@manhajalmamlaka?si=oBlTunIKBEnPBWzJ
+
+● تلقرام:
+
+https://t.me/udhrbiljahl1
+
+---
+
+⬅️ مسألة (تحقق الشروط وانتفاء الموانع) عند الإمام ابن تيمية (٣)
+
+- والفرق بين التكفير الحكمي والتكفير المعذب عند العلماء.
+
+الشيخ أيمن العنقري
+
+https://t.me/ahlul_hadith
+
+═══ ¤❁✿❁¤ ═══
+
+📌 قنوات النشر
+
+● يوتيوب
+
+https://youtube.com/@manhajalmamlaka?si=oBlTunIKBEnPBWzJ
+
+● تلقرام:
+
+https://t.me/udhrbiljahl1
+
+---
+
+### Related principles of takfīr and establishment of proof
+
+Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+As for the one whose revilement (of the companions) is accompanied by the claim that ʿAlī is a God, or that he was the Prophet but Jibrīl made a mistake in delivering the message — then there is no doubt about his kufr. In fact, there is no doubt about the kufr of the one who hesitates to declare such a person a kāfir.
+
+Likewise, whoever among them claims that the Qurʾān has had verses removed or concealed, or claims that it has hidden meanings that nullify the prescribed religious duties — and the like — these are known as the Qarāmiṭah and Bāṭiniyyah, and among them are the Tanāsikhiyyah. There is no disagreement among scholars regarding the kufr of such groups.
+
+Source: al-Ṣārim al-Maslūl p.586.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: الصارم المسلول</p>
+<h4 dir="rtl">ص. 586</h4>
+<p>فإذا كان الخليفتان الراشدان عمر وعلي رضي الله عنهما يجلدان حد المفتري من يفضل عليا على أبي بكر وعمر أو من يفضل عمر على أبي بكر مع أن مجرد التفضيل ليس فيه سب ولا عيب علم أن عقوبة السب عندهما فوق هذا بكثير.</p>
+<p>فصل.</p>
+<p>في تفصيل القول فيهم.</p>
+<p>أما من اقترن بسبه دعوى أن عليا إله أو أنه كان هو النبي وإنما غلط جبريل في الرسالة فهذا لاشك في كفره بل لاشك في كفر من توقف في تكفيره.</p>
+<p>وكذلك من زعم منهم أن القرآن نقص منه آيات وكتمت أو زعم أن له تأويلات باطنة تسقط الأعمال المشروعة ونحو ذلك وهؤلاء يسمون القرامطة والباطنية ومنهم التناسخية وهؤلاء لا خلاف في كفرهم.</p>
+<p>وأما من سبهم سبا لا يقدح في عدالتهم ولا في دينهم مثل وصف بعضهم بالبخل أو الجبن أو قلة العلم أو عدم الزهد ونحو ذلك فهذا هو الذي يستحق التأديب والتعزير ولا نحكم بكفره بمجرد ذلك وعلى هذا يحمل كلام من لم يكفرهم من أهل العلم.</p>
+<p>وأما من لعن وقبح مطلقا فهذا محل الخلاف فيهم لتردد الأمر بين لعن الغيظ ولعن الاعتقاد.</p>
+<p>وأما من جاوز ذلك إلى أن زعم أنهم ارتدوا بعد رسول الله صلى الله عليه وسلم إلا نفرا قليلا لا يبلغون بضعة عشر نفسا أو أنهم فسقوا عامتهم فهذا لا ريب أيضا في كفره فإنه مكذب لما نصه القرآن في غير موضع: من الرضى عنهم</p>
+</div>
+</details>
+
+---
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+And among them are those who say: “Rather, they will not be punished until a Messenger has been sent to them,” as indicated by the Kitāb and the Sunnah.
+
+However, their actions are still blameworthy and detested; Allāh condemns them, hates them, and they are described with kufr that Allāh censures and detests — even if He does not punish them until He has sent to them a Messenger.
+
+Source: Al-Jawāb al-Ṣaḥīḥ liman Baddala Dīn al-Masīḥ by Ibn Taymiyyah 2/311.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: الجواب الصحيح لمن بدل دين المسيح</p>
+<h4 dir="rtl">ص. 311</h4>
+<p>مِنْ نُظَّارِ الْقَدَرِيَّةِ، ثُمَّ هَؤُلَاءِ عَلَى قَوْلَيْنِ: مِنْهُمْ مَنْ يَقُولُ: يَسْتَحِقُّونَ عَذَابَ الْآخِرَةِ بِمُجَرَّدِ مُخَالَفَتِهِمْ لِلْعَقْلِ كَقَوْلِ الْمُعْتَزِلَةِ وَالْحَنَفِيَّةِ وَأَبِي الْخَطَّابِ، وَقَوْلُ هَؤُلَاءِ مُخَالِفٌ لِلْكِتَابِ وَالسُّنَّةِ.</p>
+<p>وَمِنْهُمْ مَنْ يَقُولُ بَلْ لَا يُعَذَّبُونَ حَتَّى يُبْعَثَ إِلَيْهِمْ رَسُولٌ ; كَمَا دَلَّ عَلَيْهِ الْكِتَابُ وَالسُّنَّةُ. لَكِنَّ أَفْعَالَهُمْ تَكُونُ مَذْمُومَةً مَمْقُوتَةً يَذُمُّهَا اللَّهُ وَيُبْغِضُهَا وَيُوصَفُونَ بِالْكُفْرِ الَّذِي يَذُمُّهُ اللَّهُ وَيُبْغِضُهُ وَإِنْ كَانَ لَا يُعَذِّبُهُمْ حَتَّى يَبْعَثَ إِلَيْهِمْ رَسُولًا ; كَمَا قَالَ: النَّبِيُّ صلى الله عليه وسلم فِي الْحَدِيثِ الصَّحِيحِ ; كَمَا تَقَدَّمَ «إِنَّ اللَّهَ نَظَرَ إِلَى أَهْلِ الْأَرْضِ فَمَقَتَهُمْ عَرَبَهُمْ وَعَجَمَهُمْ إِلَّا بَقَايَا مِنْ أَهْلِ الْكِتَابِ وَإِنَّ رَبِّي قَالَ: لِي قُمْ فِي قُرَيْشٍ، فَأَنْذِرْهُمْ قُلْتُ إِذًا يَثْلَغُوا رَأْسِي حَتَّى يَدَعُوهُ خُبْزَةً.</p>
+<p>قَالَ: &quot; إِنِّي مُبْتَلِيكَ وَمُبْتَلٍ بِكَ وَمُنْزِلٌ عَلَيْكَ كِتَابًا لَا يَغْسِلُهُ الْمَاءُ تَقْرَأُهُ نَائِمًا وَيَقْظَانَ فَابْعَثْ جُنْدًا أَبْعَثْ مِثْلَيْهِمْ، وَقَاتِلْ بِمَنْ أَطَاعَكَ مَنْ عَصَاكَ وَأَنْفِقْ أُنْفِقْ عَلَيْكَ» .</p>
+<p>وَقَالَ: «إِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ فَاجْتَالَتْهُمُ الشَّيَاطِينُ وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُمْ وَأَمَرَتْهُمْ أَنْ يُشْرِكُوا بِي مَا لَمْ أُنْزِلْ بِهِ</p>
+</div>
+</details>
+
+---
+
+<!-- telegram-source: dar/messages3.html#message2605 -->
+
+Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+As for the one whose revilement (of the companions) is accompanied by the claim that ʿAlī is a God, or that he was the Prophet but Jibrīl made a mistake in delivering the message — then there is no doubt about his kufr. In fact, there is no doubt about the kufr of the one who hesitates to declare such a person a kāfir.
+
+Likewise, whoever among them claims that the Qurʾān has had verses removed or concealed, or claims that it has hidden meanings that nullify the prescribed religious duties — and the like — these are known as the Qarāmiṭah and Bāṭiniyyah, and among them are the Tanāsikhiyyah. There is no disagreement among scholars regarding the kufr of such groups.
+
+[al-Ṣārim al-Maslūl p.586]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/89cdcb926fff3d2978c1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message590 -->
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+If a person intentionally prostrates to the sun at the time of its rising or setting, then he is most deserving of prohibition, condemnation, and punishment. For this reason, such a person is a kāfir.
+
+Likewise, whoever makes duʿāʾ to other than Allāh or makes ḥajj to other than Allāh is also a mushrik. What he has done is kufr , though he may not know that this is shirk and ḥarām.
+
+Just as many people who entered Islām — such as the Tatār and others — had small idols made of felt or other materials, to which they would show devotion and veneration, not knowing that this was ḥarām in the dīn of Islām . Some even showed taqarrub to fire, also not knowing that it was ḥarām.
+
+Thus, many forms of shirk may remain hidden from some of those who enter Islām, and they do not realize that it is shirk. Such a person is misguided, and his action in which he committed shirk is invalid. However, he does not deserve punishment until the ḥujjah has been established against him.
+
+[Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah p.205-206]
+
+═══════════
+
+I say: Shaykh al-Islam affirms and calls them disbelievers / mushriks even if they did not know it is haram, and punishment (I.e the ruling of disbelief) is ONLY after the proof is established
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/aa6e1487ec0b50e0e31c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message615 -->
+
+Shaykh Al-Islam Ibn Taymiyyah said:
+
+Allāh has distinguished between what comes before the message and what comes after it in asmā ʾ (names) and aḥkām (rulings), and He has also joined between them in asmā ʾ and aḥkām . This serves as an argument against both groups: those who claim that actions have no inherent goodness or evil, and those who claim that people deserve punishment in either case.
+
+As for the first group, Allāh described them as wrongdoers, transgressors, and corrupters, as He said: “Go to Firʿawn; indeed, he has transgressed” (Qurʾān 79:17), and He said: “And when your Lord called Mūsā: Go to the wrongdoing people — the people of Firʿawn. Will they not fear?” (Qurʾān 26:10–11), and He said: “Verily, Firʿawn exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them: killing their sons, and letting their females live. Verily, he was of the Mufsidûn(i.e. corrupter).” (Qurʾān 28:4).
+
+Thus, He informed that Firʿawn and his people were unjust, transgressors, and corrupters. These are names of condemnation of deeds, and condemnation applies only to evil and reprehensible action.
+
+This proves that actions can be evil and blameworthy even before the coming of the messenger; yet, they do not deserve punishment until the messenger has come to them. As Allāh said: “And We do not punish until We have sent a messenger” (Qurʾān 17:15).
+
+[Majmū al-Fatāwa 20/37 by Ibn Taymiyyah]
+
+══════════════
+
+He further confirms this here:
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/1df50c23971378bf08a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/caee19cf03223c8d7f63.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message1594 -->
+
+Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
+
+"Those who follow the views of Jahm and al-Ṣāliḥī have explicitly stated that reviling Allah and His Messenger, speaking the doctrine of the Trinity, and uttering any statement of disbelief are not, in themselves, kufr (disbelief) in the inward sense. Rather, they claim these acts are merely external indicators of disbelief. According to them, it is possible for someone who insults and curses (Allah and His Messenger) to still be, inwardly, a believer who knows Allah, affirms His Oneness, and has faith in Him. But when they are confronted with explicit scriptural evidence or consensus that such a person is a disbeliever both inwardly and outwardly, they respond: ‘This only means that such actions necessarily imply inward denial (takdhīb), and that faith necessarily negates such actions.’"
+
+He continues: "It is said to them: We possess two undeniable facts:
+
+First: A fact known with absolute certainty from the religion itself.
+
+Second: A fact known with absolute certainty from our own reasoning when we reflect upon it."
+
+As for the first: "We know that whoever reviles Allah and His Messenger willingly and without coercion, or speaks words of disbelief voluntarily, or mocks Allah, His signs, or His Messenger—such a person is a disbeliever both inwardly and outwardly.
+
+Whoever claims that such a person could still, in their heart, be a believer in Allah while merely being outwardly a disbeliever, has stated something whose falsehood is necessarily known from the religion itself.
+
+Allah has mentioned the statements of the disbelievers in the Qurʾān, ruling them as disbelievers and declaring that they deserve punishment because of their words.
+
+If their words of disbelief were merely akin to witness testimonies against them or mistaken confessions that could be invalid, Allah would not have made them deserving of punishment based on testimonies that might be true or false. Rather, in such a case, He would have stipulated the condition of those testimonies being true before punishing them. This is evident in verses such as: ‘They have certainly disbelieved who say, "Allah is one of three."’ (Al-Māʾidah 5:73) ‘They have certainly disbelieved who say, "Allah is the Messiah, the son of Mary."’ (Al-Māʾidah 5:72) —and similar statements."
+
+[Majmūʿ al-Fatāwā by Ibn Taymiyyah 7/557-558]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/f0c594a3ca3647bbc61c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages4.html#message3784 -->
+
+Shaykh al-Islam clarifying the doubt of the Murji’ah who misuse al-Mā’idah: 112 to mean the Ḥawāriyyīn (the Disciples) doubted Allah’s power/ability. Some of them use this verse to argue one can commit kufr such as doubting Allahs power and compare it to Blatant shirk and it is excusable and one is not called a disbeliever.
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+Likewise, the saying of al-Ḥawāriyyīn: “Can your Lord send down to us a table from heaven?” [al-Mā’idah: 112] — they were merely inquiring about this qudrah (ability). And likewise, the saying about Yūnus: “that We would not decree upon him” — has been interpreted as referring to qudrah, just as it is said to a man: “Can you do such and such?” — meaning, “Will you do it?”
+
+[Majmū' al-Fatāwā by Ibn Taymiyyah 8/374]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/e4886c7d0e38760c44c3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages4.html#message3636 -->
+
+Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
+
+He (Abū Buṭayn) said: He (Ibn Taymiyyah) asserted in many places the takfīr of whoever commits what he mentioned of the various types of shirk, and he transmitted the ijmāʿ of the Muslims on that, without excluding the jāhil or the like.
+
+And Allāh, the Exalted, said: “Indeed, Allāh does not forgive that partners be associated with Him” (al-Nisāʾ: 48). And He related about al-Masīḥ that he said: “Whoever associates partners with Allāh, Allāh has surely forbidden Paradise for him, and his abode will be the Fire” (al-Māʾidah: 72).
+
+So whoever restricts this threat to only the stubborn rejecter, and excludes the ignorant, or the interpreter, or the blind follower, then such a person has opposed Allāh and His Messenger and departed from the path of the believers.
+
+[al-ʿUdhr bil-Jahl taḥta al-Mijhar ash-Sharʿī by Madḥat Āl Farāj p.54]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/480dc849369cac5bc7a5.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message516 -->
+
+Shaykh al-Islam Ibn Taymiyyah said:
+
+And among them are those who say: “Rather, they will not be punished until a Messenger has been sent to them,” as indicated by the Kitāb and the Sunnah.
+
+However, their actions are still blameworthy and detested; Allāh condemns them, hates them, and they are described with kufr that Allāh censures and detests — even if He does not punish them until He has sent to them a Messenger.
+
+[Al-Jawāb al-Ṣaḥīḥ liman Baddala Dīn al-Masīḥ by Ibn Taymiyyah 2/311]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/20a5121078899af432cb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message611 -->
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+And for this reason, everyone who does not worship Allah alone will inevitably be a worshipper of something else. He worships other than Him and thus becomes a mushrik. There is no third category among the children of Ādam. Rather, one is either a muwaḥḥid, or a mushrik, or someone who mixes this with that, like the altered ones from among the religions — such as the Christians and those like them from among the misguided who claim affiliation with Islam.
+
+[Majmū' al-Fatāwā by Ibn Taymiyyah 14/282]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/805160cb8d5662bd21b7.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages.html#message540 -->
+
+Sheikh al-Islam Ibn Taymiyyah said:
+
+As the Salaf also issued Takfir on those who said some of the Jahmiya’s sayings, such as saying that the Qur’an was created, or denying Ru'yah (seeing Allah), or the like, which is less severe than denying the aboveness of Allah over creation and that He is above the Throne, as declaring the author of this saying to be an infidel was, according to them, one of the most obvious matters.
+
+[Al-Istiqama p.164]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/87cbb028d87fe46a3a9d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message751 -->
+
+Shaykh al-Islām Ibn Taymiyyah (d. 728H) said:
+
+Whoever says or does what constitutes disbelief has thereby disbelieved, even if he did not intend to be a disbeliever, for no one intends disbelief except as Allah wills.
+
+[ al-Ṣārim al-Maslūl , 2/339]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/a2d2ecfaa82b0d982ece.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message739 -->
+
+شيخ الإسلام ابن تيمية يفرّق بين الحكم الدنيوي والحكم الأخروي، خلافًا لمن يزعم أنه لا يفرّق بينهما
+
+═══ ¤❁✿❁¤ ═══
+
+📌 قنوات النشر
+
+● يوتيوب
+
+● تلقرام:
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/728b01a4a77ab55e24de.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message741 -->
+
+⬅️ مسألة (تحقق الشروط وانتفاء الموانع) عند الإمام ابن تيمية (٣)
+
+- والفرق بين التكفير الحكمي والتكفير المعذب عند العلماء.
+
+الشيخ أيمن العنقري
+
+═══ ¤❁✿❁¤ ═══
+
+📌 قنوات النشر
+
+● يوتيوب
+
+● تلقرام:
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/728b01a4a77ab55e24de.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/ee7cb3df55a0f3069321.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message2072 -->
+
+al-‘Allāmah ‘Abdullāh Abā Butayn said:
+
+As for the objector who asks: “Didn’t Ibn Taymiyyah excuse the one who misinterprets or blindly follows others, and say that Allāh forgives the ignorant in ways He does not forgive others?” The response to this is: Such a statement is only cited by someone who agrees with Ibn Taymiyyah that seeking help from the Prophet (ﷺ) and other deceased individuals is prohibited and is shirk. They may then argue that the ignorant might be excused.
+
+However, if someone denies Ibn Taymiyyah’s stance on this matter, criticizes those who follow him, or even considers them disbelievers, then they have no basis for excusing the individuals in question—because they do not see them as mistaken at all, but rather as rewarded for following what they believe is Allāh’s command: “Seek means of approach to Him” (Al-Māʾidah 5:35), according to this distorter of Allāh’s words. Thus, there is no reason to seek an excuse for them.
+
+Everything the Sheikh stated in this matter—meaning Tawḥīd—was not merely his personal opinion, but rather a clarification of what is clearly established in the Qurʾān, Sunnah, and scholarly consensus. May Allāh have mercy on him and be pleased with him.
+
+The Sheikh also said: A person may do something they believe to be righteous without knowing that it is actually forbidden. In such a case, they will be rewarded for their good intention and excused due to their ignorance. This is a broad topic. He also said: ‘The ignorant are forgiven in ways that others are not.’ However, he meant this generally, not in every specific case.
+
+That is why he also said in Sharḥ al-ʿUmda: “Any rejection of Allāh’s message or command is disbelief, whether minor or major. However, if the matter is obscure and the correct understanding is difficult to reach, then one may be excused—especially in minor issues related to jurisprudence. But if the issue is well known and fundamental to the religion, there is no excuse.”
+
+And he was also told that shirk is never forgiven, even if it is minor. His student, the author of al-Furūʿ, narrated that he said: “That is because of the generality of Allāh’s statement: ‘Indeed, Allāh does not forgive associating partners with Him’ (An-Nisāʾ 4:48).”
+
+In al-Risālah as-Saniyyah, Ibn Taymiyyah wrote: “Whoever exaggerates in their reverence for a prophet or righteous person and attributes to them some aspect of divinity—i.e, by calling upon them instead of Allāh, saying: ‘O my master, so-and-so, help me,’ or ‘save me,’ or ‘I put my trust in you,’ or ‘I am under your protection’—then this is all shirk and misguidance. The individual must be given a chance to repent; if they do, they are forgiven, but if they refuse, they must be executed.”
+
+Similarly, in the case of those who believe in intermediaries, he said: “If someone commits this, they must be called to repent; if they refuse, they are to be executed.”
+
+The general meaning of Allāh’s statement: “Indeed, Allāh does not forgive associating partners with Him” (An-Nisāʾ 4:48), applies to every polytheist. The jurists of all Islamic schools of thought state in their sections on apostasy that whoever associates partners with Allāh has committed disbelief, and they cite this verse and others like it as evidence. None of them excluded the ignorant from this ruling. Allāh also says: “Say: Shall We tell you who are the greatest losers in their deeds? They are those whose efforts in the worldly life were misguided, while they thought they were doing good” (Al-Kahf 18:103-104).
+
+And: “A group was guided, while a group deserved to be in error, for they took devils as allies instead of Allāh, and they thought they were guided” (Al-Aʿrāf 7:30).
+
+Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs against those who claim that Allāh does not punish anyone for a sin they committed or a misguidance they believed in—unless they knew it was wrong. If that were true, there would be no difference between the misguided ones who think they are upon guidance and those who are truly guided.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/bf4fa28ad275a6b0d5cf.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message608 -->
+
+Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
+
+Shaykh al-Islām (Ibn Taymiyyah), may Allāh have mercy on him, said: “Building mosques on graves is prohibited, and even if something other than a mosque is built on them, it is prohibited by the consensus of scholars, as it is a means to shirk and a forbidden act.”
+
+He also said: “Know that the term ‘du’ā’ in the Qur’ān refers to two meanings: the ‘du’ā’ of worship’ and the ‘du’ā’ of asking.’ Every worshipper is a seeker, and every seeker is a supplicant. One term can encompass the other when separated from its context, and when both meanings are combined, it refers to one who asks for the seeking of benefits and the removal of harm through the forms of asking and requesting.”
+
+I (Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan) say: Look at this contradiction, confusion, and inconsistency. There is no doubt that disbelief opposes faith, invalidates it, and nullifies deeds, as confirmed by the Qur’ān, Sunnah, and the consensus of Muslims. Allāh, the Exalted, says: “And whoever disbelieves in the faith, his deeds are invalid, and he is among the losers in the Hereafter.” (Al-Mā’idah: 5).
+
+It is said that every disbeliever is mistaken, and the polytheists have their justifications. They believe that their polytheism towards the righteous is an act of honoring them that benefits them and wards off harm. But Allāh did not excuse them for this mistake or misinterpretation. Allāh says: “And those who take protectors besides Him say, ‘We only worship them that they may bring us nearer to Allāh.’
+
+Allāh will judge between them concerning what they differ.” (Az-Zumar: 3). And He also says: “Say, ‘Shall we inform you of the greatest losers in deeds? Those whose efforts have been wasted in this worldly life while they think that they are doing good.’” (Al-Kahf: 103-104). Where is the reason of this person in relation to these and similar clear verses?
+
+The scholars, may Allāh have mercy on them, followed the path of uprightness and discussed the ruling of apostasy. None of them said that if a person commits an act of disbelief or says something of disbelief while not knowing that it contradicts the testimony of faith, he is not considered a disbeliever due to his ignorance.
+
+And Allāh has clarified in His Book that some of the polytheists are ignorant followers, yet their ignorance and blind imitation did not prevent them from facing Allāh’s punishment, as He said:  “And among the people is he who disputes about Allāh without knowledge and follows every rebellious devil … to His saying: ‘The punishment of the Blaze.’” [Al-Ḥajj: 3-4]
+
+[Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Takfīr al-Muʿayyan By Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan Āl ash-Shaykh p.30-31]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/5293c12f47a8ac395a2c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b3da8a15c2a16b59953c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages3.html#message2388 -->
+
+Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
+
+"As for al-`Irāqī and his misguided companions, they argued that the Sheikh (Ibn Taymiyyah) does not declare the ignorant to be disbelievers and that he says they are excused. They made this claim in a vague manner without providing details, and used this misconception as a shield to reject the Quranic verses and prophetic hadiths. They raised their voices against the monotheists, as was the case with their predecessors from the worshippers of graves and polytheists. And to Allah is the final return, and He is the Judge between His servants regarding what they differed in."
+
+[Minhāj al-Tāsīs wa al-Taqdīs p.227]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/9768e758c69d534b8156.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message1878 -->
+
+Shaykẖ ʿAbd Al-Laṭīf said:
+
+As for the Jahmiyyah and the worshipers of graves, citing such texts to argue against declaring them disbelievers is only done by someone who has not truly understood Islam and the message with which Allah sent His noble messengers.
+
+The essence of what the messengers brought and called to is the obligation of worshiping Allah alone with no partners, sincerely dedicating all acts of devotion to Him, and not associating any of His creation in what is exclusively His right. Moreover, they affirmed what Allah described Himself with—attributes of perfection and majesty.
+
+Whoever opposes this message, denies it, or invalidates it is a misguided disbeliever, even if he says, “La ilaha illa Allah” and claims to be a Muslim. This is because the shirk he commits contradicts the very meaning of the testimony of faith. Thus, merely uttering “La ilaha illa Allah” does not benefit him, as he has spoken words he did not act upon, nor did he believe in what they entail.
+
+As for the statement: “We say that the statement is disbelief, but we do not judge the speaker as a disbeliever,”
+
+This is an absolute misunderstanding because such an expression only applies to specific individuals. The issue of declaring an individual a disbeliever (takfīr al-mu‘ayyan) is well known: if someone utters a statement that is itself an act of disbelief, it is said, “Whoever says this statement is a disbeliever.” However, when a specific individual says it, he is not judged as a disbeliever until the proof that necessitates disbelief for its denier has been established against him.
+
+This applies to hidden matters whose evidences may be obscure to some people, such as issues related to qadar and irjā’ and similar matters that were introduced by the people of desires (ahl al-ahwā’). Some of their statements entail disbelief because they involve rejecting the clear and established proofs from the Qur’an and Sunnah. In such cases, while the statement itself may be disbelief, the one who utters it is not necessarily judged as a disbeliever due to possible barriers like ignorance or lack of knowledge about contradicting the text or its implications.
+
+Religious rulings only become binding after they have been conveyed. Shaykh al-Islām Ibn Taymiyyah (may Allah sanctify his soul) mentioned this in many of his writings. He also stated that some prominent scholars of kalām were declared disbelievers after he had clarified this principle. He said:
+
+“This applies to hidden matters, and it may be said that no judgment of disbelief should be made in such cases. However, regarding the obvious and clear issues or those known by necessity in religion, there is no hesitation in declaring the one who contradicts them a disbeliever.”
+
+Therefore, do not use this statement “We say that the statement is disbelief, but we do not judge the speaker as a disbeliever” as a crutch to refute those who declare a town disbelieving when it refuses to worship Allah alone or denies His attributes, after the proof has been established against it and the truth has been made clear.
+
+[Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al-Jahmiyyah p.157-159]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/5293c12f47a8ac395a2c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages3.html#message2562 -->
+
+Sheikh Sulaymān ibn Suhmān said:
+
+As for the statement: “And I used to affirm that Allah has forgiven this ummah for its mistakes, including mistakes in both doctrinal and practical matters.”
+
+I say: The actual words of the Sheikh (Ibn Taymiyyah) have been altered in a way that obscures his intent and meaning. At the beginning of his statement, he said: “I am always— and those who sit with me know this— one of the strongest opponents of labelling a specific individual as a disbeliever, a sinner, or an evildoer unless it is known that the prophetic proof has been established against him. Whoever opposes it is sometimes a disbeliever, sometimes a sinner, and sometimes an evildoer. And I affirm that Allah has forgiven this ummah…”
+
+Thus, the Sheikh’s statement about not declaring a specific individual a disbeliever before the proof is established refers to specific issues where the evidence may be unclear to some people, such as matters of Qadar, Irjāʾ, and similar theological positions held by sects of Ahl al-Ahwāʾ.
+
+Some of their statements may contain aspects of disbelief, such as rejecting certain clear proofs from the Qur’an and Sunnah. Such statements may be classified as kufr, but the one making them is not necessarily ruled a disbeliever due to the possibility of an extenuating factor, such as ignorance or lack of awareness of the text itself or its interpretation. This is because taklīf only applies after the message has reached a person.
+
+That is why Ibn Taymiyyah mentioned this in the context of the innovations of Ahl al-Ahwāʾ. He explicitly clarified this by stating—when discussing the disbelief of certain prominent theological figures after establishing this principle:
+
+“This applies when the matter is obscure (khafiyyah), so one might argue against declaring such a person a disbeliever. However, when it comes to clear and obvious matters, or those known necessarily from the religion, then there is no hesitation in declaring the one who denies them a disbeliever.” This has already been explained previously.
+
+The dispute between us and these extremists is not about theoretical, subtle, or interpretive issues where the evidence might be unclear. Rather, the dispute concerns the act of directing exclusive rights of Allah to saints and righteous people—such as supplication, love, fear, hope, seeking aid, and other forms of worship. This is something known necessarily from the religion of Islam—that only Allah deserves such acts of devotion. Whoever directs any of these acts to anyone other than Allah is a disbeliever and a polytheist.
+
+[al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād p. 159-160]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/52986140345261aa4040.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message1997 -->
+
+Sheikh Sulaymān ibn Suhmān said:
+
+“Know that not every error, ijtihād, or ignorance is excused. Allah has informed us in the Qur’an of the ignorance of many disbelievers while still explicitly declaring their disbelief. He also described the Christians as ignorant, even though no Muslim doubts their disbelief. We are certain that most Jews and Christians today are ignorant followers, yet we still affirm their disbelief and the disbelief of anyone who doubts their disbelief.
+
+The Qur’an makes it clear that doubting the fundamentals of religion is itself disbelief. Doubt is wavering between two positions—such as someone who neither affirms nor denies the truthfulness of the Messenger, or neither affirms nor denies the occurrence of resurrection, or someone who neither believes in the obligation of prayer nor in its lack of obligation, or who neither affirms nor denies the prohibition of fornication. This is disbelief by the consensus of the scholars, and there is no excuse for one who is in such a state simply because he does not understand Allah’s evidences and proofs. There is no excuse for him after the proof has reached him, even if he fails to comprehend it.
+
+What led the followers of ‘Ittiḥādiyyah and Ḥulūliyyah into their blatant disbelief, grievous shirk, and complete denial of the true existence of the Lord of the worlds except their errors in this matter, in which they exercised their reasoning and went astray, misleading others from the straight path?
+
+What led Al-Ḥallāj to his fate, with scholars unanimously agreeing on his execution, except the consequences of his so-called ijtihād? What caused the Qarmaṭians to embrace their vile heresies and abandon the bonds of Islam except their exercise of reasoning in what they falsely believed?
+
+What led the Rāfiḍah to their disbelief, their polytheism, their worship of the Twelve Imams and others, and their cursing of the Companions of the Messenger of Allah (ﷺ) and his noble wives, except their so-called ijtihād? These people are the predecessors of this man and his likes, in claiming that ‘every error is excused.’
+
+The logical conclusion of this claim would be that no one should be deemed sinful or declared a disbeliever for errors in all matters of fundamental belief—such as faith in Allah’s existence, His Lordship, His exclusive right to be worshiped, His Decree and Predestination, belief in His perfect attributes, His knowledge of all events before they occur, and other essential tenets.
+
+If one were to deny responsibility and accountability for errors in these matters, it would entail exonerating the deniers of Allah’s essence, those who negate His Lordship, those who deny His names and attributes, those who reject His exclusive right to be worshiped, and those who claim that Allah does not know future events before they happen, such as the extreme Qadarites. Likewise, it would exonerate those who attribute worldly occurrences to celestial bodies, those who claim the existence of two eternal principles—light and darkness.
+
+If this heretic upholds all of this, then he is more disbelieving and misguided than the Jews and Christians. But if he claims that there is a distinction between these matters and the current issue of dispute—namely, invoking the dead and the absent for things that only Allah can do—then let him prove this distinction with clear evidence.
+
+If he fails to do so, his argument collapses, and people of knowledge will recognize him as a deceiver and a sophist, not a scholar of fiqh and religion. He will be exposed as someone unfamiliar with Islam and its adherents, unable to distinguish between monotheists and polytheists. Rather, he remains in the darkness of natural ignorance, doubt, and manifest confusion.
+
+Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah and are well-versed in his principles can truly understand his words.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/43016959878772be81d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages3.html#message2902 -->
+
+Shaykh Sulaymān ibn Saḥmān said:
+
+As for the deception and confusion by some of these people who claim that Shaykh al-Islām (Ibn Taymiyyah) refrained from declaring takfīr upon a specific ignorant individual — this is from distortion and misleading by those blind in perception. For what is intended by that relates to specific issues whose evidence may be hidden from some people — such as issues of qadar, irjāʾ, and similar matters which were spoken about by the people of desires. For some of their statements contain matters of disbelief — such as rejection of the clear and recurrent evidences of the Book and the Sunnah — so the statement that includes rejection of some revealed texts is disbelief, but the one who says it is not ruled to be a disbeliever due to the possibility of a preventing factor, such as ignorance or not knowing the actual text or its indication.
+
+For the divine laws do not become binding except after they have been conveyed. And that is why he mentioned it in his discourse concerning the innovations of the people of desires. And he explicitly stated this, for after he explained this matter regarding the takfīr of specific individuals from among the mutakallimīn, he said: “This is when the matter pertains to subtle issues — so it may be said that no takfīr is to be made. But as for what occurs from them in clear, obvious issues — or in matters known by necessity from the religion — then there is no hesitation in the disbelief of the one who says it.”
+
+[Kashf al-Awhām by Shaykh Sulaymān ibn Saḥmān p.116-117]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/db17609c7b3e9d84526f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages2.html#message1985 -->
+
+Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
+
+“The issue of declaring a specific individual a disbeliever (takfīr al-mu‘ayyan):
+
+Some people claim that an individual should never be declared a disbeliever. They misunderstand certain statements of Ibn Taymiyyah and mistakenly believe that only those whom the Qur’an explicitly declares as disbelievers—such as Pharaoh—can be ruled as such. However, the Qur’anic texts do not specify every single person. They study the rulings on apostasy but never apply them to anyone! This is utter misguidance and extreme ignorance. Rather, these rulings must be applied—but with conditions.
+
+As for those who hesitated to declare an individual a disbeliever in matters where the evidence may be unclear, they do not rule takfīr until the prophetic proof has been fully established against the person, in both its authenticity and meaning. Once the proof has been clearly explained, the person is ruled a disbeliever—whether he understands and rejects it, or claims not to understand. Not all disbelief stems from mere obstinacy.
+
+However, regarding matters that are known by necessity to be part of what the Messenger ﷺ brought, if someone opposes them, then he is ruled a disbeliever immediately, without the need for further clarification—whether in fundamental or subsidiary matters—unless he is new to Islam.
+
+The third category involves ambiguous matters. In such cases, a person is not ruled a disbeliever, even after evidence has been presented to him—whether the issue pertains to fundamentals or secondary issues. An example of this is the man who instructed his family to burn his body after his death.”
+
+[Muʿjam al-Tawḥīd 3/74]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/4867c87dac49fe0ec9bb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: personal/messages.html#message517 -->
+
+Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
+
+And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a specific individual to be a Kāfir, but this is not the case. Rather, what he intends is the matter whose evidence is hidden. As for that whose evidence is clear, then this assumption is not conceivable in it.
+
+[Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/344]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/5056ef25daa1118a9de4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages5.html#message4482 -->
+
+The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
+
+Shaykh Ibn Bāz was asked:
+
+Q: What was the position of the Salaf — may Allāh have mercy on them — such as Imām Ibn Taymiyyah and Ibn ʿAbd al-Wahhāb regarding the issue of al-ʿudhr bi’l-jahl (Excuse due to ignorance)? Is it something recognised? Did the Salaf address it? Or is it false, having no basis in the matter of tawḥīd?
+
+A: Ignorance, in general, may sometimes be an excuse and at other times not be an excuse.
+
+If a legally accountable person is far removed from Islām and from knowledge — such as one who grows up in lands distant from the Muslims, and the message, the Qurʾān, and the Sunnah have not reached him — then such a person is excused due to ignorance. He has the ruling of Ahl al-Fatrah on Yawm al-Qiyāmah (Day of Resurrection). They will be tested: if he responds, he will enter Jannah; and if he disobeys, he will enter the Fire.
+
+A person may also be excused in minor matters from the subsidiary rulings that may be hidden from someone like him — as the Prophet ﷺ taught the man who was wearing a cloak and had applied perfume while in iḥrām for ʿumrah. The Prophet ﷺ said to him, while he was compliant: “Remove the cloak from yourself, wash off the perfume, and do in your ʿumrah what you would do in your ḥajj.” He did not command him to offer any expiation. So in subsidiary matters, yes, ignorance may be excused.
+
+Likewise, in the case of one who is far removed from hearing the Qurʾān and the Sunnah — in remote regions of the world — such people are Ahl al-Fatrah. The correct view is that they will be tested on the Day of Resurrection: whoever responds to the command will enter Jannah, and whoever disobeys will enter the Fire.
+
+As for one who lives among the Muslims, where the Qurʾān and the Sunnah are known, then ignorance is not an excuse for him — neither in ʿaqīdah nor in other than it. Allāh said: “This Qurʾān has been revealed to me that I may warn you thereby and whomever it reaches.” Allāh knows best. The Qurʾān and the Sunnah are to be learned. Allāh al-Mustaʿān.
+
+---
+
+<!-- telegram-source: dar/messages3.html#message2628 -->
+
+Shaykh Ṣāliḥ al-Fawzān Was asked:
+
+Q: certain preachers who claim to follow Salafiyyah, (who are really) modern-day Murji'ah, have spread a particular interpretation of Ibn Taymiyyah's words. They say: "We don't do individual takfir until conditions are met and obstacles are removed." Or they say: "Not everyone who commits Kufr is necessarily ruled as Kafir." Or statements that are general concerning the ruling by what is apparent of Islam.
+
+Similarly, may Allah protect you, is about to Imam al-Mujaddid Muhammad ibn Abdul-Wahhab and his statement: "We do not takfir those who worship the grave of Abdul-Qadir, and the grave of Ahmad al-Badawi and their likes, due to their ignorance, and due to no one informing them." (To clarify this statement in’sha’allah which is heavily used by the Murji’ah, This is related to the hukm (ruling) for the hereafter  however they are labeled a mushrik in this life).  [Durar as-Saniyyah, 1/104]
+
+Similarly, with the statements of some scholars that say only judge can do takfir, As well as words of Ibn Uthaymeen about a person who commits shirk. They argue using these general statements, that the individual ignorant grave-worshipper, who claims Islam, is a Muslim in reality. They attribute this understanding to the scholars. Is this true?
+
+A: This is a lie and slander against them (the scholars), and is misguidance. This is a lie and slander against them.
+
+---
+
+<!-- telegram-source: dar/messages4.html#message3606 -->
+
+An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
+
+Shaykh Ayman al-ʿAnqarī said:
+
+He (Ibn Taymiyyah) said in al-Radd ʿalā al-Ikhnāʾī (pp. 387–388):
+
+“And among them are those who pray toward the grave of their shaykh, and face it in prayer, and say: ‘This is the qiblah for the private,’ and the Kaʿbah is the qiblah for the general.” “And I know of those who did this and that. And they are people with worship, asceticism, and religion, but in them is ignorance and misguidance, just as the monks of the Christians and others are among the most ascetic of people, and the most diligent in worship, yet with ignorance and misguidance….”
+
+I (Ayman al-ʿAnqarī) say: Upon reflection on the words of the Shaykh, it becomes clear that they have no excuse, for several reasons:
+
+The first: He did not describe them as Muslim, for he did not call them Muslims. His words: “They have worship, asceticism, and religion” do not imply that they are Muslim. And indeed, he did not call them that.
+
+The second — which clarifies the preceding statement — is that he compared them to the Christians, and described the Christians as ignorant, even though he said of them: “Just as the monks of the Christians and others are among the most ascetic of people, and the most diligent in worship, yet with ignorance and misguidance.” Does this statement imply that the Christians are Muslim?!
+
+[Taḥrīr Qawl Shaykh al-Islām Ibn Taymiyyah raḥimahullāh fī Fāʿil ash-Shirk al-Akbar by Shaykh Ayman al-ʿAnqarī p.91-92]
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/4212f78c9e7002f3bb49.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+---
+
+<!-- telegram-source: dar/messages4.html#message3924 -->
+
+Some Doubt regarding a statement found in Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
+
+I asked:  As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh I have a question, Shaykh. One of the brothers asked me to clarify the intended meaning of the following text from Shaykh al-Islām, as found in al-Ikhnāʾī:
+
+"“This entire matter is among what the Messenger of Allāh ﷺ forbade in the authentic ḥadīths. So how can what he forbade and prohibited be likened to what he legislated and enacted? In this matter, this objector and those like him are mistaken, but the mistake is not due to his personal peculiarities. We correct it and intend the statement of truth and justice here, as Allāh the Exalted commanded. He commanded fairness toward our enemies, the disbelievers, saying:
+
+‘Be maintainers of justice for Allāh, witnesses with justice, and let not the hatred of a people prevent you from being just. Be just; that is closer to taqwā.’ (Sūrah al-Māʾidah 5:8) So how much more regarding our Muslim brothers, for Muslims are brothers. And Allāh forgives him, guides him, and grants success to him and to all our Muslim brothers.”"
+
+Source: [Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah p.242]
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p class="arabic-citation">المصدر: الرد على الإخنائي</p>
+<h4 dir="rtl">ص. 242</h4>
+<p>وهو إنما خاف أن يتخذ قبره وثنًا وعيدًا بخلاف قبور عموم المؤمنين، لكن / ما عظم من القبور حتى صار وثنًا وعيدًا فإنه ينهى عن ذلك ويزال ما حصل به حتى أنه يحرم أن يبنى عليه مسجد.</p>
+<p>والمقصود أن ما سنه لأمته نوع غير النوع الذي يقصده أهل البدع من السفر إلى زيارة قبور الأنبياء والصالحين، فإنهم لا يسافرون لأجل ما شرع من الدعاء لهم والاستغفار بل لأجل دعائهم والدعاء بهم والاستشفاع بهم، فيتخذون قبورهم مساجد وأوثانًا وعيدًا يجتمعون فيه.</p>
+<p>وهذا كله مما نهى عنه رسول الله صلى الله عليه وسلم في الأحاديث الصحيحة، فكيف يشبه ما نهى عنه وحرمه بما سنّه وفعله؟ وهذا الموضع يغلط فيه هذا المعترض وأمثاله ليس الغلط فيه من خصائصه، ونحن نعدل فيه ونقصد قول الحق والعدل فيه كما أمر الله تعالى، فإنه أمر بالقسط على أعدائنا الكفار فقال: {كونوا قوامين لله شهداء بالقسط ولا يجرمنكم شنآن قوم على أن لا تعدلوا اعدلوا هو أقرب للتقوى} [سورة المائدة: (8)]، فكيف بإخواننا المسلمين والمسلمون إخوة، والله يغفر له ويسدده ويوفقه وسائر إخواننا المسلمين.</p>
+<p>الجواب الرابع: أنه لو قدر أن هذا اللفظ عام فأحاديث النهي عن السفر إلى غير المساجد الثلاثة تخص هذا كما تخص إتيان المساجد، ومعلوم أن إتيان المساجد أفضل من إتيان المقابر ونحوها، والسفر إليها أفضل. فإذا كان قد نهى عن السفر إلى غير المساجد الثلاثة فالنهي عما يكون إتيانه والسفر إليه دون إتيان المساجد أولى بالنهي، ولهذا لم يقل أحد من المسلمين إنه يسافر إلى القبور دون المساجد، بخلاف العكس فإنه يحكى عن الليث بن سعد.</p>
+</div>
+</details>
+
+He Answered: None of those who recorded the biography of al-Ikhnā’ī, nor Shaykh al-Islām, mentioned that he was ṣūfī or a mushrik. Rather, they stated that the Ikhnā’īs were scholars from the village of Ikhnā’ or Akhnā’ in Egypt, and that they were keen upon the manhaj al-salaf and upon justice.
+
+But the disagreement between him and Shaykh al-Islām was regarding shadd al-riḥāl (undertaking a journey) for the sole purpose of offering salām to the Messenger ﷺ — merely for salām, not shadd al-riḥāl involving an act of shirk.
+
+Also, he — al-Ikhnā’ī — was a judge, and he spoke angrily against Shaykh al-Islām, and Shaykh al-Islām also responded to him with harsh words. But he did not declare him a kāfir, and no one reported about him that he had fallen into any explicit act that constitutes disbelief.
+
+May Allah grant success.
+
+═══════════
+
+This is a reminder to understand on the importance of knowing context behind a book, the statements in it, and not to pick and choose specific ambiguous speech and make a general statement about any scholar. And it’s from the principles of the people of knowledge to take all their speech entirely and not pick the slip or ambiguous statement from them.
+
+---
+
+---
 
 <!-- telegram-source: dar/messages2.html#message1970 -->
 
@@ -1586,15 +3015,22 @@ And Allāh knows best.
 
 <!-- telegram-source: personal/messages.html#message597 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-597.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh Ṣāliḥ al-Usaymī حفظه الله on the clarification of the position of the Imām MIAW and his statements on the topic of Udhr bil Jahl
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/19bf66072d318400e7f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message631 -->
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-631.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
 
 Did MIAW رحمه الله تعالى  give udhr to the ones who worshipped the tombs of Abdul Qadir al Jilani رحمه الله تعالى and the like?
 
@@ -1604,10 +3040,7 @@ The linked reply: Shows that MIAW only used takfir (calling one a kaafir) for th
 
 This is why it is very important to know a scholar fully before trying to isolate their quotes to form an opinion from them! Ample knowledge of one of the great scholars - as Shaykh Saleh al Usaymi حفظه الله demonstrates by his quick reply - is needed before one can start to understand what a scholar means by their own statements!
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/bb18b1d8290b17d640ed.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message2868 -->
@@ -2446,6 +3879,11 @@ Rather, that itself is the religion according to him, and that is the Islamic um
 
 <!-- telegram-source: personal/messages.html#message510 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-510.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Ruling on those who do not takfir the Mushrikīn mentioned by some of the scholars of Najd by Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī
 
 ---
@@ -3020,24 +4458,6 @@ This imam—who has been described as maintaining prayer and fasting every other
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message4191 -->
-
-Shaykh Ibn ʿUthaymīn was asked:
-
-Question: What is the fate of a Muslim who fasts, prays, and gives zakāh, but believes in the awliyāʾ with the belief that in some Islamic countries is called a “good belief” — namely, that they can harm and benefit — and he also makes duʿāʾ to this walī, saying: “O so-and-so, you will have such-and-such if my son or daughter recovers,” or says, “By Allāh, O so-and-so.” What is the ruling on such statements, and what is the fate of such a Muslim?
-
-Answer: "Calling this man — who vows to graves and awliyāʾ and calls upon them — a Muslim is ignorance on the part of the one naming him. In reality, he is not a Muslim, because he is a mushrik. Allāh the Most High said: “And your Lord said, ‘Call upon Me; I will respond to you. Indeed, those who are too proud for My worship will enter Hell humiliated.’” [Ghāfir: 60].
-
-Duʿāʾ is only to Allāh alone, for He is the One who removes harm and brings benefit, as He said: “Is He [not best] who responds to the distressed one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allāh? Little do you remember.” [al-Naml: 62] So this person, even if he prays, fasts, and gives zakāh, if he calls upon other than Allāh, worships him, and vows to him, then he is a mushrik. Allāh has forbidden Paradise for him, and his abode is the Fire, and the wrongdoers will have no helpers."
-
-[Fatāwā Nūr ʿalā al-Darb by Shaykh Muḥammad ibn Ṣāliḥ al-ʿUthaymīn 1/431]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/1a93de1b6a066b4bd874.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages4.html#message3348 -->
 
 Shaykh Muḥammad ibn Ṣāliḥ al-ʿUthaymīn said:
@@ -3153,16 +4573,6 @@ A: Shirk itself differs. The one who prostrates to an idol is considered a mushr
 
 And we also say excuse due to ignorance (al-ʿudhr bil-jahl), but we judge him according to the outward of his action (i.e we call him a mushrik). And if the action was Shirk al-Akbar, such as vowing to other than Allah and slaughtering for other than Allah while he does not know, then we hope that Allah forgives him and excuses him due to his ignorance.
 
----
-
-<!-- telegram-source: dar/messages.html#message949 -->
-
-Sheikh Muqbil on Excuse of Ignorance
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/ef3362b6b94e0b9d5581.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
 ---
 
 <!-- telegram-source: dar/messages5.html#message4236 -->
@@ -3726,12 +5136,6 @@ A: “No. She is treated as the mushrikīn are treated, because she died upon sh
 
 ---
 
-<!-- telegram-source: dar/messages.html#message493 -->
-
-Sheikh Fawzan on Excuse of ignorance
-
----
-
 <!-- telegram-source: dar/messages4.html#message4111 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
@@ -3800,26 +5204,30 @@ For example, if someone consumes ribā (usury), we judge him as a fāsiq who has
 
 <!-- telegram-source: personal/messages.html#message567 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-567.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
 Q: Noble shaykh, may Allāh grant you success. If I see a person committing acts of shirk, such as calling upon the dead and seeking intercession from them, how should I treat him—do I treat him as a Muslim or as a kāfir?
 
 A: You treat him as a Muslim while he is committing shirk and you can hear him committing shirk and calling upon other than Allāh?!!! Treat him as a mushrik, but call him to Islam. Explain to him that this is major shirk, and clarify the danger of shirk, from the angle of calling to Allāh and offering sincere advice. Yes.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/eacc919a66ba4ff78380.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message632 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-632.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Is there “ikhtilaf” on the matter of excuse of ignorance? sheikh fawzan
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/0c4c973cee2b49774c58.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4860 -->
@@ -3947,12 +5355,6 @@ The questioner has confused two matters: the issue of takfīr and the issue of j
 <!-- telegram-source: dar/messages.html#message984 -->
 
 The danger of doubting the kufr of the mushrik - Sheikh Fawzan
-
----
-
-<!-- telegram-source: dar/messages.html#message994 -->
-
-Sheikh fawzan on ʿUdhr bil Jahl
 
 ---
 
@@ -4158,16 +5560,6 @@ I say: In this we see the ijmā’ that the label of mushrik is still applied to
 
 ---
 
-<!-- telegram-source: dar/messages.html#message497 -->
-
-Sheikh Rajihi on Excuse of ignorance
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/911ad04fe668dc1c916c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages5.html#message4647 -->
 
 Is a mushrik considered a muwaḥḥid as long as he remains ignorant? Response to the doubt of the Murjiʾī ʿAbd al-ʿAzīz al-Rayyis by Shaykh ar-Rājihī.
@@ -4314,6 +5706,11 @@ A: Yes, even if his outward appearance is Islām, his reality is shirk. But the 
 
 <!-- telegram-source: personal/messages.html#message525 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-525.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh Khālid al-Mushayqiḥ was asked:
 
 Q: As for the last question, we conclude with it. It says: those who perform ṭawāf around graves or fall into some forms of shirk—do we treat them as kuffār, or are they excused due to ignorance?
@@ -4324,10 +5721,7 @@ Q: Even if he outwardly shows Islām?
 
 A: Yes, even if his outward appearance is Islām, his reality is shirk. But the aṣl is that if he directs an act of ‘ibādah to the occupant of the grave or shrine, then the ruling in origin is that he is a mushrik—yes, a mushrik with Allāh.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4724 -->
@@ -4418,18 +5812,6 @@ And He says: “O you who have believed, do not take My enemies and your enemies
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/b71c3e0e5b8a8978550d.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: personal/messages.html#message857 -->
-
-هل تكفير المشركين من الكفر بالطاغوت؟ | الشيخ أيمن العنقري
-
-Is takfīr al mushrikīn from disbelief in the Tāghūt | Shaykh Ayman al ‘Anqarī
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/fcdd1329db98c3537f66.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -4561,27 +5943,6 @@ Some benefits to derive.
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message3829 -->
-
-
-
----
-
-<!-- telegram-source: dar/messages4.html#message4036 -->
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/405fa2c51d4d4bcea8d6.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="assets/scans/b7cc9af9a144557d0030.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages3.html#message2766 -->
-
-
-
----
-
 <!-- telegram-source: dar/messages4.html#message3862 -->
 
 The one who is aware of the one who endorsed the website mentioned in this fatawa aswell as introduced the book mentioned. Then know that this individual and his students, who are well known and some of the biggest distorters of what salafiyyah is, are the one who have enforced this evil belief into the west. May Allah protect us from them. May Allah keep us firm on what tawhid is and not doubt it.
@@ -4598,118 +5959,16 @@ Sheikh Salih Ash-Sheikh on Udhr Bil Jahl
 </details>
 ---
 
-<!-- telegram-source: dar/messages3.html#message2557 -->
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/6ff8ad824785f2861990.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages3.html#message3090 -->
-
-
-
----
-
-<!-- telegram-source: dar/messages.html#message8 -->
-
-Index of this channel
-
-[This will be updated regularly as we post more content]
-
-If one is able to share this server with their friends and family so they may benefit and adhere to the correct belief. Everything in this channel is free to share, as long as one doesn’t use it to debate. we have made sure everything is referenced correctly with their correct page, volume and any audio included and this is a reference point in'sha'allah for the student of knowledge to benefit from.
-
-Click the hashtag on the topic you want to see and scroll through inʾshāʾAllāh.
-
-ʿAqīdah:
-
-Quotes from scholars, aḥādīth, videos and more:
-
-Refutations/Deviant Sects:
-
-Our Discord server : https://discord.gg/athari
-
-Our WhatsApp Channel : ‎Follow the Dār as-Salafiyyah channel on WhatsApp: https://whatsapp.com/channel/0029Varwm6I0bIdnPkGyZD1A
-
----
-
-<!-- telegram-source: dar/messages5.html#message4330 -->
-
-Updated diagram, we ask those to share the diagram if possible so others may benefit.
-
-The Arabic version is here: https://t.me/salafsaqeedah/4285
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/cd4daf1d3d365fbe8f07.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages4.html#message3761 -->
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/b0764700deb05ed8a321.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages4.html#message4174 -->
-
-An important video, it will be translated in the future. I have been informed it has many clips which aren’t separately shared.
-
-════════════
-
-فيديو مهم، وسيُترجم في المستقبل إن شاء الله، وقد أُبلغتُ بأنه يحتوي على مقاطع كثيرة لم تُنشر بشكل منفصل.
-
----
-
-<!-- telegram-source: dar/messages.html#message979 -->
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/a3cb943eedad5de6362f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages2.html#message2054 -->
-
-
-
----
-
-<!-- telegram-source: personal/messages.html#message500 -->
-
-Benefits regarding al Udhr bil Jahl
-
----
-
-<!-- telegram-source: personal/messages.html#message509 -->
-
-"[812 -939] هل يعذر بعض طلبة العلم الذين يعذرون القبوريين بالجهل!؟
-
-الجواب: هؤلاء هم الجهال ما هم بعبدة القبور، الذين يعذرون المشركين وعباد القبور هؤلاء هم الجهال، لا عذر لهم.
-
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-
-الشيخ #صالح_الفوزان
-
-انشرها ليعم النفع وتلقى الأجر
-
-تنفيذ #مشروع_كبار_العلماء "
-
----
-
 <!-- telegram-source: personal/messages.html#message518 -->
 
-Updated diagram, we ask those to share the diagram if possible so others may benefit.
+### Diagram: the ruling on one who falls into major shirk
 
-The Arabic version is here: https://t.me/salafsaqeedah/4285
+The English and Arabic versions are displayed together below.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/5056ef25daa1118a9de4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+<div class="diagram-gallery" data-origin="telegram-attachment">
+<figure><img class="source-scan" src="assets/diagrams/udhr-diagram-en.jpg" alt="English diagram on the ruling of one who falls into major shirk" loading="lazy"><figcaption>English diagram</figcaption></figure>
+<figure><img class="source-scan" src="assets/diagrams/udhr-diagram-ar-1.jpg" alt="Arabic diagram on the ruling of one who falls into major shirk" loading="lazy"><figcaption>Arabic diagram</figcaption></figure>
+</div>
 ---
 
 ## 6. One who calls the mushrik a Muslim or excuses the mushrikīn
@@ -4779,9 +6038,18 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, as transmitted by ʿAbd al-Laṭīf Āl
 
 ### The sons of Muḥammad ibn ʿAbd al-Wahhāb
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَقَالَ الشَّيْخُ حُسَيْنٌ، وَالشَّيْخُ عَبْدُ اللَّهِ، ابْنَا الشَّيْخِ مُحَمَّدٍ، رَحِمَهُمُ اللَّهُ تَعَالَى، فِي أَثْنَاءِ جَوَابٍ لَهُمَا: الْمَسْأَلَةُ الْحَادِيَةَ عَشْرَةَ: رَجُلٌ دَخَلَ هَذَا الدِّينَ وَأَحَبَّهُ، وَلَكِنْ لَا يُعَادِي الْمُشْرِكِينَ، أَوْ عَادَاهُمْ وَلَمْ يُكَفِّرْهُمْ، أَوْ قَالَ: أَنَا مُسْلِمٌ، وَلَكِنْ لَا أَقْدِرُ أَنْ أُكَفِّرَ أَهْلَ لَا إِلَهَ إِلَّا اللَّهُ، وَلَوْ لَمْ يَعْرِفُوا مَعْنَاهَا، وَرَجُلٌ دَخَلَ هَذَا الدِّينَ وَأَحَبَّهُ، وَلَكِنْ يَقُولُ: لَا أَتَعَرَّضُ لِلْقِبَابِ، وَأَعْلَمُ أَنَّهَا لَا تَنْفَعُ وَلَا تَضُرُّ، وَلَكِنْ مَا أَتَعَرَّضُهَا.</p>
+<p>الْجَوَابُ: أَنَّ الرَّجُلَ لَا يَكُونُ مُسْلِمًا، إِلَّا إِذَا عَرَفَ التَّوْحِيدَ وَدَانَ بِهِ، وَعَمِلَ بِمُوجَبِهِ، وَصَدَّقَ الرَّسُولَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيمَا أَخْبَرَ بِهِ، وَأَطَاعَهُ فِيمَا نَهَى عَنْهُ وَأَمَرَ بِهِ، وَآمَنَ بِهِ وَبِمَا جَاءَ بِهِ. فَمَنْ قَالَ: لَا أُعَادِي الْمُشْرِكِينَ، أَوْ عَادَاهُمْ وَلَمْ يُكَفِّرْهُمْ، أَوْ قَالَ: لَا أَتَعَرَّضُ أَهْلَ لَا إِلَهَ إِلَّا اللَّهُ، وَلَوْ فَعَلُوا الْكُفْرَ وَالشِّرْكَ وَعَادَوْا دِينَ اللَّهِ، أَوْ قَالَ: لَا أَتَعَرَّضُ لِلْقِبَابِ، فَهَذَا لَا يَكُونُ مُسْلِمًا، بَلْ هُوَ مِمَّنْ قَالَ اللَّهُ فِيهِمْ: {وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَلِكَ سَبِيلًا أُولَئِكَ هُمُ الْكَافِرُونَ حَقًّا}.</p>
+<p class="arabic-citation">المصدر: حسين وعبد الله ابنا محمد بن عبد الوهاب، <em>الدرر السنية في الأجوبة النجدية</em>، 10/139–140.</p>
+</div>
+</details>
+
 “Whoever says, ‘I do not oppose the mushrikīn,’ or opposes them but does not declare them disbelievers, or says, ‘I do not oppose the people of lā ilāha illā Allāh even if they commit disbelief and shirk and oppose the religion of Allāh,’ or says, ‘I do not oppose the domes,’ is not a Muslim.”
 
-Source: ʿAbd Allāh and Ḥasan, the sons of Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 10/139–140.
+Source: Ḥusayn and ʿAbd Allāh, the sons of Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah*, 10/139–140.
 
 ### Sulaymān ibn ʿAbd Allāh: doubt or ignorance is first answered with evidence
 
@@ -5051,6 +6319,11 @@ But if he intends concealment and obscuring the truth, then it is obligatory tha
 
 <!-- telegram-source: personal/messages.html#message760 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-760.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 The dangers of the topic of excuse of ignorance and calling the one who commits shirk a Muslim and not declaring them a disbeliever individually.
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
@@ -5061,13 +6334,15 @@ A: The one who excuses the mushrikīn (i.e he considers them Muslim) means that 
 
 Whoever does not takfīr the kāfir is himself a kāfir. This is from the Nawāqiḍ al-Islām, as mentioned in the Ten Nullifiers cited by Shaykh Muḥammad ibn ʿAbd al-Wahhāb: ‘Whoever does takfīr the kuffār…’”
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/92dbea7618d438c1a614.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message507 -->
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-507.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
 
 Shaykh al-Fawzān was asked:
 
@@ -5078,6 +6353,11 @@ A: One does not prayed behind him. Whoever does not Takfīr them (i.e the grave 
 ---
 
 <!-- telegram-source: personal/messages.html#message595 -->
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-595.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
 
 Is the prayer behind the one, who doesn’t takfir the grave worshipper but affirms their action is shirk, permissible?
 
@@ -5224,6 +6504,11 @@ Source: ʿAbd al-ʿAzīz al-Rājiḥī, Shurūḥ Rasāʾil al-Imām al-Mujaddid
 
 <!-- telegram-source: personal/messages.html#message545 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-545.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh ar-Rājihī was asked:
 
 Questioner: Are those who excuse the mushrikīn due to their ignorance—is prayer performed behind them or not?
@@ -5242,10 +6527,7 @@ Shaykh al-Rājiḥī: I say: these are mushrikūn. And whoever does not declare 
 
 Questioner: Clear.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/f169c87f6f78a04ac233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message879 -->
@@ -5405,6 +6687,25 @@ So, the curse itself is not lifted, but when does it apply to a person specifica
 When do we say to this ʿādhir (excuser) — the one who excuses these people or those he sees — “You are a kāfir”? We ask him: “Do you excuse everyone who worships graves?” If he says: “No, I excuse only these people I know — so-and-so and so-and-so — because, to me, the daʿwah has not reached them,” then we tell him: “These people are mushrikīn by the proof of Allāh and His Messenger ﷺ.” We clarify it to him. If he persists afterward, then the ruling of takfīr applies to him, because now you have removed his shubhah, fulfilled the conditions, and the mawāniʿ are gone.
 
 This is regarding the specific individual. But before you perform takfīr ʿayn and want to issue the general ruling — takfīr nawʿ — that does not require the fulfillment of conditions or removal of preventers. You simply say: “Whoever does not declare the mushrikīn to be disbelievers is like them.”
+
+---
+
+### Ṣāliḥ al-Fawzān: those who excuse the mushrikīn are themselves ignorant and have no excuse
+
+<!-- telegram-source: personal/messages.html#message509 -->
+
+Shaykh Ṣāliḥ al-Fawzān was asked:
+
+“Are some students of knowledge who excuse the grave worshippers because of ignorance themselves excused?”
+
+He answered:
+
+“Those are the ignorant ones, not the grave worshippers. Those who excuse the mushrikīn and the grave worshippers are the ignorant ones. They have no excuse.”
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-509.mp4"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
 
 ---
 
@@ -8334,40 +9635,6 @@ The rites of sacrifice are part of worship; and so on and so forth. Whoever dedi
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message4985 -->
-
-Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
-
-It is said to this ignorant person: if you know that the ilāh is the one who is worshipped, and you know that duʿāʾ is from ʿibādah (worship), then how do you call upon a created being, a dead one, one who is incapable? And you leave the Ever-Living, the Self-Sustaining, the Present, the Compassionate, the Merciful, the All-Powerful?
-
-So this mushrik may say: “The matter is in the hand of Allah, but this righteous servant will intercede for me with Allah, and his intercession and rank will benefit me,” and he thinks that this saves him from shirk.
-
-[ad-Durar as-Saniyyah 2/104]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/9b2be8bb934a87b61609.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages5.html#message5048 -->
-
-Shaykh ʿAbd Allah and Ḥasan, the sons of Muḥammad Ibn ʿAbd al-Wahhāb said:
-
-So whoever says: ‘I do not show enmity to the mushrikīn,’ or he shows enmity to them but does not takfīr them, or says: ‘I do not oppose the people of lā ilāha illā Allāh, even if they commit kufr and shirk and show enmity to the religion of Allah,’ or says: ‘I do not oppose the domes,’ then this person is not a Muslim.
-
-Rather, he is from those about whom Allah said:
-
-‘And they say: “We believe in some but reject others," and wish to adopt a way in between. They are in truth disbelievers.’ [al-Nisāʾ 4:150–151].
-
-[ad-Durar as-Saniyyah 10/139-140]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/47579170c6aec44523dc.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message671 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
@@ -8936,22 +10203,6 @@ And whoever’s love, hatred, giving, and withholding is for his own desire, the
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message5041 -->
-
-Shaykh ʿAbd al-Raḥmān ibn Ḥasan said:
-
-So indeed our Shaykh (Muḥammad Ibn ʿAbd al-Wahhāb) attained mastery through this Tawḥīd, its clarification, and calling to it. And this clarifies the condition of this man: that he did not know ‘Lā ilāha illā Allāh.’
-
-For if he had known the meaning of ‘Lā ilāha illā Allāh,’ he would have known that whoever doubts or hesitates regarding the kufr of the one who commits shirk with Allah by associating another besides Him, then he has not disbelieved in the ṭāghūt.
-
-[ad-Durar as-Saniyyah 11/523]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/f6ba668f4cecc6f86396.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message677 -->
 
 Shaykh ʿAbd al-Raḥmān ibn Ḥasan said:
@@ -9208,20 +10459,6 @@ So whoever does not follow it does not achieve salvation from the punishment of 
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message4610 -->
-
-Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
-
-“That you worship Allah", meaning: Him alone. For worship that is not upon tawḥīd is not worship. Indeed, the one whose worship is not entirely for Allah is not a worshipper of Allah; rather he is a mushrik kāfir, a worshipper of Shayṭān, and it is negated from Allah.”
-
-[Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/182]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/ab7cbbfc906e88240471.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages5.html#message4833 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
@@ -9427,22 +10664,6 @@ The exception to this is du‘āʾ to the Living, All-Powerful, Present Allāh; 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/5689c2755b7c53afcfb0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages5.html#message4640 -->
-
-Shaykh Ibn Bāz said:
-
-The one who knows the kāfir and the falsehood he is upon, yet does not declare him a kāfir or doubts his kufr, then the meaning of that is that he is denying Allāh and His Messenger and is not believing in what Allāh has ruled regarding them of kufr — such as the Jews and the Christians. They are kuffār by the explicit text of the Qurʾān and the explicit text of the Sunnah.
-
-So it is obligatory upon the mukallafīn (legally responsible Muslims) to hold the belief that they are kuffār and misguided. Whoever does not declare them as kuffār or doubts their kufr is like them, because he is denying Allāh and His Messenger and doubting what Allāh and His Messenger have informed about.
-
-[Subul as-Salām Sharḥ Nawāqiḍ al-Islām by Shaykh Ibn Bāz p.105]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/659f5bacbb790dd3f496.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -9760,24 +10981,6 @@ Likewise, what is slaughtered upon first entering a house out of fear of the jin
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message4665 -->
-
-Shaykh Ṣāliḥ al-Fawzān said:
-
-It is not enough for a person to worship Allah alone; he must also avoid the ṭāghūt (false deity). If he dies while his worship is mixed with shirk, then that worship becomes invalid.
-
-He must also disassociate himself from shirk and from the mushrikīn, showing enmity toward them for the sake of Allah. If he approves of them in their shirk and does not disassociate from them, then his tawḥīd does not benefit him.
-
-The verse “And avoid the ṭāghūt” encompasses both abandoning the worship of the ṭāghūt and expressing barā’ah (disavowal) from those who worship the ṭāghūt.
-
-[at-Taʿlīq al-Mukhtaṣar al-Mubayyan ʿalā Qurrat ʿUyūn al-Muwaḥḥidīn by Shaykh Ṣāliḥ al-Fawzān p.18]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages5.html#message4700 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
@@ -9909,20 +11112,6 @@ Shaykh al-Fawzān said:
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/bb49a3f1e09a292b4116.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages5.html#message4382 -->
-
-Shaykh Ṣāliḥ al-Fawzān said:
-
-Merely uttering “lā ilāha illā Allāh” is not sufficient without understanding its meaning, acting according to its implications, and truly believing in its significance.
-
-[Iʿānat al-Mustafīd bi-Sharḥ Kitāb at-Tawḥīd by al-ʿAllāmah Shaykh Ṣāliḥ al-Fawzān p.95]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/4cc04d0cff1e8e1b9083.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -10367,24 +11556,6 @@ You are looking here at his belief of lā ilāha illā Allāh through action. So
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message4651 -->
-
-Shaykh Ṣāliḥ Āl ash-Shaykh said:
-
-He (Shaykh Muḥammad ibn ʿAbd al-Wahhāb) said: And it is the religion of the messengers with which Allāh sent them to His servants.”
-
-So what is the religion of the messengers upon which they all agreed, and with which each of them was sent? It is tawḥīd of Allāh. — which is: singling out Allāh in ʿibādah (worship).
-
-For this reason we know that whoever worships other than Allāh is opposing every messenger. And whoever worships other than Allāh with any type of ʿibādah is not a muwaḥḥid; rather he is a mushrik and a denier of all the messengers.
-
-[Sharḥ Kashf ash-Shubuhāt by Shaykh Ṣāliḥ Āl ash-Shaykh p.43]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/291f4fb7a4d71f5f7341.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message536 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
@@ -10450,30 +11621,6 @@ And this is a necessity that does not require from a person a detailed proof, fo
 
 It must lead him to the recognition that the One who alone created, the One who alone disposes of the creation, He is the One who must be humbled to, who must be submitted to, and who must be worshipped alone, without anything besides Him.
 
----
-
-<!-- telegram-source: dar/messages5.html#message5016 -->
-
-Shaykh Khālid al-Mushayqiḥ was asked:
-
-Q: Is this expression correct or not? Some people say that making takfīr of the mushrikīn and apostates is not from the foundation of the religion, meaning that making takfīr of the grave-worshippers is not from the foundation of the religion. Are these words correct or not?
-
-A: No, no, these words are not correct. Allah, the Most High, declared them as kuffār: “Surely, disbelievers are those who said: "Allâh is the third of the three (in a Trinity)."  [al-Māʾidah: 73]
-
-“Those who disbelieve from among the people of the Scripture (Jews and Christians) and the Mushrikûn, were not going to leave (their disbelief) until there came to them clear evidence.” [al-Bayyinah: 1]
-
-“Surely, in disbelief are they who say that Allâh is the Messiah, son of Maryam” [al-Māʾidah: 17]
-
-Q: They say that making takfīr of the one who associates partners with Allah, meaning the grave-worshippers, is not from the foundation of the religion.
-
-They say it is obligatory, but not from the foundation of the religion. And they say that whoever says it is from the foundation of the religion is from the Khawārij.
-
-A: No, this is not correct. Also, if we say that it is obligatory, then this itself indicates that it is from the foundation of the religion.
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/d66f939c89c221926668.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
 ---
 
 <!-- telegram-source: personal/messages.html#message674 -->
@@ -10803,14 +11950,6 @@ But all sinners — except those whom Allah guides — act arrogantly. They are 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/07758b05c78ba75cdd03.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages5.html#message4354 -->
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/c5ee2c65cc57654ad101.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -12462,6 +13601,11 @@ Answer: This is a false statement. Asking the dead for one’s needs is shirk, a
 
 <!-- telegram-source: personal/messages.html#message547 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-547.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh al-Fawzān was asked:
 
 Q: Shaykh al-Islām Ibn Taymiyyah mentioned in Majmūʿ al-Fatāwā that asking a dead person to make duʿāʾ for you, to ask Allāh on your behalf, is an act of bidʿah.
@@ -12472,10 +13616,7 @@ Q: Is this the same issue you pointed out at the beginning of the lesson?
 
 A: Yes, I clarified an understanding — not the wording of the Shaykh himself. I clarified the misunderstanding of the one quoting him. When the Shaykh says “this is bidʿah” he did not mean bidʿah in the simple sense and remain silent; he meant bidʿah shirkīyyah. That is his intent. His explicit statement here is clear, so why take his words in their general sense and ignore his explicit clarification elsewhere?
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/faeb68066ae74d2c9d72.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message564 -->
@@ -13774,6 +14915,11 @@ Source: Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.59
 
 <!-- telegram-source: personal/messages.html#message544 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-544.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Is talab ad-du‘āʾ (requesting du‘āʾ) from the dead, shirk?
 
 Shaykh al-Fawzān was asked:
@@ -13782,13 +14928,15 @@ Q: If a person goes to the occupant of a grave and asks him to make duʿāʾ to 
 
 A: This is shirk. Seeking needs from the dead is shirk—whether duʿāʾ or anything else. The one who makes an exception for duʿāʾ and says it is not shirk—he must bring the evidence.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/b69b09c2ccf8cd359910.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message568 -->
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-568.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -13796,11 +14944,7 @@ Q: Is there a difference between asking a dead person for duʿāʾ and asking hi
 
 A : Duʿāʾ is shafāʿah. What is the meaning of shafāʿah? Its meaning is that he supplicates for you, and Allāh responds to his supplication. That is shafāʿah. Shafāʿah is supplication on behalf of another. So there is no difference between them.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/eacc919a66ba4ff78380.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message4063 -->
@@ -13924,14 +15068,16 @@ Thus it became clear that the form of requesting shafāʿah and duʿāʾ from th
 
 <!-- telegram-source: personal/messages.html#message588 -->
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-588.mp4"></video>
+<p class="media-caption">Video source from the user’s Telegram export.</p>
+</div>
+
 Shaykh Ayman al-ʿAnqarī said:
 
 We hear from some who claim to be Muslims the phrase: “O Messenger of Allah, intercede for me” or “Intercession, O Muhammad.” This phrase is not permissible; asking for intercession from the Prophet ﷺ is major shirk because intercession belongs to Allah alone. Allah, the Exalted, says: “Say, ‘To Allah belongs [all] intercession’”. The Prophet ﷺ and other deceased people have no power over anything—not intercession nor supplication—because he ﷺ said: “When the son of Adam dies, his deeds are cut off except for three…” Since intercession is among matters that only Allah can grant, the dead have no power over it. Therefore, beware of this phrase.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/13f848c7ad3173fddb46.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message735 -->
