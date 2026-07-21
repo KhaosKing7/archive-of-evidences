@@ -5905,7 +5905,7 @@ Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 8/264–265.
 
 Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 2/207.
 
-<!-- telegram-source: dar/messages4.html#message3646 -->
+<!-- telegram-source: dar/messages4.html#message3646-message3648 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -5932,6 +5932,10 @@ We have declared them disbelievers only for what Allah and His Messenger have de
 And whoever does not declare the mushrikīn disbelievers, or doubts their disbelief, or approves of their creed, has himself committed disbelief.
 
 Woe unto him! Where is our “declaring the Ummah of Muḥammad disbelievers”? Rather, the reality of his doctrine is that, according to him, the monotheistic Ummah of Muḥammad consists of the worshippers of graves, the prophets, and the righteous — those who make with Allah other deities, ask them to fulfill their needs, and seek from them relief from their distresses, and who turn to them in times of hardship and affliction.
+
+These are the very people whom the Qurʾān declared to be kuffār, and for whose combat the Messenger ﷺ was sent, a matter upon which the Muslims have an undeniable ijmāʿ.
+
+Source: ʿAbd ar-Raḥmān ibn Qāsim an-Najdī, *as-Sayf al-Maslūl ʿalā ʿĀbid ar-Rasūl*, pp. 98–99.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
@@ -12744,7 +12748,7 @@ Source: al-Hadiyyah as-Saniyyah wa at-Tuḥfah an-Najdiyyah by Shaykh Sulaymān 
 
 ---
 
-<!-- telegram-source: dar/messages4.html#message3646 -->
+<!-- telegram-source: dar/messages4.html#message3646-message3648 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -12771,6 +12775,10 @@ We have declared them disbelievers only for what Allah and His Messenger have de
 And whoever does not declare the mushrikīn disbelievers, or doubts their disbelief, or approves of their creed, has himself committed disbelief.
 
 Woe unto him! Where is our “declaring the Ummah of Muḥammad disbelievers”? Rather, the reality of his doctrine is that, according to him, the monotheistic Ummah of Muḥammad consists of the worshippers of graves, the prophets, and the righteous — those who make with Allah other deities, ask them to fulfill their needs, and seek from them relief from their distresses, and who turn to them in times of hardship and affliction.
+
+These are the very people whom the Qurʾān declared to be kuffār, and for whose combat the Messenger ﷺ was sent, a matter upon which the Muslims have an undeniable ijmāʿ.
+
+Source: ʿAbd ar-Raḥmān ibn Qāsim an-Najdī, *as-Sayf al-Maslūl ʿalā ʿĀbid ar-Rasūl*, pp. 98–99.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
