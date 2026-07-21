@@ -349,7 +349,7 @@ Likewise, what you mentioned regarding the meaning of the ṭāghūt—that one 
 </details>
 ---
 
-<!-- telegram-source: personal/messages.html#message524 -->
+<!-- telegram-source: personal/messages.html#message523-message524 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -365,10 +365,10 @@ And we request from you — even for the ṭullāb al-ʿilm (students of knowled
 
 It is obligatory to read the books of Ahl al-Sunnah from the scholars of the daʿwah in the land of Najd and others — whether the verifying scholars are from Najd or from elsewhere. We must read their words, take heed from them, and act upon them. And as for Najd, they are only followers of those who preceded; they did not originate anything from themselves. They are followers of those who preceded them from the salaf al-ṣāliḥ. So we do not limit ourselves to the people of Najd, but every Salafī and every verifying scholar from Najd or others — we take him as an example and take knowledge from him. Yes.
 
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/fawzan-baraah-major-shirk.mov"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
 ---
 
 <!-- telegram-source: personal/messages.html#message554 -->
@@ -693,7 +693,7 @@ Allāh does not accept that anyone be associated with Him in any type of ʿibād
 </details>
 ---
 
-<!-- telegram-source: personal/messages.html#message662 -->
+<!-- telegram-source: personal/messages.html#message662-message663 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -706,6 +706,11 @@ But if he is worshipped while not being pleased with that, then the ṭāghūt i
 As for the righteous man and the followers of the prophets, they will disavow those who worshipped them on the Day of Judgment, and they will say: “We did not command them, nor were we aware of their worship of us.”
 
 “They will say: "Glorified be You! You are our Walî instead of them. Nay, but they used to worship the jinn.” [Sabaʾ:41] meaning, the Shayāṭīn “most of them were believers in them”  because they obeyed the Shayāṭīn, so they became worshippers of the Shayāṭīn. Yes.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/fawzan-takfir-grave-worshippers-taghut.mp4"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
 
 ---
 
@@ -797,6 +802,90 @@ He continues: “Every ruling attached to religious names, such as Islām, faith
 
 Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
 
+### Muḥammad ibn ʿAbd al-Wahhāb: the foundation and principle of Islam
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>فإذا قيل لك: إيش دينك؟ فقل: ديني الإسلام، وأصله وقاعدته أمران: الأول: الأمر بعبادة الله وحده لا شريك له، والتحريض على ذلك، والموالاة فيه، وتكفير من تركه، والإنذار عن الشرك في عبادة الله، والتغليظ في ذلك، والمعاداة فيه، وتكفير من فعله. وهو بني على خمسة أركان: شهادة أن لا إله إلا الله، وأن محمدا رسول الله، وإقام الصلاة، وإيتاء الزكاة، وصوم رمضان، وحج البيت مع الاستطاعة.</p>
+<p class="arabic-citation">المصدر: محمد بن عبد الوهاب، <em>الدرر السنية في الأجوبة النجدية</em>، 1/153.</p>
+</div>
+</details>
+
+**English**
+
+“If you are asked, ‘What is your religion?’ say: ‘My religion is Islam, and its foundation and principle consist of two matters. The first is commanding the worship of Allāh alone, without partner; urging this; showing loyalty for its sake; declaring whoever abandons it a disbeliever; warning against shirk in the worship of Allāh; treating that sternly; showing enmity for its sake; and declaring whoever commits it a disbeliever. Islam is built upon five pillars: testifying that there is no deity except Allāh and that Muḥammad is the Messenger of Allāh, establishing the prayer, giving zakāh, fasting Ramaḍān, and performing pilgrimage to the House when able.’”
+
+Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 1/153.
+
+### Muḥammad ibn ʿAbd al-Wahhāb: declaring the worshippers of other than Allāh disbelievers
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>فَأَمَّا صِفَةُ الْكُفْرِ بِالطَّاغُوتِ فَأَنْ تَعْتَقِدَ بُطْلَانَ عِبَادَةِ غَيْرِ اللَّهِ، وَتَتْرُكَهَا، وَتُبْغِضَهَا، وَتُكَفِّرَ أَهْلَهَا، وَتُعَادِيَهُمْ. وَأَمَّا مَعْنَى الْإِيمَانِ بِاللَّهِ فَأَنْ تَعْتَقِدَ أَنَّ اللَّهَ هُوَ الْإِلَهُ الْمَعْبُودُ وَحْدَهُ دُونَ مَنْ سِوَاهُ، وَتُخْلِصَ جَمِيعَ أَنْوَاعِ الْعِبَادَةِ كُلَّهَا لِلَّهِ، وَتَنْفِيَهَا عَنْ كُلِّ مَعْبُودٍ سِوَاهُ، وَتُحِبَّ أَهْلَ الْإِخْلَاصِ وَتُوَالِيَهُمْ، وَتُبْغِضَ أَهْلَ الشِّرْكِ وَتُعَادِيَهُمْ؛ وَهَذِهِ مِلَّةُ إِبْرَاهِيمَ الَّتِي سَفِهَ نَفْسَهُ مَنْ رَغِبَ عَنْهَا.</p>
+<p class="arabic-citation">المصدر: محمد بن عبد الوهاب، <em>الدرر السنية في الأجوبة النجدية</em>، 1/161.</p>
+</div>
+</details>
+
+**English**
+
+“As for the description of kufr biṭ-ṭāghūt, it is that you believe in the falsehood of worshipping other than Allāh, abandon it, hate it, declare its people disbelievers, and oppose them. As for the meaning of faith in Allāh, it is that you believe Allāh alone is the deity worthy of worship, sincerely devote every kind of worship to Allāh, and deny it to every object of worship besides Him. You love and ally with the people of sincerity, and you hate and oppose the people of shirk. This is the religion of Ibrāhīm, and whoever turns away from it has made a fool of himself.”
+
+Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 1/161.
+
+### ʿAbd al-Raḥmān ibn Ḥasan: consensus concerning disavowal from major shirk and its people
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Show Arabic source text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وأجمع العلماء سلفا وخلفا، من الصحابة والتابعين، والأئمة، وجميع أهل السنة أن المرء لا يكون مسلما إلا بالتجرد من الشرك الأكبر، والبراءة منه وممن فعله، وبغضهم ومعاداتهم بحسب الطاقة، والقدرة، وإخلاص الأعمال كلها لله.</p>
+<p class="arabic-citation">المصدر: عبد الرحمن بن حسن، <em>الدرر السنية في الأجوبة النجدية</em>، 11/545.</p>
+</div>
+</details>
+
+**English**
+
+“The scholars, past and present, from the Companions, the Followers, the imāms, and all Ahl al-Sunnah, have unanimously agreed that a person is not a Muslim except by freeing himself from major shirk, disavowing it and those who commit it, hating and opposing them according to his capacity and ability, and devoting all deeds sincerely to Allāh.”
+
+Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 11/545.
+
+### Ḥamad ibn ʿAtīq: declaring the people of shirk disbelievers is from the foundation of the messengers’ religion
+
+Shaykh Ḥamad ibn ʿAtīq said:
+
+“The foundation of the religion of all the messengers is the establishment of tawḥīd: loving it, loving its people, showing loyalty to them, rejecting shirk, declaring its people disbelievers, hating them, and making enmity toward them manifest.
+
+The Exalted said: ‘There has already been for you a good example in Ibrāhīm and those with him, when they said to their people: Indeed, we disassociate from you and from whatever you worship besides Allāh. We have rejected you, and between us and you has appeared enmity and hatred forever, until you believe in Allāh alone.’ [al-Mumtaḥanah 60:4]
+
+The meaning of His saying, ‘and it appeared,’ is that it became apparent and visible, meaning a clear and explicit declaration of enmity and hatred toward whoever does not single out his Lord with tawḥīd.”
+
+Source: Ḥamad ibn ʿAtīq, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 8/418.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/3d65083c0fd24540b3c0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+
+### Sulaymān ibn Saḥmān: lā ilāha illā Allāh necessitates declaring the people of shirk disbelievers
+
+Shaykh Sulaymān ibn Saḥmān said:
+
+“The people of shirk have been described as disbelievers in countless verses, so it is necessary to declare them disbelievers. This is also necessitated by lā ilāha illā Allāh, whose meaning is not complete except by declaring disbeliever the one who associates a partner with Allāh in His worship, as in the authentic ḥadīth: ‘Whoever says lā ilāha illā Allāh and disbelieves in what is worshipped besides Allāh, his wealth and blood become inviolable, and his reckoning is with Allāh.’
+
+His statement, ‘and disbelieves in what is worshipped besides Allāh,’ confirms the negation. His blood and wealth are therefore not inviolable except by that. If he doubts or hesitates, his blood and wealth are not protected.
+
+These matters complete tawḥīd because lā ilāha illā Allāh has been restricted in the ḥadīths by weighty conditions: knowledge, sincerity, truthfulness, certainty, and the absence of doubt. A person is not a muwaḥḥid except by combining all of this, believing it, accepting it, loving for its sake, showing enmity for its sake, and giving allegiance for its sake.
+
+It is known that, together with believing in the falsehood of worshipping other than Allāh, it is necessary to declare the one who commits shirk disbeliever, disavow him, and openly manifest enmity and hatred toward them. Reflect upon that, and Allāh is the One who grants success to what is correct.”
+
+Source: Sulaymān ibn Saḥmān, *Tanbīh dhawī al-Albāb al-Salīmah ʿan al-Wuqūʿ fī al-Alfāẓ al-Mubtadaʿah al-Wakhīmah*, pp. 72–73.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/eddb3848b703d489ff48.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
+
 ### Ayman al-ʿAnqarī: takfīr of the mushrikīn is part of kufr biṭ-ṭāghūt
 
 <!-- telegram-source: personal/messages.html#message522 -->
@@ -850,7 +939,7 @@ Indeed, declaring the one who worships other than Allāh a disbeliever is among 
 
 Source: Muḥammad ibn Ibrāhīm Āl al-Shaykh, Sharḥ Kitāb al-Tawḥīd, 1/202–203.
 
-<!-- telegram-source: dar/messages4.html#message3277 -->
+<!-- telegram-source: dar/messages4.html#message3277-message3278 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -866,11 +955,16 @@ And we request from you — even for the ṭullāb al-ʿilm (students of knowled
 
 It is obligatory to read the books of Ahl al-Sunnah from the scholars of the daʿwah in the land of Najd and others — whether the verifying scholars are from Najd or from elsewhere. We must read their words, take heed from them, and act upon them. And as for Najd, they are only followers of those who preceded; they did not originate anything from themselves. They are followers of those who preceded them from the salaf al-ṣāliḥ. So we do not limit ourselves to the people of Najd, but every Salafī and every verifying scholar from Najd or others — we take him as an example and take knowledge from him. Yes.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/fawzan-baraah-major-shirk.mov"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
+
 ---
 
 ### Ṣāliḥ al-Fawzān: takfīr of the grave worshippers is part of kufr biṭ-ṭāghūt
 
-<!-- telegram-source: personal/messages.html#message662 -->
+<!-- telegram-source: personal/messages.html#message662-message663 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -883,6 +977,11 @@ But if he is worshipped while not being pleased with that, then the ṭāghūt i
 As for the righteous man and the followers of the prophets, they will disavow those who worshipped them on the Day of Judgment, and they will say: “We did not command them, nor were we aware of their worship of us.”
 
 “They will say: "Glorified be You! You are our Walî instead of them. Nay, but they used to worship the jinn.” [Sabaʾ:41] meaning, the Shayāṭīn “most of them were believers in them”  because they obeyed the Shayāṭīn, so they became worshippers of the Shayāṭīn. Yes.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/fawzan-takfir-grave-worshippers-taghut.mp4"></video>
+<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
+</div>
 
 ---
 
@@ -904,22 +1003,38 @@ Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
 
 [Telegram export, ʿUdhr bil-Jahl topic; source media retained in the export]
 
-### Najdī explanation linking the principle to the ḥadīth
+### An unnamed Najdī scholar: failure to declare the mushrikīn disbelievers
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
 <div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: *الدرر السنية في الأجوبة النجدية*، 9/291.</p>
-<p>فَلَا يَعْصِمُ دَمَ الْعَبْدِ وَمَالَهُ حَتَّى يَأْتِيَ بِهَذَيْنِ الْأَمْرَيْنِ: الْأَوَّلُ قَوْلُهُ لَا إِلَهَ إِلَّا اللَّهُ، وَالْمُرَادُ مَعْنَاهَا لَا مُجَرَّدُ لَفْظِهَا، وَمَعْنَاهَا هُوَ تَوْحِيدُ اللَّهِ بِجَمِيعِ أَنْوَاعِ الْعِبَادَةِ. الْأَمْرُ الثَّانِي: الْكُفْرُ بِمَا يُعْبَدُ مِنْ دُونِ اللَّهِ، وَالْمُرَادُ بِذَلِكَ تَكْفِيرُ الْمُشْرِكِينَ، وَالْبَرَاءَةُ مِنْهُمْ، وَمِمَّا يَعْبُدُونَ مَعَ اللَّهِ.</p>
+<p>الأمر الثاني: مما يوجب الجهاد لمن اتصف به: عدم تكفير المشركين، أو الشك في كفرهم، فإن ذلك من نواقض الإسلام ومبطلاته، فمن اتصف به فقد كفر، وحل دمه وماله، ووجب قتاله حتى يكفر المشركين، والدليل على ذلك قوله صلى الله عليه وسلم: «من قال لا إله إلا الله، وكفر بما يعبد من دون الله، حرم ماله ودمه»، علق عصمة المال والدم بأمرين:</p>
+<p>الأمر الأول: قول: لا إله إلا الله.</p>
+<p>الثاني: الكفر بما يعبد من دون الله.</p>
+<p>فلا يعصم دم العبد وماله، حتى يأتي بهذين الأمرين:</p>
+<p>الأول: قوله: لا إله إلا الله، والمراد معناها لا مجرد لفظها، ومعناها هو توحيد الله بجميع أنواع العبادة.</p>
+<p>الأمر الثاني: الكفر بما يعبد من دون الله، والمراد بذلك تكفير المشركين، والبراءة منهم، ومما يعبدون مع الله. فمن لم يكفر المشركين من الدولة التركية، وعباد القبور، كأهل مكة وغيرهم، ممن عبد الصالحين، وعدل عن توحيد الله إلى الشرك، وبدّل سنة رسوله صلى الله عليه وسلم بالبدع، فهو كافر مثلهم، وإن كان يكره دينهم، ويبغضهم، ويحب الإسلام والمسلمين؛ فإن الذي لا يكفر المشركين، غير مصدق بالقرآن، فإن القرآن قد كفر المشركين، وأمر بتكفيرهم، وعداوتهم وقتالهم.</p>
+<p>قال الشيخ محمد بن عبد الوهاب، رحمه الله، في نواقض الإسلام: الثالث: من لم يكفر المشركين، أو شك في كفرهم، أو صحح مذهبهم، كفر. وقال شيخ الإسلام ابن تيمية رحمه الله: من دعا علي بن أبي طالب، فقد كفر، ومن شك في كفره، فقد كفر.</p>
+<p class="arabic-citation">المصدر: <em>الدرر السنية في الأجوبة النجدية</em>، 9/291–292، ضمن رسالة «ما يوجب الجهاد» لبعض علماء نجد.</p>
 </div>
 </details>
 
 **English**
 
 
-“A servant’s blood and wealth are not protected until he fulfills two matters. The first is saying lā ilāha illā Allāh, meaning its reality and not its bare wording, which is to single out Allāh in every kind of worship. The second is rejecting what is worshipped besides Allāh, and what is intended by that is declaring the mushrikīn disbelievers and disavowing them and what they worship alongside Allāh.”
+“The second matter that makes jihād obligatory against a person characterized by it is failure to declare the mushrikīn disbelievers, or doubting their disbelief. This is among the nullifiers and invalidators of Islam. Whoever is characterized by it has disbelieved, his blood and wealth become lawful, and he must be fought until he declares the mushrikīn disbelievers. The proof is the saying of the Prophet ﷺ: ‘Whoever says lā ilāha illā Allāh and disbelieves in whatever is worshipped besides Allāh, his wealth and blood become inviolable.’ He made the inviolability of wealth and blood dependent upon two matters:
 
-Source: al-Durar al-Saniyyah, 9/291.
+The first is saying lā ilāha illā Allāh.
+
+The second is disbelieving in whatever is worshipped besides Allāh.
+
+A servant’s blood and wealth are therefore not protected until he fulfills these two matters. The first is saying lā ilāha illā Allāh, meaning its reality and not its bare wording. Its meaning is to single out Allāh in every kind of worship.
+
+The second is disbelieving in whatever is worshipped besides Allāh. What is intended by this is declaring the mushrikīn disbelievers and disavowing them and what they worship alongside Allāh. Whoever does not declare disbelievers the mushrikīn of the Turkish state and the grave worshippers, such as the people of Makkah and others who worshipped the righteous, turned away from the tawḥīd of Allāh toward shirk, and replaced the Sunnah of His Messenger ﷺ with innovations, is a disbeliever like them, even if he hates their religion, detests them, and loves Islam and the Muslims. The one who does not declare the mushrikīn disbelievers does not affirm the Qurʾān, for the Qurʾān declared the mushrikīn disbelievers and commanded that they be declared disbelievers, opposed, and fought.
+
+Shaykh Muḥammad ibn ʿAbd al-Wahhāb, may Allāh have mercy upon him, said in *The Nullifiers of Islam*: ‘The third: whoever does not declare the mushrikīn disbelievers, doubts their disbelief, or considers their doctrine correct has disbelieved.’ Shaykh al-Islām Ibn Taymiyyah, may Allāh have mercy upon him, said: ‘Whoever calls upon ʿAlī ibn Abī Ṭālib has disbelieved, and whoever doubts his disbelief has disbelieved.’”
+
+Source: *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 9/291–292, in the treatise “What Makes Jihād Obligatory,” attributed by the compiler to an unnamed Najdī scholar.
 
 ## 5. The ignorant person who commits major shirk
 
@@ -2386,28 +2501,6 @@ If he does any of these, it becomes obligatory upon you to declare him outside o
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/9591c478f5071ce63b53.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages3.html#message3116 -->
-
-Imām Al-Malaṭī said:
-
-And the meaning of that is: that the Muʿtazilah of Baghdād and Baṣrah, and all the people of the qiblah, are in agreement that whoever doubts whether someone is a kāfir, then he himself is a kāfir — because one who doubts about kufr has no īmān, since he cannot distinguish between kufr and īmān.
-
-So among the entire ummah, including the Muʿtazilah and those beneath them, there is no disagreement that the one who doubts about a kāfir is a kāfir.
-
-Then the Muʿtazilah of Baghdād went further than the Muʿtazilah of Baṣrah by saying: the one who doubts about the doubter, and the one who doubts about the one who doubts the doubter, endlessly without end — all of them are kuffār, following the same path as the first doubter.
-
-But the Muʿtazilah of Baṣrah said: the first doubter is a kāfir, because he doubted about kufr. And the second — the one who doubted about the first — is not a kāfir, but a fāsiq (sinner), because he did not doubt kufr itself, but rather doubted whether this doubter became a kāfir due to his doubt. So his pathway to kufr is not the same as that of the first doubter.
-
-And likewise, according to them, those who doubt the doubter, and those who doubt the one who doubts the doubter — endlessly — are all fussāq, except for the first doubter, for he is a kāfir. And their view is better than the view of the people of Baghdād.
-
-[At-Tanbīh wa ar-Radd ʿalā Ahl al-Ahwāʾ wa al-Bidaʿ by Imām Al-Mulṭī p.47-48]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/b2804b04f5ab324f15a2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -8491,28 +8584,27 @@ The answer contrasts this with Jews, Christians, Communists, and similar groups,
 
 Source: Fatāwā al-Lajnah al-Dāʾimah, 3/96–99. Telegram translation and scan retained in the export.
 
+### Al-Malaṭī on the Muʿtazilah’s endless chain of takfīr
 
-<a id="the-excuser"></a>
+Imām al-Malaṭī said:
 
-<!-- telegram-source: dar/messages5.html#message4689 -->
+“The Muʿtazilah of Baghdād and Baṣrah, and all the people of the qiblah, agree that whoever doubts whether a disbeliever is a disbeliever is himself a disbeliever, because one who doubts disbelief has no faith, since he cannot distinguish between disbelief and faith.
 
-The scholars have two opinions regarding the issue of excuse of ignorance in shirk al-akbar and clear cut disbelief:
+There is therefore no disagreement among the ummah, including the Muʿtazilah and those below them, that one who doubts the disbelief of a disbeliever is a disbeliever.
 
+The Muʿtazilah of Baghdād went further than the Muʿtazilah of Baṣrah. They said that the one who doubts the doubter, the one who doubts the one who doubts the doubter, and so on endlessly, are all disbelievers, following the same path as the first doubter.
 
-❌ There is no third opinion from the scholars stating that a person is excused due to ignorance while still being considered a Muslim. This position is disbelief and is statement of the contemporary Murjiʾah. Any one claiming this, know that he has been inflicted with the doubts of the Murjiʾah.
+The Muʿtazilah of Baṣrah said that the first doubter is a disbeliever because he doubted disbelief. The second, who doubted the first, is not a disbeliever but a sinner, because he did not doubt disbelief itself. He only doubted whether the first doubter became a disbeliever because of his doubt, so his path is not the same as that of the first doubter.
 
-Regarding this third position, it falls under the third nullifier: whoever does not takfīr a kāfir is a kāfir. However, the scholars of our time have differed regarding the ruling on the one who excuses the grave-worshipper. This does not apply to those who excuse the Christians and Jews.
+Likewise, according to them, those who doubt the doubter and those who doubt the one who doubts the doubter, continuing endlessly, are all sinners except for the first doubter, who is a disbeliever. Their position is better than the position of the people of Baghdād.”
 
-There are two opinions: one holds that those who excuse them and still consider them Muslim must have the proof established upon them before takfīr is made, due to the widespread doubts in this matter.
-
-
-As for matters which are obscure. Then the person is excused with ignorance and remains a Muslim unless they persist in such a matter. Then they are also a disbeliever.
+Source: al-Malaṭī, *al-Tanbīh wa-al-Radd ʿalā Ahl al-Ahwāʾ wa-al-Bidaʿ*, pp. 47–48.
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/46e9da8ccd429d6acf0b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/b2804b04f5ab324f15a2.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
----
+
 
 ## 10. Other tawḥīd evidence
 

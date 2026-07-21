@@ -15,12 +15,16 @@ const markdown = fs.readFileSync(markdownPath, "utf8");
 let html = fs.readFileSync(htmlPath, "utf8");
 
 const tawhidStart = markdown.indexOf("## 1. ");
+const otherTawhidStart = markdown.indexOf("## 10. ");
 const istighathaStart = markdown.indexOf("## 11. ");
-if (tawhidStart < 0 || istighathaStart < 0) {
-  throw new Error("Could not find the two collection boundaries in evidence-bank.md");
+if (tawhidStart < 0 || otherTawhidStart < 0 || istighathaStart < 0) {
+  throw new Error("Could not find the collection boundaries in evidence-bank.md");
 }
 
-const rawTawhid = markdown.slice(tawhidStart, istighathaStart).trim();
+// Section 10 was an uncategorized import bucket. It is intentionally excluded
+// from the published collection while its genuinely relevant entries are
+// reviewed and moved into the defined topical sections.
+const rawTawhid = markdown.slice(tawhidStart, otherTawhidStart).trim();
 const rawIstighatha = markdown.slice(istighathaStart).trim();
 let subsection = 0;
 
