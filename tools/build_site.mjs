@@ -12,6 +12,9 @@ const markdownPath = path.join(root, "evidence-bank.md");
 const htmlPath = path.join(root, "index.html");
 
 const markdown = fs.readFileSync(markdownPath, "utf8");
+if (!/<!-- evidence-id: \d{6} -->/.test(markdown)) {
+  throw new Error("Evidence IDs are missing. Run: node tools/assign_evidence_ids.mjs");
+}
 let html = fs.readFileSync(htmlPath, "utf8");
 
 const tawhidStart = markdown.indexOf("## 1. ");

@@ -7,8 +7,13 @@ An organized, multi-collection evidence bank with categorized English passages, 
 - `index.html`: the finished browsable evidence bank
 - `evidence-bank.md`: the editable Markdown source
 - `assets/scans/`: web-accessible source scans
+- `tools/assign_evidence_ids.mjs`: assigns fixed IDs only to new evidence records
 
 Open `index.html` in a web browser to view the archive locally.
+
+Evidence links use stored six-digit IDs. Run `node tools/assign_evidence_ids.mjs` after adding new quotations, then rebuild the page. Existing IDs are never renumbered.
+
+Saved collections are private to each browser profile and are not uploaded to GitHub.
 
 ## Local audit
 

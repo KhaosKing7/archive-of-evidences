@@ -5,6 +5,7 @@ All statements are organized by subject, regardless of where they were collected
 ## 1. The religion of Ibrāhīm
 
 ### Al-Ṭabarī on the example of Ibrāhīm and those with him
+<!-- evidence-id: 000001 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -26,6 +27,7 @@ Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/317, commentary on al-Mum
 <a id="loving-and-hating"></a>
 
 ### Ibn Taymiyyah on the agreement of the religious communities
+<!-- evidence-id: 000002 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -45,6 +47,7 @@ Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 2/128.
 This passage continues by citing al-Mumtaḥanah 60:4 and the declarations of Ibrāhīm عليه السلام against what his people worshipped.
 
 <!-- telegram-source: dar/messages2.html#message1104 -->
+<!-- evidence-id: 000003 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -73,6 +76,7 @@ The latter only took idols as intercessors and mediators, as they said: ‘We do
 ---
 
 <!-- telegram-source: dar/messages4.html#message4082 -->
+<!-- evidence-id: 000004 -->
 
 Ibn Qayyim said:
 
@@ -89,6 +93,7 @@ And it is the reality of Islām: “And whoever seeks a religion other than Isl�
 ---
 
 <!-- telegram-source: dar/messages2.html#message1994 -->
+<!-- evidence-id: 000005 -->
 
 Sheikh Muḥammad bin ʿAbd al-Wahhāb said:
 
@@ -107,6 +112,7 @@ What is meant is the true meaning of this phrase. As for merely pronouncing it w
 ---
 
 <!-- telegram-source: dar/messages5.html#message5019 -->
+<!-- evidence-id: 000006 -->
 
 Shaykh Sulaymān ibn Saḥmān said in a poem titled Naṣḥun wa Irshād (“Advice and Guidance”):
 
@@ -147,6 +153,7 @@ nor upon a straight and rightly-guided path.
 ---
 
 <!-- telegram-source: dar/messages4.html#message4153 -->
+<!-- evidence-id: 000007 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -175,6 +182,7 @@ This illustrates this great matter: indeed, the condition of ikhlāṣ and taw�
 ## 2. Loving and hating for the sake of Allāh
 
 ### Al-Ṭabarī on separating from the enemies of Allāh
+<!-- evidence-id: 000008 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -196,6 +204,7 @@ Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/318, commentary on al-Mum
 <a id="kufr-bit-taghut"></a>
 
 ### Ibn Taymiyyah
+<!-- evidence-id: 000009 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -215,6 +224,7 @@ Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 23/318, commentary on al-Mum
 Source: Ibn Taymiyyah, *Majmūʿ al-Fatāwā*, 8/361.
 
 <!-- telegram-source: personal/messages.html#message911 -->
+<!-- evidence-id: 000010 -->
 
 Shaykh Sulaymān ibn Saḥmān mentions Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 
@@ -248,6 +258,7 @@ And in the Messenger of Allah ﷺ we have an excellent example, as we have previ
 ---
 
 ### ʿAbd al-Raḥmān ibn Ḥasan
+<!-- evidence-id: 000011 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -265,6 +276,7 @@ And in the Messenger of Allah ﷺ we have an excellent example, as we have previ
 Source: ʿAbd al-Raḥmān ibn Ḥasan, al-Durar al-Saniyyah, 11/545.
 
 ### ʿAbd al-Laṭīf Āl al-Shaykh: inward enmity and openly displaying it are distinct
+<!-- evidence-id: 000012 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -282,6 +294,7 @@ Source: ʿAbd al-Raḥmān ibn Ḥasan, al-Durar al-Saniyyah, 11/545.
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Majmūʿat al-Rasāʾil wa-al-Masāʾil al-Najdiyyah, 3/314.
 
 <!-- telegram-source: personal/messages.html#message560 -->
+<!-- evidence-id: 000013 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -298,6 +311,7 @@ And just as it includes knowledge, it also includes action. It is not conceivabl
 ---
 
 <!-- telegram-source: dar/messages3.html#message2742 -->
+<!-- evidence-id: 000014 -->
 
 What did the messengers bring?
 
@@ -318,6 +332,7 @@ And the meaning of His saying “وبدا” is: it became apparent and visible 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4783 -->
+<!-- evidence-id: 000015 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -350,6 +365,7 @@ Likewise, what you mentioned regarding the meaning of the ṭāghūt—that one 
 ---
 
 <!-- telegram-source: personal/messages.html#message523-message524 -->
+<!-- evidence-id: 000016 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -372,6 +388,7 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 ---
 
 <!-- telegram-source: personal/messages.html#message554 -->
+<!-- evidence-id: 000017 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -390,6 +407,7 @@ Whoever does not disavow shirk has not truly realized lā ilāha illā Allāh, e
 ---
 
 ### Ṣāliḥ al-Fawzān
+<!-- evidence-id: 000018 -->
 
 “It is not enough for a person to worship Allāh alone; he must also avoid the ṭāghūt. If he dies while his worship is mixed with shirk, then that worship becomes invalid.
 
@@ -405,6 +423,7 @@ Source: Ṣāliḥ al-Fawzān, al-Taʿlīq al-Mukhtaṣar al-Mubayyan ʿalā Qur
 </details>
 
 <!-- telegram-source: dar/messages4.html#message4118 -->
+<!-- evidence-id: 000019 -->
 
 Shaykh ar-Rājihī said:
 
@@ -423,6 +442,7 @@ As for merely pronouncing it without knowledge of its meaning, without certainty
 ---
 
 <!-- telegram-source: dar/messages5.html#message4934 -->
+<!-- evidence-id: 000020 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -447,6 +467,7 @@ The point of the question is to properly define al-walāʾ wa al-barāʾ, the ab
 ---
 
 ### Ṣāliḥ Āl al-Shaykh
+<!-- evidence-id: 000021 -->
 
 “The phrase, ‘disavowal from shirk and its people,’ has been explained in several ways, concerning its root and its branches. The root of barāʾah is hatred in the heart, meaning hatred of shirk and its people.
 
@@ -473,6 +494,7 @@ Source: Ṣāliḥ Āl al-Shaykh, Sharḥ Thalāthat al-Uṣūl, pp. 137–138.
 ## 3. Kufr biṭ-ṭāghūt
 
 ### Al-Ṭabarī and the Salaf on the meaning of ṭāghūt
+<!-- evidence-id: 000022 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -498,6 +520,7 @@ Source: Ibn Jarīr al-Ṭabarī, Jāmiʿ al-Bayān, 4/556–559, commentary on a
 <a id="takfir-al-mushrikin"></a>
 
 <!-- telegram-source: dar/messages2.html#message1908 -->
+<!-- evidence-id: 000023 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -524,6 +547,7 @@ All of this is to establish tawḥīd, which is the foundation and core of the r
 ---
 
 <!-- telegram-source: dar/messages3.html#message2579 -->
+<!-- evidence-id: 000024 -->
 
 Shaykh Muḥammad bin ʿAbd al-Wahhāb said:
 
@@ -546,6 +570,7 @@ As for aṭ-ṭāghūt: it is a general term for everything worshipped besides A
 ---
 
 ### Kitāb al-Tawḥīd
+<!-- evidence-id: 000025 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -563,6 +588,7 @@ As for aṭ-ṭāghūt: it is a general term for everything worshipped besides A
 Source: Muḥammad ibn ʿAbd al-Wahhāb, Kitāb al-Tawḥīd, p. 9 in the local library edition.
 
 ### Faith is not attained without kufr biṭ-ṭāghūt
+<!-- evidence-id: 000026 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -580,6 +606,7 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, Kitāb al-Tawḥīd, p. 9 in the local 
 Source: Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 1/163.
 
 ### Muḥammad ibn ʿAbd al-Wahhāb: full definition
+<!-- evidence-id: 000027 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -597,6 +624,7 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 1/163.
 Source: Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 1/161.
 
 <!-- telegram-source: dar/messages5.html#message4899 -->
+<!-- evidence-id: 000028 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -627,12 +655,14 @@ The verse indicates:
 ---
 
 ### Disavowal from shirk and tawḥīd necessarily accompany one another
+<!-- evidence-id: 000029 -->
 
 “There is no disavowal from shirk and from the worship of anyone besides Allāh except through His tawḥīd, and there is no tawḥīd except through disavowal from every deity besides Allāh.”
 
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Fatḥ al-Malik al-Wahhāb fī Radd Shubhat al-Murtāb, p. 35.
 
 <!-- telegram-source: personal/messages.html#message539 -->
+<!-- evidence-id: 000030 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -658,6 +688,7 @@ Indeed, from the necessary implication of kufr biṭ-ṭāghūt is declaring dis
 ---
 
 <!-- telegram-source: dar/messages4.html#message3986 -->
+<!-- evidence-id: 000031 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -684,6 +715,7 @@ Allāh does not accept that anyone be associated with Him in any type of ʿibād
 ---
 
 <!-- telegram-source: personal/messages.html#message662-message663 -->
+<!-- evidence-id: 000032 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -705,6 +737,7 @@ As for the righteous man and the followers of the prophets, they will disavow th
 ---
 
 <!-- telegram-source: dar/messages5.html#message4271 -->
+<!-- evidence-id: 000033 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān said:
 
@@ -725,6 +758,7 @@ Kufr biṭ-ṭāghūt is a condition for the existence of īmān, because kufr b
 ---
 
 <!-- telegram-source: dar/messages4.html#message4113 -->
+<!-- evidence-id: 000034 -->
 
 Shaykh ar-Rājihī was asked:
 
@@ -746,6 +780,7 @@ Both are necessary. If someone says “Allāh” only, or “tawḥīd for Allā
 ---
 
 <!-- telegram-source: personal/messages.html#message571 -->
+<!-- evidence-id: 000035 -->
 
 Shaykh Ṣāliḥ Āl al-Shaykh said:
 
@@ -779,6 +814,7 @@ The intended point is that the matter of barā’ah—from shirk and its people�
 ## 4. Declaring the mushrikīn disbelievers
 
 ### Ibn Taymiyyah: religious descriptions follow the person’s own belief and action
+<!-- evidence-id: 000036 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -798,6 +834,7 @@ He continues: “Every ruling attached to religious names, such as Islām, faith
 Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
 
 ### Muḥammad ibn ʿAbd al-Wahhāb: the foundation and principle of Islam
+<!-- evidence-id: 000037 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -814,6 +851,7 @@ Source: Ibn Taymiyyah, Majmūʿ al-Fatāwā, 35/226–227.
 Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 1/153.
 
 ### Muḥammad ibn ʿAbd al-Wahhāb: declaring the worshippers of other than Allāh disbelievers
+<!-- evidence-id: 000038 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -830,6 +868,7 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al
 Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 1/161.
 
 ### ʿAbd al-Raḥmān ibn Ḥasan: consensus concerning disavowal from major shirk and its people
+<!-- evidence-id: 000039 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -846,6 +885,7 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah fī al-Ajwibah al
 Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 11/545.
 
 ### Ḥamad ibn ʿAtīq: declaring the people of shirk disbelievers is from the foundation of the messengers’ religion
+<!-- evidence-id: 000040 -->
 
 Shaykh Ḥamad ibn ʿAtīq said:
 
@@ -863,6 +903,7 @@ Source: Ḥamad ibn ʿAtīq, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*,
 </details>
 
 ### Sulaymān ibn Saḥmān: lā ilāha illā Allāh necessitates declaring the people of shirk disbelievers
+<!-- evidence-id: 000041 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -882,8 +923,10 @@ Source: Sulaymān ibn Saḥmān, *Tanbīh dhawī al-Albāb al-Salīmah ʿan al-W
 </details>
 
 ### Ayman al-ʿAnqarī: takfīr of the mushrikīn is part of kufr biṭ-ṭāghūt
+<!-- evidence-id: 000042 -->
 
 <!-- telegram-source: personal/messages.html#message522 -->
+<!-- evidence-id: 000043 -->
 
 Shaykh Ayman al-ʿAnqarī explained:
 
@@ -902,9 +945,11 @@ What will they do with this verse? Their reinterpretation of it is among the dis
 
 ---
 
+<!-- evidence-id: 000044 -->
 <a id="ibn-taymiyyah-udhr"></a>
 
 <!-- telegram-source: dar/messages2.html#message1682 -->
+<!-- evidence-id: 000045 -->
 
 Sulaymān ibn Saḥmān said in his qaṣīdah "hijāʾ ghabī jāhil dhī ḥamāqah":
 
@@ -919,6 +964,7 @@ By declaring all the grave worshippers as disbelievers, And likewise, the Jahmi 
 ---
 
 ### Muḥammad ibn Ibrāhīm Āl al-Shaykh
+<!-- evidence-id: 000046 -->
 
 “The seventh, which is the great issue, is that worship of Allāh does not occur, nor is it conceivable for anyone, nor does anyone among creation attain it, except with kufr biṭ-ṭāghūt. It is only attained when one disbelieves in the ṭāghūt.
 
@@ -935,6 +981,7 @@ Indeed, declaring the one who worships other than Allāh a disbeliever is among 
 Source: Muḥammad ibn Ibrāhīm Āl al-Shaykh, Sharḥ Kitāb al-Tawḥīd, 1/202–203.
 
 <!-- telegram-source: dar/messages4.html#message3277-message3278 -->
+<!-- evidence-id: 000047 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -958,8 +1005,10 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 ---
 
 ### Ṣāliḥ al-Fawzān: takfīr of the grave worshippers is part of kufr biṭ-ṭāghūt
+<!-- evidence-id: 000048 -->
 
 <!-- telegram-source: personal/messages.html#message662-message663 -->
+<!-- evidence-id: 000049 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -981,6 +1030,7 @@ As for the righteous man and the followers of the prophets, they will disavow th
 ---
 
 ### Full statement of ʿAbd Allāh al-Ghunaymān
+<!-- evidence-id: 000050 -->
 
 “The sixth point, which is the major issue, is that worship of Allāh is not achieved except through kufr biṭ-ṭāghūt. In this lies the meaning of the statement of Allāh: ‘So whoever disbelieves in the ṭāghūt and believes in Allāh has grasped the firmest handhold with no break in it.’ [al-Baqarah 2:256]
 
@@ -993,6 +1043,7 @@ Kufr biṭ-ṭāghūt is a condition for the existence of faith because kufr bi�
 Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
 
 ### ʿAbd al-ʿAzīz al-Rājiḥī
+<!-- evidence-id: 000051 -->
 
 “Whoever does not declare the mushrikīn disbelievers, doubts their disbelief, or considers their path correct, is a disbeliever like them, because he has not fulfilled kufr biṭ-ṭāghūt. ‘So whoever disbelieves in the ṭāghūt and believes in Allāh…’ Kufr biṭ-ṭāghūt includes declaring the mushrikīn disbelievers.”
 
@@ -1002,6 +1053,7 @@ Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
 </div>
 
 ### An unnamed Najdī scholar: failure to declare the mushrikīn disbelievers
+<!-- evidence-id: 000052 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -1038,10 +1090,12 @@ Source: *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 9/291–292, in the 
 
 
 ### Ibn Taymiyyah: collected statements on the ignorant person who commits major shirk
+<!-- evidence-id: 000053 -->
 
 These entries are also retained in section 7 as a standalone presentation of Ibn Taymiyyah’s position. They are repeated here so they remain available in their proper topical category.
 
 ### The name of shirk and punishment before the message
+<!-- evidence-id: 000054 -->
 
 Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 
@@ -1062,6 +1116,7 @@ Source: Majmūʿ al-Fatāwa, 20/24.
 
 ---
 
+<!-- evidence-id: 000055 -->
 Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
 
 "Those who follow the views of Jahm and al-Ṣāliḥī have explicitly stated that reviling Allah and His Messenger, speaking the doctrine of the Trinity, and uttering any statement of disbelief are not, in themselves, kufr (disbelief) in the inward sense. Rather, they claim these acts are merely external indicators of disbelief. According to them, it is possible for someone who insults and curses (Allah and His Messenger) to still be, inwardly, a believer who knows Allah, affirms His Oneness, and has faith in Him. But when they are confronted with explicit scriptural evidence or consensus that such a person is a disbeliever both inwardly and outwardly, they respond: ‘This only means that such actions necessarily imply inward denial (takdhīb), and that faith necessarily negates such actions.’"
@@ -1096,6 +1151,7 @@ Source: Majmūʿ al-Fatāwā by Ibn Taymiyyah 7/557-558.
 
 ---
 
+<!-- evidence-id: 000056 -->
 Shaykh al-Islam Ibn Taymiyyah says:
 
 “As for others besides these, some of them pray facing the grave, some prostrate to it, and some prostrate at the doorway of a structure built over the grave. Some even consider prostration to the one buried sufficient, substituting it for the five daily prayers — so they prostrate to this dead person and do not prostrate to the Creator. Sometimes, the one buried is believed to be righteous, though in reality he is not — and this is found in places like Egypt, al-Shām, al-ʿIrāq, and elsewhere.
@@ -1131,6 +1187,7 @@ Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa-al-�
 
 ---
 
+<!-- evidence-id: 000057 -->
 Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
 
 Shaykh al-Islam Ibn Taymiyyah said:
@@ -1156,6 +1213,7 @@ Source: Majmū al-Fatāwā by Ibn Taymiyyah 20/38.
 
 ---
 
+<!-- evidence-id: 000058 -->
 Shaykh Al-Islam Ibn Taymiyyah said:
 
 Allāh has distinguished between what comes before the message and what comes after it in asmā ʾ (names) and aḥkām (rulings), and He has also joined between them in asmā ʾ and aḥkām . This serves as an argument against both groups: those who claim that actions have no inherent goodness or evil, and those who claim that people deserve punishment in either case.
@@ -1180,6 +1238,7 @@ Source: Majmū al-Fatāwa 20/37 by Ibn Taymiyyah.
 
 ---
 
+<!-- evidence-id: 000059 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 If a person intentionally prostrates to the sun at the time of its rising or setting, then he is most deserving of prohibition, condemnation, and punishment. For this reason, such a person is a kāfir.
@@ -1207,6 +1266,7 @@ Source: Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah p.205-206.
 ---
 
 ### Clear matters and obscure matters
+<!-- evidence-id: 000060 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -1231,6 +1291,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 4/54.
 
 ---
 
+<!-- evidence-id: 000061 -->
 Shaykh Al-Islam Ibn Taymiyyah said:
 
 Yes — many people may find certain texts difficult to understand, so they appear problematic to them because of their limited comprehension of their meanings. Yet, it is not permissible that there be anything in the Qur’ān which contradicts sound reason or clear sensory knowledge, except that the Qur’ān itself contains clarification of its meaning. For Allah has made the Qur’ān a healing for what is in the hearts and a bayān (clear explanation) for mankind. Hence, it cannot be otherwise.
@@ -1263,6 +1324,7 @@ Source: Majmū al-Fatāwa 17/307-308 by Ibn Taymiyyah.
 ---
 
 <!-- telegram-source: personal/messages.html#message596 -->
+<!-- evidence-id: 000062 -->
 
 Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
 
@@ -1288,6 +1350,7 @@ So this makes clear that He would not punish the kuffār until He sent to them a
 ---
 
 <!-- telegram-source: personal/messages.html#message594 -->
+<!-- evidence-id: 000063 -->
 
 Shaykh Al-Islam Ibn Taymiyyah said:
 
@@ -1312,6 +1375,7 @@ We know by consensus they are not Muslims. From this we can establish that the n
 ---
 
 ### Those unreached by the message and inability to learn
+<!-- evidence-id: 000064 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -1333,6 +1397,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 2/78.
 
 ---
 
+<!-- evidence-id: 000065 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 And whoever grows up among the ignorant mushrikīn will not be blamed, hated, or disgraced by them so long as he follows their same religion, as long as he is known among them for truthfulness, trustworthiness, doing what they recognize as obligatory, and avoiding what they recognize as evil.
@@ -1344,6 +1409,7 @@ Source: Tafsīr Āyāt Ashkalat by Ibn Taymiyyah 1/192-193.
 ---
 
 <!-- telegram-source: personal/messages.html#message514 -->
+<!-- evidence-id: 000066 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -1361,6 +1427,7 @@ And He said: “So We took retribution from them and drowned them in the sea bec
 ---
 
 <!-- telegram-source: dar/messages2.html#message1966 -->
+<!-- evidence-id: 000067 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -1381,6 +1448,7 @@ Similarly, his enmity toward the Jews, Christians, polytheists, Ṣābians, and 
 ---
 
 <!-- telegram-source: personal/messages.html#message612 -->
+<!-- evidence-id: 000068 -->
 
 Shaykh al-Islam Ibn Taymiyyah says:
 
@@ -1408,6 +1476,7 @@ i say: Ibn Taymiyyah affirms the person here fell into shirk, (and the one who c
 ---
 
 <!-- telegram-source: personal/messages.html#message614 -->
+<!-- evidence-id: 000069 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -1426,6 +1495,7 @@ These are clear statements that he applied their worldly descriptions I.e label 
 ---
 
 ### Tawḥīd, major shirk, and the description of the doer
+<!-- evidence-id: 000070 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -1449,6 +1519,7 @@ Source: Majmū al-Fatawā by Ibn Taymiyyah 2/128-129.
 
 ---
 
+<!-- evidence-id: 000071 -->
 Sheikh al-Islam Ibn Taymiyyah said:
 
 And for this reason, everyone who does not worship Allah alone will inevitably be a worshipper of something else. He worships other than Him and thus becomes a mushrik. There is no third category among the children of Ādam. Rather, one is either a muwaḥḥid, or a mushrik, or someone who mixes this with that, like the altered ones from among the religions — such as the Christians and those like them from among the misguided who claim affiliation with Islam.
@@ -1466,6 +1537,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 14/282.
 
 ---
 
+<!-- evidence-id: 000072 -->
 Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
 
 He (Abū Buṭayn) said: He (Ibn Taymiyyah) asserted in many places the takfīr of whoever commits what he mentioned of the various types of shirk, and he transmitted the ijmāʿ of the Muslims on that, without excluding the jāhil or the like.
@@ -1479,6 +1551,7 @@ Source: al-ʿUdhr bil-Jahl taḥta al-Mijhar ash-Sharʿī by Madḥat Āl Farāj
 ---
 
 ### Scholars explaining or transmitting Ibn Taymiyyah’s position
+<!-- evidence-id: 000073 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -1498,6 +1571,7 @@ Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al
 
 ---
 
+<!-- evidence-id: 000074 -->
 A doubt the Murjiah bring to excuse Shirk
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
@@ -1524,6 +1598,7 @@ He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that on
 
 ---
 
+<!-- evidence-id: 000075 -->
 Shaykẖ ʿAbd Al-Laṭīf said:
 
 As for the Jahmiyyah and the worshipers of graves, citing such texts to argue against declaring them disbelievers is only done by someone who has not truly understood Islam and the message with which Allah sent His noble messengers.
@@ -1548,6 +1623,7 @@ Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al
 
 ---
 
+<!-- evidence-id: 000076 -->
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
 Shaykh al-Islām (Ibn Taymiyyah), may Allāh have mercy on him, said: “Building mosques on graves is prohibited, and even if something other than a mosque is built on them, it is prohibited by the consensus of scholars, as it is a means to shirk and a forbidden act.”
@@ -1568,6 +1644,7 @@ Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Ta
 
 ---
 
+<!-- evidence-id: 000077 -->
 Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
 
 “The issue of declaring a specific individual a disbeliever (takfīr al-mu‘ayyan):
@@ -1584,6 +1661,7 @@ Source: Muʿjam al-Tawḥīd 3/74.
 
 ---
 
+<!-- evidence-id: 000078 -->
 Sheikh Sulaymān ibn Suhmān said:
 
 “Know that not every error, ijtihād, or ignorance is excused. Allah has informed us in the Qur’an of the ignorance of many disbelievers while still explicitly declaring their disbelief. He also described the Christians as ignorant, even though no Muslim doubts their disbelief. We are certain that most Jews and Christians today are ignorant followers, yet we still affirm their disbelief and the disbelief of anyone who doubts their disbelief.
@@ -1608,6 +1686,7 @@ Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah a
 
 ---
 
+<!-- evidence-id: 000079 -->
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
 As for the objector who asks: “Didn’t Ibn Taymiyyah excuse the one who misinterprets or blindly follows others, and say that Allāh forgives the ignorant in ways He does not forgive others?” The response to this is: Such a statement is only cited by someone who agrees with Ibn Taymiyyah that seeking help from the Prophet (ﷺ) and other deceased individuals is prohibited and is shirk. They may then argue that the ignorant might be excused.
@@ -1634,6 +1713,7 @@ Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs again
 
 ---
 
+<!-- evidence-id: 000080 -->
 Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
 "As for al-`Irāqī and his misguided companions, they argued that the Sheikh (Ibn Taymiyyah) does not declare the ignorant to be disbelievers and that he says they are excused. They made this claim in a vague manner without providing details, and used this misconception as a shield to reject the Quranic verses and prophetic hadiths. They raised their voices against the monotheists, as was the case with their predecessors from the worshippers of graves and polytheists. And to Allah is the final return, and He is the Judge between His servants regarding what they differed in."
@@ -1656,6 +1736,7 @@ Source: Minhāj al-Tāsīs wa al-Taqdīs p.227.
 
 ---
 
+<!-- evidence-id: 000081 -->
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
 He (Ibn Qayyim) said: “Islam is the monotheism of Allah and worshipping Him alone with no partner, believing in His Messenger, and following what he brought. If a person does not fulfill this, he is not a Muslim. Even if he is not oppositional, he is an ignorant disbeliever. The nature of this category is that they are ignorant disbelievers, not oppositional. Their lack of opposition does not take them out of disbelief. The disbeliever is the one who denies the oneness of Allah and denies His Messenger, either out of opposition or ignorance, or following the traditions of their forefathers out of stubbornness.”
@@ -1668,6 +1749,7 @@ Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Ta
 
 ---
 
+<!-- evidence-id: 000082 -->
 Sheikh Sulaymān ibn Suhmān said:
 
 As for the statement: “And I used to affirm that Allah has forgiven this ummah for its mistakes, including mistakes in both doctrinal and practical matters.”
@@ -1688,6 +1770,7 @@ Source: al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād p. 159
 
 ---
 
+<!-- evidence-id: 000083 -->
 Shaykh Ṣāliḥ al-Fawzān Was asked:
 
 Q: certain preachers who claim to follow Salafiyyah, (who are really) modern-day Murji'ah, have spread a particular interpretation of Ibn Taymiyyah's words. They say: "We don't do individual takfir until conditions are met and obstacles are removed." Or they say: "Not everyone who commits Kufr is necessarily ruled as Kafir." Or statements that are general concerning the ruling by what is apparent of Islam.
@@ -1700,6 +1783,7 @@ A: This is a lie and slander against them (the scholars), and is misguidance. Th
 
 ---
 
+<!-- evidence-id: 000084 -->
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
 Question: Is a person excused due to ignorance if he performs acts of shirk, such as circumambulating a grave, without knowing that what he is doing is shirk against Allah Almighty?
@@ -1719,6 +1803,7 @@ https://shamela.ws/book/37010/193
 
 ---
 
+<!-- evidence-id: 000085 -->
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
 “Is the one who performs ṭawāf around graves or commits acts of shirk out of ignorance—meaning he does not know that what he is doing is shirk—to be excused? Please provide detail.
@@ -1751,6 +1836,7 @@ As for lesser shirk, it depends on whether his good deeds outweigh the bad or th
 
 ---
 
+<!-- evidence-id: 000086 -->
 Shaykh Sulaymān ibn Saḥmān said:
 
 As for the deception and confusion by some of these people who claim that Shaykh al-Islām (Ibn Taymiyyah) refrained from declaring takfīr upon a specific ignorant individual — this is from distortion and misleading by those blind in perception. For what is intended by that relates to specific issues whose evidence may be hidden from some people — such as issues of qadar, irjāʾ, and similar matters which were spoken about by the people of desires. For some of their statements contain matters of disbelief — such as rejection of the clear and recurrent evidences of the Book and the Sunnah — so the statement that includes rejection of some revealed texts is disbelief, but the one who says it is not ruled to be a disbeliever due to the possibility of a preventing factor, such as ignorance or not knowing the actual text or its indication.
@@ -1761,6 +1847,7 @@ Source: Kashf al-Awhām by Shaykh Sulaymān ibn Saḥmān p.116-117.
 
 ---
 
+<!-- evidence-id: 000087 -->
 An important fatawa and advice from Shaykh ʿAbd Allāh al-Jarbūʿ that I requested
 
 Question I asked the Shaykh:
@@ -1803,6 +1890,7 @@ I asked after : May Allah reward you, Shaykh.
 
 ---
 
+<!-- evidence-id: 000088 -->
 An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
 
 Shaykh Ayman al-ʿAnqarī said:
@@ -1821,6 +1909,7 @@ Source: Taḥrīr Qawl Shaykh al-Islām Ibn Taymiyyah raḥimahullāh fī Fāʿi
 
 ---
 
+<!-- evidence-id: 000089 -->
 The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
 
 Shaykh Ibn Bāz was asked:
@@ -1839,6 +1928,7 @@ As for one who lives among the Muslims, where the Qurʾān and the Sunnah are kn
 
 ---
 
+<!-- evidence-id: 000090 -->
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
 And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a specific individual to be a Kāfir, but this is not the case. Rather, what he intends is the matter whose evidence is hidden. As for that whose evidence is clear, then this assumption is not conceivable in it.
@@ -1847,6 +1937,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/344.
 
 ---
 
+<!-- evidence-id: 000091 -->
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh response to the Sufi grave worshipper Dāwūd ibn Jirjīs and his claim that the two Shaykh’s Ibn Taymiyyah and Ibn Qayyim used to excuse the one who commits shirk and label them a Muslim.
 
 The Murjiʾah have adopted many of his quotes and arguments and lies in our time also to defend their misguidance.
@@ -1865,6 +1956,7 @@ Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis
 
 ---
 
+<!-- evidence-id: 000092 -->
 Shaykh ʿAbdullāh Abā Buṭayn [d. 1282 AH] said:
 
 "What Ibn Taymiyyah mentioned, that whoever does this is a kāfir by the consensus of the Muslims, is exactly what is practiced today at the well-known shrines across most of the lands of Islam. Rather, they have gone far beyond that, adding to it slaughtering and making vows for them, and some have even gone further to the point of prostrating to them on the ground.
@@ -1890,6 +1982,7 @@ Source: Al-Durar al-Saniyyah, vol. 10, p. 404.
 ---
 
 ### Related principles of takfīr and establishment of proof
+<!-- evidence-id: 000093 -->
 
 Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
 
@@ -1919,6 +2012,7 @@ Source: al-Ṣārim al-Maslūl p.586.
 
 ---
 
+<!-- evidence-id: 000094 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 And among them are those who say: “Rather, they will not be punished until a Messenger has been sent to them,” as indicated by the Kitāb and the Sunnah.
@@ -1942,6 +2036,7 @@ Source: Al-Jawāb al-Ṣaḥīḥ liman Baddala Dīn al-Masīḥ by Ibn Taymiyya
 ---
 
 <!-- telegram-source: dar/messages3.html#message2605 -->
+<!-- evidence-id: 000095 -->
 
 Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
 
@@ -1960,6 +2055,7 @@ Likewise, whoever among them claims that the Qurʾān has had verses removed or 
 ---
 
 <!-- telegram-source: personal/messages.html#message590 -->
+<!-- evidence-id: 000096 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -1981,6 +2077,7 @@ Thus, many forms of shirk may remain hidden from some of those who enter Islām,
 ---
 
 <!-- telegram-source: personal/messages.html#message615 -->
+<!-- evidence-id: 000097 -->
 
 Shaykh Al-Islam Ibn Taymiyyah said:
 
@@ -2005,6 +2102,7 @@ He further confirms this here:
 ---
 
 <!-- telegram-source: dar/messages2.html#message1594 -->
+<!-- evidence-id: 000098 -->
 
 Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
 
@@ -2033,6 +2131,7 @@ If their words of disbelief were merely akin to witness testimonies against them
 ---
 
 <!-- telegram-source: dar/messages4.html#message3784 -->
+<!-- evidence-id: 000099 -->
 
 Shaykh al-Islam clarifying the doubt of the Murji’ah who misuse al-Mā’idah: 112 to mean the Ḥawāriyyīn (the Disciples) doubted Allah’s power/ability. Some of them use this verse to argue one can commit kufr such as doubting Allahs power and compare it to Blatant shirk and it is excusable and one is not called a disbeliever.
 
@@ -2049,6 +2148,7 @@ Likewise, the saying of al-Ḥawāriyyīn: “Can your Lord send down to us a ta
 ---
 
 <!-- telegram-source: dar/messages4.html#message3636 -->
+<!-- evidence-id: 000100 -->
 
 Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
 
@@ -2067,6 +2167,7 @@ So whoever restricts this threat to only the stubborn rejecter, and excludes the
 ---
 
 <!-- telegram-source: personal/messages.html#message516 -->
+<!-- evidence-id: 000101 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -2083,6 +2184,7 @@ However, their actions are still blameworthy and detested; Allāh condemns them,
 ---
 
 <!-- telegram-source: personal/messages.html#message611 -->
+<!-- evidence-id: 000102 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -2097,6 +2199,7 @@ And for this reason, everyone who does not worship Allah alone will inevitably b
 ---
 
 <!-- telegram-source: dar/messages.html#message540 -->
+<!-- evidence-id: 000103 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -2111,6 +2214,7 @@ As the Salaf also issued Takfir on those who said some of the Jahmiya’s saying
 ---
 
 <!-- telegram-source: personal/messages.html#message751 -->
+<!-- evidence-id: 000104 -->
 
 Shaykh al-Islām Ibn Taymiyyah (d. 728H) said:
 
@@ -2125,6 +2229,7 @@ Whoever says or does what constitutes disbelief has thereby disbelieved, even if
 ---
 
 <!-- telegram-source: dar/messages2.html#message2072 -->
+<!-- evidence-id: 000105 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -2157,6 +2262,7 @@ Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs again
 ---
 
 <!-- telegram-source: personal/messages.html#message608 -->
+<!-- evidence-id: 000106 -->
 
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
@@ -2184,6 +2290,7 @@ And Allāh has clarified in His Book that some of the polytheists are ignorant f
 ---
 
 <!-- telegram-source: dar/messages3.html#message2388 -->
+<!-- evidence-id: 000107 -->
 
 Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
@@ -2198,6 +2305,7 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 ---
 
 <!-- telegram-source: dar/messages2.html#message1878 -->
+<!-- evidence-id: 000108 -->
 
 Shaykẖ ʿAbd Al-Laṭīf said:
 
@@ -2228,6 +2336,7 @@ Therefore, do not use this statement “We say that the statement is disbelief, 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2562 -->
+<!-- evidence-id: 000109 -->
 
 Sheikh Sulaymān ibn Suhmān said:
 
@@ -2254,6 +2363,7 @@ The dispute between us and these extremists is not about theoretical, subtle, or
 ---
 
 <!-- telegram-source: dar/messages2.html#message1997 -->
+<!-- evidence-id: 000110 -->
 
 Sheikh Sulaymān ibn Suhmān said:
 
@@ -2284,6 +2394,7 @@ Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah a
 ---
 
 <!-- telegram-source: dar/messages3.html#message2902 -->
+<!-- evidence-id: 000111 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -2300,6 +2411,7 @@ For the divine laws do not become binding except after they have been conveyed. 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1985 -->
+<!-- evidence-id: 000112 -->
 
 Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
 
@@ -2322,6 +2434,7 @@ The third category involves ambiguous matters. In such cases, a person is not ru
 ---
 
 <!-- telegram-source: personal/messages.html#message517 -->
+<!-- evidence-id: 000113 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -2336,6 +2449,7 @@ And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4482 -->
+<!-- evidence-id: 000114 -->
 
 The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
 
@@ -2361,6 +2475,7 @@ As for one who lives among the Muslims, where the Qurʾān and the Sunnah are kn
 ---
 
 <!-- telegram-source: dar/messages3.html#message2628 -->
+<!-- evidence-id: 000115 -->
 
 Shaykh Ṣāliḥ al-Fawzān Was asked:
 
@@ -2375,6 +2490,7 @@ A: This is a lie and slander against them (the scholars), and is misguidance. Th
 ---
 
 <!-- telegram-source: dar/messages4.html#message3606 -->
+<!-- evidence-id: 000116 -->
 
 An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
 
@@ -2399,6 +2515,7 @@ The second — which clarifies the preceding statement — is that he compared t
 ---
 
 <!-- telegram-source: dar/messages4.html#message3924 -->
+<!-- evidence-id: 000117 -->
 
 Some Doubt regarding a statement found in Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
 
@@ -2438,6 +2555,7 @@ This is a reminder to understand on the importance of knowing context behind a b
 ---
 
 <!-- telegram-source: dar/messages2.html#message1970 -->
+<!-- evidence-id: 000118 -->
 
 Imām Shāfiʿī said:
 
@@ -2456,6 +2574,7 @@ This type of knowledge is explicitly mentioned in the Book of Allāh and is univ
 ---
 
 <!-- telegram-source: dar/messages.html#message937 -->
+<!-- evidence-id: 000119 -->
 
 'Uthman Ibn Sa'īd Ad-Dārimī (رحمه الله تعالى) said:
 
@@ -2470,6 +2589,7 @@ This type of knowledge is explicitly mentioned in the Book of Allāh and is univ
 ---
 
 <!-- telegram-source: dar/messages2.html#message1978 -->
+<!-- evidence-id: 000120 -->
 
 Imām al-Marwazī mentions a group of the salaf said:
 
@@ -2492,6 +2612,7 @@ They continued: We take as an example those from among the Companions of the Mes
 ---
 
 <!-- telegram-source: dar/messages3.html#message2294 -->
+<!-- evidence-id: 000121 -->
 
 Imām Al-Barbahārī said:
 
@@ -2508,6 +2629,7 @@ If he does any of these, it becomes obligatory upon you to declare him outside o
 ---
 
 <!-- telegram-source: dar/messages3.html#message2897 -->
+<!-- evidence-id: 000122 -->
 
 al-Kāsānī said:
 
@@ -2524,6 +2646,7 @@ As for the obligatory duties, anyone who does not know them and has not received
 ---
 
 <!-- telegram-source: dar/messages2.html#message1956 -->
+<!-- evidence-id: 000123 -->
 
 Shaykh Abu Muhammad Muwaffaq al-Dīn Ibn Qudāmah said:
 
@@ -2552,6 +2675,7 @@ He also said, during part of his speech: “This is why it is said: Whoever sins
 ---
 
 <!-- telegram-source: personal/messages.html#message628 -->
+<!-- evidence-id: 000124 -->
 
 al-Qarāfī transmit the ijma that their is no ʿUdhr bil Jahl in the fundemental matters of the religion and said:
 
@@ -2569,6 +2693,7 @@ Likewise, the obligation of rational inquiry was established to prevent ignoranc
 ---
 
 <!-- telegram-source: personal/messages.html#message603 -->
+<!-- evidence-id: 000125 -->
 
 Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 
@@ -2585,6 +2710,7 @@ Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 ---
 
 <!-- telegram-source: dar/messages3.html#message2671 -->
+<!-- evidence-id: 000126 -->
 
 Ibn Qayyim said:
 
@@ -2603,6 +2729,7 @@ This applies in general; but as for judging a specific individual, that is left 
 ---
 
 <!-- telegram-source: personal/messages.html#message749 -->
+<!-- evidence-id: 000127 -->
 
 Imām Ibn al-Qayyim (may Allah have mercy on him) said:
 
@@ -2613,6 +2740,7 @@ Islam is the tawḥīd of Allah and the worship of Him alone without any partner
 ---
 
 <!-- telegram-source: dar/messages4.html#message3916 -->
+<!-- evidence-id: 000128 -->
 
 Ibn Qayyim said:
 
@@ -2635,6 +2763,7 @@ The third angle: His statement, “And if he was excused, how is he commanded to
 ---
 
 <!-- telegram-source: dar/messages.html#message505 -->
+<!-- evidence-id: 000129 -->
 
 Imām ibn al-Qayyim (رحمه الله) said:
 
@@ -2649,6 +2778,7 @@ Imām ibn al-Qayyim (رحمه الله) said:
 ---
 
 <!-- telegram-source: personal/messages.html#message750 -->
+<!-- evidence-id: 000130 -->
 
 Imām Ibn al-Qayyim (may Allah have mercy on him) also said:
 
@@ -2663,6 +2793,7 @@ The Ummah has agreed that this category are disbelievers, even if they are ignor
 ---
 
 <!-- telegram-source: dar/messages.html#message633 -->
+<!-- evidence-id: 000131 -->
 
 Imām ibn al-Qayyim (رحمه الله) said:
 
@@ -2677,6 +2808,7 @@ Imām ibn al-Qayyim (رحمه الله) said:
 ---
 
 <!-- telegram-source: dar/messages.html#message636 -->
+<!-- evidence-id: 000132 -->
 
 Imām ibn al-Qayyim (رحمه الله) also stated:
 
@@ -2691,6 +2823,7 @@ Imām ibn al-Qayyim (رحمه الله) also stated:
 ---
 
 <!-- telegram-source: personal/messages.html#message604 -->
+<!-- evidence-id: 000133 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2716,6 +2849,7 @@ These fools, however, have generalized the issue and treated all ignorance as an
 ---
 
 <!-- telegram-source: dar/messages2.html#message1349 -->
+<!-- evidence-id: 000134 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Wahhāb رحمه الله on clear and unclear matter
 
@@ -2744,6 +2878,7 @@ And if he is someone who reads the Qurʾān, then the matter is even more seriou
 ---
 
 <!-- telegram-source: dar/messages2.html#message1571 -->
+<!-- evidence-id: 000135 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb رحمه الله said:
 
@@ -2768,6 +2903,7 @@ the second: A deep sense of fear, for when you understand that a person may fall
 ---
 
 <!-- telegram-source: dar/messages2.html#message1644 -->
+<!-- evidence-id: 000136 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2794,6 +2930,7 @@ However, due to the prevalence of ignorance, the rarity of knowledge, and the la
 ---
 
 <!-- telegram-source: dar/messages2.html#message1577 -->
+<!-- evidence-id: 000137 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2822,6 +2959,7 @@ How true were the words of a Bedouin who, upon hearing some of Islam, declared: 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2594 -->
+<!-- evidence-id: 000138 -->
 
 Shaykh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2840,6 +2978,7 @@ Know that: This issue is easy to understand for whoever Allah makes it easy for 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3375 -->
+<!-- evidence-id: 000139 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 
@@ -2868,6 +3007,7 @@ And all praise is due to Allāh, Lord of the Worlds. And may blessings and peace
 ---
 
 <!-- telegram-source: dar/messages3.html#message2692 -->
+<!-- evidence-id: 000140 -->
 
 Shaykhs Ḥusayn and ʿAbd Allāh, the sons of Shaykh Muḥammad ibn ʿAbd al-Wahhāb — may Allāh have mercy on them — said:
 
@@ -2884,6 +3024,7 @@ As for the reality of his condition, that is left to Allāh, the Exalted. If the
 ---
 
 <!-- telegram-source: dar/messages3.html#message2602 -->
+<!-- evidence-id: 000141 -->
 
 Shaykh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2898,6 +3039,7 @@ And it also teaches you: immense fear — for once you understand that a person 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1567 -->
+<!-- evidence-id: 000142 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -2926,6 +3068,7 @@ In summary, what I reject is placing belief in anything other than Allāh in a w
 ---
 
 <!-- telegram-source: dar/messages4.html#message3440 -->
+<!-- evidence-id: 000143 -->
 
 Ash-Shaykh Ḥusayn and ash-Shaykh ʿAbd Allāh, the two sons of ash-Shaykh Muḥammad (ibn ʿAbd al-Wahhāb) said in the course of their answer:
 
@@ -2946,6 +3089,7 @@ And Allāh knows best.
 ---
 
 <!-- telegram-source: personal/messages.html#message597 -->
+<!-- evidence-id: 000144 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-597.mp4"></video>
@@ -2958,6 +3102,7 @@ Shaykh Ṣāliḥ al-Usaymī حفظه الله on the clarification of the posit
 ---
 
 <!-- telegram-source: personal/messages.html#message631 -->
+<!-- evidence-id: 000145 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-631.mp4"></video>
@@ -2976,6 +3121,7 @@ This is why it is very important to know a scholar fully before trying to isolat
 ---
 
 <!-- telegram-source: dar/messages3.html#message2868 -->
+<!-- evidence-id: 000146 -->
 
 Shaykh Ḥamad ibn Nāṣir ibn Muʿammar said:
 
@@ -2994,6 +3140,7 @@ This is because we judge according to the apparent, while the inward judgment be
 ---
 
 <!-- telegram-source: dar/messages.html#message499 -->
+<!-- evidence-id: 000147 -->
 
 Imām ash-Shawkānī (رحمه الله) said:
 
@@ -3008,6 +3155,7 @@ Imām ash-Shawkānī (رحمه الله) said:
 ---
 
 ### Abā Buṭayn against making every ignorant person a Muslim
+<!-- evidence-id: 000148 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -3033,6 +3181,7 @@ Imām ash-Shawkānī (رحمه الله) said:
 Source: ʿAbd Allāh Abā Buṭayn, *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 12/69.
 
 <!-- telegram-source: dar/messages2.html#message1677 -->
+<!-- evidence-id: 000149 -->
 
 A doubt the Murjiah bring to excuse Shirk
 
@@ -3065,6 +3214,7 @@ He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that on
 ---
 
 <!-- telegram-source: dar/messages2.html#message1919 -->
+<!-- evidence-id: 000150 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -3085,6 +3235,7 @@ This is disbelief according to the consensus of scholars, and there is no excuse
 ---
 
 <!-- telegram-source: personal/messages.html#message669 -->
+<!-- evidence-id: 000151 -->
 
 Shaykh ʿAbdullāh Abā Buṭayn [d. 1282 AH] said:
 
@@ -3104,6 +3255,7 @@ Yet despite this, all of the scholars declared them disbelievers and did not exc
 ---
 
 <!-- telegram-source: dar/messages4.html#message3728 -->
+<!-- evidence-id: 000152 -->
 
 The rebuttle of the doubt of the Murji’ah and their usage of the Burning man Hadith
 
@@ -3128,6 +3280,7 @@ The fuqahāʾ — may Allāh have mercy on them — mention in their books of ju
 ---
 
 <!-- telegram-source: dar/messages2.html#message1598 -->
+<!-- evidence-id: 000153 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn transmits the ijmāʿ of the ulema and said:
 
@@ -3146,6 +3299,7 @@ All scholars have declared them disbelievers, and they have not excused them due
 ---
 
 <!-- telegram-source: dar/messages2.html#message1898 -->
+<!-- evidence-id: 000154 -->
 
 Sheikh ʿAbdullāh Abā Buṭayn said:
 
@@ -3170,6 +3324,7 @@ It is not permissible to follow blindly in this matter because it is the foundat
 ---
 
 ### Abā Buṭayn on reaching of the message
+<!-- evidence-id: 000155 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -3187,6 +3342,7 @@ It is not permissible to follow blindly in this matter because it is the foundat
 Source: ʿAbd Allāh Abā Buṭayn, al-Durar al-Saniyyah, 10/365.
 
 <!-- telegram-source: dar/messages.html#message502 -->
+<!-- evidence-id: 000156 -->
 
 Shaykh ʿAbdullāh ʾAbā Buṭayn (رحمه الله) stated:
 
@@ -3211,6 +3367,7 @@ Therefore, Allāh (سبحانه) condemned them and called them Mushrikīn, even
 ---
 
 <!-- telegram-source: dar/messages3.html#message2755 -->
+<!-- evidence-id: 000157 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -3227,6 +3384,7 @@ So, whoever claims that someone committing an act of kufr while being a muʾawwi
 ---
 
 <!-- telegram-source: dar/messages3.html#message3063 -->
+<!-- evidence-id: 000158 -->
 
 Is the blind follower of shirk excused?
 
@@ -3247,6 +3405,7 @@ The scholars have used these verses and others like them as evidence that taqlī
 ---
 
 <!-- telegram-source: dar/messages3.html#message3033 -->
+<!-- evidence-id: 000159 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -3269,6 +3428,7 @@ And Allah knows best. May peace and blessings be upon Muḥammad, his family, an
 ---
 
 <!-- telegram-source: dar/messages3.html#message3080 -->
+<!-- evidence-id: 000160 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -3281,6 +3441,7 @@ So reflect on this transmission of ijmāʿ by the Muslims upon the disbelief of 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3684 -->
+<!-- evidence-id: 000161 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -3301,6 +3462,7 @@ Then they say: Whoever apostasizes from Islām is to be killed after being offer
 ---
 
 <!-- telegram-source: dar/messages4.html#message3889 -->
+<!-- evidence-id: 000162 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -3321,6 +3483,7 @@ So the mushrik is a mushrik—whether he accepts it or refuses it—just as the 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2422 -->
+<!-- evidence-id: 000163 -->
 
 Shaykh Al-Mujaddid ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -3351,6 +3514,7 @@ The disbeliever is one who rejects the tawḥīd of Allah and belies His Messeng
 ---
 
 <!-- telegram-source: dar/messages3.html#message2391 -->
+<!-- evidence-id: 000164 -->
 
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
@@ -3369,6 +3533,7 @@ The clear verses also show the disbelief of those who associate others with Alla
 ---
 
 <!-- telegram-source: dar/messages3.html#message2418 -->
+<!-- evidence-id: 000165 -->
 
 Shaykh Al-Mujaddid ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -3392,6 +3557,7 @@ These individuals are more disbelieving than the Jews and Christians. Indeed, th
 ---
 
 <!-- telegram-source: dar/messages3.html#message2458 -->
+<!-- evidence-id: 000166 -->
 
 Shaykh ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -3408,6 +3574,7 @@ Through this ignorance and delusion, they fell into the gravest of sins and the 
 ---
 
 <!-- telegram-source: dar/messages5.html#message5023 -->
+<!-- evidence-id: 000167 -->
 
 Shaykh Abd ar-Raḥmān ibn Ḥasan Āl ash-Shaykh said:
 
@@ -3432,6 +3599,7 @@ And with what Allah has clarified of His religion, which His Messengers called t
 ---
 
 <!-- telegram-source: dar/messages3.html#message2426 -->
+<!-- evidence-id: 000168 -->
 
 Shaykh ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -3448,6 +3616,7 @@ If you understand this, then know that the core difference between the messenger
 ---
 
 <!-- telegram-source: dar/messages.html#message940 -->
+<!-- evidence-id: 000169 -->
 
 Shaykh ʿAbdur-Raḥmān ibn Ḥasan an-Najdī (رحمه الله) said:
 
@@ -3464,6 +3633,7 @@ Since the Shaykh makes it clear that Tawḥīd and Shirk can’t coexist in the 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1989 -->
+<!-- evidence-id: 000170 -->
 
 Sheikh ʿAbd al-Laṭīf said:
 
@@ -3496,6 +3666,7 @@ A debate once took place between him and the Shaykh al-Azhar, who eventually sai
 ---
 
 ### ʿAbd al-Laṭīf Āl ash-Shaykh: neither category is ruled Muslim
+<!-- evidence-id: 000171 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -3521,6 +3692,7 @@ Neither category is ruled to be Muslim, nor do they enter under the designation 
 Source: ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān Āl ash-Shaykh, *Minhāj al-Taʾsīs wa al-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjīs*, p. 99.
 
 <!-- telegram-source: personal/messages.html#message626 -->
+<!-- evidence-id: 000172 -->
 
 Shaykẖ ʿAbd Al-Laṭīf said:
 
@@ -3553,6 +3725,7 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 ---
 
 <!-- telegram-source: personal/messages.html#message602 -->
+<!-- evidence-id: 000173 -->
 
 Shaykh ʿAbdul-Laṭīf ibn ʿAbdur-Raḥmān an-Najdī (رحمه الله تعالى) said:
 
@@ -3567,6 +3740,7 @@ Shaykh ʿAbdul-Laṭīf ibn ʿAbdur-Raḥmān an-Najdī (رحمه الله تع�
 ---
 
 <!-- telegram-source: personal/messages.html#message598 -->
+<!-- evidence-id: 000174 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh mentions:
 
@@ -3585,6 +3759,7 @@ And the extreme groups of the Jahmiyyah, the Qadariyyah, the Rāfiḍah, and oth
 ---
 
 <!-- telegram-source: personal/messages.html#message576 -->
+<!-- evidence-id: 000175 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -3601,6 +3776,7 @@ And both types are not judged to be Muslims, nor do they enter into the Label of
 ---
 
 <!-- telegram-source: dar/messages4.html#message3750 -->
+<!-- evidence-id: 000176 -->
 
 Shaykh Isḥāq Āl al-Shaykh said:
 
@@ -3625,6 +3801,7 @@ As for the ahl al-fatrah — those whom the message and the Qur’ān did not re
 ---
 
 <!-- telegram-source: dar/messages4.html#message4107 -->
+<!-- evidence-id: 000177 -->
 
 al-Qāsimī said regarding the interpretation of His—the Most High—statement (Sūrat al-Rūm 30:56–57):
 
@@ -3643,6 +3820,7 @@ al-Qāsimī said regarding the interpretation of His—the Most High—statement
 ---
 
 <!-- telegram-source: dar/messages5.html#message4522 -->
+<!-- evidence-id: 000178 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -3663,6 +3841,7 @@ If you know and verify this, you understand that this man is disguised in his de
 ---
 
 <!-- telegram-source: dar/messages4.html#message4143 -->
+<!-- evidence-id: 000179 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -3683,6 +3862,7 @@ These hidden matters do not make someone a kāfir if they act upon or say them�
 ---
 
 <!-- telegram-source: dar/messages4.html#message3667 -->
+<!-- evidence-id: 000180 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Laṭīf and Shaykh Sulaymān ibn Suḥmān said:
 
@@ -3699,6 +3879,7 @@ Allāh, said: “Indeed, Allāh does not forgive that partners be associated wit
 ---
 
 <!-- telegram-source: dar/messages5.html#message4594 -->
+<!-- evidence-id: 000181 -->
 
 Shaykh ʿAbd al-Raḥmān al-Saʿdī said:
 
@@ -3717,6 +3898,7 @@ They turned away from guidance while having the capability for it, and instead d
 ---
 
 <!-- telegram-source: dar/messages4.html#message4168 -->
+<!-- evidence-id: 000182 -->
 
 Shaykh Muḥammad ibn Ibrāhīm was asked:
 
@@ -3733,6 +3915,7 @@ A: Kuffār, not muslimīn. As for their punishment, it does not occur until a me
 ---
 
 <!-- telegram-source: dar/messages4.html#message3656 -->
+<!-- evidence-id: 000183 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -3753,6 +3936,7 @@ However, this objector is either among the most foolish of people, the dullest o
 ---
 
 <!-- telegram-source: dar/messages4.html#message4041 -->
+<!-- evidence-id: 000184 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -3771,6 +3955,7 @@ And this noble ḥadīth that you used as evidence is in fact a great foundation
 ---
 
 <!-- telegram-source: dar/messages4.html#message3580 -->
+<!-- evidence-id: 000185 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -3789,6 +3974,7 @@ And one is not excused by ignorance in this matter, for the obligation of knowin
 ---
 
 <!-- telegram-source: personal/messages.html#message724 -->
+<!-- evidence-id: 000186 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -3809,6 +3995,7 @@ Rather, that itself is the religion according to him, and that is the Islamic um
 ---
 
 <!-- telegram-source: personal/messages.html#message510 -->
+<!-- evidence-id: 000187 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-510.mp4"></video>
@@ -3820,6 +4007,7 @@ Ruling on those who do not takfir the Mushrikīn mentioned by some of the schola
 ---
 
 <!-- telegram-source: dar/messages2.html#message1872 -->
+<!-- evidence-id: 000188 -->
 
 Sheikh Bin Bāz was asked:
 
@@ -3850,6 +4038,7 @@ We ask Allah for safety and guidance.
 ---
 
 <!-- telegram-source: dar/messages2.html#message1590 -->
+<!-- evidence-id: 000189 -->
 
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz رحمه الله was asked:
 
@@ -3870,6 +4059,7 @@ Source: [Official Ibn Bāz fatwa, “The ruling on eating the slaughtered animal
 ---
 
 <!-- telegram-source: dar/messages2.html#message1902 -->
+<!-- evidence-id: 000190 -->
 
 Sheikh Bin Bāz رحمه الله was asked:
 
@@ -3886,6 +4076,7 @@ Source: [Official Ibn Bāz fatwa, “The issue of excuse due to ignorance in mat
 ---
 
 <!-- telegram-source: dar/messages2.html#message1603 -->
+<!-- evidence-id: 000191 -->
 
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz was asked:
 
@@ -3906,6 +4097,7 @@ Answer: The Quran has reached them: “This is a message for the people” [Ibra
 ---
 
 <!-- telegram-source: dar/messages2.html#message1706 -->
+<!-- evidence-id: 000192 -->
 
 Sheikh Bin Bāz was Asked:
 
@@ -3936,6 +4128,7 @@ Source: [Official Ibn Bāz fatwa, “The ruling on grave worshippers and whether
 ---
 
 <!-- telegram-source: dar/messages3.html#message2853 -->
+<!-- evidence-id: 000193 -->
 
 Shaykh Bin Bāz was Asked:
 
@@ -3967,6 +4160,7 @@ That is, whoever the Qurʾān reaches, then the proof has reached them. And if h
 ---
 
 <!-- telegram-source: dar/messages3.html#message3024 -->
+<!-- evidence-id: 000194 -->
 
 Shaykh ibn Bāz was asked:
 
@@ -3997,6 +4191,7 @@ Allah also says about their excuse: “And when they commit a foul deed, they sa
 ---
 
 <!-- telegram-source: personal/messages.html#message532 -->
+<!-- evidence-id: 000195 -->
 
 Shaykh Ibn Bāz was asked:
 
@@ -4017,6 +4212,7 @@ He replied: No, he is not excused — if he knows, or if he is among the Muslims
 ---
 
 <!-- telegram-source: dar/messages4.html#message3660 -->
+<!-- evidence-id: 000196 -->
 
 Did Shaykh Bin Bāz say there is a difference of opinion regarding worldly ruling of the one who commits shirk?
 
@@ -4039,6 +4235,7 @@ This is from their ignorance. The grave worshippers are disbelievers, just as th
 ---
 
 <!-- telegram-source: dar/messages4.html#message3471 -->
+<!-- evidence-id: 000197 -->
 
 Shaykh Bin Bāz said:
 
@@ -4063,6 +4260,7 @@ Thus, there is no tawḥīd, no Islām, no īmān, and no salvation except throu
 ---
 
 <!-- telegram-source: dar/messages5.html#message4275 -->
+<!-- evidence-id: 000198 -->
 
 Shaykh Ibn Bāz was asked:
 
@@ -4092,6 +4290,7 @@ As for his ruling in this world: his ruling is the ruling of a kāfir in worldly
 ---
 
 <!-- telegram-source: dar/messages2.html#message1868 -->
+<!-- evidence-id: 000199 -->
 
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz was asked:
 
@@ -4118,6 +4317,7 @@ Answer: No, it is not a disputed issue, except in subtle cases that may be uncle
 ---
 
 <!-- telegram-source: dar/messages.html#message491 -->
+<!-- evidence-id: 000200 -->
 
 Sheikh Bin Baz رحمه الله on Excuse of Ignorance
 
@@ -4129,6 +4329,7 @@ Sheikh Bin Baz رحمه الله on Excuse of Ignorance
 ---
 
 <!-- telegram-source: dar/messages4.html#message3403 -->
+<!-- evidence-id: 000201 -->
 
 Shaykh Ibn Bāz said:
 
@@ -4151,6 +4352,7 @@ He called their du‘ā shirk. It should be explained to them that their du‘ā
 ---
 
 <!-- telegram-source: dar/messages4.html#message3417 -->
+<!-- evidence-id: 000202 -->
 
 Shaykh Ibn Bāz Advice to the student of knowledge in the matter of ʿUdhr bil Jahl
 
@@ -4174,6 +4376,7 @@ Therefore, it is obligatory to be alert to these matters, and for the student of
 ---
 
 <!-- telegram-source: dar/messages3.html#message3046 -->
+<!-- evidence-id: 000203 -->
 
 Shaykh Bin Bāz was Asked:
 
@@ -4191,6 +4394,7 @@ Source: [Official Ibn Bāz fatwa, “Is the issue of excuse due to ignorance a d
 ---
 
 <!-- telegram-source: dar/messages2.html#message1890 -->
+<!-- evidence-id: 000204 -->
 
 Sheikh Bin Bāz was asked:
 
@@ -4211,6 +4415,7 @@ A: Whoever prays behind someone who commits shirk, their prayer is invalid, as l
 ---
 
 <!-- telegram-source: dar/messages4.html#message3945 -->
+<!-- evidence-id: 000205 -->
 
 Shaykh Ibn Bāz said:
 
@@ -4229,6 +4434,7 @@ Likewise the very elderly person to whom the da‘wah never reached, and the ins
 ---
 
 <!-- telegram-source: dar/messages3.html#message2268 -->
+<!-- evidence-id: 000206 -->
 
 Al-Ṭaḥāwī said in his ʿAqīdah:
 
@@ -4255,6 +4461,7 @@ Their evidences are well known from the Qur’ān and Sunnah, and there are many
 ---
 
 <!-- telegram-source: dar/messages4.html#message4171 -->
+<!-- evidence-id: 000207 -->
 
 Who are Ahl al-Fatrah?
 
@@ -4275,6 +4482,7 @@ And the correct view regarding them is that they will be tested on the Day of Re
 ---
 
 <!-- telegram-source: dar/messages3.html#message2798 -->
+<!-- evidence-id: 000208 -->
 
 Shaykh Badr ibn ʿAlī al-ʿUtaybī — The student of Shaykh Ibn Bāz — clear clarification on the Matter of ʿUdhr Bil Jahl. a beneficial Fatawa on how to navigate this topic which the Murji’ah have distorted to justify the Islam of a Mushrik.
 
@@ -4286,6 +4494,7 @@ Shaykh Badr ibn ʿAlī al-ʿUtaybī — The student of Shaykh Ibn Bāz — clear
 ---
 
 <!-- telegram-source: dar/messages4.html#message3517 -->
+<!-- evidence-id: 000209 -->
 
 Shaykh Ibn ʿUthaymīn said:
 
@@ -4311,6 +4520,7 @@ This is one of the clear fatawas of Shaykh Ibn ʿUthaymīn differentiating betwe
 ---
 
 <!-- telegram-source: dar/messages3.html#message2455 -->
+<!-- evidence-id: 000210 -->
 
 [Ruling on Vowing to a Saint and Its Consequences]
 
@@ -4347,6 +4557,7 @@ So now tell the brother:
 ---
 
 <!-- telegram-source: dar/messages3.html#message2778 -->
+<!-- evidence-id: 000211 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -4365,6 +4576,7 @@ Duʿāʾ is only to Allāh alone, for He is the One who removes harm and brings 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4125 -->
+<!-- evidence-id: 000212 -->
 
 Shaykh Ibn ʿUthaymīn said:
 
@@ -4381,6 +4593,7 @@ For this reason, there are people in the remote regions of Africa and elsewhere 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2631 -->
+<!-- evidence-id: 000213 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -4401,6 +4614,7 @@ This imam—who has been described as maintaining prayer and fasting every other
 ---
 
 <!-- telegram-source: dar/messages4.html#message3348 -->
+<!-- evidence-id: 000214 -->
 
 Shaykh Muḥammad ibn Ṣāliḥ al-ʿUthaymīn said:
 
@@ -4419,6 +4633,7 @@ Likewise, in some Muslim countries, people pray, give zakāt, fast, and perform 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1562 -->
+<!-- evidence-id: 000215 -->
 
 The Claim of Some Affected by the Murjiʾah Notion in Our Time That Prostrating to Something Other Than Allah, Such as Idols, for Worldly Reasons Does Not Constitute Kufr:
 
@@ -4454,6 +4669,7 @@ He رحمه الله , said: “Some students of knowledge today are confused an
 ---
 
 <!-- telegram-source: dar/messages4.html#message3934 -->
+<!-- evidence-id: 000216 -->
 
 Shaykh Ibn ʿUthaymīn was asked: Is it permissible to declare a specific individual (muʿayyan) a disbeliever if he commits an act of kufr?
 
@@ -4472,6 +4688,7 @@ As for the rulings of the Hereafter, they are stated in general terms, not speci
 ---
 
 <!-- telegram-source: dar/messages3.html#message3183 -->
+<!-- evidence-id: 000217 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -4494,6 +4711,7 @@ And from this platform, I call upon this man to repent to Allah – Exalted is H
 ---
 
 <!-- telegram-source: dar/messages2.html#message1102 -->
+<!-- evidence-id: 000218 -->
 
 Sheikh Ibn Uthaymeen رحمه الله on Udhr bil Jahl
 
@@ -4505,6 +4723,7 @@ Sheikh Ibn Uthaymeen رحمه الله on Udhr bil Jahl
 ---
 
 <!-- telegram-source: dar/messages5.html#message4377 -->
+<!-- evidence-id: 000219 -->
 
 Shaykh Muqbil was asked:
 
@@ -4519,6 +4738,7 @@ Source: [Official Muqbil ibn Hādī al-Wādiʿī fatwa](https://www.muqbel.net/f
 ---
 
 <!-- telegram-source: dar/messages5.html#message4236 -->
+<!-- evidence-id: 000220 -->
 
 Shaykh Zayd al-Madkhalī said:
 
@@ -4539,6 +4759,7 @@ For this, look to Aṣḥāb al-Fatarāt (the people of didn’t receive the mes
 ---
 
 <!-- telegram-source: dar/messages5.html#message4288 -->
+<!-- evidence-id: 000221 -->
 
 Shaykh Ṣāliḥ al-Luḥaidān said:
 
@@ -4555,6 +4776,7 @@ No. shirk al-akbar —there is no excuse for anyone in it. Either he repents, an
 ---
 
 <!-- telegram-source: personal/messages.html#message623 -->
+<!-- evidence-id: 000222 -->
 
 The Permanent Committee for Scholarly Research and Iftāʾ was asked:
 
@@ -4610,6 +4832,7 @@ Member: Bakr Abū Zayd
 ---
 
 <!-- telegram-source: dar/messages3.html#message2722 -->
+<!-- evidence-id: 000223 -->
 
 Question 2 from Fatwā No. 4400:
 
@@ -4640,6 +4863,7 @@ The Permanent Committee for Scholarly Research and Iftāʾ
 ---
 
 <!-- telegram-source: personal/messages.html#message630 -->
+<!-- evidence-id: 000224 -->
 
 The Permanent Committee for Schoarly Research and Iftāʾ (al-Lajnah ad-Dāʿimah) of Saudi Arabia stated:
 
@@ -4658,6 +4882,7 @@ The Permanent Committee for Schoarly Research and Iftāʾ (al-Lajnah ad-Dāʿima
 ---
 
 <!-- telegram-source: dar/messages3.html#message3020 -->
+<!-- evidence-id: 000225 -->
 
 The Permanent Committee for Scholarly Research and Iftāʾ was asked:
 
@@ -4688,6 +4913,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 ---
 
 <!-- telegram-source: dar/messages2.html#message1923 -->
+<!-- evidence-id: 000226 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4714,6 +4940,7 @@ Source: [Official Ṣāliḥ al-Fawzān fatwa](https://www.alfawzan.af.org.sa/ar
 ---
 
 <!-- telegram-source: dar/messages3.html#message3100 -->
+<!-- evidence-id: 000227 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4741,6 +4968,7 @@ Fatawa Date:  24 Jul 2024
 ---
 
 <!-- telegram-source: dar/messages3.html#message2941 -->
+<!-- evidence-id: 000228 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4768,6 +4996,7 @@ The shaykh Responded:  No — he is not called a Muslim.
 ---
 
 <!-- telegram-source: personal/messages.html#message916 -->
+<!-- evidence-id: 000229 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4786,6 +5015,7 @@ Yes, and shirk is from the outwardly apparent matters; it is not from the hidden
 ---
 
 <!-- telegram-source: personal/messages.html#message619 -->
+<!-- evidence-id: 000230 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4810,6 +5040,7 @@ But today, as you know, nothing is hidden. Media is widespread. The Qurʾān is 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2696 -->
+<!-- evidence-id: 000231 -->
 
 Shaykh Ṣāliḥ al-Fawzān Was asked:
 
@@ -4833,6 +5064,7 @@ This group — the Murji’ah — has now appeared again. They are the ones sayi
 ---
 
 <!-- telegram-source: personal/messages.html#message659 -->
+<!-- evidence-id: 000232 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -4849,6 +5081,7 @@ The Murji’ah say now that people are excused due to ignorance, while the Qur�
 ---
 
 <!-- telegram-source: personal/messages.html#message503 -->
+<!-- evidence-id: 000233 -->
 
 Shaykh Ṣāliḥ al-Fawzān says it is an ijmāʿ that the one who commits shirk, even if he is new to Islam, is not a Muslim, they are to be treated as Ahl al-Fatrah
 
@@ -4882,6 +5115,7 @@ The Shaykh said: Leave them; their sin is upon them.
 ---
 
 <!-- telegram-source: dar/messages4.html#message3223 -->
+<!-- evidence-id: 000234 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4903,6 +5137,7 @@ Shaykh: You treat him as a mushrik. You hear him committing shirk, calling upon 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2985 -->
+<!-- evidence-id: 000235 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4919,6 +5154,7 @@ Yes. But as for us, we treat him as a disbeliever: he is not inherited from, not
 ---
 
 <!-- telegram-source: dar/messages5.html#message4290 -->
+<!-- evidence-id: 000236 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -4940,6 +5176,7 @@ A: The specific individual and the non-specific—what concerns us is only the o
 ---
 
 <!-- telegram-source: dar/messages5.html#message4886 -->
+<!-- evidence-id: 000237 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -4959,6 +5196,7 @@ Whoever the Qurʾān reaches, the proof has been established against him: {And t
 ---
 
 <!-- telegram-source: dar/messages3.html#message3133 -->
+<!-- evidence-id: 000238 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -4974,6 +5212,7 @@ The Shaykh responded: “How does he know they are ignorant? How does he know ab
 ---
 
 <!-- telegram-source: dar/messages5.html#message4910 -->
+<!-- evidence-id: 000239 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -4988,6 +5227,7 @@ A: Yes, he is a mushrik, he is a mushrik—unless he enters Islām and makes the
 ---
 
 <!-- telegram-source: dar/messages5.html#message4365 -->
+<!-- evidence-id: 000240 -->
 
 The Murjiʾah in our time are trying to destroy the dawah of Shaykh Muḥammad Ibn ʿAbd al-Wahhāb and want to affirm Islam for the ignorant mushrik who claims to be Muslim! By Shaykh Ṣāliḥ al-Fawzān
 
@@ -5023,6 +5263,7 @@ The Shaykh concluded: We have been tested with them; may Allah guide them and pr
 ---
 
 <!-- telegram-source: dar/messages4.html#message3221 -->
+<!-- evidence-id: 000241 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5039,6 +5280,7 @@ This is not correct. We deal with what is apparent, and the hearts are left to A
 ---
 
 <!-- telegram-source: dar/messages4.html#message3735 -->
+<!-- evidence-id: 000242 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5053,6 +5295,7 @@ Answer: They did not actually perform Dhāt Anwāṭ. Had they done so, they wou
 ---
 
 <!-- telegram-source: dar/messages3.html#message3181 -->
+<!-- evidence-id: 000243 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5070,6 +5313,7 @@ We judge that this is kufr based on his actions and what has outwardly appeared 
 ---
 
 <!-- telegram-source: personal/messages.html#message855 -->
+<!-- evidence-id: 000244 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5090,6 +5334,7 @@ He is considered from the Ahl al-Fatrah if nothing reached him. However, we trea
 ---
 
 <!-- telegram-source: dar/messages5.html#message4732 -->
+<!-- evidence-id: 000245 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -5110,6 +5355,7 @@ So in this is a refutation against the one who says that whoever says a statemen
 ---
 
 <!-- telegram-source: dar/messages5.html#message4552 -->
+<!-- evidence-id: 000246 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5125,6 +5371,7 @@ A: “No. She is treated as the mushrikīn are treated, because she died upon sh
 ---
 
 <!-- telegram-source: dar/messages4.html#message4111 -->
+<!-- evidence-id: 000247 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5140,6 +5387,7 @@ A: No. Do not supplicate for her. It was not for the Prophet and those who belie
 ---
 
 <!-- telegram-source: dar/messages5.html#message4324 -->
+<!-- evidence-id: 000248 -->
 
 Are the statements of udhr bil jahl, general or do they apply to specific individuals?
 
@@ -5171,6 +5419,7 @@ So whoever manifests kufr and shirk, we judge him with kufr and shirk, and we ap
 ---
 
 <!-- telegram-source: dar/messages2.html#message1484 -->
+<!-- evidence-id: 000249 -->
 
 Sheikh Ṣāliḥ ibn Fawzān said:
 
@@ -5201,6 +5450,7 @@ For example, if someone consumes ribā (usury), we judge him as a fāsiq who has
 ---
 
 <!-- telegram-source: personal/messages.html#message567 -->
+<!-- evidence-id: 000250 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-567.mp4"></video>
@@ -5217,6 +5467,7 @@ A: You treat him as a Muslim while he is committing shirk and you can hear him c
 ---
 
 <!-- telegram-source: personal/messages.html#message632 -->
+<!-- evidence-id: 000251 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-632.mp4"></video>
@@ -5229,6 +5480,7 @@ Is there “ikhtilaf” on the matter of excuse of ignorance? sheikh fawzan
 ---
 
 <!-- telegram-source: dar/messages5.html#message4860 -->
+<!-- evidence-id: 000252 -->
 
 Shaykh al-Fawzān said regarding the statement:
 
@@ -5251,6 +5503,7 @@ This is a great error, and it completely destroys the religion, leaving no relig
 ---
 
 <!-- telegram-source: dar/messages2.html#message1575 -->
+<!-- evidence-id: 000253 -->
 
 Sheikh fawzan on ʿUdhr bil Jahl #ʿUdhr_bil_Jahl
 
@@ -5262,6 +5515,7 @@ Sheikh fawzan on ʿUdhr bil Jahl #ʿUdhr_bil_Jahl
 ---
 
 <!-- telegram-source: dar/messages2.html#message1608 -->
+<!-- evidence-id: 000254 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5278,6 +5532,7 @@ Source: [Official Ṣāliḥ al-Fawzān fatwa](https://alfawzan.af.org.sa/ar/nod
 ---
 
 <!-- telegram-source: dar/messages4.html#message4061 -->
+<!-- evidence-id: 000255 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5292,6 +5547,7 @@ A: Whoever outwardly displays shirk — slaughtering for other than Allāh, or v
 ---
 
 <!-- telegram-source: dar/messages.html#message642 -->
+<!-- evidence-id: 000256 -->
 
 Sheikh Fawzan on the traits of the Murji’ah
 
@@ -5303,6 +5559,7 @@ Sheikh Fawzan on the traits of the Murji’ah
 ---
 
 <!-- telegram-source: dar/messages5.html#message4914 -->
+<!-- evidence-id: 000257 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -5322,6 +5579,7 @@ Whoever does shirk, we judge him as a mushrik, and whoever does kufr, we judge t
 ---
 
 <!-- telegram-source: dar/messages4.html#message4176 -->
+<!-- evidence-id: 000258 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -5337,6 +5595,7 @@ The Murjiʾah now say: no—whoever commits an act of kufr or shirk or a grave e
 ---
 
 <!-- telegram-source: dar/messages5.html#message4726 -->
+<!-- evidence-id: 000259 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5353,6 +5612,7 @@ Answer: Whoever commits kufr—by statement, action, belief, or doubt—then he 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2913 -->
+<!-- evidence-id: 000260 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -5373,6 +5633,7 @@ The questioner has confused two matters: the issue of takfīr and the issue of j
 ---
 
 <!-- telegram-source: dar/messages.html#message984 -->
+<!-- evidence-id: 000261 -->
 
 The danger of doubting the kufr of the mushrik - Sheikh Fawzan
 
@@ -5384,6 +5645,7 @@ The danger of doubting the kufr of the mushrik - Sheikh Fawzan
 ---
 
 <!-- telegram-source: personal/messages.html#message877 -->
+<!-- evidence-id: 000262 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -5400,6 +5662,7 @@ As for what is in the hearts, we judge according to what is outward, while the h
 ---
 
 <!-- telegram-source: dar/messages3.html#message2848 -->
+<!-- evidence-id: 000263 -->
 
 Fatawa of Shaykh ʿAbd Allāh al-Ghunaymān
 
@@ -5431,6 +5694,7 @@ The essential matter is attachment to the Book of Allah and the Sunnah of His Me
 ---
 
 <!-- telegram-source: dar/messages5.html#message4278 -->
+<!-- evidence-id: 000264 -->
 
 Shaykh ʿAbdullāh Al-Ghunaymān said:
 
@@ -5452,6 +5716,7 @@ Meaning: as for people like these, the existence of doubts must be removed befor
 ---
 
 <!-- telegram-source: dar/messages5.html#message4347 -->
+<!-- evidence-id: 000265 -->
 
 Shaykh ʿAbdullāh Al-Ghunaymān said:
 
@@ -5478,6 +5743,7 @@ If he does not, he is blameworthy, and the proof stands against him. There is no
 ---
 
 <!-- telegram-source: dar/messages5.html#message4436 -->
+<!-- evidence-id: 000266 -->
 
 Shaykh ʿAbd al-Muḥsin al-ʿAbbād was asked:
 
@@ -5492,6 +5758,7 @@ A: I do not understand how the proof has not been established upon him. The basi
 ---
 
 <!-- telegram-source: dar/messages2.html#message1876 -->
+<!-- evidence-id: 000267 -->
 
 Sheikh ar-Rājiḥī said:
 
@@ -5508,6 +5775,7 @@ Source: [ʿAbd al-ʿAzīz al-Rājihī, *Sharḥ Kitāb al-Sunnah*](https://shame
 ---
 
 <!-- telegram-source: dar/messages4.html#message3493 -->
+<!-- evidence-id: 000268 -->
 
 Question to Shaykh ʿAbd al-ʿAzīz al-Rājihī:
 
@@ -5532,6 +5800,7 @@ But if it is a subtle, hidden matter that someone like him may not know, then he
 ---
 
 <!-- telegram-source: dar/messages3.html#message2654 -->
+<!-- evidence-id: 000269 -->
 
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -5569,6 +5838,7 @@ As for lesser shirk, it depends on whether his good deeds outweigh the bad or th
 ---
 
 <!-- telegram-source: dar/messages3.html#message2635 -->
+<!-- evidence-id: 000270 -->
 
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -5590,6 +5860,7 @@ Source: [ʿAbd al-ʿAzīz al-Rājihī, source text in Shamela](https://shamela.w
 ---
 
 <!-- telegram-source: dar/messages5.html#message4647 -->
+<!-- evidence-id: 000271 -->
 
 Is a mushrik considered a muwaḥḥid as long as he remains ignorant? Response to the doubt of the Murjiʾī ʿAbd al-ʿAzīz al-Rayyis by Shaykh ar-Rājihī.
 
@@ -5603,6 +5874,7 @@ This audio is more than 10 years old and he still repeats the same thing he clai
 ---
 
 <!-- telegram-source: dar/messages4.html#message4116 -->
+<!-- evidence-id: 000272 -->
 
 Shaykh ar-Rājihī was asked:
 
@@ -5618,6 +5890,7 @@ Answer: Yes, he is a mushrik; this is shirk—he becomes a mushrik, because he d
 ---
 
 <!-- telegram-source: dar/messages4.html#message3327 -->
+<!-- evidence-id: 000273 -->
 
 Shaykh ʿAbd al-ʿAzīz Āl al-Shaykh was asked:
 
@@ -5639,6 +5912,7 @@ But Allāh knows best the state of His servants on the Day of Resurrection.
 ---
 
 <!-- telegram-source: dar/messages3.html#message2679 -->
+<!-- evidence-id: 000274 -->
 
 Shaykh Ṣāliḥ Āsh-Shaykh said:
 
@@ -5661,6 +5935,7 @@ Whoever commits major shirk is a mushrik, and the worldly consequences follow: o
 ---
 
 <!-- telegram-source: dar/messages3.html#message2811 -->
+<!-- evidence-id: 000275 -->
 
 Shaykh Ṣāliḥ Āsh-Shaykh said:
 
@@ -5685,6 +5960,7 @@ This is how we reconcile the various statements reported in this area of belief.
 ---
 
 <!-- telegram-source: personal/messages.html#message660 -->
+<!-- evidence-id: 000276 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -5701,6 +5977,7 @@ As for judging him with kufr outwardly and inwardly, then this is suspended unti
 ---
 
 <!-- telegram-source: personal/messages.html#message525 -->
+<!-- evidence-id: 000277 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-525.mp4"></video>
@@ -5726,6 +6003,7 @@ A: Yes, even if his outward appearance is Islām, his reality is shirk. But the 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1388 -->
+<!-- evidence-id: 000278 -->
 
 Sheikh Salih as-Suhaymi on Udhr Bil Jahl
 
@@ -5737,6 +6015,7 @@ Sheikh Salih as-Suhaymi on Udhr Bil Jahl
 ---
 
 <!-- telegram-source: dar/messages2.html#message1947 -->
+<!-- evidence-id: 000279 -->
 
 Sheikh Ṣāliḥ Ibn Muḥammad as-Suwaiḥ said:
 
@@ -5763,6 +6042,7 @@ Reflecting upon this statement is enough to refute and invalidate it. How much m
 ---
 
 <!-- telegram-source: dar/messages4.html#message3495 -->
+<!-- evidence-id: 000280 -->
 
 Shaykh Ṣāliḥ al-Suwayyiḥ said:
 
@@ -5795,6 +6075,7 @@ And He says: “O you who have believed, do not take My enemies and your enemies
 ---
 
 <!-- telegram-source: dar/messages4.html#message3191 -->
+<!-- evidence-id: 000281 -->
 
 what is the response to the one who uses the Qu'ran being created as a evidence to excusing the Mushrik - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
 
@@ -5824,6 +6105,7 @@ Fatawa date: 29th Jul 2025
 ---
 
 <!-- telegram-source: dar/messages4.html#message3557 -->
+<!-- evidence-id: 000282 -->
 
 Shaykh Abī al-ʿAlā ar-Rāshid said:
 
@@ -5842,6 +6124,7 @@ Thus, the verse clearly indicates that ḥujjah is established by hearing the Qu
 ---
 
 <!-- telegram-source: dar/messages4.html#message4078 -->
+<!-- evidence-id: 000283 -->
 
 Shaykh Abī al-ʿAlā ar-Rāshid said:
 
@@ -5860,6 +6143,7 @@ Yet despite this beautifying, embellishing, and confusing of this falsehood by t
 ---
 
 <!-- telegram-source: dar/messages4.html#message4122 -->
+<!-- evidence-id: 000284 -->
 
 Dr. Muḥammad ibn ʿUmar Bāzmūl said:
 
@@ -5889,6 +6173,7 @@ The post can be found on his Facebook page: https://tinyurl.com/mbazmool
 ---
 
 <!-- telegram-source: dar/messages4.html#message4147 -->
+<!-- evidence-id: 000285 -->
 
 Shaykh Muḥammad ad-Dawsarī said:
 
@@ -5907,6 +6192,7 @@ And that defender authored parts, books, fatwās, and responses with differing t
 ---
 
 <!-- telegram-source: dar/messages3.html#message2871 -->
+<!-- evidence-id: 000286 -->
 
 The contradiction of those who say there is Excuse of Ignorance for the one who associates partners with Allah.
 
@@ -5918,8 +6204,10 @@ The contradiction of those who say there is Excuse of Ignorance for the one who 
 ---
 
 <!-- telegram-source: personal/messages.html#message518 -->
+<!-- evidence-id: 000287 -->
 
 ### Diagram: the ruling on one who falls into major shirk
+<!-- evidence-id: 000288 -->
 
 The English and Arabic versions are displayed together below.
 
@@ -5932,6 +6220,7 @@ The English and Arabic versions are displayed together below.
 ## 6. One who calls the mushrik a Muslim or excuses the mushrikīn
 
 ### The foundational rule: the third nullifier
+<!-- evidence-id: 000289 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -5948,6 +6237,7 @@ The English and Arabic versions are displayed together below.
 Source: Muḥammad ibn ʿAbd al-Wahhāb, *Nawāqiḍ al-Islām*, p. 2 in the local library edition; also *al-Durar al-Saniyyah*, 2/361 and 10/91.
 
 <!-- telegram-source: dar/messages3.html#message2182 -->
+<!-- evidence-id: 000290 -->
 
 Sheikh Muḥammad bin ʿAbd al-Wahhāb mentioned some nullifiers of Islam and said:
 
@@ -5970,6 +6260,7 @@ Third: Whoever does not declare the polytheists as disbelievers, or doubts their
 ---
 
 ### Muḥammad ibn ʿAbd al-Wahhāb against calling grave worshippers Muslims
+<!-- evidence-id: 000291 -->
 
 <details class="source-panel arabic-source" data-origin="user-supplied-scan">
 <summary>Show Arabic source text</summary>
@@ -5995,6 +6286,7 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, as transmitted by ʿAbd al-Laṭīf Āl
 ---
 
 ### The sons of Muḥammad ibn ʿAbd al-Wahhāb
+<!-- evidence-id: 000292 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -6014,6 +6306,7 @@ The answer: A man is not a Muslim unless he knows tawḥīd, embraces it as his 
 Source: Ḥusayn and ʿAbd Allāh, the sons of Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah*, 10/139–140.
 
 <!-- telegram-source: dar/messages5.html#message5056 -->
+<!-- evidence-id: 000293 -->
 
 The one who calls a grave worshipper a Muslim, and refrains from takfiring them is also a kāfir like them after proof is established.
 
@@ -6048,6 +6341,7 @@ And the Prophet ﷺ boycotted those who stayed behind from a single expedition, 
 ---
 
 ### Calling the disbelievers Muslims
+<!-- evidence-id: 000294 -->
 
 <details class="source-panel arabic-source" data-origin="embedded-quotation">
 <summary>Show Arabic source text</summary>
@@ -6067,6 +6361,7 @@ Source: Sulaymān ibn ʿAbd Allāh, al-Durar al-Saniyyah, 8/161.
 The order of this passage matters: the author first distinguishes doubt, ignorance, inability to confront, and an affirmative judgment that the people are Muslims. He directs that evidence be explained to the doubtful or ignorant person before giving the later ruling.
 
 ### ʿAbd al-Raḥmān ibn Ḥasan: the categories that oppose the foundation of Islam
+<!-- evidence-id: 000295 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -6097,6 +6392,7 @@ It is said to this unfortunate person: examine yourself carefully. Are you inclu
 Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 8/264–265.
 
 ### ʿAbd al-Raḥmān ibn Ḥasan: what lā ilāha illā Allāh requires
+<!-- evidence-id: 000296 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -6113,6 +6409,7 @@ Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 8/264–265.
 Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 2/207.
 
 <!-- telegram-source: dar/messages4.html#message3646-message3648 -->
+<!-- evidence-id: 000297 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -6151,6 +6448,7 @@ Source: ʿAbd ar-Raḥmān ibn Qāsim an-Najdī, *as-Sayf al-Maslūl ʿalā ʿĀ
 ---
 
 <!-- telegram-source: personal/messages.html#message729 -->
+<!-- evidence-id: 000298 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -6169,6 +6467,7 @@ You have resembled those who invented shirk and innovated into the religion of A
 ---
 
 <!-- telegram-source: dar/messages4.html#message3248 -->
+<!-- evidence-id: 000299 -->
 
 Lajnah Dā’imah addressed the necessity of establishing proof before declaring as a disbeliever regarding the one who excuses an ignorant Muslim who committed shirk while still regarding them as a Muslim.
 
@@ -6209,6 +6508,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 ---
 
 <!-- telegram-source: personal/messages.html#message680 -->
+<!-- evidence-id: 000300 -->
 
 Question: “We have, among us, the widespread phenomenon of grave worship, and at the same time there are those who defend these people and say: “They are Muslims excused due to their ignorance. Therefore, there is no objection to marrying our daughters to them, praying behind them, and they have all the rights of a Muslim over a Muslim.” Not only that, but they also label the one who says these people are disbelievers; as an innovator, to be treated as innovators are treated. They even claim that Your Eminence excuses the grave-worshippers due to their ignorance, since you approved a memorandum by a person called al-Ghubāshī in which he excuses the grave-worshippers. ”
 
@@ -6233,6 +6533,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 ---
 
 <!-- telegram-source: dar/messages3.html#message3138 -->
+<!-- evidence-id: 000301 -->
 
 Shaykh Ṣāliḥ al-Fawzān said in regards to:
 
@@ -6253,6 +6554,7 @@ As for affirming the correctness of their creed, this is even more severe. If so
 ---
 
 <!-- telegram-source: personal/messages.html#message905 -->
+<!-- evidence-id: 000302 -->
 
 The one who excuses the grave worshipper with ignorance and calls them Muslim is either ignorant or someone that is covering up shirk
 
@@ -6272,6 +6574,7 @@ But if he intends concealment and obscuring the truth, then it is obligatory tha
 ---
 
 <!-- telegram-source: personal/messages.html#message760 -->
+<!-- evidence-id: 000303 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-760.mp4"></video>
@@ -6292,6 +6595,7 @@ Whoever does not takfīr the kāfir is himself a kāfir. This is from the Nawāq
 ---
 
 <!-- telegram-source: personal/messages.html#message507 -->
+<!-- evidence-id: 000304 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-507.mp4"></video>
@@ -6307,6 +6611,7 @@ A: One does not prayed behind him. Whoever does not Takfīr them (i.e the grave 
 ---
 
 <!-- telegram-source: personal/messages.html#message595 -->
+<!-- evidence-id: 000305 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-595.mp4"></video>
@@ -6324,6 +6629,7 @@ Answer: “You have already asked about this before, and the answer remains the 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3208 -->
+<!-- evidence-id: 000306 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -6342,6 +6648,7 @@ Likewise, whoever doubts the disbelief of the mushrikīn and says, “I don’t 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3743 -->
+<!-- evidence-id: 000307 -->
 
 Shaykh al-Fawzān said:
 
@@ -6364,6 +6671,7 @@ Whoever mocks anything from the religion of the Messenger ﷺ, or its reward or 
 ---
 
 ### Ṣāliḥ al-Fawzān: defending the description of Islam for people who commit shirk
+<!-- evidence-id: 000308 -->
 
 Shaykh Ṣāliḥ al-Fawzān said concerning the third nullifier:
 
@@ -6381,6 +6689,7 @@ Source: Ṣāliḥ al-Fawzān, *Sharḥ Nawāqiḍ al-Islām*, p. 20.
 </details>
 
 ### Full statement of Ṣāliḥ al-Fawzān
+<!-- evidence-id: 000309 -->
 
 “This is the meaning of īmān: that you believe in your heart that Allāh alone deserves worship, and that everything worshipped besides Allāh is false, whether angels, prophets, righteous people, stones, trees, or idols. You must also disbelieve in all of these. This is the meaning of faith in Allāh: that you believe in your heart that no one deserves worship except Him, and that whatever is worshipped besides Him is false. This is required by this creed.
 
@@ -6399,6 +6708,7 @@ Allāh does not accept that anyone be associated with Him in any kind of worship
 Source: Ṣāliḥ al-Fawzān, Sharḥ Maʿnā al-Ṭāghūt, pp. 12–13.
 
 ### ʿAbd Allāh al-Ghunaymān: the act cannot be called shirk while its doer is called Muslim
+<!-- evidence-id: 000310 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān said:
 
@@ -6413,6 +6723,7 @@ Concerning people of this kind, their doubts must first be removed before they a
 Source: ʿAbd Allāh al-Ghunaymān, statement preserved in the Dār as-Salafiyyah ʿUdhr bil-Jahl collection.
 
 <!-- telegram-source: dar/messages4.html#message3757 -->
+<!-- evidence-id: 000311 -->
 
 Shaykh ar-Rājihī said:
 
@@ -6439,6 +6750,7 @@ The meaning of Lā ilāha illā Allāh is: “There is no deity truly worthy of 
 ---
 
 ### Full statement of ʿAbd al-ʿAzīz al-Rājiḥī
+<!-- evidence-id: 000312 -->
 
 “Whoever does not declare the mushrikīn to be disbelievers has not disbelieved in the ṭāghūt; meaning, he has affirmed shirk. And whoever doubts the disbelief of the Jews and Christians, or considers their religion to be correct, has not disbelieved in the ṭāghūt, and therefore is not a believer.
 
@@ -6457,6 +6769,7 @@ The meaning of lā ilāha illā Allāh is: ‘There is no deity truly worthy of 
 Source: ʿAbd al-ʿAzīz al-Rājiḥī, Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb, 1/178.
 
 <!-- telegram-source: personal/messages.html#message545 -->
+<!-- evidence-id: 000313 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-545.mp4"></video>
@@ -6485,6 +6798,7 @@ Questioner: Clear.
 ---
 
 <!-- telegram-source: dar/messages5.html#message4797 -->
+<!-- evidence-id: 000314 -->
 
 Amongst the signs of the Murjiʾah of our time is they call the one who is engaged in shirk Muslim, and they do not takfīr them claiming they are ignorant.
 
@@ -6509,6 +6823,7 @@ The book was introduced and praised by the Grand Mufti, our imām, Shaykh Ṣāl
 ---
 
 <!-- telegram-source: dar/messages4.html#message3252 -->
+<!-- evidence-id: 000315 -->
 
 Shaykh Ayman al-ʿAnqarī said:
 
@@ -6551,6 +6866,7 @@ The point of evidence is that a person’s wealth and blood are not protected un
 ---
 
 ### Full statement of Ayman al-ʿAnqarī
+<!-- evidence-id: 000316 -->
 
 “The third nullifier is: whoever does not declare the mushrikīn disbelievers, doubts their disbelief, or affirms the correctness of their religion, is himself a disbeliever.
 
@@ -6579,6 +6895,7 @@ The point of evidence is that a person’s wealth and blood are not protected un
 Source: Ayman al-ʿAnqarī, Sharḥ Nawāqiḍ al-Islām, pp. 41–43.
 
 <!-- telegram-source: personal/messages.html#message505-message506 -->
+<!-- evidence-id: 000317 -->
 
 How to deal with the excuser of shirk - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
 
@@ -6602,6 +6919,7 @@ And if a person believes in his kufr, he does not speak, he does not say: “So-
 ---
 
 <!-- telegram-source: dar/messages4.html#message3705 -->
+<!-- evidence-id: 000318 -->
 
 Controls and conditions of Takfiring the one who calls the mushrik, Muslim by Shaykh Manṣūr as-Samarī
 
@@ -6629,8 +6947,10 @@ This is regarding the specific individual. But before you perform takfīr ʿayn 
 ---
 
 ### Ṣāliḥ al-Fawzān: those who excuse the mushrikīn are themselves ignorant and have no excuse
+<!-- evidence-id: 000319 -->
 
 <!-- telegram-source: personal/messages.html#message509 -->
+<!-- evidence-id: 000320 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -6652,6 +6972,7 @@ He answered:
 This section intentionally repeats every Ibn Taymiyyah-related entry found in the ʿUdhr bil-Jahl collections. Direct statements are arranged by subject, followed by statements from scholars explaining or transmitting his position. Duplicate posts are removed.
 
 ### Scholars explaining or transmitting Ibn Taymiyyah’s position
+<!-- evidence-id: 000321 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -6671,6 +6992,7 @@ Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al
 
 ---
 
+<!-- evidence-id: 000322 -->
 A doubt the Murjiah bring to excuse Shirk
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
@@ -6697,6 +7019,7 @@ He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that on
 
 ---
 
+<!-- evidence-id: 000323 -->
 Shaykẖ ʿAbd Al-Laṭīf said:
 
 As for the Jahmiyyah and the worshipers of graves, citing such texts to argue against declaring them disbelievers is only done by someone who has not truly understood Islam and the message with which Allah sent His noble messengers.
@@ -6721,6 +7044,7 @@ Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al
 
 ---
 
+<!-- evidence-id: 000324 -->
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
 Shaykh al-Islām (Ibn Taymiyyah), may Allāh have mercy on him, said: “Building mosques on graves is prohibited, and even if something other than a mosque is built on them, it is prohibited by the consensus of scholars, as it is a means to shirk and a forbidden act.”
@@ -6741,6 +7065,7 @@ Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Ta
 
 ---
 
+<!-- evidence-id: 000325 -->
 Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
 
 “The issue of declaring a specific individual a disbeliever (takfīr al-mu‘ayyan):
@@ -6757,6 +7082,7 @@ Source: Muʿjam al-Tawḥīd 3/74.
 
 ---
 
+<!-- evidence-id: 000326 -->
 Sheikh Sulaymān ibn Suhmān said:
 
 “Know that not every error, ijtihād, or ignorance is excused. Allah has informed us in the Qur’an of the ignorance of many disbelievers while still explicitly declaring their disbelief. He also described the Christians as ignorant, even though no Muslim doubts their disbelief. We are certain that most Jews and Christians today are ignorant followers, yet we still affirm their disbelief and the disbelief of anyone who doubts their disbelief.
@@ -6781,6 +7107,7 @@ Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah a
 
 ---
 
+<!-- evidence-id: 000327 -->
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
 As for the objector who asks: “Didn’t Ibn Taymiyyah excuse the one who misinterprets or blindly follows others, and say that Allāh forgives the ignorant in ways He does not forgive others?” The response to this is: Such a statement is only cited by someone who agrees with Ibn Taymiyyah that seeking help from the Prophet (ﷺ) and other deceased individuals is prohibited and is shirk. They may then argue that the ignorant might be excused.
@@ -6807,6 +7134,7 @@ Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs again
 
 ---
 
+<!-- evidence-id: 000328 -->
 Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
 "As for al-`Irāqī and his misguided companions, they argued that the Sheikh (Ibn Taymiyyah) does not declare the ignorant to be disbelievers and that he says they are excused. They made this claim in a vague manner without providing details, and used this misconception as a shield to reject the Quranic verses and prophetic hadiths. They raised their voices against the monotheists, as was the case with their predecessors from the worshippers of graves and polytheists. And to Allah is the final return, and He is the Judge between His servants regarding what they differed in."
@@ -6829,6 +7157,7 @@ Source: Minhāj al-Tāsīs wa al-Taqdīs p.227.
 
 ---
 
+<!-- evidence-id: 000329 -->
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
 He (Ibn Qayyim) said: “Islam is the monotheism of Allah and worshipping Him alone with no partner, believing in His Messenger, and following what he brought. If a person does not fulfill this, he is not a Muslim. Even if he is not oppositional, he is an ignorant disbeliever. The nature of this category is that they are ignorant disbelievers, not oppositional. Their lack of opposition does not take them out of disbelief. The disbeliever is the one who denies the oneness of Allah and denies His Messenger, either out of opposition or ignorance, or following the traditions of their forefathers out of stubbornness.”
@@ -6841,6 +7170,7 @@ Source: Taḥqīq Madhhab Ibn Taymiyyah fī Masʾalatay al-ʿUdhr bil-Jahl wa Ta
 
 ---
 
+<!-- evidence-id: 000330 -->
 Sheikh Sulaymān ibn Suhmān said:
 
 As for the statement: “And I used to affirm that Allah has forgiven this ummah for its mistakes, including mistakes in both doctrinal and practical matters.”
@@ -6861,6 +7191,7 @@ Source: al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād p. 159
 
 ---
 
+<!-- evidence-id: 000331 -->
 Shaykh Ṣāliḥ al-Fawzān Was asked:
 
 Q: certain preachers who claim to follow Salafiyyah, (who are really) modern-day Murji'ah, have spread a particular interpretation of Ibn Taymiyyah's words. They say: "We don't do individual takfir until conditions are met and obstacles are removed." Or they say: "Not everyone who commits Kufr is necessarily ruled as Kafir." Or statements that are general concerning the ruling by what is apparent of Islam.
@@ -6873,6 +7204,7 @@ A: This is a lie and slander against them (the scholars), and is misguidance. Th
 
 ---
 
+<!-- evidence-id: 000332 -->
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
 Question: Is a person excused due to ignorance if he performs acts of shirk, such as circumambulating a grave, without knowing that what he is doing is shirk against Allah Almighty?
@@ -6892,6 +7224,7 @@ https://shamela.ws/book/37010/193
 
 ---
 
+<!-- evidence-id: 000333 -->
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
 “Is the one who performs ṭawāf around graves or commits acts of shirk out of ignorance—meaning he does not know that what he is doing is shirk—to be excused? Please provide detail.
@@ -6924,6 +7257,7 @@ As for lesser shirk, it depends on whether his good deeds outweigh the bad or th
 
 ---
 
+<!-- evidence-id: 000334 -->
 Shaykh Sulaymān ibn Saḥmān said:
 
 As for the deception and confusion by some of these people who claim that Shaykh al-Islām (Ibn Taymiyyah) refrained from declaring takfīr upon a specific ignorant individual — this is from distortion and misleading by those blind in perception. For what is intended by that relates to specific issues whose evidence may be hidden from some people — such as issues of qadar, irjāʾ, and similar matters which were spoken about by the people of desires. For some of their statements contain matters of disbelief — such as rejection of the clear and recurrent evidences of the Book and the Sunnah — so the statement that includes rejection of some revealed texts is disbelief, but the one who says it is not ruled to be a disbeliever due to the possibility of a preventing factor, such as ignorance or not knowing the actual text or its indication.
@@ -6934,6 +7268,7 @@ Source: Kashf al-Awhām by Shaykh Sulaymān ibn Saḥmān p.116-117.
 
 ---
 
+<!-- evidence-id: 000335 -->
 An important fatawa and advice from Shaykh ʿAbd Allāh al-Jarbūʿ that I requested
 
 Question I asked the Shaykh:
@@ -6976,6 +7311,7 @@ I asked after : May Allah reward you, Shaykh.
 
 ---
 
+<!-- evidence-id: 000336 -->
 An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
 
 Shaykh Ayman al-ʿAnqarī said:
@@ -6994,6 +7330,7 @@ Source: Taḥrīr Qawl Shaykh al-Islām Ibn Taymiyyah raḥimahullāh fī Fāʿi
 
 ---
 
+<!-- evidence-id: 000337 -->
 The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
 
 Shaykh Ibn Bāz was asked:
@@ -7012,6 +7349,7 @@ As for one who lives among the Muslims, where the Qurʾān and the Sunnah are kn
 
 ---
 
+<!-- evidence-id: 000338 -->
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
 And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a specific individual to be a Kāfir, but this is not the case. Rather, what he intends is the matter whose evidence is hidden. As for that whose evidence is clear, then this assumption is not conceivable in it.
@@ -7020,6 +7358,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Muḥammad ibn Ibrāhīm 1/344.
 
 ---
 
+<!-- evidence-id: 000339 -->
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh response to the Sufi grave worshipper Dāwūd ibn Jirjīs and his claim that the two Shaykh’s Ibn Taymiyyah and Ibn Qayyim used to excuse the one who commits shirk and label them a Muslim.
 
 The Murjiʾah have adopted many of his quotes and arguments and lies in our time also to defend their misguidance.
@@ -7038,6 +7377,7 @@ Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis
 
 ---
 
+<!-- evidence-id: 000340 -->
 Shaykh ʿAbdullāh Abā Buṭayn [d. 1282 AH] said:
 
 "What Ibn Taymiyyah mentioned, that whoever does this is a kāfir by the consensus of the Muslims, is exactly what is practiced today at the well-known shrines across most of the lands of Islam. Rather, they have gone far beyond that, adding to it slaughtering and making vows for them, and some have even gone further to the point of prostrating to them on the ground.
@@ -7063,6 +7403,7 @@ Source: Al-Durar al-Saniyyah, vol. 10, p. 404.
 ---
 
 ### The name of shirk and punishment before the message
+<!-- evidence-id: 000341 -->
 
 Shaykh al-Islām Ibn Taymīyyah (رحمه الله) said:
 
@@ -7083,6 +7424,7 @@ Source: Majmūʿ al-Fatāwa, 20/24.
 
 ---
 
+<!-- evidence-id: 000342 -->
 Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
 
 "Those who follow the views of Jahm and al-Ṣāliḥī have explicitly stated that reviling Allah and His Messenger, speaking the doctrine of the Trinity, and uttering any statement of disbelief are not, in themselves, kufr (disbelief) in the inward sense. Rather, they claim these acts are merely external indicators of disbelief. According to them, it is possible for someone who insults and curses (Allah and His Messenger) to still be, inwardly, a believer who knows Allah, affirms His Oneness, and has faith in Him. But when they are confronted with explicit scriptural evidence or consensus that such a person is a disbeliever both inwardly and outwardly, they respond: ‘This only means that such actions necessarily imply inward denial (takdhīb), and that faith necessarily negates such actions.’"
@@ -7117,6 +7459,7 @@ Source: Majmūʿ al-Fatāwā by Ibn Taymiyyah 7/557-558.
 
 ---
 
+<!-- evidence-id: 000343 -->
 Shaykh al-Islam Ibn Taymiyyah says:
 
 “As for others besides these, some of them pray facing the grave, some prostrate to it, and some prostrate at the doorway of a structure built over the grave. Some even consider prostration to the one buried sufficient, substituting it for the five daily prayers — so they prostrate to this dead person and do not prostrate to the Creator. Sometimes, the one buried is believed to be righteous, though in reality he is not — and this is found in places like Egypt, al-Shām, al-ʿIrāq, and elsewhere.
@@ -7152,6 +7495,7 @@ Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa-al-�
 
 ---
 
+<!-- evidence-id: 000344 -->
 Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
 
 Shaykh al-Islam Ibn Taymiyyah said:
@@ -7177,6 +7521,7 @@ Source: Majmū al-Fatāwā by Ibn Taymiyyah 20/38.
 
 ---
 
+<!-- evidence-id: 000345 -->
 Shaykh Al-Islam Ibn Taymiyyah said:
 
 Allāh has distinguished between what comes before the message and what comes after it in asmā ʾ (names) and aḥkām (rulings), and He has also joined between them in asmā ʾ and aḥkām . This serves as an argument against both groups: those who claim that actions have no inherent goodness or evil, and those who claim that people deserve punishment in either case.
@@ -7201,6 +7546,7 @@ Source: Majmū al-Fatāwa 20/37 by Ibn Taymiyyah.
 
 ---
 
+<!-- evidence-id: 000346 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 If a person intentionally prostrates to the sun at the time of its rising or setting, then he is most deserving of prohibition, condemnation, and punishment. For this reason, such a person is a kāfir.
@@ -7228,6 +7574,7 @@ Source: Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah p.205-206.
 ---
 
 ### Clear matters and obscure matters
+<!-- evidence-id: 000347 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -7252,6 +7599,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 4/54.
 
 ---
 
+<!-- evidence-id: 000348 -->
 Shaykh Al-Islam Ibn Taymiyyah said:
 
 Yes — many people may find certain texts difficult to understand, so they appear problematic to them because of their limited comprehension of their meanings. Yet, it is not permissible that there be anything in the Qur’ān which contradicts sound reason or clear sensory knowledge, except that the Qur’ān itself contains clarification of its meaning. For Allah has made the Qur’ān a healing for what is in the hearts and a bayān (clear explanation) for mankind. Hence, it cannot be otherwise.
@@ -7284,6 +7632,7 @@ Source: Majmū al-Fatāwa 17/307-308 by Ibn Taymiyyah.
 ---
 
 <!-- telegram-source: personal/messages.html#message596 -->
+<!-- evidence-id: 000349 -->
 
 Did Shaykh Al-Islam differentiate between the Hukm (Ruling) and the Ism (labelling) of a disbeliever, a response to the doubt raised by the liars who claim he doesn’t.
 
@@ -7309,6 +7658,7 @@ So this makes clear that He would not punish the kuffār until He sent to them a
 ---
 
 <!-- telegram-source: personal/messages.html#message594 -->
+<!-- evidence-id: 000350 -->
 
 Shaykh Al-Islam Ibn Taymiyyah said:
 
@@ -7333,6 +7683,7 @@ We know by consensus they are not Muslims. From this we can establish that the n
 ---
 
 ### Those unreached by the message and inability to learn
+<!-- evidence-id: 000351 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -7354,6 +7705,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 2/78.
 
 ---
 
+<!-- evidence-id: 000352 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 And whoever grows up among the ignorant mushrikīn will not be blamed, hated, or disgraced by them so long as he follows their same religion, as long as he is known among them for truthfulness, trustworthiness, doing what they recognize as obligatory, and avoiding what they recognize as evil.
@@ -7365,6 +7717,7 @@ Source: Tafsīr Āyāt Ashkalat by Ibn Taymiyyah 1/192-193.
 ---
 
 <!-- telegram-source: personal/messages.html#message514 -->
+<!-- evidence-id: 000353 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -7382,6 +7735,7 @@ And He said: “So We took retribution from them and drowned them in the sea bec
 ---
 
 <!-- telegram-source: dar/messages2.html#message1966 -->
+<!-- evidence-id: 000354 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -7402,6 +7756,7 @@ Similarly, his enmity toward the Jews, Christians, polytheists, Ṣābians, and 
 ---
 
 <!-- telegram-source: personal/messages.html#message612 -->
+<!-- evidence-id: 000355 -->
 
 Shaykh al-Islam Ibn Taymiyyah says:
 
@@ -7429,6 +7784,7 @@ i say: Ibn Taymiyyah affirms the person here fell into shirk, (and the one who c
 ---
 
 <!-- telegram-source: personal/messages.html#message614 -->
+<!-- evidence-id: 000356 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -7447,6 +7803,7 @@ These are clear statements that he applied their worldly descriptions I.e label 
 ---
 
 ### Tawḥīd, major shirk, and the description of the doer
+<!-- evidence-id: 000357 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -7470,6 +7827,7 @@ Source: Majmū al-Fatawā by Ibn Taymiyyah 2/128-129.
 
 ---
 
+<!-- evidence-id: 000358 -->
 Sheikh al-Islam Ibn Taymiyyah said:
 
 And for this reason, everyone who does not worship Allah alone will inevitably be a worshipper of something else. He worships other than Him and thus becomes a mushrik. There is no third category among the children of Ādam. Rather, one is either a muwaḥḥid, or a mushrik, or someone who mixes this with that, like the altered ones from among the religions — such as the Christians and those like them from among the misguided who claim affiliation with Islam.
@@ -7487,6 +7845,7 @@ Source: Majmū' al-Fatāwā by Ibn Taymiyyah 14/282.
 
 ---
 
+<!-- evidence-id: 000359 -->
 Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
 
 He (Abū Buṭayn) said: He (Ibn Taymiyyah) asserted in many places the takfīr of whoever commits what he mentioned of the various types of shirk, and he transmitted the ijmāʿ of the Muslims on that, without excluding the jāhil or the like.
@@ -7500,6 +7859,7 @@ Source: al-ʿUdhr bil-Jahl taḥta al-Mijhar ash-Sharʿī by Madḥat Āl Farāj
 ---
 
 ### Related principles of takfīr and establishment of proof
+<!-- evidence-id: 000360 -->
 
 Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
 
@@ -7529,6 +7889,7 @@ Source: al-Ṣārim al-Maslūl p.586.
 
 ---
 
+<!-- evidence-id: 000361 -->
 Shaykh al-Islam Ibn Taymiyyah said:
 
 And among them are those who say: “Rather, they will not be punished until a Messenger has been sent to them,” as indicated by the Kitāb and the Sunnah.
@@ -7552,6 +7913,7 @@ Source: Al-Jawāb al-Ṣaḥīḥ liman Baddala Dīn al-Masīḥ by Ibn Taymiyya
 ---
 
 <!-- telegram-source: dar/messages3.html#message2605 -->
+<!-- evidence-id: 000362 -->
 
 Did Shaykh Al-Islam Ibn Taymiyyah excuse the Rāfiḍi layman?
 
@@ -7570,6 +7932,7 @@ Likewise, whoever among them claims that the Qurʾān has had verses removed or 
 ---
 
 <!-- telegram-source: personal/messages.html#message590 -->
+<!-- evidence-id: 000363 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -7591,6 +7954,7 @@ Thus, many forms of shirk may remain hidden from some of those who enter Islām,
 ---
 
 <!-- telegram-source: personal/messages.html#message615 -->
+<!-- evidence-id: 000364 -->
 
 Shaykh Al-Islam Ibn Taymiyyah said:
 
@@ -7615,6 +7979,7 @@ He further confirms this here:
 ---
 
 <!-- telegram-source: dar/messages2.html#message1594 -->
+<!-- evidence-id: 000365 -->
 
 Shaykh al-Islām Ibn Taymiyyah (may Allah have mercy on him) also said:
 
@@ -7643,6 +8008,7 @@ If their words of disbelief were merely akin to witness testimonies against them
 ---
 
 <!-- telegram-source: dar/messages4.html#message3784 -->
+<!-- evidence-id: 000366 -->
 
 Shaykh al-Islam clarifying the doubt of the Murji’ah who misuse al-Mā’idah: 112 to mean the Ḥawāriyyīn (the Disciples) doubted Allah’s power/ability. Some of them use this verse to argue one can commit kufr such as doubting Allahs power and compare it to Blatant shirk and it is excusable and one is not called a disbeliever.
 
@@ -7659,6 +8025,7 @@ Likewise, the saying of al-Ḥawāriyyīn: “Can your Lord send down to us a ta
 ---
 
 <!-- telegram-source: dar/messages4.html#message3636 -->
+<!-- evidence-id: 000367 -->
 
 Imām Abū Buṭayn, after quoting Shaykh al-Islām Ibn Taymiyyah who said: “Whoever commits shirk is a mushrik; he is to be asked to repent, and if he repents, [all is well]; otherwise, he is to be killed.”
 
@@ -7677,6 +8044,7 @@ So whoever restricts this threat to only the stubborn rejecter, and excludes the
 ---
 
 <!-- telegram-source: personal/messages.html#message516 -->
+<!-- evidence-id: 000368 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -7693,6 +8061,7 @@ However, their actions are still blameworthy and detested; Allāh condemns them,
 ---
 
 <!-- telegram-source: personal/messages.html#message611 -->
+<!-- evidence-id: 000369 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -7707,6 +8076,7 @@ And for this reason, everyone who does not worship Allah alone will inevitably b
 ---
 
 <!-- telegram-source: dar/messages.html#message540 -->
+<!-- evidence-id: 000370 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -7721,6 +8091,7 @@ As the Salaf also issued Takfir on those who said some of the Jahmiya’s saying
 ---
 
 <!-- telegram-source: personal/messages.html#message751 -->
+<!-- evidence-id: 000371 -->
 
 Shaykh al-Islām Ibn Taymiyyah (d. 728H) said:
 
@@ -7735,6 +8106,7 @@ Whoever says or does what constitutes disbelief has thereby disbelieved, even if
 ---
 
 <!-- telegram-source: dar/messages2.html#message2072 -->
+<!-- evidence-id: 000372 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -7767,6 +8139,7 @@ Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs again
 ---
 
 <!-- telegram-source: personal/messages.html#message608 -->
+<!-- evidence-id: 000373 -->
 
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
@@ -7794,6 +8167,7 @@ And Allāh has clarified in His Book that some of the polytheists are ignorant f
 ---
 
 <!-- telegram-source: dar/messages3.html#message2388 -->
+<!-- evidence-id: 000374 -->
 
 Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
@@ -7808,6 +8182,7 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 ---
 
 <!-- telegram-source: dar/messages2.html#message1878 -->
+<!-- evidence-id: 000375 -->
 
 Shaykẖ ʿAbd Al-Laṭīf said:
 
@@ -7838,6 +8213,7 @@ Therefore, do not use this statement “We say that the statement is disbelief, 
 ---
 
 <!-- telegram-source: dar/messages3.html#message2562 -->
+<!-- evidence-id: 000376 -->
 
 Sheikh Sulaymān ibn Suhmān said:
 
@@ -7864,6 +8240,7 @@ The dispute between us and these extremists is not about theoretical, subtle, or
 ---
 
 <!-- telegram-source: dar/messages2.html#message1997 -->
+<!-- evidence-id: 000377 -->
 
 Sheikh Sulaymān ibn Suhmān said:
 
@@ -7894,6 +8271,7 @@ Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah a
 ---
 
 <!-- telegram-source: dar/messages3.html#message2902 -->
+<!-- evidence-id: 000378 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -7910,6 +8288,7 @@ For the divine laws do not become binding except after they have been conveyed. 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1985 -->
+<!-- evidence-id: 000379 -->
 
 Sheikh Muḥammad ibn Ibrāhīm, may Allah have mercy on him, said:
 
@@ -7932,6 +8311,7 @@ The third category involves ambiguous matters. In such cases, a person is not ru
 ---
 
 <!-- telegram-source: personal/messages.html#message517 -->
+<!-- evidence-id: 000380 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -7946,6 +8326,7 @@ And some people have thought that the Shaykh (Ibn Taymiyyah) does not declare a 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4482 -->
+<!-- evidence-id: 000381 -->
 
 The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
 
@@ -7971,6 +8352,7 @@ As for one who lives among the Muslims, where the Qurʾān and the Sunnah are kn
 ---
 
 <!-- telegram-source: dar/messages3.html#message2628 -->
+<!-- evidence-id: 000382 -->
 
 Shaykh Ṣāliḥ al-Fawzān Was asked:
 
@@ -7985,6 +8367,7 @@ A: This is a lie and slander against them (the scholars), and is misguidance. Th
 ---
 
 <!-- telegram-source: dar/messages4.html#message3606 -->
+<!-- evidence-id: 000383 -->
 
 An Important clarification Of Shaykh al-Islam's speech which are commonly misquoted by the Murji'ah by Shaykh Ayman al-ʿAnqarī.
 
@@ -8009,6 +8392,7 @@ The second — which clarifies the preceding statement — is that he compared t
 ---
 
 <!-- telegram-source: dar/messages4.html#message3924 -->
+<!-- evidence-id: 000384 -->
 
 Some Doubt regarding a statement found in Ar-Radd ʿalā al-Ikhnāʾī by Ibn Taymiyyah - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
 
@@ -8048,6 +8432,7 @@ This is a reminder to understand on the importance of knowing context behind a b
 ## 8. Refutations of Dāwūd ibn Jirjīs
 
 <!-- telegram-source: dar/messages5.html#message5003 -->
+<!-- evidence-id: 000385 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh response to the Sufi grave worshipper Dāwūd ibn Jirjīs and his claim that the two Shaykh’s Ibn Taymiyyah and Ibn Qayyim used to excuse the one who commits shirk and label them a Muslim.
 
@@ -8072,6 +8457,7 @@ And this has specific cases which do not include one who worships an idol, a gra
 ---
 
 <!-- telegram-source: dar/messages5.html#message5037 -->
+<!-- evidence-id: 000386 -->
 
 Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān ibn Ḥasan ibn ʿAbd al-Wahhāb said:
 
@@ -8092,6 +8478,7 @@ Al-ʿIrāqī (Dāwūd ibn Jirjīs) said: “But we do not takfir the people for 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3880 -->
+<!-- evidence-id: 000387 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -8116,6 +8503,7 @@ He has also opposed the scholars of Ahl al-Sunnah from every madhhab. How far re
 ---
 
 <!-- telegram-source: dar/messages3.html#message2774 -->
+<!-- evidence-id: 000388 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -8132,6 +8520,7 @@ Until he (Ibn Taymiyyah) said: And Allah did not legislate for any prophet from 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3633 -->
+<!-- evidence-id: 000389 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -8150,6 +8539,7 @@ So whoever directs any act of worship to other than Allah — such as duʿāʾ a
 ---
 
 <!-- telegram-source: dar/messages4.html#message3884 -->
+<!-- evidence-id: 000390 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -8168,6 +8558,7 @@ So reflect on what is in these verses, and what the Exalted has arranged as a co
 ---
 
 <!-- telegram-source: dar/messages3.html#message2388 -->
+<!-- evidence-id: 000391 -->
 
 Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
@@ -8182,6 +8573,7 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 ---
 
 <!-- telegram-source: dar/messages2.html#message1684 -->
+<!-- evidence-id: 000392 -->
 
 Shaykẖ ʿAbd Al-Laṭīf said:
 
@@ -8214,6 +8606,7 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 ---
 
 <!-- telegram-source: dar/messages5.html#message4996 -->
+<!-- evidence-id: 000393 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -8230,6 +8623,7 @@ The one who does that is takfired by the mere belief and action, even if he does
 ---
 
 <!-- telegram-source: dar/messages3.html#message3168 -->
+<!-- evidence-id: 000394 -->
 
 An important fatawa and advice from Shaykh ʿAbd Allāh al-Jarbūʿ that I requested
 
@@ -8276,6 +8670,7 @@ I asked after : May Allah reward you, Shaykh.
 ---
 
 <!-- telegram-source: dar/messages5.html#message4248 -->
+<!-- evidence-id: 000395 -->
 
 Shaykh Abī al-ʿAlā ar-Rāshid said:
 
@@ -8298,6 +8693,7 @@ However, this does not necessarily mean that it is to be used as evidence for th
 ---
 
 ### ʿAbd al-Laṭīf Āl al-Shaykh in his refutation of Dāwūd ibn Jirjīs
+<!-- evidence-id: 000396 -->
 
 The following is a complete connected passage. It is especially useful because it gives the context of the often-cited report that Muḥammad ibn ʿAbd al-Wahhāb did not hasten to declare a particular ignorant grave caller a disbeliever before advice and conveyance of the proof. ʿAbd al-Laṭīf immediately distinguishes that question from calling the person a Muslim or denying that the description of shirk applies to him:
 
@@ -8333,6 +8729,7 @@ As for one who was neither able nor qualified to know what the Messengers brough
 
 Source: ʿAbd al-Laṭīf Āl al-Shaykh, Minhāj al-Taʾsīs wa-al-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjīs, pp. 98–99.
 ### The claimed distinction between direct worship and taking a “cause”
+<!-- evidence-id: 000397 -->
 
 This complete passage answers Dāwūd ibn Jirjīs’s claim that calling upon the dead is not shirk when they are regarded only as a cause and not as independent:
 
@@ -8360,6 +8757,7 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 ---
 
 ### منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس
+<!-- evidence-id: 000398 -->
 
 #### Page 34
 
@@ -8370,12 +8768,14 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000399 -->
 #### Page 35
 
 ومن زعم أن عباد القبور أهل سنة وجماعة فهو إلى أن يعالج عقله أحوج منه إلى أن يقام عليه الدليل.وفي كلام العراقيّ لفظة مدرجة ليست من كلام الشيخ، وهي قوله: "وتشريكهم" ظن أنها تنفعه، لأن المسلمين حكموا على عباد القبور بالشرك، فزاد هذه الكلمة، وسيأتيك كلام الشيخ في الغالية وعبارته في الرسالة السنية قريباً إن شاء الله تعالى.
 
 ---
 
+<!-- evidence-id: 000400 -->
 #### Page 50
 
 فصل
@@ -8383,54 +8783,63 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000401 -->
 #### Page 51
 
 الجامع الأزهر عادة لما اشتكى عينيه، وقال له: هلا ذهبت إلى مولد الشيخ أحمد البدوي فقد حكي أن إنساناً شكا إليه هاب بصره، فسمع قائلاً يقول من الضريح: أعطوه عين كذا وكذا.فانظر إلى ما خطر ببال هذا المتكلم من تعظيم الميت وتأهيله لتلك المطالب التي لا يقدر عليها إلا الله القاهر الغالب. وقصد الوساطة هنا على ما فيها ما أظنها تخطر بباله أصلاً. فهل سمعت عن جاهلية العرب مثل هذه الغرائب التي ينتهي عندها العجب؟ والكلام مع ذكي القلب يقظ الذهن قوي الهمة العارف بالحقائق، وأما ميت القلب بليد الذهن وضيع النفس جامد القريحة ومن لا تفارق همته التشبث بأذيال التقليد، والتعلق على ما يحكى عن فلان وفلان من معتقد أهل المقابر والتنديد، فذاك فاسد الفطرة معتل المزاج، وخطابه محض عناء ولجاج.ومما بلغنا عن بعض علماء زبيد: أن رجلين قصدا الطائف، فقال أحدهما لصاحبه ـ والمسئول ممن يترشح للعلم ـ: أهل الطائف لا يعرفون الله إنما يعرفون ابن عباس، فأجابه: بأن معرفتهم لابن عباس كافية، لأنه يعرف الله!.فأيّ ملّة ـ صان الله ملّة الإسلام ـ لا تمانع هذه الكفريات ولا تدافعها؟.وذكر الزبيدي أيضاً أن رجلا كان بمكة عند بعض المشاهد، فقال لمن عنده: أريد الذهاب إلى الطواف، فقال بعض غلاتهم: مقامك هنا أكرم.ومن وقف على كتاب مناقب الأربعة المعبودين بمصر، وهم: البدوي، والرفاعي، والدسوقي، ورابعهم فيما أظن أبو العلا ـ فقد وقف على ساحل كفرهم، وعرف صفة إفكهم.وبلغنا عن بعض الثقات أن جماعة من المدعين للعلم بزبيد كانوا
 
 ---
 
+<!-- evidence-id: 000402 -->
 #### Page 52
 
 يقرؤون صحيح البخاري، فإذا فرغوا منه ـ إما أحياناً أو مطلقاً ـ ذهبوا إلى قبر البحيرة أو غيره، فوقفوا عاكفين ما شاء الله، وعليهم من السكينة والوقار وضروب الخضوع لنازل الحفرة. قال من نقله: فالله أعلم، أهو شيء وجدوه في صحيح البخاري أو غيره، أو ما هو؟.ورأيت في حاشية الشيخ إبراهيم الباجوريّ على السنوسية نقلاً عن الدردير فيما أظن عن الشعراني: أن الله وكل بقبر كل ولي ملكاً يقضي حاجته من سأل ذلك الولي.فقف هنا وانظر ما آل إليه شركهم وإفكهم (1) ، فأين هذا من قوله تعالى {وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ} الآية [البقرة:186] ، وقوله: {ادْعُوا رَبَّكُمْ تَضَرُّعاً وَخُفْيَةً} [الأعراف: من الآية55] ، وقوله: {فَإِذَا فَرَغْتَ فَانْصَبْ، وَإِلَى رَبِّكَ فَارْغَبْ} [الشرح:7ـ8] ، وقوله تعالى: {أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ} [النمل: من الآية62] ، وقوله تعالى: {وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ} الآية [غافر:60] وأيّ حجّة في هذا الذي قال الشعرانيّ لو كانوا يعلمون؟ ولكن القوم أصابهم داء الأمم قبلهم. فنبذوا كتاب الله وراء ظهورهم، كأنهم لا يعلمون، واتبعوا ما تتلو الشياطين.ومن هذا الجنس: ما ذكره الشعراني في ترجمة الملقب بشمس الدين الحنفي أنه قال في مرض موته: من كانت له حاجة فليأت قبري ويطلب مني أن أقضيها له، فإنما بيني وبينه ذراع من تراب، وكل رجل يحجبه عن أصحابه ذراع من تراب فليس برجل. انتهى.وقد اجتمع جماعة من الموحدين من أهل الإسلام في بيت رجل من أهل مصر وبقربه رجل يدّعي العلم، فأرسل إليه صاحب البيت، فسأله بمسمع من الحاضرين فقال له: كم يتصرف في الكون؟ فقال: يا سيدي، سبعة، قال: من هم؟ قال: فلان وفلان وعدّ أربعة من المعبودين بمصر، فقال
 
 ---
 
+<!-- evidence-id: 000403 -->
 #### Page 53
 
 صاحب الدار لمن بحضرته من الموحدين: إنما بعثت لهذا الرجل وسألته لأعرفكم قدر ما أنتم فيه من نعمة الإسلام. أو كلاماً نحو هذا.وباب تصرف المشايخ والأولياء قد اتسع حتى سلكه جمهور من يدعي الإسلام من أهل البسيطة. وخرقه قد هلك في بحاره أكثر من سكن الغبراء وأظلته المحيطة حتى نسي القصد الأول من التشفع والوساطة، فلا يعرج عليه عندهم إلا من نسي عهود الحمى. وقد ذكر هذا شيخ الإسلام في منهاجه عن غلاة الرافضة في علي، فعاد الأمر إلى الشرك في توحيد الربوبية والتدبير والتأثير، ولم يبلغ شرك الجاهلية الأولى إلى هذه الغاية، بل ذكر الله جل ذكره أنهم كانوا يعترفون له بتوحيد الربوبية ويقرون به، ولذلك احتج عليهم في غير موضع من كتابه بما أقروا به من الربوبية والتدبير على ما أنكروه من الإلهية.ومن ذلك ـ وهو من عجيب أمرهم ـ ما ذكره حسين بن محمد النعمي اليمني في بعض رسائله: أن امرأة كف بصرها فنادت وليها: أما الله فقد صنع ما ترى، ولم يبق إلا حسابك. انتهى.وحدثني سعد بن عبد الله بن سرور الهاشمي رحمه الله أن بعض المغاربة قدموا مصر يريدون الحجّ، فذهبوا إلى الضريح المنسوب إلى الحسين رضي الله عنه بالقاهرة فاستقبلوا القبر وأحرموا ووقفوا وركعوا وسجدوا لصاحب القبر حتى أنكر عليهم سدنة المشهد وبعض الحاضرين، فقالوا: هذا محبة في سيدنا الحسين. وذكر بعض المؤلفين من أهل اليمن أن مثل هذا واقع عندهم.وقد حدثني الشيخ خليل الرشيدي بالجامع الأزهر أن بعض أعيان المدرسين هناك قال: لا يدق وتد في القاهرة إلا بإذن أحمد البدوي. قال: فقلت له: هذا لا يكون إلا لله ـ أو كلاماً نحو هذا ـ. فقال: حبي في سيدي أحمد اقتضى هذا. وحكي أن رجلاً يأل الآخر: كيف رأيت الجمع
 
 ---
 
+<!-- evidence-id: 000404 -->
 #### Page 54
 
 عند زيارة الشيخ الفلاني؟ فقال: لم أر أكثر منه إلا في جبل عرفات، إلا أني لم أرهم يجدوا لله سجدة قط، ولا صلوا مدة ثلاثة الأيام، فقال السائل: قد تحملها الشيخ!. قال بعض الأفاضل: وباب تحمل الشيخ مصراعاه ما بين بصرى وعدن، قد اتسع خرقه وتتابع فتقه، ونال رشاش زقومه الزائر والمعتقد وساكن البلد. انتهى.وقد اشتهر ما يقع من السجود على أعتاب المشاهد، وقصد التبرك ـ مع ما فيه ـ لا يمنع حقيقة العبادة الصورية. ومن المعروف عنهم شراء الوالدان من الولي بشيء معين، يبقى رسماً جارياً يؤدى كل عام، وإن كانت امرأة فمهرها أو نصف مهرها لأنها مشتراة منه، ولا يماري في هذا إلاّ مكابر. لأنه استفاض واشتهر. فلا ينكره إلا مكابر في الحسيات، وإن فقد بعض أنواعه في بعض البلاد فكم له من نظائر وهذا أشد وأشنع مما ذكر الله جل ذكره عن جاهلية العرب بقول: {وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيباً فَقَالُوا هَذَا لِلَّهِ بِزَعْمِهِمْ وَهَذَا لِشُرَكَائِنَا} الآية [الأنعام:136] . وكذلك جعل السوائب باسم الولي لا يحمل عليها ولا تذبح، وسوق الهدايا والقرابين إلى مشاهد الأولياء وذبحها حباً للشيخ، وتقرباً إليه، وهذا وإن ذكر اسم الله عليه فهو أشد تحريما مما ذبح للحم وذكر عليه اسم غير الله كعيسى مثلاً، فإن الشرك في العبادة أكبر من الشرك بالاستعانة.ومن ذلك ترك الأشجار والكلأ والعشب إذا كا بقرب المشهد وجعله حرماًَ له.ومنها الحج إلى المشاهد في أوقات مخصوصة مضاهاة لبي الله. فيطوفون حول الشريح ويستغيثون ويهدون لصاحب القبر ويذبحون، وبعض مشائخهم يأمر الزائر بحلق رأسه إذا فرغ من الزيارة، وقد صنف بعض غلاتهم كتاباً سماه حج المشاهد، ومنها التعريف في بعض البلاد عند من يعتقدونه من أهل القبور فيصلون عشية عرفة عند القبر خاضعين سائلين. والعراق فيه من ذلك الحظ الأكبر والنصيب الأوفر. بل فيه البحر الذي لا
 
 ---
 
+<!-- evidence-id: 000405 -->
 #### Page 55
 
 ساحل له والمهامة التي لا ينجو يالكها، ولا يكاد، ومنحوه درح الكفر وظهر الشرك والفساد، كما يعرف ذلك من له إلمام بالتاريخ. ومبدأ الحوادث في الدين، ومن شاهد ما يقع منهم عند مشهد الحسين ومشهد علي والكاظم عند رافضتهم وعبد القادر والحسن البصريّ، والزبير وأمثالهم عند سنييهم: من العبادات وطلب العطايا والمواهب والتصرفات وأنواع الموبقات: علم أنهم من أجهل الخلق وأضلهم، وأنهم في غاية من الكفر والشرك، ما وصل إليها من قبلهم ممن ينتسب إلى الإسلام. والله المسئول أن ينصر دينه ويعلي كلمته بمحو هذه الأوثان، حتى يعبد وحده، فتسلم الوجوه له، وتعود البيضاء كانت ليلها كنهارها.ومن ذلك ـ وإن كان يعلم مما تقدم: اتخاذها أعياداً ومواسم، مضاهاة لما شرعه الله ورسوله من الأعياد المكانية والزمانية.ومنها: ما يقع ويجري في هذه الاجتماعات من الفجور والفواحش، وترك الصلوات وفعل الخلاعات التي هي في الحقيقة خلع لربقة الدين والتكليف؛ ومشابهة لما يقع في أعياد النّصارى والصابئة والإفرنج ببلاد فرنسا وغيرها من الفجور والطبول والزمور والخمور.وبالجملة فما أحدثه عباد القبور يعز حصره واستيفاؤه.
 
 ---
 
+<!-- evidence-id: 000406 -->
 #### Page 89
 
 عَلَى الْكَافِرِينَ} (البقرة: من الآية89) وهو ممن قال الله فيه: {وَإِنْ نَكَثُوا أَيْمَانَهُمْ مِنْ بَعْدِ عَهْدِهِمْ وَطَعَنُوا فِي دِينِكُمْ فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ} الآية (التوبة: من الآية12) .النوع الثالث: من عرف التوحيد واتبعه وعرف الشرك وتركه، ولكن يكره من دخل في التوحيد، ويحب من بقي على الشرك، فهذا أيضاً كافر، فيه قول الله تعالى: {ذَلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ} (محمد:9) .النوع الرابع: من سلم من هذا كله، ولكن أهل بلده مصرحون بعداوة التوحيد، واتباع أهل الشرك، وساعون في قتالهم ويعتذر بأن ترك وطنه يشق عليه، فيقاتل أهل التوحيد مع أهل بلده، ويجاهد معهم بماله ونفسه. فهذا أيضاً كافر، فإنهم لو يأمرونه بترك صوم رمضان ولا يمكنه الصيام إلا بفراقهم فعل، ولو يأمرونه بتزويج امرأة أبيه ولا يمكنه ترك ذلك إلا بمخالفتهم فعل، وموافقتهم على الجهاد معهم بنفسه وماله مع أنهم يريدون بذلك قطع دين الله ورسوله أكبر من ذلك بكثير. فهذا أيضاً كافر، وهو ممن قال الله فيه: {سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ} الآية (النساء: من الآية91) .وأما الكذب والبهتان: أنّا نكفر بالعموم، ونوجب الهجرة إلينا على من قدر على إظهار دينه، وأنّا نكفر من لم يكفر ولم يقاتل، ومثل هذا وأضعاف أضعافه. فكل هذا من الكذب والبهتان الذي يصدّ به ورثة أبي جهل من سدنة الأصنام وأئمّة الكفر: الناس عن دين الله ورسوله؛ وإنّا لا نكفر إلاّ من كفّره الله ورسوله، من المشركين عباد الأصنام كالذين يعبدون الصنم الذي على قبر عبد القادر والصنم الذي على قبر أحمد البدوي وأمثالهما أما الذين آمنوا بالله وكتبه ورسله واليوم الآخر وجاهدوا في الله حق جهاده فهم إخواننا في الدين وإن لم يهاجروا إلينا. فكيف نكفر هؤلاء؟ سبحانك هذا بهتان عظيم. انتهى.وأما استباحة هذين البلدين الشريفين، فكلّ أحد يعرف أن هذا من
 
 ---
 
+<!-- evidence-id: 000407 -->
 #### Page 97
 
 بل هي مجمع على أنها من الشرك المكفر، كما حكاه الشيخ ابن تيمية نفسه، وجعلها مما لا خلاف في التكفير به، فلا يصح حمل كلامه هنا على ما جزم هو بأنه كفر مجمع عليه، ولو صح حمل هذا العراقي لكان قوله قولاً مختلفاً، وقد نزهه الله وصانه عن هذا، فكلامه متفق يشهد بعضه لبعض.إذا عرفت هذا عرفت تحريف العراقي في إسقاط بعض الكلام وحذفه، وأيضاًَ فالحذف لأصل الكلام يخرجه عن وجهه، وإرادة المقصود التحريف.الثاني: أن الشيخ رحمه الله، قال: أصل التكفير للمسلمين، وعبارات الشيخ أخرجت عبّاد القبور من مسمى المسلمين، كما سننقل لك جملة من عباراته في الحكم عليهم بأنهم لا يدخلون في المسلمين في مثل هذا الكلام.قال رحمه الله في أثناء كلام له في النهي عن التفرق، والاختلاف وترك التعصب لمذهب أو قبيلة أو طريقة ـ قال: "فليس كل من أخطأ يكون كافراً ولا فاسقاً ولا عاصياً، بل قد عفا الله لهذه الأمة عن الخطأ والنسيان، وقد قال تعالى في كتابه في دعاء المؤمنين: {رَبَّنَا لا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا} (البقرة: من الآية286) ، وثبت في الصحيح: "أن الله قال: قد فعلت" لا سيما وقد يكون يوافقكم في أخص من الإسلام مثل أن يكون مثلكم على مذهب الشافعي أو منتسباً إلى الشيخ عدي. ثم بعد هذا قد يخالف في شيء، ربما كان الصواب معه. فكيف يستحل عرضه أو دمه أو ماله، مع ما ذكر الله من حقوق المسلم والمؤمن؟ وكيف يجوز التفريق بين الأمة بأسماء مبتدعة لا أصل لها في كتاب الله ولا سنة رسوله؟ وهذا التفريق الذي حصل بين الأمة علمائها ومشايخها وأمرائها وكبرائها هو الذي أوجب تسلط الأعداء عليهم وذلك بتركهم العمل بطاعة الله ورسوله، كما قال تعالى: {وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَى أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظّاً مِمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ} (المائدة: من الآية14) ، وإذا تفرق القوم فسدوا وهلكوا، وإذا اجتمعوا صلحوا وملكوا، فإن الجماعة رحمة،
 
 ---
 
+<!-- evidence-id: 000408 -->
 #### Page 98
 
 وإن الفرقة عذاب، وجماع ذلك: الأمر بالمعروف والنهي عن المنكر، كما قال تعالى: {يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ} ـ إلى قوله ـ {وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ} الآية (آل عمران: 102 ـ 104) ، فمن الأمر بالمعروف: الأمر بالائتلاف والاجتماع، والنهي عن الاختلاف والفرقة. ومن النهي عن المنكر: إقامة الحدود على من خرج عن شريعة الله تعالى.فمن اعتقد في بشر أنه إله أو دعا ميتاً أو طلب منه الرزق أو النّصر أو الهداية، أو توكل عليه أو سجد له، فإنه يستتاب فإن تاب وإلا ضربت عنقه". انتهى.فبطل استدلال العراقي، وانهدم من أصله، كيف يجعل النهي عن تكفير المسلمين متناولاً لمن يدعو الصالحين ويستغيث بهم مع الله، ويصرف لهم من العبادات ما يستحقه إلا الله؟ وهذا باطل بنصوص الكتاب والسنة وإجماع علماء الأمة.ومن عجيب جهل العراقي: أنه يحتج على خصمه بنفس الدعوى، والدعوى لا تصلح دليلاً، فإن دعوى العراقي لإسلام عباد القبور تحتاج دليلاً قاطعاً على إسلامهم فإذا ثبت إسلامهم منع من تكفيرهم، والتفريع ليس مشكلاً. ومعلوم أن من كفر المسلمين لمخالفة رأيه وهواه كالخوارج والرافضة أو كفر من أخطأ في المسائل الاجتهادية أصولاً أو فروعاً، فهذا ونحوه مبتدع ضال، مخالف لما عليه أئمة الهدى ومشايخ الدين. ومثل شيخ الإسلام محمد بن عبد الوهاب لا يكفر أحداً بهذا الجنس ولا من هذا النوع. وإنما يكفر من نطق بتكفيره الكتاب العزيز، وجاءت به السنة الصحيحة وأجمعت على تكفيره الأمة، كمن بدل دينه، وفعل فعل الجاهلية الذين يعبدون الملائكة والأنبياء والصالحين، ويدعونهم مع الله، فإن الله كفرهم وأباح دماءهم وأموالهم وذراريهم بعبادة غيره، نبياً أو ولياً أو صنماً لا فرق في الكفر بينهم، كما دل عليه الكتاب العزيز والسنة المستفيضة، وبسط هذا يأتيك مفصلاً، وقد مر بعضه.والشيخ محمد رحمه الله من أعظم الناس توقفاً وإحجاماً عن إطلاق
 
 ---
 
+<!-- evidence-id: 000409 -->
 #### Page 99
 
 الكفر، حتى أنه لم يجزم بتكفيره الجاهل الذي يدعو غير الله من أهل القبور أو غيرهم إذا لم يتيسر له من ينصحه ويبلغه الحجة التي يكفر تاركها، قال في بعض رسائله: وإذا كنا لا نقاتل من يعبد قبة الكواز حتى نتقدم بدعوته إلى إخلاص الدين لله، فكيف نكفر من لم يهاجر إلينا وإن كان مؤمناً موحداً؟ وقال: وقد سئل عن مثل هؤلاء الجهال. فقرر أن من قامت عليه الحجة وتأهل لمعرفتها يكفر بعبادة القبور. وقد سبق من كلامه ما فيه الكفاية، مع أن العلامة ابن القيم رحمه الله جزم بكفر المقلدين لشيوخهم في المسائل المكفرة إذا تمكنوا من طلب الحق ومعرفته، وتأهلوا لذلك. فأعرضوا ولم يلتفتوا. ومن لم يتمكن ولم يتأهل لمعرفة ما جاءت به الرسل فهو عنده من جنس أهل الفترة ممن لم تبلغه دعوة رسول من الرسل. وكلا النوعين لا يحكم بإسلامهم ولا يدخلون في مسمى المسلمين، حتى عند من لم يكفر بعضهم وسيأتيك كلامه. وأما الشرك فهو يصدق عليهم، واسمه يتناولهم وأي إسلام يبقى مع مناقضة أصله؟ وقاعدته الكبرى: شهادة أن لا إله إلا الله، وبقاء الإسلام ومسماه، مع بعض ما ذكر الفقهاء في باب حكم المرتد أظهر من بقائه مع عباده الصالحين ودعائهم. ولكن العراقي يفر من أن يسمى ذلك عبادة ودعاء، ويزعم أنه توسل ونداء ويراه مستحباً، وهيهات هيهات.أين المفر والإله الطالب
@@ -8439,30 +8848,35 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000410 -->
 #### Page 249
 
 الجواب أن يقال:قد تكررت هذه الشبهة وكثر بها العدد، هكذا المفلس إذا رجع إلى ما في عيبته فوجدها صفراً، اشتغل بتقليب ما في يديه، وقد تقدم جوابها مراراً، وذكرنا أن عباد القبور قد قامت عليهم الحجة، أو على جمهورهم بالكتاب والسنة والإجماع؛ فإن هذ الباب ـ أعني باب عبادة الله وحده لا شريك له ـ هو خلاصة الكتب الإلهية، وزبدة الدعوة النبوية، وتقدم في جواب ما نقله عن ابن القيم وعن الشيخ، ففيه كفاية.قال الشيخ رحمه الله في الرد على المتكلمين، لما ذكر أن بعض أئمتهم توجد منهم الردة عن الإسلام كثيراً، قال: وهذا وإن كان من المقالات الخفية فقد يقال فيها: إنّه مخطئ ضال لم تقم عليه الحجة التي يكفر تاركها، لكن هذا يصدر منهم في أمور يعلمها الخاصة والعامة من المسلمين: أن الرسول (بعث بها وكفر من خالفها، مثل عبادة الله وحده لا شريك له، ونهيه عن عبادة أحد سواه من الملائكة والنبيين وغيرهم. فإن هذا أظهر شعار الإسلام، ومثل إيجابه الصلوات الخمس، وتعظيم شأنها؛ ومثل تحريم الفواحش والزنا والخمر والميسر، ثم تجد كثيراً من رؤوسهم وقفوا فيها. فكانوا مرتدين. وأبلغ من ذلك: أن منهم من صنف في دين المشركين كما فعل أبو عبد الله الرّازيّ، قال: وهذه ردّة صريحة.فتأمّل ما في هذا من التفصيل تزول الشبهة التي يدلي بها بعض المشركين. وتقدم كلام الشيخ في الرسالة السنية. وقوله: فإذا كان على عهد النبي (وخلفائه ممن انتسب إلى الإسلام من مرق منه مع عباداته العظيمة حتى أمر (بقتالهم فليعلم أن المنتسب إلى الإسلام والسنة في هذه الأزمان قد يمرق أيضاً من الإسلام وذلك بأسبابها؛ ومنا الغلو الذي ذمه الله في كتابه ـ إلى أن قال: فكل من غلا في نبي أو رجل صالح وجعل فيه نوعاً من الإلهية، مثل أن يقول: يا سيدي فلان انصرني أو أغثني أو ارزقني أو اجبرني، أو أنا في حسبك، ونحو هذه الأقوال. فكلّ هذا شرك وضلال، يستتاب صاحبه فإن تاب وإلاّ قتل.
 
 ---
 
+<!-- evidence-id: 000411 -->
 #### Page 250
 
 فانظر رحمك الله إلى تصريحه بكفر هذا الصنف الذين هم محل النزاع، وأن من فعل ذلك قتل بعد الاستتابة إن لن يتب، وهذا عين كلامنا.فالتشبيه في هذه المسألة بخير الذي أمر أهله أن يذروه، أو بقول الشيخ: إن المخطئ لا يكفر إذا اجتهد واتقى، ونحو هذه العبارات تمويه وتشبيه.والنزاع فيمن قامت عليه الحجة، أو أمكنه الاستدلال، لا فيما يخفى من المسائل، أو كان مما يختص أهل العلم بمعرفته. فهذا نحوه ليس مما نحن فيه، وإيراده والاحتجاج به على مسألة النزاع تمويه لا يروج على أهل البصائر.قال العراقي: النقل السادس والعشرون: وقال أيضاً في بعض كتبه ونقله الشيخ سليمان بن عبد الوهاب في ردّه على أخيه قال: "إني دائماً ومن جالسني يعلم أني من أعظم الناس نهيًا عن أن ينسب معين إلى تكفير، أو تفسيق، أو معصية، إلا إذا علم أنه قد قامت عليه الحجة الرسالية التي من خالفها كان كافرًا تارة، وفاسقًا أخرى، وعاصيًا أخرى، وإني أقرر أن الله قد غفر لهذه الأمة خطأها، وذلك يعم الخطأ في المسائل الخبرية والمسائل العملية.وما زال السلف يتنازعون في كثير من هذه المسائل، ولا يشهد أحد منهم على معين لا بكفر ولا بفسق ولا بمعصية، كما أنكر شريح قراءة: {بَلْ عَجِبْتُ وَيَسْخَرُونَ} [الصافات: 12] وقال: إن الله لا يعجب ـ إلى أن قال ـ: وقد آل النزاع بين السلف إلى الاقتتال مع اتفاق أهل السنة أنّ الطائفتين جميعًا مؤمنتان؛ وأن الاقتتال لا يمنع العدالة الثابتة لهم؛ لأن المقاتل وإن كان باغيًا فهو متأول، والتأويل يمنع الفسوق.وكنت أبين لهم أن ما نقل عن السلف والأئمة من إطلاق القول بتكفير من يقول كذا وكذا، ونحو هذا حق، لكن يجب التفريق بين الإطلاق والتعيين. وهذا أول مسألة تنازعت فيها الأمة من مسائل الأصول الكبار وهي مسألة [الوعيد] ، فإن نصوص الوعيد في القرآن مطلقة عامة، كقوله تعالى: {إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى ظُلْماً إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً} [النساء:10] ، وكذلك سائر ما ورد: من فعل كذا وكذا فهو كذا، فإن هذه النصوص مطلقة عامة.وهي بمنزلة من قال من السلف: من قال كذا، فهو كذا. ـ إلى أن قال: والتكفير يكون من الوعيد،
 
 ---
 
+<!-- evidence-id: 000412 -->
 #### Page 251
 
 فإنه وإن كان القول تكذيبًا لما قاله الرسول صلى الله عليه وسلم، لكن قد يكون الرجل حديث عهد بإسلام، أو نشأ ببادية بعيدة، وقد يكون الرجل لم يسمع تلك النصوص، أو سمعها ولم تثبت عنده، أو عارضها عنده معارض آخر يوجب تأويلها، وإن كان مخطئًا.وكنت دائمًا أذكر الحديث الذي في الصحيحين في الرجل الذي قال لأهله: "إذا أنا مت فأحرقوني ـ الحديث" فهذا رجل شك في قدرة الله، وفي إعادته إذا ذُرىَ، بل اعتقد أنه لا يعاد. وهذا كفر باتفاق المسلمين، لكن كان جاهلا لا يعلم ذلك، وكان مؤمنًا يخاف الله أن يعاقبه، فغفر له بذلك.والمتأول من أهل الأجتهاد، الحريص على متابعة الرسول أولى بالمغفرة من مثل هذا ". انتهى.والجواب: إن شيخنا رحمه الله قال في مثل هذه الشبه التي يوردها المبطلون من كلام شيخ الإسلام ابن تيمية بمثل ما يقول شيخ الإسلام ابن تيمية سواء. وإن من تأمّل كلامه رحمه الله وجده يصله بما يفصل النزاع، ويبين المراد. وقد بين في هذا النقل بياناً يقطع النزاع بقوله: إلا إذا علم أنه قامت عليه الحجة الرسالية التي من خالفها كان كافراً تارة، وفاسقاً أخرى. وهذا البيان كافٍ.فإن شيخ الإسلام محمد بن عبد الوهّاب رحمه الله لا يكفّر أحداً قبل قيام الحجّة. وهذا يأتي على جميع ما ساقه العراقي بالرّد والدّفع، فسياق هذه العبارات المتحدة المعاني والتشبيه بها وكثرة عددها مجرد تخييل وهوس، يكفي في ردها ما تقدم بيانه من اشتراط قيام الحجة، وإن فرض كلام الشيخ في كل ما نقل العراقي في غير ما يعلم من الدين بالضرورة، وفي غير المفرط في طلب العلم والهدى، كما تقدم فيما نقلناه من طبقات المكلفين، وتقدم نص الشيخ أن فرض كلامه في غير المسائل الخفية، وكل جملة من هذه الجمل تكفي المؤمن في ردّ جميع ما نقله ابن جرجيس عن شيخ الإسلام ابن تيمية، وينبغي أن يعلم الفرق بين قيام الحجة وفهم الحجة، فإن من بلغته دعوة الرسل فقد قامت عليه الحجة؛ إذا كان على وجه يمكن معه العلم، ولا يشترط في قيام الحجة أن يفهم عن الله ورسوله ما يفهمه أهل الإيمان والقبول والانقياد لما جاء
 
 ---
 
+<!-- evidence-id: 000413 -->
 #### Page 252
 
 به الرسول صلى الله عليه وسلم، فافهم هذا يكشف عنك شبهات كثيرة في مسألة قيام الحجّة، قال تعالى: {أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلَّا كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ سَبِيلاً} [الفرقان:44] ، وقال تعالى: {خَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ غِشَاوَةٌ} {البقرة: من الآية7] ، وتأمّل كلام الشيخ وقوله: وما زال السلف يتنازعون في كثير من هذه المسائل.وقوله: "ولكن قد يكون الرجل حديث عهد بالإسلام، أو نشأ ببادية بعيدة، وقوله: وقد يكون الرجل لم يسمع تلك النصوص أو سمعها ولم تثبت عنده، أو عارضها عنده معارض آخر يوجب تأويلها".وكلّ هذا لا يمكن أن يقال في عبّاد القبور.فتأمّل كلام الشيخ واعرف ضلال ابن جرجيس في حمله كلام الشيخ على عذر عباد القبور والأنبياء والصالحين، واعرف سوء فهمه وكثافة حجابه، وقد تقدم هذا مراراً.ويقال أيضاً: كلام الشيخ في عدم إطلاق الكفر على المعين إذا كان له عذر من جنس ما تقدم، لكن أثبت وقرر أن نفس العمل والفعل يكون كفراً، وإن لم يكن فاعله لمانع، وهذا الملحد لا يقول ذلك فيمن عبد الصالحين وأهل القبور، بل يقول: هم مثابون مأجورون بدعائهم غير الله، ويسمى الدعاء توسّلاً، قد مرّ هذا عنه في غير موضع، ويأتيك أكثر مما مرّ، فاعرف جهله، وإنه لم يأنس بشيء مما جاءت به الرسل، ولم يتعقل ما يحكيه من كلام أهل العلم.فقف هنا يا من أنعم الله عليه تعرف بعدما جاء به هذا الملحد عما جاءت به جميع الرسل، وأنه أضلّ من كثير من أعدائهم، والله المستعان.النقل السابع والعشرون: من نقول ابن جرجيس: وقال أيضاً في الفتاوى ـ حين سئل عن التكفير الواقع في هذه الأمة ـ: أول من أحدثه في الإسلام المعتزلة. وعنهم تلقاه من تلقاه، وكذلك الخوارج هم أول من أظهره. واضطرب الناس في ذلك، فمنهم من يحكي عن مالك فيه قولين، وعن الشافعي كذلك، وعن أحمد روايتين، وأبو الحسن الأشعريّ وأصحابه لهم فيه
 
 ---
 
+<!-- evidence-id: 000414 -->
 #### Page 253
 
 قولان. وحقيقة الأمر: إن القول قد يكون كفراً، فيطلق القول بتكفير قائله، ويقال: من قال كذا فهو كافر، لكن الشخص المعين الذي قاله لا يكفر، حتى تقوم عليه الحجة التي يكفر تاركها ـ ثم ساق كلام الشيخ في أن المقالات الكفرية لا يكفر قائلها إلا بعد قيام الحجّة.والجواب أن يقال:قد تكرر هذا عن العراقي، ولكنه أراد أن يعظم حجم الكتاب ويظن العامة أن قد جدّد حجة من السنة أو الكتاب، أو كلام ذوي الألباب، وهو لم يزل ولا يزال يتردد في ظلماته، ويكرر ريبه وشبهاته. والجواب تقدم.وفيما ساقه هنا رد لباطله وحجّة عليه، من جهة أن الشيخ حكى في تكفير الخوارج ونحوهم عن مالك قولين، وعن الشافعي كذلك، وعن أحمد أيضاً روايتين، وأبو الحسن الأشعريّ وأصحابه لهم قولان، وحيث كان الحال هكذا في الخوارج فقد اختلف الناس في تكفيرهم والغلاة في علي لم يختلف أحد في تكفيرهم. وكذلك من سجد لغير الله أو ذبح لغير الله أو دعاه مع الله، رغباً أو رهباً.كل هؤلاء اتفق الخلف والسلف على كفرهم، لما ذكره أهل المذاهب الأربعة، ولا يمكن لأحد أن ينقل عنهم قولاً ثانياً. وبهذا تعلم أن النزاع وكلام الشيخ ابن تيمية وأمثاله في غير عباد القبور والمشركين، وإنما فرضه وموضوعه في أهل البدع المخالفين للسنة والجماعة. وهذا يعرف من كلام الشيخ ولكن العراقي من جملة البقر والثيران، وإن كان ضخم العمامة واسع الأردان وقد تقدم قول الشيخ من جعل بينه وبين الله وسائط يدعوهم ويسألهم ويتوكل عليهم كفر إجماعاً، فحكى الإجماع على كفر هذا الصنف، حكى الخلاف في تكفير الخوارج ونحوهم، فاعرف الفرق، ولولا عموم الجهل، وبعد العهد بآثار النبوة لما أطلنا الكلام في مثل هذه المباحث؛ لأنها مما يعلم بالضرورة من دين الإسلام.قال ابن جرجيس: النقل الثامن والعشرون: قال الشيخ ابن تيمية في اقتضاء الصراط المستقيم، ما نصه: فكما أن إثبات المخلوقات أسباباً لا يقدح
@@ -8470,6 +8884,7 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 ---
 
 ### كشف ما ألقاه إبليس من البهرج والتلبيس على قلب داود بن جرجيس
+<!-- evidence-id: 000415 -->
 
 #### Page 70
 
@@ -8477,66 +8892,77 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000416 -->
 #### Page 71
 
 كثير من (1) الآيات كما قال تعالى: {ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا إِذْ نَادَى رَبَّهُ نِدَاءً خَفِيّا} إلى قوله: {وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيّاً} (2) ، (5 وقال تعالى (3) :{هُنَالِكَ دَعَا زَكَرِيَّا رَبَّه} (4) 5) (5) سمى النداء دعاء لأن مدلولهما واحد، من باب الترادف على معنى واحد، وهذا ظاهر جلي لمن تدبر (6) ، وعلى كل حال فتسميته نداء لا يخرج عن كونه عبادة كما تقدم.قال الله (7) تعالى: {وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً} (8) فعطف النداء على الدعاء عطف مرادف، وقد تقدم أن الدعاء هو العبادة (9) ، وفي حديث أنس الذي في السنن "الدعاء مخ العبادة" (10) ، وقد قصر الله تعالى العبادة على نفسه، كما قال تعالى في فاتحة الكتاب:
 
 ---
 
+<!-- evidence-id: 000417 -->
 #### Page 72
 
 {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين} (1) ، وفي الحديث المتفق عليه: "فإن حق الله على العباد أن يعبدوه ولا يشركوا به شيئاً" (2) ، فالعبادة بجميع أنواعها مادق منها وجل حق الله تعالى على عبادهن لا يصلح منها شيء لغيره كائناً من كان، فمن صرف من العبادة شيئاً لغير الله فقد جعله شريكاً لله في حقه. وذلك ينافي التوحيد الذي دلت عليه الآيات المحكمات.ومما (3) يوضح ترادف النداء والدعاء، وأنهما بمعنى واحد: ما أخبر الله تعالى عن نوح (4) عليه السلام بقوله تعالى (5) : {وَنُوحاً إِذْ نَادَى مِنْ قَبْلُ فَاسْتَجَبْنَا لَه} (6) فأخلص القصد لله بندائه فاستجاب الله له، وقال في الآية
 
 ---
 
+<!-- evidence-id: 000418 -->
 #### Page 73
 
 الأخرى: {فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانْتَصِر} (1) فسماه تعالى دعاء (2) . ولا ريب أن الدعاء يجتمع فيه من أنواع العبادة ما لا يجتمع في غيره من أنواع العبادات، والنداء كذلك (3) ، كتوجه الوجه والقلب واللسان للمدعو، تذللا له (4) وخضوعاً/ واستكانة ورغبة، وهذا هو العبادة؛ لأن أصل العبادة وأساسها أن يخضع غاية الخضوع والتذلل للمعبود، ولا بد مع ذلك من المحبة، وأنت ترى ما يفعله المشركون من إقبالهم على الأموات بسؤالهم ما لا قدرة لهم عليه، وتجد عندهم من الخضوع والتذلل وإسلام الوجه والقلب والجوارح لسؤال صاحب القبر ما لا يوجد مثله (5) في المساجد، وهذا لا يخفى على من عرف حال هؤلاء المشركين مع من كانوا (6) يقصدون (7) لإغاثة لهفاتهم وتفريج كرباتهم، فيقع منهم من الشرك بالله ما يجل عن الوصف (8 فعبدوا غير الله بالقول والاعتقاد، وأقبلوا عليه بقلوبهم وألستنهم وجوارحهم، وهذا الواقع لا يقدر أحد أن يجحده، فقد عمت به البلوى في الأمصار، وأكثر الأقطار والله أعلم8) (8) . وأما قول (9) هذا الجاهل العراقي: (وكذلك المسلمون يذكرون أن طلبتهم
 
 ---
 
+<!-- evidence-id: 000419 -->
 #### Page 74
 
 من غير الله إنما هي من باب التسبب) . فالجواب: أن نسبة الطلب من غير الله إلى المسلمين من أمحل المحال، وأبطل الباطل، فإن المسلم لا يطلب من غير الله ما لا يقدر عليه (1) ، فإن من طلب وسأل حاجته من ميت أو غائب، فقد فارق الإسلام؛ لأن الشرك ينافي الإسلام؛ لما تقدم من أن (2) الإسلام هو إسلام الوجه، والقلب، واللسان، والأركان لله وحده دون من (3) سواه.فالمسلم (4 مخلص يخلص دعاءه لله، والمشرك يصرف جل الدعاء والعبادة أو بعضه لغير الله4) (4) . وقد عرفت مما تقدم أن الدعاء هو العبادة، وقد نهى سبحانه وتعالى (5) نبيه صلى الله عليه وسلم أن يدعو غيره، فقال: {وَلا تَدْعُ مِنْ دُونِ اللَّهِ مَا لا يَنْفَعُكَ وَلا يَضُرُّكَ فَإِنْ فَعَلْتَ فَإِنَّكَ إِذاً مِنَ الظَّالِمِينَ} (6) ، وهذا خرج مخرج الخصوص وهو عام لجميع الأمة، وكذلك قوله تعالى: {فَلا تَدْعُ مَعَ اللَّهِ إِلَهاً آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِين} (7) ، وقال تعالى: {وَلا تَدْعُ مَعَ اللَّهِ إِلَهاً آخَرَ لا إِلَهَ إِلَّا هُو} (8) فظهر
 
 ---
 
+<!-- evidence-id: 000420 -->
 #### Page 75
 
 من هذه الآيات (1) أن الدعاء تأله للمدعو، فإن المألوه هو المعبود والعابد آله (2) له (3) ، ومصدره الآله (4) والآلهة، وقرأ (5) ابن عباس رضي الله عنهما: {ويذرك وإلهتك} بكسر الهمزة وفتح اللام قال: "لأن فرعون يُعْبد ولا يَعْبدُ" (6) . وفي هذه الآيات التي ذكرنا هنا وقبلُ ما يبين أن الله تعالى زجر الأمة وأبلغ في الزجر والوعيد لمن دعا معه غيره، (7 وبين أنه شرك والاستغاثة دعاء ويختص بالمضطر7) (7) .وقول هذا العراقي الجاهل المماحل: (أن طلبتهم من غير الله إنما هي من باب السبب) . فيقال: هذا من باب التلبيس والتمويه على الجهال، وهذا من مصائد الشيطان ووحيه، معارضة لما دلت عليه الآيات المحكمات من بيان الشرك والوعيد عليه، فإذا اعتقد المشرك أن هذا من باب التسبب فليس كل ما اعتقده [هو] (8) أو غيره سبباً يكون مشروعاً، يجوز فعله، وقد قال الخليل عليه السلام: {إِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللَّهِ أَوْثَاناً مَوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضاً وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِين} (9) .
 
 ---
 
+<!-- evidence-id: 000421 -->
 #### Page 185
 
 وَلا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدا} (1) . والعجب أن كثيراً من هؤلاء لم يفهموا من هذه الآية إلا الشرك الأصغر، كيسير الرياء، وهذا من فساد العقول، والجهل بمضمون الدال والمدلول.(4 والشرك بأرباب القبور والغائبين هو الشرك الأكبر المخرج عن الإسلام، و [هو] (2) شرك مشركي قريش والعرب، بل هو في أواخر هذه الأمة، فلا ينفع معه صلاة ولا عمل، وقد قال تعالى في حق المشركين: {ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تُشْرِكُونَ. مِنْ دُونِ اللَّهِ قَالُوا ضَلُّوا عَنَّا} (3) الآية، فكفرهم تعالى بالشرك بالدعاء الذي جحده كذباً على الله4) (4) .وتأمل قوله: {يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ} فلا تصلح الإلهية إلا له وحده. و"الإله" هو الذي تألهه القلوب بأي نوع كان من أنواع العبادة كما تقدم، فمن صرف من العبادة شيئاً لغير الله، كالدعاء ونحوه فقد ألهه بالعبادة، واتخذه إلهاً من دون الله، ولا يختلف كلام أهل اللغة وأهل السنة سلفاً وخلفاً عن هذا المعنى (5) .وقد تقدم في هذا الجواب نحو (6) مما ذكرناه هنا، ولو ذهبنا نذكر جميع الأدلة على هذا الأصل العظيم لاحتمل عدة أجزاء، والله يهدي من يشاء إلى صراط مستقيم.
 
 ---
 
+<!-- evidence-id: 000422 -->
 #### Page 186
 
 /ومن أعظم أسباب (1) الوقوع في الشرك: استصحاب العوائد وإلفها، وكثرة من ضل عن الحق إما جهلاً وإما عناداً، وبهذه الأسباب ونحوها كثر اللبس الذي نهى الله تعالى عنه اليهود في قوله: {وَلا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ} (2) ذكره تعالى في أول سورة البقرة تحذيراً لهذه الأمة أن يشابهوا أهل الكتاب فيما ذمهم تعالى به، ونهاهم عنه.وقد عمت البلوى بذلك، ولم يستندوا فيه إلا إلى خيالات شيطانية، كما قال تعالى: {وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ فَهُمْ لا يَهْتَدُون} (3) .قال العلامة ابن القيم (4) –رحمه الله تعالى –لما ذكر سبب عبادة الأصنام التي صورها قوم نوح على صور الصالحين قال:(وما زال الشيطان يوحي إلى عباد القبور ويلقي إليهم أن البناء والعكوف عليها من محبة أهل القبور من الأنبياء والصالحين، وأن الدعاء عندها مستجاب، ثم ينقلهم من هذه المرتبة إلى الدعاء بهم (5) ، والأقسام بهم (6) على الله، فإن شأن الله أعظم من أن يقسم عليه، أو يسأل بأحد من خلقه، فإذا تقرر ذلك عندهم نقلهم منه إلى دعائه وعبادته، وسؤاله الشفاعة، واتخاذ قبره وثناً تعلق عليه القناديل والستور، ويطاف به، ويستلم ويقبل، ويحج إليه، ويذبح
 
 ---
 
+<!-- evidence-id: 000423 -->
 #### Page 187
 
 عنده، فإذا تقرر ذلك عندهم نقلهم منه إلى دعاء الناس إلى عبادته، واتخاذه عيداً ومنسكاً (1) ، ورأوا أن ذلك أنفع لهم في دنياهم وأخراهم.وكل (2) هذا مما قد علم بالاضطرار من دين الإسلام أنه مضاد لما بعث الله به رسوله صلى الله عليه وسلم، من تجريد التوحيد، وأن لا يعبد إلا الله.فإذا تقرر ذلك عندهم نقلهم منه إلى أن من نهى عن ذلك فقد تنقص أهل الرتب العالية، وحطهم عن منزلتهم، وزعم أنه لا حرمة لهم ولا قدر، وغضب المشركون، وأشمأزت قلوبهم، كما قال تعالى: {وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لا يُؤْمِنُونَ بِالْآخِرَةِ وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ إِذَا هُمْ يَسْتَبْشِرُون} (3)وسرى ذلك في نفوس كثير من الجهال والطغام، وكثير ممن ينتسب إلى العلم والدين، حتى عادوا أهل التوحيد، ورموهم بالعظائم، ونفروا الناس عنهم، ووالوا أهل الشرك وعظموهم، وزعموا أنهم أولياء الله وأنصار دينه ورسوله، ويأبى الله ذلك: {وَمَا كَانُوا أَوْلِيَاءَهُ إِنْ أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُون} (4) انتهى كلامه-رحمه الله تعالى- (5 وقد تقدم، وقد كرره في مواضع فأتبعناه، وهو كلام/ عظيم مطابق لما يقع من المشركين في كل زمان ومكان 5) (5) .وليتأمل ما ذكره العلماء –رحمهم الله تعالى (6) - في قوله تعالى (7) : {قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِ اللَّهِ} إلى قوله: {وَلا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ
 
 ---
 
+<!-- evidence-id: 000424 -->
 #### Page 188
 
 أَذِنَ لَهُ حَتَّى إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ قَالُوا الْحَقَّ وَهُوَ الْعَلِيُّ الْكَبِير} (1) .قال ابن عطية (2) في هذه الآية: (في الكلام حذف دل عليه الظاهر، كأنه قال: ولا هم شفعاء كما تزعمون أنتم، بل عبدة (3) مسلمون أبدا، يعنى منقادون) .وقال أبو حيان (4) : (وبهذا المعنى من ذكر الملائكة في صدر الآية تتسق هذه الآية على الأولى، ومن لم يشعر أن الملائكة مشار إليهم من أول قوله: {قُلِ ادْعُوا الَّذِينَ زَعَمْتُم} لم (5) تتصل له هذه الآية بما قبلها) .وقال مقاتل بن حيان (6) في قوله تعالى: {قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ} (7) الآية.قال: (فسألهم النبي صلى الله عليه وسلم فسكتوا أي: لأنهم يعتقدون ذلك فيها، وإنما كانوا يدعونها على معنى أنها وسائط، وشفعاء عند الله، لا أنهم (8) يكشفون الضر ويجيبون دعاء المضطر، فهم يعلمون أن ذلك لله وحده، كما قال تعالى: {ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ. ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنْكُمْ إِذَا فَرِيقٌ
 
 ---
 
+<!-- evidence-id: 000425 -->
 #### Page 189
 
 مِنْكُمْ بِرَبِّهِمْ يُشْرِكُونَ} (1) . انتهى (2) .ولا عجب من وقوع الكثير من الناس في الجهل بالتوحيد، ووقوعهم في الشرك الأكبر الذي لا يغفره الله، مع انتسابهم إلى الإسلام، وقراءتهم القرآن، وانتسابهم إلى شريعة الإسلام، فقد روى الإمام أحمد وابن ماجه عن زياد بن لبيد-رضي الله عنه-قال: ذكر النبي صلى الله عليه وسلم شيئاً فقال: "ذلك عند أوان ذهاب العلم" قلت: يا رسول الله وكيف يذهب ونحن نقرأ القرآن ونقرؤه أبناءنا، ويقرؤه أبنائنا (3) ، أبناءهم؟، قال: "ثكلتك أمك يا زياد، إن كنت لأراك من أفقه رجل في المدينة، أوليس هذه (4) اليهود والنصارى يقرأون التوراة والإنجيل لا يعملون بشيء مما فيها؟ " (5) .وعن علي –رضي الله عنه-قال: قال رسول الله صلى الله عليه وسلم: "يوشك أن يأتي على الناس زمان لا يبقى من الإسلام إلا اسمه، ولا يبقى من القرآن إلا رسمه،
 
 ---
 
+<!-- evidence-id: 000426 -->
 #### Page 234
 
 يحيى الصرصري، ففي شعره قطعة منه، والشيخ محمد بن النعمان له كتاب "المستغيث بالنبي صلى الله عليه وسلم في اليقظة والمنام" وهؤلاء ليسوا من العلماء العالمين بمدارك الأحكام، الذين (1) يؤخذ بقولهم في شرائع الإسلام، ومعرفة الحلال والحرام، وليس/ لهم دليل شرعي، ولا نقل عن عالم مرضي، بل عادة جرواعليها، وكان بعض الشيوخ الذين أعرفهم ولهم فضل وعلم وزهد إذا نزل به أمر، خطا إلى الشيخ (2) عبد القادر خطوات معدودة، واستغاث به، وهذا يفعله كثير من الناس؛ ولهذا لما نبه من نبه (3) [من] (4) فضلائهم تنبهوا، وعلموا أن ما كانوا عليه ليس من دين الإسلام، بل مشابهة لعباد الأصنام) .قلت (5) : وهذه الطريقة التي سلكها هذا، هي طريقة أهل البدع –كداود بن جرجيس – الذين يجمعون بين الجهل والظلم، فيبتدعون بدعة (6) مخالفة للكتاب والسنة وإجماع الصحابة، ويكفرون من خالفهم من بدعتهم،كالخوارج المارقين، لكن الخوارج كفروا الصحابة بالذنوب، وهؤلاء كفروا أهل الإسلام بالإخلاص والتجريد، كما قال العلامة ابن القيم (7-رحمه الله-7) (7)في الخوارج:ولهم نصوص قصروا في فهمها
@@ -8545,6 +8971,7 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000427 -->
 #### Page 235
 
 وخصومنا قد كفرونا بالذي
@@ -8553,18 +8980,21 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000428 -->
 #### Page 236
 
 وما ذكره (1) من توسل آدم، وحكاية المنصور، فجوابهما (2) من وجهين:أحدهما: أن هذا لا أصل له، ولا تقوم به حجة، ولا إسناد لذلك (3) .الثاني: لو دل على التوسل بذاته فلا يدل على الاستغاثة.وأما اشتكاء البعير [إليه] (4) ، فهذا كاشتكاء الآدمي إليه، وقد قلنا إنه إذا طلب منه مما يليق بمنصبه فهذا لا نزاع فيه، والاستغاثة به في حياته فيما يقدر عليه لا ينازع (5) فيها أحد، ولكن هذا أخذ لفظ الاستغاثة ومعناها العام، فجعل
 
 ---
 
+<!-- evidence-id: 000429 -->
 #### Page 237
 
 يتشبث به (1) ، / ولكن النهي (2) عاد (3) إلى شيئين: إلى الاستغاثة به بعد الموت، وإلى أن يطلب منه ما لا يقدر عليه إلا الله تعالى. وأما قول (4) هؤلاء الجهال: فيستلزم الردة عن الدين، والكفر برب العالمين، ولا ريب أن أصل قول هؤلاء هو من باب الإشراك بالله، الذي هو الكفر، الذي لا يغفره الله؛ فإن الله سبحانه يقول في كتابه: {وَقَالُوا لا تَذَرُنَّ آلِهَتَكُمْ وَلا تَذَرُنَّ وَدّاً وَلا سُوَاعاً وَلا يَغُوثَ وَيَعُوقَ وَنَسْراً. وَقَدْ أَضَلُّوا كَثِيراً} (5) .وقد قال غير واحد من السلف: إن هذه أسماء قوم صالحين كانوا في قوم نوح، فلما ماتوا عكفوا على قبورهم، ثم صوروا تماثيلهم، ثم عبدوهم (6) ، وقد ذكروا ذلك بعبارات متقاربة في كتب الحديث والتفسير، وقصص الأنبياء، كما ذكره البخاري في صحيحه وجماعة من أهل الحديث، وقد تقدم (7) في كلامشيخ الإسلام أيضاً، فأعدناه لعظيم فائدته.(وقد أمر الله نبيه أن يقول: {قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَمَنْ كَانَ يَرْجُوا لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَداً} (8) ، فيقول أهل الضلال: هذا يقوله في نفسه، وأما نحن فليس لنا أن
 
 ---
 
+<!-- evidence-id: 000430 -->
 #### Page 238
 
 نقول هو بشر، بل نقول كما قال فلان وفلان، ومن زعم أن محمداً بشر كله فقد كفر، وهذا يقوله طائفة منهم، وهو يشبه قول النصارى في المسيح، ونحن نعلم بالضرورة أن النبي صلى الله عليه وسلم لم يشرع لأحد أن يدعو أحداً من الأموات لا الأنبياء ولا الصالحين، ولا غيرهم، لا بلفظ الاستغاثة ولا بغيرها، كما أنه لم يشرع لأمته السجود لميت (1) ونحو ذلك، بل نعلم أنه نهى عن هذه الأمور كلها، وأن ذلك من الشرك الذي حرمه الله ورسوله صلى الله عليه وسلم، ولكن لغلبة الجهل، وقلة العلم بآثار الرسالة في كثير من المتأخرين لم يمكن تكفيرهم بذلك حتى يبين لهم ما جاء به الرسول مما يخالفها) (2) .إلى أن قال (3) رحمه الله تعالى: (وهؤلاء يدعون الميت أو الغائب (4) ، يقول أحدهم: بك أستغيث، بك أستجير، أغثنا، أجرنا، ويقول: أنت تعلم ذنوبي، ومنهم من يقول للميت: اغفر لي وارحمني وتب علي، ونحو ذلك، ومن لم يقل ذلك من عقلائهم فإنه يقول: أشكو إليك عدوي، أشكو إليك ظهور البدع أو جدب الناس، أو غير ذلك (5) ، فيشكو إليه ما حصل من ضرر/ في الدين والدنيا، ومقصوده بالشكوى أن يشكيه، فيزيل ذلك الضرر، وقد يقول مع ذلك للميت: أنت تعلم ما فعلته من الذنوب، فيجعل الميت، أو الحي، أو الغائب عالماً بذنوب العباد وجزئياتهم التي يمتنع أن يعلمها بشر، حي أو
@@ -8572,6 +9002,7 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 ---
 
 ### تحفة الطالب والجليس في كشف شبه داود بن جرجيس
+<!-- evidence-id: 000431 -->
 
 #### Page 56
 
@@ -8581,18 +9012,21 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000432 -->
 #### Page 57
 
 فأكثرُه دون ما أعطيه المسيح، ومع ذلك فالاحتجاج به على دعائهم من جنس حجج النصارى، لا يدل على المدَّعَى، بل غايته أن يدل1 على علو الدرجة، وصدق الرسالة، أو ثبوت الولاية إذا اقترن به عمل صالح.وأما الاستدلال بذلك على أنه يدعى ويرجى، ويشفع وينفع، فهذا من دين النصارى، والصائبة، وعباد الأصنام.وهذه الشبهة هي التي أوقعت في الشرك جمهور المشركين، فإن أصل عبادة الأصنام هو التعلق على الصالحين، وتصوير صورهم وتماثيلهم. بل عباد الكواكب دعاهم إلى عبادتها ما أودع الله فيها من الحِكم والمنافع التي ظهرت آثارها في هذا العالم، كما يعرفه من عرف مذاهب القوم.وطرد الدليل الذي استدل به العراقي: أن يقال بدعاء كل ذي كرامة وقربة2، إذا اعتقد أن الفاعل هو الله، ولا يتوجه الإنكار على النصارى في قولهم: يا عيسى افعل كذا، يا روح القدس أعطني كذا، ويا والدة المسيح اشفعي لنا إلى الإله، لأنه من أولي العزم، ومن أكابر أهل الكرامات.والمسلم إذا تصور هذا ظهر له ما فيه من الجهل والضلال، بمجرد الفطرة، ومعرفة الإسلام، وأما من رزق الفهم فيما جاء به
 
 ---
 
+<!-- evidence-id: 000433 -->
 #### Page 97
 
 نعمة الإسلام، وما اختصه به من الكرامة ورفع المقام، وليعتبره بما يراه من حال هؤلاء الضالين، كيف تلاعب بهم الشيطان، وأوصلهم إلى غاية من الجهل والضلال، حجبهم بها عن معرفة الله، ودينه، وحقه على عبيده، وعن معرفة رسله، ومعرفة حقهم، وما يجب لهم، وما يستحيل، وأوهمهم مع ذلك أنهم من أهل العلم بشرعه ودينه في التحريم والتحليل، وهم كما ترى ليس معهم من الإسلام أصل ولا خبر، ولم يقعوا من ذلك على عين ولا أثر.فإن حاصل ما قرره هنا: أن الله تعالى لم يحرم عبادة الأنبياء والملائكة والصالحين، ودعاءهم1، وإنما حَرَّم اعتقاد الاستقلال من دونه، واعتقاد الربوبية فيها. وأن العبادة هي السجود فقط، مع اعتقاد أنها أرباب –وهي الأصنام والأخشاب والأحجار- لا تملك شيئاً. وأن النداء يجوز لأنه ليس بعبادة، وأنه2 لم يذكر قط كون النداء عبادة، وما ذكره الشيخ تقي الدين من باب الزجر والإشارة، وله أكثر من مائة عبارة تنفي كون نداء الأنبياء والصالحين عبادة. ومن فهم من كلام الله تحريم دعاء الصالحين فهو مخطئ ضال، منفرد بهذا الفهم.هذا حاصل كلامه، فيا ويحه ما أكبر زلته، وما أغلظ كفره، وما أشدَّ عداوته لما جاءت به الرسل [وما أكثف حجابه عن معرفة ما أرسلت به الرسل] 3 واتفقت عليه دعوتهم، وهذا النوع من
 
 ---
 
+<!-- evidence-id: 000434 -->
 #### Page 98
 
 الناس1 هم أعوان إبليس وأنصاره في زمان ومكان، ظهروا للناس في ثياب القراء والعلماء، وهم من أجهل من تحت أديم السماء.يا فرقةً ما خان دينَ محمدٍ
@@ -8601,42 +9035,49 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 
 ---
 
+<!-- evidence-id: 000435 -->
 #### Page 99
 
 والآيات التي يعبَّر فيها بالموصول وصلته كقوله: {وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ} . [فاطر:13] ونحوها من الآيات، كقوله تعالى: {وَلَا تَدْعُ مِن دُونِ اللهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ} . [يونس:106] . {قُلِ ادْعُواْ الَّذِينَ زَعَمْتُم مِّن دُونِهِ} . [الإسراء:56] .فهذه الموصولات في كلام الله وكلام رسوله واقعة على كل مدعوّ ومعبود نبياً كان أو ملكاً أو صالحاًَ، إنسياً أو جنياً، حجراً أو شجراً، متناولة لذلك بأصل الوضع.فإن الصلة كاشفة ومبنية للمراد، وهي واقعة على كل مدعوٍّ من غير تخصيص، وهي أبلغ وأدل وأشمل من الأعلام الشخصية والجنسية، وهذا هو الوجه في إيثارها على الأعلام، وشرط الصلة أن تكون معهودة عند المخاطب. تقول: جاء الذي قام أبوه، لمن يعهد قيام الأب، ويجهل النسبة بينه وبين من جاء.والمعهود عند كل من يعقل من أصناف بني آدم أن الأنبياء والملائكة والصالحين قد عُبِدوا مع الله، وقصدهم المشركون بالدعاء في حاجاتهم وملماتهم، كما جرى لليهود والنصارى في عبادة الأنبياء والأحبار والرهبان، وكما جرى لقوم نوح في ودٍّ وسواع ويغوث ويعوق ونسر1، وكما جرى للعرب في عبادة الملائكة، واللات، وهو رجل صالح كان يلت السويق للحاج.
 
 ---
 
+<!-- evidence-id: 000436 -->
 #### Page 100
 
 وهذا أوضح من أن يحتاج لتقرير، وأظهر من أن يتوقف على كشف وتفسير. فإن العربي سليم الذوق والفطرة يعرفه1 بعربيته وفطرته، وجميع المفسرين يقررون هذا بضروب من العبارات والتقريرات، ويفهمها الذكي، ومَنْ خَصَّ الأصنام في بعض المواضع فهو لا يمنع أنها عبدت باعتبار من هي على صورته.وقد ذكر هذا ابن كثير في "تفسيره" وذكره غيره من أهل العلم. وقد كذب هذا عليهم، نسبهم إلى الجهل، كما كذب على الله ورسوله، قال تعالى: {وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُواْ عَلَى اللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ} . [الزمر:60] .وأيضاً فقد2 قال تعالى: {وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لا إِلَهَ إِلَّا أَنَا فَاعْبُدُونِ} . [الأنبياء:25] .فإن نازع هذا في عموم النفي فهو على مذهب من قال: (أجعل الآلهة إلهاً واحداً إن هذا لشيء عجاب) . وإن سلم العموم، وزعم أن دعاء الصالحين ونداءهم3 ليس بعبادة ولا دعاء فقد خرج عن المعقول والمنقول، وأتى بجهالة حمقى، خرج بها عَمَّا قاله جميع أئمة العلم والهدى.
 
 ---
 
+<!-- evidence-id: 000437 -->
 #### Page 123
 
 ونهى عن الذبح لله في مكان يذبح فيه لغيره1، حسماً لمادة الشرك، وقطعاً لوسائله، وسداً لذرائعه، وحماية للتوحيد، وصيانة لجانبه.فمن المستحيل شرعاً وفطرة وعقلاً؛ أن تأتي هذه الشريعة المطهرة الكاملة بإباحة دعاء الموتى والغائبين، والاستغاثة بهم في المهمات والملمات، كقول النصراني: يا والدة المسيح اشفعي لنا إلى الإله، أو يا عيسى، أعطني كذا، وافعل بي2 كذا، وكذلك قول القائل: يا علي، أو يا حسين، أو يا عباس، أو يا عبد القادر، أو يا عيدروس، أو يا بدوي، أو فلان وفلان: أعطني كذا، أو أجرني من كذا، أو أنا في حسبك، أو نحو ذلك من الألفاظ الشركية، التي3
 
 ---
 
+<!-- evidence-id: 000438 -->
 #### Page 124
 
 تتضمن1 العدل بالله، والتسوية به تعالى وتقدس، فهذا لا تأتي شريعة ولا رسالة بإباحته قط، بل هو من شُعَب الشرك الظاهرة الموجبة للخلود في النار، ومقتِ العزيز الغفار.وقد نص على ذلك مشايخ الإسلام، حتى ذكره ابن حجر في "الإعلام" مقرراً له.وتأويل الجاهلين، والميل إلى شبه المبطلين، هو الذي أوقع هؤلاء وأسلافهم الماضين، من أهل الكتاب والأميين، في الشرك بالله رب العالمين.فبعضهم يستدل على شركه بالمعجزات والكرامات.وبعضهم برؤيا المنامات.وبعضهم بالقياس على السوالف والعادات.وبعضهم بقول من يُحَسِّن به الظن.وكل هذه الأشياء ليست من الشرع في شيء، وعند رهبان النصارى وعباد الصليب والكواكب من هذا الضرب شيء كثير، وبعضهم أحذق من هذا العراقي وأمثاله، الذين لم يفهموا من العبادة سوى السجود، ولم يجدوا في معلومهم سواه، فأين الحب والخضوع، والتوكل والإنابة، والخوف والرجاء، والرغب والرهب، والطاعة والتقوى، ونحو ذلك من أنواع العبادة الباطنة والظاهرة؟ فكل هذا عند العراقي يصرف لغير الله، ولا يكون عبادة، لأن
 
 ---
 
+<!-- evidence-id: 000439 -->
 #### Page 125
 
 العبادة السجود فقط، بل عبارته تفهم أن السجود لا يحرم إلا على من زعم الاستقلال، وقد رأينا من المشركين، ولم نرَ مثل هذا الرجل في جهله ومجازفته وبلادته.ولولا ما نقصده من انتفاع من اطلع على هذه الرسالة لم نتعرض لرد شيء من كلامه، لظهور بطلانه.ويزيد هذا ظهوراً ما جاء في الحديث من قوله: "من سأل الناس وله ما يغنيه جاءت مسألته خدوشاً أو خموشاً في وجهه يوم القيامة" 1. وقوله: "لا تزال المسألة بأحدكم حتى يلقى الله وليس على
 
 ---
 
+<!-- evidence-id: 000440 -->
 #### Page 126
 
 وجهه مزعة لحم" 1.وقوله: "من نزلت به فاقة فأنزلها بالناس لم تسد فاقته، ومن أنزلها بالله أَوْشَكَ 2 له بالغنى: إما 3 بموت عاجل، أو غنى عاجل" 4.
 
 ---
 
+<!-- evidence-id: 000441 -->
 #### Page 127
 
 _________والترمذي حديث بشير بن إسماعيل ثنا سيار أبو الحكم عن طارق بن شهاب عن عبد الله عن النبي صلى الله عليه وسلم قال: "من أصابته فاقة فأنزلها بالناس لم تسد فاقته
@@ -8649,24 +9090,28 @@ _________والترمذي حديث بشير بن إسماعيل ثنا سيار 
 
 ---
 
+<!-- evidence-id: 000442 -->
 #### Page 128
 
 وقوله: "لا تحل المسألة إلا لثلاثة: الذي غرم مفضع، أو فقر مدقع، أو دم موجع" 1. هذا في سؤال الخلق ما يقدرون عليه من الأسباب الجزئية، فكيف ترى بما لا يقدر عليه إلا الله من الأمور العامة الكلية.وعلى زعم هذا العراقي لا يكره شيء من ذلك ولا يمنع لمن قصد الصالحين ودعاهم.وقوله: (على أنها أرباب) يريد به ما مَرَّ من أن دعاءها2 ومسألتها بطريق السبب والشاعة لا يضر. وقد تقدم رد هذا بما يغني عن إعادته.وقد عُلِّق على الحكم بالكفر وإباحة الدم والمال بنفس الشرك، وعبادة غير الله، قال تعالى: {وَقَاتِلُواْ الْمُشْرِكِينَ كَآفَّةً كَمَا يُقَاتِلُونَكُمْ كَآفَّةً} . [التوبة:36] . وقال: {وَقَاتِلُوهُمْ حَتَّى لَا تَكُونَ فِتْنَةٌ} .
 
 ---
 
+<!-- evidence-id: 000443 -->
 #### Page 129
 
 [الأنفال: 39] . والفتنة: الشرك. وقال تعالى: {إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ} . الآية [المائدة: 72] . وقال تعالى: {إِنَّ اللَّهَ لا يَغْفِرُ أَنْ يُشْرَكَ بِهِ} . [النساء:48] .ومن المشتهر عندهم أن تعليق الحكم بالمشتق يؤذن بالعِلِّية. وهذا الأحمق زاد قيداً فقال: "لا يشرك إلا من قصد واعتقد الاستقلال من دون الله". وفي تلبية المشركين في الجاهلية: "لبيك لا شريك لك، إلا شريكاً هو لك، تملكه وما ملك"1.فهؤلاء لم يدَّعوا الاستقلال. وعلى زعم هذا ليسوا بمشركين.وقوله: (وهذا نداء لا دعاء) من أدل الأشياء على جهله، وعدم ممارسته لشيء من العلم وإن قَلَّ، فإن النداء هو رفع الصوت بالدعاء، أو الأمر، أو النهي، ويقابله النجا الذي هو المسارَّة وخفض الصوت.هذا بإجماع أهل اللغة، كما حكاه ابن القيم في "نونيته" وشيخ الإسلام في "تسعينيته" وليس قسيماً للدعاء كما ظنه الغبي. قال تعالى: {وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ} . الآية [الكهف: 52] . ما فعلوه عين ما أمروا به، وكفى بهذه الآية حجة على إبطال قوله. وقال تعالى: {وَأَيُّوبَ إِذْ نَادَى رَبَّهُ} . [الأنبياء:83] .
 
 ---
 
+<!-- evidence-id: 000444 -->
 #### Page 139
 
 وأما دعاء غير الله فليس وسيلة1 شرعية، بل هو وسيلة أهل الشرك والجاهلية، من أعداء الرسل في كل زمان ومكان، والله لا يأمر بالشرك ولا يرضاه {قُلْ أَمَرَ رَبِّي بِالْقِسْطِ وَأَقِيمُواْ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ} . [الأعراف:29] .فكيف يتوسل إليه بالشرك به الذي هو أظلم الظلم، وضد القسط، والذي يمنع من إقامة الوجوه له عند المساجد، وهو –أي الشرك- حقيقة التوسل الذي قصده المشركون. قال الله تعالى: {فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ قُرْبَانًا آلِهَةً} . [الأحقاف:28] وقال تعالى: {وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ أَوْلِيَاء مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى} . [الزمر: 3] فهذا قد يسمى توسلاً، فإن لفظ التوسل صار مشتركاً، فيطلق شرعاً على ما يقرب إلى الله من الأعمال الصالحة التي يحبها الرب ويرضاها، ويطلق على التوسل بذوات الصالحين ودعائهم واستغفارهم، ويطلق في عرف عباد القبور على التوجه إلى الصالحين ودعائهم مع الله في الحاجات والملمات.والمراد بالآية هو2 الأوَّل عند أهل العلم والمفسرين.وأما التوسل بذوات الأنبياء والصالحين بدون طاعتهم وبدون استغفارهم فهذا لم يشرع3، ولا أصل له4، فإن التوسل بالأنبياء
 
 ---
 
+<!-- evidence-id: 000445 -->
 #### Page 140
 
 مع معصيتهم ومخالفتهم في الدين والملة، قد دلت آية سورة التحريم على المنع منه، وعدم الانتفاع بالتعلق والقرابة والنسب والتوسل بذلك لمن لم يؤمن بما جاؤوا به من الهدى ودين الحق.1وكذلك في الحديث لما أنزل عليه قوله: {وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ} . [الشعراء:214] قال: "يا معشر قريش، اشتروا أنفسكم من الله، لا أغني عنكم من الله شيئاً" 2.وأكبر من3 هذا من يدعوهم، ويستغيث بهم، ويتقرب إليهم بعبادتهم على أنها وسيلة له، وشفعاء، فإن هذا هو عين الشرك الذي ذمه القرآن وعابه، وإن سمي توسلاً.وأما ما ذكره بعد هذا الكلام من نسبة الذي ينهى عن دعاء غير الله إلى الجهل وعدم الفهم، فهذا يتناول كل من نهى عن دعاء الأنبياء والصالحين، ومعلوم أن الرسل نهت عن دعاء غير الله بما لا يقدر عليه إلا الله، بل وفيما لا تدعو4 إليه حاجة ولا ضرورة من جنس المسألة، فلازم كلامه مسبة الأنبياء، وأتباعهم إلى يوم القيامة، فنعوذ بالله من حال أهل الجهالة والسفاهة.
@@ -8674,6 +9119,7 @@ _________والترمذي حديث بشير بن إسماعيل ثنا سيار 
 ---
 
 ### ʿAbd al-Laṭīf Āl ash-Shaykh against Islām by mere affiliation
+<!-- evidence-id: 000446 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -8707,6 +9153,7 @@ This section can be built almost entirely from quoted distinctions:
 <a id="other-tawhid"></a>
 
 ### Permanent Committee: the confused excuser is not immediately treated like the original disbeliever
+<!-- evidence-id: 000447 -->
 
 The Permanent Committee’s answer says that it is not permissible for muwaḥḥidīn to declare their brothers disbelievers merely because those brothers refrain from declaring grave worshippers disbelievers until proof is established against them. Their hesitation may arise from a doubt concerning whether the proof must first be established upon the grave worshipper.
 
@@ -8720,6 +9167,7 @@ Source: *Fatāwā al-Lajnah al-Dāʾimah*, 3/96-97, 99.
 </details>
 
 ### Al-Malaṭī on the Muʿtazilah’s endless chain of takfīr
+<!-- evidence-id: 000448 -->
 
 Imām al-Malaṭī said:
 
@@ -8744,6 +9192,7 @@ Source: al-Malaṭī, *al-Tanbīh wa-al-Radd ʿalā Ahl al-Ahwāʾ wa-al-Bidaʿ*
 ## 10. Other tawḥīd evidence
 
 <!-- telegram-source: dar/messages3.html#message2200 -->
+<!-- evidence-id: 000449 -->
 
 Abū ʿAbdullāh (Imām Aḥmad) said:
 
@@ -8764,6 +9213,7 @@ Raising the hands in opening and bowing, lifting the head—these are to magnify
 ---
 
 <!-- telegram-source: dar/messages2.html#message1814 -->
+<!-- evidence-id: 000450 -->
 
 Imām Aḥmad transmits ijmāʿ on the takfir of the jahmiyyah, mu’tazilah and nothing nullifies ones Islam except shirk.
 
@@ -8790,6 +9240,7 @@ As for the Mu’tazilah, it has been agreed by the scholars we have encountered 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1937 -->
+<!-- evidence-id: 000451 -->
 
 Imām Al-Bukhārī mentioned in his Ṣaḥīḥ (Kitāb al-Īmān):
 
@@ -8808,6 +9259,7 @@ And several scholars said regarding His saying, the Exalted: "So by your Lord, W
 ---
 
 <!-- telegram-source: dar/messages2.html#message1882 -->
+<!-- evidence-id: 000452 -->
 
 Imām Al-Bukhārī mentioned in his Ṣaḥīḥ:
 
@@ -8826,6 +9278,7 @@ And His saying, exalted be His mention: “And you set up rivals to Him while He
 ---
 
 <!-- telegram-source: dar/messages2.html#message1720 -->
+<!-- evidence-id: 000453 -->
 
 Imām ʿAbdullāh Ibn Aḥmad reported:
 
@@ -8862,6 +9315,7 @@ The belief of the Qadariyyah involves both shirk and taʿṭīl. It entails attr
 ---
 
 <!-- telegram-source: dar/messages3.html#message2206 -->
+<!-- evidence-id: 000454 -->
 
 Imām al-Marwazī reported:
 
@@ -8884,6 +9338,7 @@ Ibn ’Abd al-Barr said: “Ishaq said: The scholars have unanimously agreed tha
 ---
 
 <!-- telegram-source: dar/messages2.html#message1732 -->
+<!-- evidence-id: 000455 -->
 
 Imām aṭ-Ṭabarī رحمه الله reported:
 
@@ -8902,6 +9357,7 @@ And by Allah, we do not know shirk to have ever been except in one of three ways
 ---
 
 <!-- telegram-source: dar/messages2.html#message1758 -->
+<!-- evidence-id: 000456 -->
 
 Imām aṭ-Ṭabarī رحمه الله reported:
 
@@ -8920,6 +9376,7 @@ Regarding the verse: “Indeed, Allah will judge between them concerning that ov
 ---
 
 <!-- telegram-source: dar/messages2.html#message1762 -->
+<!-- evidence-id: 000457 -->
 
 Imām aṭ-Ṭabarī رحمه الله said:
 
@@ -8940,6 +9397,7 @@ Allah, the Almighty, is addressing the polytheists who associate idols and false
 ---
 
 <!-- telegram-source: dar/messages4.html#message3980 -->
+<!-- evidence-id: 000458 -->
 
 Imām aṭ-Ṭabarī said regarding the verse:
 
@@ -8958,6 +9416,7 @@ And His saying: “Then his reckoning is only with his Lord.” It means: the re
 ---
 
 <!-- telegram-source: dar/messages5.html#message4999 -->
+<!-- evidence-id: 000459 -->
 
 Muḥammad ibn ʿAqīl ibn al-Azhar said:
 
@@ -8974,6 +9433,7 @@ And tawḥīd is what the Prophet ﷺ said: ‘I have been commanded to fight th
 ---
 
 <!-- telegram-source: dar/messages4.html#message3790 -->
+<!-- evidence-id: 000460 -->
 
 Imām al-Ājurrī reported with his chain:
 
@@ -8988,6 +9448,7 @@ Sufyān — meaning Sufyān al-Thawrī — reported from Abū Sinān al-Shaybān
 ---
 
 <!-- telegram-source: dar/messages4.html#message3407 -->
+<!-- evidence-id: 000461 -->
 
 Imām Ibn Baṭṭah said:
 
@@ -9002,6 +9463,7 @@ And a man goes out from īmān to islām, and nothing takes him out of islām ex
 ---
 
 <!-- telegram-source: dar/messages4.html#message3420 -->
+<!-- evidence-id: 000462 -->
 
 Imām Ibn Battāh said:
 
@@ -9024,6 +9486,7 @@ c. Sincerity does not occur except with the resolve of the heart and intention.
 ---
 
 <!-- telegram-source: dar/messages3.html#message2309 -->
+<!-- evidence-id: 000463 -->
 
 Ibn Ḥazm said:
 
@@ -9044,6 +9507,7 @@ Nor have they differed in the fact that it explicitly labels certain speech as k
 ---
 
 <!-- telegram-source: dar/messages4.html#message3961 -->
+<!-- evidence-id: 000464 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -9066,6 +9530,7 @@ Yet they take this to deny His ʿulūww over His creation and His distinction fr
 ---
 
 <!-- telegram-source: dar/messages4.html#message3998 -->
+<!-- evidence-id: 000465 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -9082,6 +9547,7 @@ So if the Prophet ﷺ forbade ṣalāh that includes du‘ā’ directed exclusi
 ---
 
 ### Ibn Taymiyyah: commanding or praising shirk is apostasy by agreement
+<!-- evidence-id: 000466 -->
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Show Arabic source text</summary>
@@ -9103,6 +9569,7 @@ Source: Ibn Taymiyyah, Bayān Talbīs al-Jahmiyyah, 3/54.
 <a id="ignorant-major-shirk"></a>
 
 <!-- telegram-source: dar/messages2.html#message1560 -->
+<!-- evidence-id: 000467 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -9121,6 +9588,7 @@ So, whoever loves a created being as they love the Creator has committed shirk, 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3953 -->
+<!-- evidence-id: 000468 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -9145,6 +9613,7 @@ And those who take Awliyâ’ besides Him (say): "We worship them only that they
 ---
 
 <!-- telegram-source: dar/messages4.html#message3561 -->
+<!-- evidence-id: 000469 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -9161,6 +9630,7 @@ And when one of them goes to the grave which he venerates, weeps at it, humbles 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3754 -->
+<!-- evidence-id: 000470 -->
 
 Shaykh al-Islām Ibn Taymiyyah said:
 
@@ -9175,6 +9645,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 ---
 
 <!-- telegram-source: dar/messages5.html#message4492 -->
+<!-- evidence-id: 000471 -->
 
 Ibn Qayyim said:
 
@@ -9191,6 +9662,7 @@ But these mushrikūn reversed the matter, and inverted the religion, and made th
 ---
 
 <!-- telegram-source: dar/messages4.html#message3371 -->
+<!-- evidence-id: 000472 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 
@@ -9213,6 +9685,7 @@ And among them — and this is the most dangerous of the kinds — are those who
 ---
 
 <!-- telegram-source: dar/messages4.html#message3356 -->
+<!-- evidence-id: 000473 -->
 
 The importance of affirming the names and attributes of Allah
 
@@ -9231,6 +9704,7 @@ The crux of the issue is this: the theologians say that tawḥīd is not complet
 ---
 
 <!-- telegram-source: dar/messages4.html#message3693 -->
+<!-- evidence-id: 000474 -->
 
 The Reality of the contemporary Murji’ah
 
@@ -9253,6 +9727,7 @@ Anyone with the slightest knowledge, upon seeing the condition of people today a
 ---
 
 <!-- telegram-source: dar/messages5.html#message4971 -->
+<!-- evidence-id: 000475 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9269,6 +9744,7 @@ The second issue, which is the major one: exposing the doubt of the scholars of 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4673 -->
+<!-- evidence-id: 000476 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9289,6 +9765,7 @@ But if you turn to Allāh and listen to the proofs of Allāh and His clear evide
 ---
 
 <!-- telegram-source: personal/messages.html#message858 -->
+<!-- evidence-id: 000477 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9307,6 +9784,7 @@ And whoever does not takfir the one whom the Qurʾān has declared a kāfir has 
 ---
 
 <!-- telegram-source: personal/messages.html#message862 -->
+<!-- evidence-id: 000478 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9325,6 +9803,7 @@ And whoever does not takfir the one whom the Qurʾān has declared a kāfir has 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4164 -->
+<!-- evidence-id: 000479 -->
 
 Shaykh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -9345,6 +9824,7 @@ Whoever does this has committed disbelief, even if he says, “Lā ilāha illa A
 ---
 
 <!-- telegram-source: dar/messages2.html#message1982 -->
+<!-- evidence-id: 000480 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -9361,6 +9841,7 @@ Whoever says this has lied about Allah and fabricated falsehood, for Allah has i
 ---
 
 <!-- telegram-source: dar/messages2.html#message1619 -->
+<!-- evidence-id: 000481 -->
 
 Sheikh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -9383,6 +9864,7 @@ The rites of sacrifice are part of worship; and so on and so forth. Whoever dedi
 ---
 
 <!-- telegram-source: personal/messages.html#message671 -->
+<!-- evidence-id: 000482 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9399,6 +9881,7 @@ So this mushrik may say: “The matter is in the hand of Allah, but this righteo
 ---
 
 <!-- telegram-source: personal/messages.html#message678 -->
+<!-- evidence-id: 000483 -->
 
 Shaykh ʿAbd Allah and Ḥasan, the sons of Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9417,6 +9900,7 @@ Rather, he is from those about whom Allah said:
 ---
 
 <!-- telegram-source: dar/messages4.html#message3362 -->
+<!-- evidence-id: 000484 -->
 
 the importance of knowing the meaning and acting in accordance to What the Shahādah entails
 
@@ -9433,6 +9917,7 @@ Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 ---
 
 <!-- telegram-source: dar/messages5.html#message4882 -->
+<!-- evidence-id: 000485 -->
 
 Shaykh ʿAbd al-Raḥmān ibn Ḥasan ibn Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -9451,6 +9936,7 @@ This type of person causes great harm to Islām, especially to the common people
 ---
 
 <!-- telegram-source: dar/messages4.html#message3630 -->
+<!-- evidence-id: 000486 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9467,6 +9953,7 @@ Rather, associating in duʿāʾ is the greatest shirk of the mushrikīn to whom 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3690 -->
+<!-- evidence-id: 000487 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9481,6 +9968,7 @@ As for a person saying: “La ilāha illā Allāh” without understanding its m
 ---
 
 <!-- telegram-source: dar/messages5.html#message5044 -->
+<!-- evidence-id: 000488 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9497,6 +9985,7 @@ And this is the meaning of the statement of the author: “Indeed, worship is Ta
 ---
 
 <!-- telegram-source: dar/messages4.html#message3538 -->
+<!-- evidence-id: 000489 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9515,6 +10004,7 @@ This includes all types of ʿworship, so it is obligatory to devote them purely 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3627 -->
+<!-- evidence-id: 000490 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9539,6 +10029,7 @@ And this is the reality of the two shahādatayn (testimonies). Whoever fulfills 
 ---
 
 <!-- telegram-source: dar/messages5.html#message5053 -->
+<!-- evidence-id: 000491 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said after listing numerous types of shirk and its evidence:
 
@@ -9557,6 +10048,7 @@ Otherwise, every type from the types of worship: whoever directs it to other tha
 ---
 
 <!-- telegram-source: dar/messages4.html#message3526 -->
+<!-- evidence-id: 000492 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9577,6 +10069,7 @@ So whoever directs anything of the worship that is befitting only for Allāh to 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3447 -->
+<!-- evidence-id: 000493 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9593,6 +10086,7 @@ Like the Jews who say “Lā ilāha illā Allāh” yet are mushrikūn, merely u
 ---
 
 <!-- telegram-source: dar/messages4.html#message3523 -->
+<!-- evidence-id: 000494 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -9607,6 +10101,7 @@ His statement: “Whoever bears witness that Lā ilāha illā Allāh (there is n
 ---
 
 <!-- telegram-source: dar/messages4.html#message3708 -->
+<!-- evidence-id: 000495 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -9625,6 +10120,7 @@ So it becomes clear to the seeker of the truth that whoever argues in favor of t
 ---
 
 <!-- telegram-source: dar/messages4.html#message3674 -->
+<!-- evidence-id: 000496 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -9645,6 +10141,7 @@ And as for the statement of the ignorant: “You are declaring the muslimīn to 
 ---
 
 <!-- telegram-source: dar/messages2.html#message2110 -->
+<!-- evidence-id: 000497 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -9673,6 +10170,7 @@ This is an example of a single act whose ruling changes based on its recipient: 
 ---
 
 <!-- telegram-source: dar/messages2.html#message2047 -->
+<!-- evidence-id: 000498 -->
 
 what is Wasīlah?
 
@@ -9701,6 +10199,7 @@ This is the correct understanding of wasīlah.
 ---
 
 <!-- telegram-source: dar/messages2.html#message2031 -->
+<!-- evidence-id: 000499 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -9725,6 +10224,7 @@ The rebuke in these verses applies to anyone who calls upon those who possess th
 ---
 
 <!-- telegram-source: dar/messages5.html#message4978 -->
+<!-- evidence-id: 000500 -->
 
 an important question to ask yourself, do you fall into one of the categories mentioned by Shaykh Abd ar-Raḥmān ibn Ḥasan
 
@@ -9759,6 +10259,7 @@ It is said to this unfortunate one: reflect upon yourself! Are you inside these 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4230 -->
+<!-- evidence-id: 000501 -->
 
 Shaykh Abd ar-Raḥmān ibn Ḥasan said:
 
@@ -9785,6 +10286,7 @@ And the likes of these verses regarding the clarification of the Tawḥīd to wh
 ---
 
 <!-- telegram-source: dar/messages5.html#message4952 -->
+<!-- evidence-id: 000502 -->
 
 Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān ibn Ḥasan ibn ʿAbd al-Wahhāb said:
 
@@ -9807,6 +10309,7 @@ It will become clear to you that Islām is not established except by showing enm
 ---
 
 <!-- telegram-source: dar/messages2.html#message1521 -->
+<!-- evidence-id: 000503 -->
 
 Sheikh ’Abd ar-Raḥmān ash-Shaykh said:
 
@@ -9841,6 +10344,7 @@ For these reasons, among others, Allah, the Exalted, has declared that He will n
 ---
 
 <!-- telegram-source: dar/messages4.html#message3268 -->
+<!-- evidence-id: 000504 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Ḥasan said:
 
@@ -9857,6 +10361,7 @@ Lā ilāha illā Allāh — how could this shirk be hidden from him, to the poin
 ---
 
 <!-- telegram-source: dar/messages2.html#message1535 -->
+<!-- evidence-id: 000505 -->
 
 Sheikh ’Abd ar-Raḥmān ash-Shaykh said:
 
@@ -9895,6 +10400,7 @@ In this, it is evident that calling upon others besides Allah for something that
 ---
 
 <!-- telegram-source: dar/messages3.html#message2414 -->
+<!-- evidence-id: 000506 -->
 
 Shaykh Al-Mujaddid ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -9911,6 +10417,7 @@ He took words from Shaykh al-Islām Ibn Taymiyyah regarding the people of bidʿa
 ---
 
 <!-- telegram-source: dar/messages2.html#message1531 -->
+<!-- evidence-id: 000507 -->
 
 Sheikh ’Abd ar-Raḥmān ash-Shaykh said:
 
@@ -9939,6 +10446,7 @@ And whoever’s love, hatred, giving, and withholding is for his own desire, the
 ---
 
 <!-- telegram-source: personal/messages.html#message677 -->
+<!-- evidence-id: 000508 -->
 
 Shaykh ʿAbd al-Raḥmān ibn Ḥasan said:
 
@@ -9955,6 +10463,7 @@ For if he had known the meaning of ‘Lā ilāha illā Allāh,’ he would have 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3711 -->
+<!-- evidence-id: 000509 -->
 
 Shaykh Abd ar-Raḥmān ibn Ḥasan Āl ash-Shaykh said:
 
@@ -9969,6 +10478,7 @@ His statement: “And that they not associate anything with Him” — meaning, 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4988 -->
+<!-- evidence-id: 000510 -->
 
 Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān ibn Ḥasan ibn ʿAbd al-Wahhāb said:
 
@@ -9983,6 +10493,7 @@ And whoever turns away from the speech of the ahl al-ʿilm, and holds that whoev
 ---
 
 <!-- telegram-source: dar/messages5.html#message4308 -->
+<!-- evidence-id: 000511 -->
 
 Shaykh ʿAbd al-Laṭīf Āl al-Shaykh said:
 
@@ -10011,6 +10522,7 @@ And the greatest right of Islam and its fundamental foundation is: worshipping A
 ---
 
 <!-- telegram-source: dar/messages4.html#message3428 -->
+<!-- evidence-id: 000512 -->
 
 Shaykh ʿAbd al-Laṭīf Āl al-Shaykh said:
 
@@ -10031,6 +10543,7 @@ And takfīr for abandoning these uṣūl (foundations) and not believing in them
 ---
 
 <!-- telegram-source: dar/messages5.html#message4549 -->
+<!-- evidence-id: 000513 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -10047,6 +10560,7 @@ And both types are not judged to be Muslims, nor do they enter into the Label of
 ---
 
 <!-- telegram-source: dar/messages4.html#message3359 -->
+<!-- evidence-id: 000514 -->
 
 Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān said:
 
@@ -10061,6 +10575,7 @@ Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān said:
 ---
 
 <!-- telegram-source: dar/messages5.html#message4582 -->
+<!-- evidence-id: 000515 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -10083,6 +10598,7 @@ All of the prophets are upon the religion of Islām. It entails submission to Al
 ---
 
 <!-- telegram-source: dar/messages4.html#message3821 -->
+<!-- evidence-id: 000516 -->
 
 Shaykh Ḥamad ibn ʿAtīq said:
 
@@ -10105,6 +10621,7 @@ And there is ijmāʿ among the scholars that whoever directs any part of either 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4992 -->
+<!-- evidence-id: 000517 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Laṭīf and Shaykh Sulaymān ibn Saḥmān said:
 
@@ -10121,6 +10638,7 @@ Such as saying: “Yā Rasūl Allāh, yā Kaʿbat Allāh, yā Maqām Ibrāhīm,�
 ---
 
 <!-- telegram-source: dar/messages4.html#message3927 -->
+<!-- evidence-id: 000518 -->
 
 al-ʿAllāmah Shaykh Sulaymān ibn Suḥmān said:
 
@@ -10137,6 +10655,7 @@ These are the ones whom Allāh, Glorified and Exalted, is pleased with, as He sa
 ---
 
 <!-- telegram-source: dar/messages5.html#message4604 -->
+<!-- evidence-id: 000519 -->
 
 Shaykh Sulaymān ibn Saḥmān said:
 
@@ -10159,6 +10678,7 @@ And whoever does not have the description of kufr established upon him, while he
 ---
 
 <!-- telegram-source: dar/messages5.html#message4418 -->
+<!-- evidence-id: 000520 -->
 
 Shaykh ʿAbd al-Raḥmān ibn Nāṣir al-Saʿdī said:
 
@@ -10179,6 +10699,7 @@ Along with that, he becomes devoted and worshipful to Allah alone, hoping in non
 ---
 
 <!-- telegram-source: dar/messages5.html#message4586 -->
+<!-- evidence-id: 000521 -->
 
 Shaykh ʿAbd ar-Raḥmān as-Saʿdī said:
 
@@ -10195,6 +10716,7 @@ So whoever does not follow it does not achieve salvation from the punishment of 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4833 -->
+<!-- evidence-id: 000522 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -10209,6 +10731,7 @@ And the ḥadīth indicates teaching by gradual stages: beginning with the most 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4627 -->
+<!-- evidence-id: 000523 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -10227,6 +10750,7 @@ In summary: this is its price — the one that saves it from the punishment of A
 ---
 
 <!-- telegram-source: personal/messages.html#message541 -->
+<!-- evidence-id: 000524 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -10241,6 +10765,7 @@ Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 ---
 
 <!-- telegram-source: dar/messages5.html#message4373 -->
+<!-- evidence-id: 000525 -->
 
 Shaykh Muḥammad ibn Ibrahim said:
 
@@ -10259,6 +10784,7 @@ Is it imagined that those who were pleased with idols, worshipped them, protecte
 ---
 
 <!-- telegram-source: dar/messages5.html#message4617 -->
+<!-- evidence-id: 000526 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -10289,6 +10815,7 @@ By knowledge, one is saved from the path of the Christians—which is misguidanc
 ---
 
 <!-- telegram-source: dar/messages5.html#message4624 -->
+<!-- evidence-id: 000527 -->
 
 Shaykh Muḥammad ibn Ibrāhīm Āl ash-Shaykh said:
 
@@ -10305,6 +10832,7 @@ These are six matters. Whoever brings them outwardly has brought what protects h
 ---
 
 <!-- telegram-source: personal/messages.html#message742 -->
+<!-- evidence-id: 000528 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -10325,6 +10853,7 @@ And this category of people has been overpowered by Shayṭān, such that they t
 ---
 
 <!-- telegram-source: dar/messages4.html#message3585 -->
+<!-- evidence-id: 000529 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -10341,6 +10870,7 @@ But this objector does not know the reality of Islām, nor the difference betwee
 ---
 
 <!-- telegram-source: dar/messages5.html#message5090 -->
+<!-- evidence-id: 000530 -->
 
 The advice of Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī
 
@@ -10361,6 +10891,7 @@ And the most obligatory form of jihād is striving against them, with proof and 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3602 -->
+<!-- evidence-id: 000531 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -10379,12 +10910,14 @@ And the most obligatory form of jihād is to strive against them — with proof,
 ---
 
 <!-- telegram-source: dar/messages5.html#message4897 -->
+<!-- evidence-id: 000532 -->
 
 Ruling on those who do not takfir the Mushrikīn mentioned by some of the scholars of Najd by Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī
 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3983 -->
+<!-- evidence-id: 000533 -->
 
 Shaykh Ibn Bāz said:
 
@@ -10403,6 +10936,7 @@ The exception to this is du‘āʾ to the Living, All-Powerful, Present Allāh; 
 ---
 
 <!-- telegram-source: personal/messages.html#message538 -->
+<!-- evidence-id: 000534 -->
 
 Shaykh Ibn Bāz said:
 
@@ -10419,6 +10953,7 @@ So it is obligatory upon the mukallafīn (legally responsible Muslims) to hold t
 ---
 
 <!-- telegram-source: dar/messages4.html#message3725 -->
+<!-- evidence-id: 000535 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -10448,6 +10983,7 @@ Answer: Deliverance from both major and minor shirk is through sincere repentanc
 ---
 
 <!-- telegram-source: dar/messages3.html#message2727 -->
+<!-- evidence-id: 000536 -->
 
 Shaykh Ibn ʿUthaymīn said:
 
@@ -10472,6 +11008,7 @@ Whoever does not worship Allah is a disbelieving arrogant one; Whoever worships 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4218 -->
+<!-- evidence-id: 000537 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -10491,6 +11028,7 @@ As for the one who swears by other than Allāh, he may be given zakāh, because 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4244 -->
+<!-- evidence-id: 000538 -->
 
 Shaykh Ṣāliḥ al-Luḥaidān said:
 
@@ -10513,6 +11051,7 @@ So if a person knows that someone died upon Shirk al-akbar — even if he was a 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3345 -->
+<!-- evidence-id: 000539 -->
 
 Shaykh al-Luḥaydān was asked:
 
@@ -10529,6 +11068,7 @@ So those who worship the graves with acts of worship are not brothers to the Mus
 ---
 
 <!-- telegram-source: dar/messages5.html#message5059 -->
+<!-- evidence-id: 000540 -->
 
 Fatwā no. (10684):
 
@@ -10561,6 +11101,7 @@ Member: ʿAbd Allāh ibn Ghadayyān
 ---
 
 <!-- telegram-source: dar/messages2.html#message1179 -->
+<!-- evidence-id: 000541 -->
 
 Q10: Some of the devout youth of today claim that all or most of those who fall into shirk in the Islamic world today are not considered polytheists; because they are either great scholars who, through their ijtihad, have concluded that seeking help from others besides Allah is permissible, as did al-Suyūṭī, al-Nabhānī, and others. This is said to have two rewards: one if correct, and one if wrong. Alternatively, they are ordinary laypeople, and this is the utmost they are capable of.
 
@@ -10579,6 +11120,7 @@ And Allah grants success. May peace and blessings be upon our Prophet Muhammad, 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3908 -->
+<!-- evidence-id: 000542 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10601,6 +11143,7 @@ Thus, the point is not merely that a person worships Allah; he must also avoid s
 ---
 
 <!-- telegram-source: dar/messages5.html#message4427 -->
+<!-- evidence-id: 000543 -->
 
 Shaykh al-Fawzān said:
 
@@ -10616,6 +11159,7 @@ Meaning, even many of the scholars in those centuries intensified their oppositi
 ---
 
 <!-- telegram-source: dar/messages5.html#message4889 -->
+<!-- evidence-id: 000544 -->
 
 Shaykh al-Fawzān said:
 
@@ -10636,6 +11180,7 @@ This is the right of Allāh upon His servants, and it is the first of rights, as
 ---
 
 <!-- telegram-source: dar/messages5.html#message4879 -->
+<!-- evidence-id: 000545 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -10649,6 +11194,7 @@ A: I do not know of this distinction. Whenever someone commits shirk, then he is
 ---
 
 <!-- telegram-source: dar/messages4.html#message3871 -->
+<!-- evidence-id: 000546 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -10667,6 +11213,7 @@ A: Yes, I clarified an understanding — not the wording of the Shaykh himself. 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3874 -->
+<!-- evidence-id: 000547 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -10677,6 +11224,7 @@ A: I do not know of such a distinction. Whenever a person commits shirk, he is a
 ---
 
 <!-- telegram-source: dar/messages5.html#message4264 -->
+<!-- evidence-id: 000548 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10707,6 +11255,7 @@ Likewise, what is slaughtered upon first entering a house out of fear of the jin
 ---
 
 <!-- telegram-source: dar/messages5.html#message4700 -->
+<!-- evidence-id: 000549 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10729,6 +11278,7 @@ This verse does not exclude anyone. Whoever commits Shirk al-Akbar, his deeds ar
 ---
 
 <!-- telegram-source: dar/messages4.html#message3334 -->
+<!-- evidence-id: 000550 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -10755,6 +11305,7 @@ Rather, he must act in accordance with it, dedicating his religion, worship, and
 ---
 
 <!-- telegram-source: personal/messages.html#message526 -->
+<!-- evidence-id: 000551 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10773,6 +11324,7 @@ The verse “And avoid the ṭāghūt” encompasses both abandoning the worship
 ---
 
 <!-- telegram-source: dar/messages4.html#message4089 -->
+<!-- evidence-id: 000552 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10789,6 +11341,7 @@ It is obligatory upon a Muslim to fear Allāh, exalted is He. If he wishes to ca
 ---
 
 <!-- telegram-source: dar/messages4.html#message4005 -->
+<!-- evidence-id: 000553 -->
 
 Shaykh al-Fawzān said regarding the verse:
 
@@ -10815,6 +11368,7 @@ That idols do not hear the one who calls upon them, nor respond to him—contrar
 ---
 
 <!-- telegram-source: dar/messages4.html#message3802 -->
+<!-- evidence-id: 000554 -->
 
 Shaykh al-Fawzān said:
 
@@ -10841,6 +11395,7 @@ Shaykh al-Fawzān said:
 ---
 
 <!-- telegram-source: dar/messages4.html#message4065 -->
+<!-- evidence-id: 000555 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -10855,6 +11410,7 @@ A : Duʿāʾ is shafāʿah. What is the meaning of shafāʿah? Its meaning is th
 ---
 
 <!-- telegram-source: personal/messages.html#message573 -->
+<!-- evidence-id: 000556 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10870,6 +11426,7 @@ Merely uttering “lā ilāha illā Allāh” is not sufficient without understa
 ---
 
 <!-- telegram-source: dar/messages5.html#message4841 -->
+<!-- evidence-id: 000557 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10886,6 +11443,7 @@ And this is the madhhab of the extremists of the Murjiʾah. We ask Allah for wel
 ---
 
 <!-- telegram-source: dar/messages5.html#message4470 -->
+<!-- evidence-id: 000558 -->
 
 Shaykh al-Fawzān was asked:
 
@@ -10908,6 +11466,7 @@ As for those who perform ṭawāf around graves, they are seeking nearness to th
 ---
 
 <!-- telegram-source: dar/messages5.html#message4752 -->
+<!-- evidence-id: 000559 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -10920,6 +11479,7 @@ He must believe in its meaning, and he cannot believe in its meaning unless if h
 ---
 
 <!-- telegram-source: dar/messages4.html#message4225 -->
+<!-- evidence-id: 000560 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -10933,6 +11493,7 @@ A: O brothers, do not argue about these issues. Whoever insults Allah is a kāfi
 ---
 
 <!-- telegram-source: dar/messages4.html#message4128 -->
+<!-- evidence-id: 000561 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -10951,6 +11512,7 @@ This is something they have said in these days, when a group from the Murjiʾah 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4240 -->
+<!-- evidence-id: 000562 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān was asked:
 
@@ -10982,6 +11544,7 @@ al-Nuʿmān ibn Bashīr narrated from the Prophet ﷺ, that he said: “Duʿāʾ
 ---
 
 <!-- telegram-source: dar/messages5.html#message4906 -->
+<!-- evidence-id: 000563 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān said:
 
@@ -11002,6 +11565,7 @@ And this is the shirk akbar which this statement nullifies. If they were of thos
 ---
 
 <!-- telegram-source: dar/messages5.html#message4430 -->
+<!-- evidence-id: 000564 -->
 
 Shaykh ʿAbdullāh Al-Ghunaymān said:
 
@@ -11018,6 +11582,7 @@ That merely pronouncing them is not sufficient; rather, it is necessary that he 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3506 -->
+<!-- evidence-id: 000565 -->
 
 Dr. Ahmad ibn ʿAbd Allāh al-Ghunaymān said:
 
@@ -11034,6 +11599,7 @@ And whoever believes that anyone other than Allah has that power, he is a mushri
 ---
 
 <!-- telegram-source: dar/messages5.html#message4300 -->
+<!-- evidence-id: 000566 -->
 
 Does the shahada benefit one who doesn’t know its meaning?
 
@@ -11056,6 +11622,7 @@ Mere utterance does not benefit. It is well known that people differ in levels o
 ---
 
 <!-- telegram-source: dar/messages5.html#message4858 -->
+<!-- evidence-id: 000567 -->
 
 Shaykh ʿAbdullāh Al-Ghunaymān said:
 
@@ -11066,6 +11633,7 @@ As for a person whose heart is devoted to Allah, truthful, certain, and sincere,
 ---
 
 <!-- telegram-source: dar/messages5.html#message4444 -->
+<!-- evidence-id: 000568 -->
 
 Shaykh ʿAbd al-Muḥsin al-ʿAbbād was asked:
 
@@ -11083,6 +11651,7 @@ And his ṣalāh is invalid in the sense that it is not correct to follow him. W
 ---
 
 <!-- telegram-source: dar/messages4.html#message4070 -->
+<!-- evidence-id: 000569 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11103,6 +11672,7 @@ An example of that: a person performs wuḍū’ and perfects the wuḍū’, th
 ---
 
 <!-- telegram-source: dar/messages4.html#message4067 -->
+<!-- evidence-id: 000570 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11123,6 +11693,7 @@ As for the kāfir, Allāh does not approve of him, and no one can intercede for 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4132 -->
+<!-- evidence-id: 000571 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11155,6 +11726,7 @@ Meaning: if he doubts the obligation of disavowal from every object of worship b
 ---
 
 <!-- telegram-source: dar/messages4.html#message4138 -->
+<!-- evidence-id: 000572 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11169,6 +11741,7 @@ Whoever realises tawḥīd in his heart, and removes from it everything besides 
 ---
 
 <!-- telegram-source: personal/messages.html#message908 -->
+<!-- evidence-id: 000573 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11187,6 +11760,7 @@ Therefore, everyone who worships other than Allah is a mushrik and a kāfir.
 [Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb by Shaykh ar-Rājihī 1/141]
 
 <!-- telegram-source: dar/messages4.html#message3763 -->
+<!-- evidence-id: 000574 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11211,6 +11785,7 @@ In fact, it is ʿibādah itself.  It is narrated from an-Nuʿmān ibn Bashīr th
 ---
 
 <!-- telegram-source: dar/messages5.html#message4917 -->
+<!-- evidence-id: 000575 -->
 
 Shaykh ar-Rājihī said:
 
@@ -11231,6 +11806,7 @@ So if the grave worshippers today say: “We only intend intercession,” we say
 ---
 
 <!-- telegram-source: dar/messages5.html#message4393 -->
+<!-- evidence-id: 000576 -->
 
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -11257,6 +11833,7 @@ The correct view is that it is valid, but praying behind a upright person is bet
 ---
 
 <!-- telegram-source: dar/messages4.html#message3866 -->
+<!-- evidence-id: 000577 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -11271,6 +11848,7 @@ You are looking here at his belief of lā ilāha illā Allāh through action. So
 ---
 
 <!-- telegram-source: personal/messages.html#message536 -->
+<!-- evidence-id: 000578 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -11289,6 +11867,7 @@ For this reason we know that whoever worships other than Allāh is opposing ever
 ---
 
 <!-- telegram-source: dar/messages3.html#message2545 -->
+<!-- evidence-id: 000579 -->
 
 Ruling by other than Allah
 
@@ -11320,6 +11899,7 @@ The third situation is the case of the mutaḥākimīn—those who seek judgment
 ---
 
 <!-- telegram-source: dar/messages4.html#message3389 -->
+<!-- evidence-id: 000580 -->
 
 Shaykh Ṣāliḥ Āsh-Shaykh said:
 
@@ -11338,6 +11918,7 @@ It must lead him to the recognition that the One who alone created, the One who 
 ---
 
 <!-- telegram-source: personal/messages.html#message674 -->
+<!-- evidence-id: 000581 -->
 
 Shaykh Khālid al-Mushayqiḥ was asked:
 
@@ -11362,6 +11943,7 @@ A: No, this is not correct. Also, if we say that it is obligatory, then this its
 ---
 
 <!-- telegram-source: dar/messages5.html#message4850 -->
+<!-- evidence-id: 000582 -->
 
 Shaykh Ṣāliḥ as-Suwayyiḥ said:
 
@@ -11382,6 +11964,7 @@ So whoever’s action is the action of the Muslims is called a Muslim, and whoev
 ---
 
 <!-- telegram-source: dar/messages3.html#message2663 -->
+<!-- evidence-id: 000583 -->
 
 Dr. Ayman al-ʿAnqarī said:
 
@@ -11404,6 +11987,7 @@ Or approaching al-Badawī or al-Dusūqī or al-Ḥusayn or ʿAlī and saying: �
 ---
 
 <!-- telegram-source: dar/messages4.html#message3465 -->
+<!-- evidence-id: 000584 -->
 
 Shaykh Ayman al-ʿAnqarī said:
 
@@ -11416,12 +12000,14 @@ We hear from some who claim to be Muslims the phrase: “O Messenger of Allah, i
 ---
 
 <!-- telegram-source: dar/messages5.html#message4856 -->
+<!-- evidence-id: 000585 -->
 
 Benefits from The first session of the Sharḥ of ”Mufīd al-Mustafīd by Imām al-Mujaddid Muḥammad Ibn ʿAbd al-Wahhāb" by Shaykh Ayman Al-Anqarī
 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4589 -->
+<!-- evidence-id: 000586 -->
 
 A very important warning against the misguidance of the Murjiʾī ʿAbd al-Azīz Ar-Rayyis by Shaykh Ayman Al-Anqarī.
 
@@ -11434,6 +12020,7 @@ I advise one, Observe this video and understand this man’s tremendous errors a
 ---
 
 <!-- telegram-source: dar/messages4.html#message3289 -->
+<!-- evidence-id: 000587 -->
 
 Fatawa of Shaykh ʿAbd Allāh al-Jarbūʿ on ṭalab al-du‘ā’
 
@@ -11461,6 +12048,7 @@ Saying it is a bid‘ah does not mean it is not shirk. No—it is a bid‘ah tha
 ---
 
 <!-- telegram-source: dar/messages5.html#message4591 -->
+<!-- evidence-id: 000588 -->
 
 I asked Shaykh Manṣūr as-Samarī:
 
@@ -11488,6 +12076,7 @@ Although as the mashaykh have also said, the majority of those who perform ṭaw
 ---
 
 <!-- telegram-source: dar/messages5.html#message4662 -->
+<!-- evidence-id: 000589 -->
 
 The virtue of Kashf ash-Shubuhāt
 
@@ -11509,6 +12098,7 @@ Amongst the beneficial Sharḥ of this great and important book are from shaykh 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4536 -->
+<!-- evidence-id: 000590 -->
 
 The caller to tawḥīd will have enemies.
 
@@ -11527,6 +12117,7 @@ If you see a dāʿi (caller) who has no enemies, then know that he is in danger,
 ---
 
 <!-- telegram-source: dar/messages5.html#message4579 -->
+<!-- evidence-id: 000591 -->
 
 Shaykh Abī al-ʿAlā ar-Rāshid said:
 
@@ -11556,6 +12147,7 @@ So we will ask them, why do they disbelieve in Allah and treat the Muslim with t
 ---
 
 <!-- telegram-source: dar/messages4.html#message4221 -->
+<!-- evidence-id: 000592 -->
 
 Shaykh Ṣāliḥ Sindī said:
 
@@ -11576,6 +12168,7 @@ This matter is of great importance, and much of the deception of the Mushrikīn�
 ---
 
 <!-- telegram-source: dar/messages4.html#message3228 -->
+<!-- evidence-id: 000593 -->
 
 Shaykh Abdullah Ibn Zayd said:
 
@@ -11596,10 +12189,12 @@ Those servants, those graves, those idols, those prophets, angels, righteous peo
 ---
 
 <!-- telegram-source: dar/messages3.html#message2709 -->
+<!-- evidence-id: 000594 -->
 
 ---
 
 <!-- telegram-source: dar/messages.html#message248 -->
+<!-- evidence-id: 000595 -->
 
 They unanimously agreed on the leadership (Imamate) of Abu Bakr, Umar, Uthman, and Ali (peace be upon them). And they give precedence to the first two caliphs (Abu Bakr and Umar). They also unanimously agreed that the ten who were promised Paradise are certainly and undoubtedly in Paradise.
 
@@ -11616,6 +12211,7 @@ This, and similar matters, which would be lengthy to explain, has been unanimous
 ---
 
 <!-- telegram-source: dar/messages3.html#message2550 -->
+<!-- evidence-id: 000596 -->
 
 How is tashrīʿ (legislation) understood in the above?
 
@@ -11642,6 +12238,7 @@ But all sinners — except those whom Allah guides — act arrogantly. They are 
 Every unique substantive statement from the personal Istighatha/Tawasul Telegram topic and the relevant Dār as-Salafiyyah #tawḥīd posts is included below. Caption-only media not containing a written statement is omitted. Full-context passages found through the direct local-book search are placed under the same subjects rather than separated by collection.
 
 <!-- telegram-source: dar/messages3.html#message3161 -->
+<!-- evidence-id: 000597 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -11662,6 +12259,7 @@ And even worse than this is when someone says, “Forgive me” or “Accept my 
 ---
 
 <!-- telegram-source: dar/messages3.html#message3082 -->
+<!-- evidence-id: 000598 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -11678,6 +12276,7 @@ For they are all agreed that the dead are not to be called upon, nor is anything
 ---
 
 <!-- telegram-source: dar/messages4.html#message3973 -->
+<!-- evidence-id: 000599 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh ibn Muḥammad said:
 
@@ -11696,6 +12295,7 @@ The evidences for this are too many to enumerate. Many people do not distinguish
 ---
 
 <!-- telegram-source: dar/messages5.html#message5069 -->
+<!-- evidence-id: 000600 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -11710,6 +12310,7 @@ So if an arguer disputes that the worship of shrines, and calling upon the dead 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4824 -->
+<!-- evidence-id: 000601 -->
 
 Shaykh ʿAbd al-Raḥmān ibn Ḥasan ibn Muḥammad said:
 
@@ -11726,6 +12327,7 @@ Among them is Allāh’s statement: “Or have they taken other than Allāh as i
 ---
 
 <!-- telegram-source: dar/messages2.html#message1912 -->
+<!-- evidence-id: 000602 -->
 
 Shaykh ʿAbd ar-Raḥmān Ibn Ḥasan said:
 
@@ -11752,6 +12354,7 @@ And Allāh has clarified in His Book that some of the polytheists are ignorant f
 ---
 
 <!-- telegram-source: dar/messages4.html#message3969 -->
+<!-- evidence-id: 000603 -->
 
 Shaykh Ibn Bāz was asked:
 
@@ -11768,6 +12371,7 @@ Answer: No, this is still shirk al-akbar. The reason is that the dead cannot mak
 ---
 
 <!-- telegram-source: dar/messages4.html#message3905 -->
+<!-- evidence-id: 000604 -->
 
 Ṭalab ad-Duʿāʾ (requesting Duʿāʾ) from the dead is Shirk Akbar
 
@@ -11794,6 +12398,7 @@ A: “Yes; he did not lie. Ibn Taymiyyah explicitly stated this. Ibn Taymiyyah m
 ---
 
 <!-- telegram-source: dar/messages4.html#message3747 -->
+<!-- evidence-id: 000605 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -11812,6 +12417,7 @@ Although he is a mushrik, he is also a fool who misguides himself. Allāh says: 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3723 -->
+<!-- evidence-id: 000606 -->
 
 Some of the Murji’ah use the claim of hidden shirk to excuse the mushrikĩn, they say Istighathā falls into this category, that it is hidden shirk. What did Our Imām’s Ibn Bāz and Ibn ‘Uthaymīn say regarding hidden shirk and what it is?
 
@@ -11836,6 +12442,7 @@ Allāh said regarding them: “In their hearts is a disease, and Allāh has incr
 ---
 
 <!-- telegram-source: dar/messages4.html#message3280 -->
+<!-- evidence-id: 000607 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -11851,6 +12458,7 @@ Answer: This is a false statement. Asking the dead for one’s needs is shirk, a
 ---
 
 <!-- telegram-source: dar/messages4.html#message3965 -->
+<!-- evidence-id: 000608 -->
 
 Shaykh Ṣāliḥ Āl ash-Shaykh said:
 
@@ -11873,6 +12481,7 @@ For this reason, directing shafāʿah toward other than Allāh becomes major shi
 ---
 
 <!-- telegram-source: dar/messages4.html#message3397 -->
+<!-- evidence-id: 000609 -->
 
 Shaykh Ayman al-ʿAnqarī said:
 
@@ -11903,8 +12512,10 @@ Thus it became clear that the form of requesting shafāʿah and duʿāʾ from th
 ---
 
 ### Foundations: duʿāʾ, worship, and istighāthah
+<!-- evidence-id: 000610 -->
 
 <!-- telegram-source: dar/messages3.html#message2200 -->
+<!-- evidence-id: 000611 -->
 
 Abū ʿAbdullāh (Imām Aḥmad) said:
 
@@ -11926,6 +12537,7 @@ Source: Ta'ẓīm Qadr aṣ-Ṣalāh - Imām  al-Marwazī 1/268
 ---
 
 <!-- telegram-source: dar/messages2.html#message1882 -->
+<!-- evidence-id: 000612 -->
 
 Imām Al-Bukhārī mentioned in his Ṣaḥīḥ:
 
@@ -11945,6 +12557,7 @@ Source: Ṣaḥīḥ al-Bukhārī p.1858
 ---
 
 <!-- telegram-source: dar/messages2.html#message1762 -->
+<!-- evidence-id: 000613 -->
 
 Imām aṭ-Ṭabarī رحمه الله said:
 
@@ -11965,6 +12578,7 @@ Allah, the Almighty, is addressing the polytheists who associate idols and false
 ---
 
 <!-- telegram-source: dar/messages.html#message248 -->
+<!-- evidence-id: 000614 -->
 
 They unanimously agreed on the leadership (Imamate) of Abu Bakr, Umar, Uthman, and Ali (peace be upon them). And they give precedence to the first two caliphs (Abu Bakr and Umar). They also unanimously agreed that the ten who were promised Paradise are certainly and undoubtedly in Paradise.
 
@@ -11982,6 +12596,7 @@ Source: al-Ibānah al-Kubrā 1/359-360
 ---
 
 <!-- telegram-source: dar/messages2.html#message1956 -->
+<!-- evidence-id: 000615 -->
 
 Shaykh Abu Muhammad Muwaffaq al-Dīn Ibn Qudāmah said:
 
@@ -12011,6 +12626,7 @@ Source: Masʾalah fīman Yukaffiru Ghayrahū min al-Muslimīn - Shaykh by Abdull
 ---
 
 <!-- telegram-source: personal/messages.html#message852 -->
+<!-- evidence-id: 000616 -->
 
 Shaykh Al-Islam Ibn Taymiyyah said:
 
@@ -12042,6 +12658,7 @@ Source: Majmū al-Fatāwa 15/10-11 by Ibn Taymiyyah
 ---
 
 <!-- telegram-source: personal/messages.html#message759 -->
+<!-- evidence-id: 000617 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -12057,6 +12674,7 @@ Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa al-�
 ---
 
 <!-- telegram-source: personal/messages.html#message563 -->
+<!-- evidence-id: 000618 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -12127,6 +12745,7 @@ Source: Iqtiḍāʾ aṣ-Ṣirāṭ al-Mustaqīm by Ibn Taymiyyah 2/304-305
 ---
 
 <!-- telegram-source: personal/messages.html#message548 -->
+<!-- evidence-id: 000619 -->
 
 Shaykh al-Islām Ibn Taymiyyah said:
 
@@ -12142,6 +12761,7 @@ Source: Mukhtaṣar Ḍawābiṭ al-Takfīr by Shaykh Abī al-ʿAlā ar-Rāshid 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1560 -->
+<!-- evidence-id: 000620 -->
 
 Sheikh al-Islam Ibn Taymiyyah said:
 
@@ -12166,6 +12786,7 @@ Source: Majmū Fatāwā by Ibn Taymiyyah 10/265
 ---
 
 <!-- telegram-source: dar/messages4.html#message3961 -->
+<!-- evidence-id: 000621 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -12190,6 +12811,7 @@ Shaykh al-Islam here points out this is the belief of the Ashāʿirah, he also m
 ---
 
 <!-- telegram-source: dar/messages4.html#message3630 -->
+<!-- evidence-id: 000622 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -12221,6 +12843,7 @@ Source: Taysīr al-ʿAzīz al-Ḥamīd by Shaykh Sulaymān ibn ʿAbd Allāh Āl 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3447 -->
+<!-- evidence-id: 000623 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -12249,6 +12872,7 @@ Source: Taysīr al-ʿAzīz al-Ḥamīd by Shaykh Sulaymān ibn ʿAbd Allāh Āl 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3526 -->
+<!-- evidence-id: 000624 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -12285,6 +12909,7 @@ Source: Taysīr al-ʿAzīz al-Ḥamīd by Shaykh Sulaymān ibn ʿAbd Allāh Āl 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3627 -->
+<!-- evidence-id: 000625 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -12322,6 +12947,7 @@ Source: Taysīr al-ʿAzīz al-Ḥamīd by Shaykh Sulaymān ibn ʿAbd Allāh Āl 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3690 -->
+<!-- evidence-id: 000626 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
 
@@ -12348,6 +12974,7 @@ Source: Taysīr al-ʿAzīz al-Ḥamīd by Shaykh Sulaymān ibn ʿAbd Allāh Āl 
 ---
 
 <!-- telegram-source: dar/messages2.html#message2031 -->
+<!-- evidence-id: 000627 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -12433,6 +13060,7 @@ Source: Ta'sīs al-Taqdīs fī Kashf Talbīs Dāwūd bin Jirjīs wa Yalīhi Da�
 ---
 
 <!-- telegram-source: dar/messages4.html#message3674 -->
+<!-- evidence-id: 000628 -->
 
 al-ʿAllāmah Abā Buṭayn said:
 
@@ -12536,6 +13164,7 @@ Source: Majmūʿ Fatāwā wa-Rasāʾil by Shaykh al-ʿAllāmah Abā Buṭayn p.3
 ---
 
 <!-- telegram-source: dar/messages4.html#message3633 -->
+<!-- evidence-id: 000629 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -12574,6 +13203,7 @@ Source: Kashf mā Alqāh Iblīs min al-Bahraj wa-al-Talbīs ʿalā Qalb Dāwūd 
 ---
 
 <!-- telegram-source: dar/messages4.html#message4230 -->
+<!-- evidence-id: 000630 -->
 
 Shaykh Abd ar-Raḥmān ibn Ḥasan said:
 
@@ -12628,6 +13258,7 @@ Source: Kitāb at-Tawḥīd wa Qurrat ʿUyūn al-Muwaḥḥidīn by Shaykh Abd a
 ---
 
 <!-- telegram-source: dar/messages2.html#message1521 -->
+<!-- evidence-id: 000631 -->
 
 Sheikh ’Abd ar-Raḥmān ash-Shaykh said:
 
@@ -12690,6 +13321,7 @@ Source: Fatḥ al-Majīd by Sheikh ’Abd ar-Raḥmān ibn Ḥasan ibn ash-Shayk
 ---
 
 <!-- telegram-source: dar/messages3.html#message2414 -->
+<!-- evidence-id: 000632 -->
 
 Shaykh Al-Mujaddid ʿAbd Ar-Raḥmān bin Ḥasan said:
 
@@ -12707,6 +13339,7 @@ Source: Al-Adillah wa Al-Barāhīn ʿalā ʿAdam Al-ʿUḏhr bil Jahl fī Uṣū
 ---
 
 <!-- telegram-source: dar/messages4.html#message3268 -->
+<!-- evidence-id: 000633 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Ḥasan said:
 
@@ -12732,6 +13365,7 @@ Source: Ad-Durar as-Saniyyah 11/545
 ---
 
 <!-- telegram-source: dar/messages5.html#message4308 -->
+<!-- evidence-id: 000634 -->
 
 Shaykh ʿAbd al-Laṭīf Āl al-Shaykh said:
 
@@ -12761,6 +13395,7 @@ Source: Al-Ittiḥāf fī al-Radd ʿalā al-Ṣaḥāf by Shaykh ʿAbd al-Laṭ�
 ---
 
 <!-- telegram-source: dar/messages2.html#message1989 -->
+<!-- evidence-id: 000635 -->
 
 Sheikh ʿAbd al-Laṭīf said:
 
@@ -12794,6 +13429,7 @@ Source: Fatāwā wa Rasāʾil by Sheikh ʿAbd al-Laṭīf 12/197-198
 ---
 
 <!-- telegram-source: dar/messages5.html#message4992 -->
+<!-- evidence-id: 000636 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Laṭīf and Shaykh Sulaymān ibn Saḥmān said:
 
@@ -12817,6 +13453,7 @@ Source: ad-Durar as-Saniyyah 5/135
 
 ---
 
+<!-- evidence-id: 000637 -->
 Shaykh Muḥammad ibn ʿAbd al-Wahhāb said:
 
 It is well known what newly introduced matters have become widespread and with which people have been afflicted. The gravest of them is associating partners with Allāh: turning to the dead and asking them for victory over enemies, the fulfillment of needs, and the relief of hardships that none can accomplish except the Lord of the earth and the heavens; likewise, drawing near to them through vows and sacrificial offerings, seeking their aid to remove calamities and bring benefits, and other forms of worship that are suitable for none but Allāh.
@@ -12859,6 +13496,7 @@ Source: al-Durar al-Saniyyah, 1/84-86
 </details>
 
 <!-- telegram-source: dar/messages4.html#message3667 -->
+<!-- evidence-id: 000638 -->
 
 Shaykh Muḥammad ibn ʿAbd al-Laṭīf and Shaykh Sulaymān ibn Suḥmān said:
 
@@ -12883,6 +13521,7 @@ Source: ad-Durar as-Saniyyah 5/135
 ---
 
 <!-- telegram-source: dar/messages4.html#message3927 -->
+<!-- evidence-id: 000639 -->
 
 al-ʿAllāmah Shaykh Sulaymān ibn Suḥmān said:
 
@@ -12900,6 +13539,7 @@ Source: al-Hadiyyah as-Saniyyah wa at-Tuḥfah an-Najdiyyah by Shaykh Sulaymān 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3646-message3648 -->
+<!-- evidence-id: 000640 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -12938,6 +13578,7 @@ Source: ʿAbd ar-Raḥmān ibn Qāsim an-Najdī, *as-Sayf al-Maslūl ʿalā ʿĀ
 ---
 
 <!-- telegram-source: dar/messages5.html#message4643 -->
+<!-- evidence-id: 000641 -->
 
 Shaykh Ibn Bāz was asked:
 
@@ -12959,6 +13600,7 @@ Source: Subul as-Salām Sharḥ Nawāqiḍ al-Islām by Shaykh Ibn Bāz p.263-26
 ---
 
 <!-- telegram-source: dar/messages4.html#message3983 -->
+<!-- evidence-id: 000642 -->
 
 Shaykh Ibn Bāz said:
 
@@ -12978,6 +13620,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Ibn Bāz p.54
 ---
 
 <!-- telegram-source: dar/messages4.html#message3725 -->
+<!-- evidence-id: 000643 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -13007,6 +13650,7 @@ Answer: Deliverance from both major and minor shirk is through sincere repentanc
 ---
 
 <!-- telegram-source: dar/messages4.html#message3977 -->
+<!-- evidence-id: 000644 -->
 
 Shaykh Ibn ʿUthaymīn said:
 
@@ -13022,6 +13666,7 @@ Source: al-Qawl al-Mufīd ʿalā Kitāb at-Tawḥīd 1/160
 ---
 
 <!-- telegram-source: dar/messages4.html#message4218 -->
+<!-- evidence-id: 000645 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
 
@@ -13041,6 +13686,7 @@ As for the one who swears by other than Allāh, he may be given zakāh, because 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4244 -->
+<!-- evidence-id: 000646 -->
 
 Shaykh Ṣāliḥ al-Luḥaidān said:
 
@@ -13064,6 +13710,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Ṣāliḥ al-Luḥaydān p.65
 ---
 
 <!-- telegram-source: dar/messages2.html#message1179 -->
+<!-- evidence-id: 000647 -->
 
 Q10: Some of the devout youth of today claim that all or most of those who fall into shirk in the Islamic world today are not considered polytheists; because they are either great scholars who, through their ijtihad, have concluded that seeking help from others besides Allah is permissible, as did al-Suyūṭī, al-Nabhānī, and others. This is said to have two rewards: one if correct, and one if wrong. Alternatively, they are ordinary laypeople, and this is the utmost they are capable of.
 
@@ -13127,6 +13774,7 @@ Source: Fatāwā al-Lajnah al-Dā’imah 2/59-60
 ---
 
 <!-- telegram-source: dar/messages5.html#message4689 -->
+<!-- evidence-id: 000648 -->
 
 The scholars have two opinions regarding the issue of excuse of ignorance in shirk al-akbar and clear cut disbelief:
 
@@ -13147,6 +13795,7 @@ As for matters which are obscure. Then the person is excused with ignorance and 
 ---
 
 <!-- telegram-source: personal/messages.html#message547 -->
+<!-- evidence-id: 000649 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-547.mp4"></video>
@@ -13167,6 +13816,7 @@ A: Yes, I clarified an understanding — not the wording of the Shaykh himself. 
 ---
 
 <!-- telegram-source: personal/messages.html#message564 -->
+<!-- evidence-id: 000650 -->
 
 Shaykh al-Fawzān said regarding the verse:
 
@@ -13206,6 +13856,7 @@ Source: Al-Mulakhkhaṣ fī Sharḥ Kitāb al-Tawḥīd by Shaykh al-Fawzān p.9
 ---
 
 <!-- telegram-source: dar/messages4.html#message3743 -->
+<!-- evidence-id: 000651 -->
 
 Shaykh al-Fawzān said:
 
@@ -13229,6 +13880,7 @@ Source: ʿAqīdat at-Tawḥīd by Shaykh al-Fawzān p.51
 ---
 
 <!-- telegram-source: dar/messages4.html#message3908 -->
+<!-- evidence-id: 000652 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -13272,6 +13924,7 @@ Source: Iʿānat al-Mustafīd bi-Sharḥ Kitāb at-Tawḥīd by al-ʿAllāmah Sh
 ---
 
 <!-- telegram-source: dar/messages4.html#message3930 -->
+<!-- evidence-id: 000653 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -13325,6 +13978,7 @@ Source: Iʿānat al-Mustafīd bi-Sharḥ Kitāb at-Tawḥīd by al-ʿAllāmah Sh
 ---
 
 <!-- telegram-source: dar/messages5.html#message4240 -->
+<!-- evidence-id: 000654 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān was asked:
 
@@ -13347,6 +14001,7 @@ So Shirk came from this type, all the Shirk of the Mushrikīn. his saying that i
 ---
 
 <!-- telegram-source: dar/messages4.html#message3763 -->
+<!-- evidence-id: 000655 -->
 
 Shaykh ar-Rājihī said:
 
@@ -13375,6 +14030,7 @@ footnote
 ---
 
 <!-- telegram-source: dar/messages5.html#message4917 -->
+<!-- evidence-id: 000656 -->
 
 Shaykh ar-Rājihī said:
 
@@ -13396,6 +14052,7 @@ Source: at-Tanḍīd Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd al-ʿAzīz ar-R
 ---
 
 <!-- telegram-source: dar/messages4.html#message4070 -->
+<!-- evidence-id: 000657 -->
 
 Shaykh ar-Rājihī said:
 
@@ -13417,6 +14074,7 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 ---
 
 <!-- telegram-source: personal/messages.html#message561 -->
+<!-- evidence-id: 000658 -->
 
 Shaykh Ṣāliḥ Āsh-Shaykh was asked:
 
@@ -13445,6 +14103,7 @@ Rather, their worship of the dead was in the form of idols and statues on graves
 ---
 
 <!-- telegram-source: dar/messages5.html#message4662 -->
+<!-- evidence-id: 000659 -->
 
 The virtue of Kashf ash-Shubuhāt
 
@@ -13463,6 +14122,7 @@ And Allah said to His Messenger ﷺ: “So proclaim openly that which you are co
 ---
 
 <!-- telegram-source: dar/messages3.html#message2550 -->
+<!-- evidence-id: 000660 -->
 
 How is tashrīʿ (legislation) understood in the above?
 
@@ -13486,8 +14146,10 @@ Source: al-Ajwibah wa-al-Buḥūth wa-al-Mudārasāt al-Mushtamilah ʿalayhā al
 ---
 
 ### Istighāthah and calling upon the dead or absent
+<!-- evidence-id: 000661 -->
 
 <!-- telegram-source: personal/messages.html#message552 -->
+<!-- evidence-id: 000662 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -13539,6 +14201,7 @@ Source: al-Istighāthah fī ar-Radd ʿalā al-Bakrī by Ibn Taymiyyah p.381-382
 ---
 
 <!-- telegram-source: personal/messages.html#message569 -->
+<!-- evidence-id: 000663 -->
 
 Shaykh Muḥammad Ibn ʿAbdul-Wahhāb said:
 
@@ -13559,6 +14222,7 @@ Source: Sharḥ Tafsīr Kalimat at-Tawḥīd  by Shaykh Ṣāliḥ al-Fawzān p.
 
 ---
 
+<!-- evidence-id: 000664 -->
 Shaykh ʿAbd Allāh Abā Buṭayn said in his refutation of Dāwūd ibn Jirjīs:
 
 This belongs to the category of ordinary causes. When a man is known for righteousness and for having his supplications answered, and someone asks or instructs him to supplicate, after which he calls upon Allāh and his supplication is answered, the man himself is not the one who produced the answer. Nor was he asked to perform an act that belongs exclusively to Allāh. He was merely asked to do what he himself is capable of doing, namely supplicating and humbling himself before Allāh.
@@ -13609,6 +14273,7 @@ Source: Tuḥfat al-Ṭālib wa-al-Jalīs fī Kashf Shubah Dāwūd ibn Jirjīs, 
 </details>
 
 <!-- telegram-source: dar/messages4.html#message3880 -->
+<!-- evidence-id: 000665 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -13667,6 +14332,7 @@ Source: Kashf mā Alqāh Iblīs min al-Bahraj wa-al-Talbīs ʿalā Qalb Dāwūd 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4952 -->
+<!-- evidence-id: 000666 -->
 
 Shaykh ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān ibn Ḥasan ibn ʿAbd al-Wahhāb said:
 
@@ -13700,6 +14366,7 @@ Source: ad-Durar as-Saniyyah 1/432
 ---
 
 <!-- telegram-source: personal/messages.html#message672 -->
+<!-- evidence-id: 000667 -->
 
 Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh said:
 
@@ -13717,6 +14384,7 @@ Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis
 ---
 
 <!-- telegram-source: dar/messages4.html#message3821 -->
+<!-- evidence-id: 000668 -->
 
 Shaykh Ḥamad ibn ʿAtīq said:
 
@@ -13740,6 +14408,7 @@ Source: Ibṭāl at-Tandīd by Shaykh Ḥamad ibn ʿAtīq p.84-85
 ---
 
 <!-- telegram-source: dar/messages4.html#message3693 -->
+<!-- evidence-id: 000669 -->
 
 The Reality of the contemporary Murji’ah
 
@@ -13763,6 +14432,7 @@ Source: Fatāwā al-Aʾimmah an-Najdiyyah 3/116-117
 ---
 
 ### ʿAbd al-ʿAzīz Ibn Bāz: invoking the dead and the worldly ruling on Ahl al-Fatrah
+<!-- evidence-id: 000670 -->
 
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz was asked whether it is permissible to eat the slaughtered animals of those who make vows, offer sacrifices, and supplicate to those whom they regard as awliyāʾ when the proof has not removed their doubts.
 
@@ -13779,6 +14449,7 @@ Source: [Official Ibn Bāz fatwa, “The ruling on eating the slaughtered animal
 ---
 
 <!-- telegram-source: dar/messages4.html#message3770 -->
+<!-- evidence-id: 000671 -->
 
 Supplicating to Other than Allah and istighāthah with them
 
@@ -13806,6 +14477,7 @@ Source: Fatāwā ʿUlamāʾ al-Balad al-Ḥarām p.63-64
 ---
 
 <!-- telegram-source: dar/messages5.html#message5059 -->
+<!-- evidence-id: 000672 -->
 
 Fatwā no. (10684):
 
@@ -13867,6 +14539,7 @@ Source: Fatāwā al-Lajnah al-Dāʾimah — First Collection 2/45–46
 ---
 
 <!-- telegram-source: dar/messages4.html#message3986 -->
+<!-- evidence-id: 000673 -->
 
 Shaykh Ṣāliḥ al-Fawzān said:
 
@@ -13894,6 +14567,7 @@ Source: Sharḥ Maʿnā al-Ṭāghūt by Shaykh al-Fawzān p.12-13
 ---
 
 <!-- telegram-source: dar/messages5.html#message4906 -->
+<!-- evidence-id: 000674 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān said:
 
@@ -13915,6 +14589,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd Allāh al-Ghunaymān 1/84
 ---
 
 <!-- telegram-source: dar/messages5.html#message4444 -->
+<!-- evidence-id: 000675 -->
 
 Shaykh ʿAbd al-Muḥsin al-ʿAbbād was asked:
 
@@ -13932,6 +14607,7 @@ And his ṣalāh is invalid in the sense that it is not correct to follow him. W
 ---
 
 <!-- telegram-source: dar/messages5.html#message4393 -->
+<!-- evidence-id: 000676 -->
 
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -13959,6 +14635,7 @@ Source: Asʾilah wa Ajwibah fī al-Īmān wa al-Kufr by Shaykh ʿAbd al-ʿAzīz 
 ---
 
 <!-- telegram-source: dar/messages5.html#message4248 -->
+<!-- evidence-id: 000677 -->
 
 Shaykh Abī al-ʿAlā ar-Rāshid said:
 
@@ -13981,6 +14658,7 @@ However, this does not necessarily mean that it is to be used as evidence for th
 ---
 
 ### Ṭalab al-duʿāʾ and requesting intercession from the dead
+<!-- evidence-id: 000678 -->
 
 Shaykh al-Islām Ibn Taymiyyah said:
 
@@ -13990,6 +14668,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 
 ---
 
+<!-- evidence-id: 000679 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 <details class="source-panel arabic-source" data-origin="user-supplied-text">
@@ -14008,6 +14687,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 
 ---
 
+<!-- evidence-id: 000680 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 <details class="source-panel arabic-source" data-origin="user-supplied-text">
@@ -14026,6 +14706,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 
 ---
 
+<!-- evidence-id: 000681 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 “If you establish intermediaries between Allāh and His creation like the chamberlains between a king and his subjects, such that they convey the needs of His creation to Allāh, and Allāh only guides and provides for His servants through their intercession, while the creation asks them and they ask Allāh, just as intermediaries before kings ask the kings to fulfill the people’s needs because of their proximity to them, and the people ask those intermediaries either out of respect that prevents them from asking the king directly or because asking the intermediaries is more effective than asking the king, since they are closer to the king than the petitioner, then whoever establishes them as intermediaries in this manner is a disbeliever and a polytheist. He is to be asked to repent; if he repents, that is accepted, and otherwise he is to be killed. Such people have likened Allāh to His creation, likened created beings to the Creator, and established rivals alongside Allāh.”
@@ -14034,6 +14715,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 
 ---
 
+<!-- evidence-id: 000682 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 <details class="source-panel arabic-source" data-origin="user-supplied-text">
@@ -14053,6 +14735,7 @@ Shaykh al-Islām Ibn Taymiyyah said:
 ---
 
 <!-- telegram-source: personal/messages.html#message755 -->
+<!-- evidence-id: 000683 -->
 
 Shaykh al-Islam Ibn Taymiyyah (رحمه الله) said:
 
@@ -14072,6 +14755,7 @@ They did not do as the Christians do, seeking intercession through angels or thr
 ---
 
 <!-- telegram-source: personal/messages.html#message534 -->
+<!-- evidence-id: 000684 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -14149,6 +14833,7 @@ Source: al-Qā‘idah al-Jalīlah fī al-Tawassul wa al-Wasīlah by Ibn Taymiyya
 ---
 
 <!-- telegram-source: personal/messages.html#message556 -->
+<!-- evidence-id: 000685 -->
 
 Shaykh al-Islam Ibn Taymiyyah said:
 
@@ -14175,6 +14860,7 @@ Source: al-Radd ʿalā al-Manṭiqiyyīn by Ibn Taymiyyah p.571-572
 ---
 
 <!-- telegram-source: dar/messages5.html#message4985 -->
+<!-- evidence-id: 000686 -->
 
 Shaykh Muḥammad Ibn ʿAbd al-Wahhāb said:
 
@@ -14199,6 +14885,7 @@ Source: ad-Durar as-Saniyyah 2/104
 
 ---
 
+<!-- evidence-id: 000687 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 It is said that this report is itself a proof against the disputant. When that man made his request of the Prophet ﷺ, the Prophet did not say, “I will supplicate for you.” Rather, he instructed them to do what he had legislated and established for them: that they themselves call upon Allāh and seek rain from Him. The report states that he told the man, “Tell ʿUmar to be prudent,” meaning to remain upright. When this was conveyed to ʿUmar, he said, “I spare no effort.”
@@ -14271,6 +14958,7 @@ Source: Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt Ahl al-Islām wa-al-�
 </details>
 
 <!-- telegram-source: dar/messages2.html#message1535 -->
+<!-- evidence-id: 000688 -->
 
 Sheikh ’Abd ar-Raḥmān ash-Shaykh said:
 
@@ -14328,6 +15016,7 @@ Source: Fatḥ al-Majīd by Sheikh ’Abd ar-Raḥmān ibn Ḥasan ibn ash-Shayk
 ---
 
 <!-- telegram-source: dar/messages4.html#message3884 -->
+<!-- evidence-id: 000689 -->
 
 Shaykh ʿAbd al-Raḥmān ash-Shaykh said:
 
@@ -14368,6 +15057,7 @@ Source: Kashf mā Alqāh Iblīs min al-Bahraj wa-al-Talbīs ʿalā Qalb Dāwūd 
 ---
 
 <!-- telegram-source: dar/messages4.html#message3656 -->
+<!-- evidence-id: 000690 -->
 
 Shaykh ʿAbd ar-Raḥmān ibn Qāsim an-Najdī said:
 
@@ -14389,6 +15079,7 @@ Source: as-Sayf al-Maslūl ʿalā ʿĀbid ar-Rasūl by Shaykh ʿAbd ar-Raḥmān
 ---
 
 <!-- telegram-source: dar/messages4.html#message3503 -->
+<!-- evidence-id: 000691 -->
 
 Shaykh Ibn Bāz was asked:
 
@@ -14410,6 +15101,7 @@ Source: Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.59
 ---
 
 <!-- telegram-source: personal/messages.html#message544 -->
+<!-- evidence-id: 000692 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-544.mp4"></video>
@@ -14432,6 +15124,7 @@ A: This is shirk. Seeking needs from the dead is shirk—whether duʿāʾ or any
 ---
 
 <!-- telegram-source: personal/messages.html#message568 -->
+<!-- evidence-id: 000693 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-568.mp4"></video>
@@ -14448,6 +15141,7 @@ A : Duʿāʾ is shafāʿah. What is the meaning of shafāʿah? Its meaning is th
 ---
 
 <!-- telegram-source: dar/messages4.html#message4063 -->
+<!-- evidence-id: 000694 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -14463,6 +15157,7 @@ A: You treat him as a Muslim while he is committing shirk and you can hear him c
 ---
 
 <!-- telegram-source: dar/messages5.html#message4271 -->
+<!-- evidence-id: 000695 -->
 
 Shaykh ʿAbd Allāh al-Ghunaymān said:
 
@@ -14484,6 +15179,7 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbd Allāh al-Ghunaymān 1/70
 ---
 
 <!-- telegram-source: dar/messages4.html#message4067 -->
+<!-- evidence-id: 000696 -->
 
 Shaykh ar-Rājihī said:
 
@@ -14505,6 +15201,7 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 ---
 
 <!-- telegram-source: personal/messages.html#message588 -->
+<!-- evidence-id: 000697 -->
 
 <div class="video-source" data-origin="telegram-attachment">
 <video class="source-video" controls preload="metadata" src="assets/videos/personal-588.mp4"></video>
@@ -14519,6 +15216,7 @@ We hear from some who claim to be Muslims the phrase: “O Messenger of Allah, i
 ---
 
 <!-- telegram-source: personal/messages.html#message735 -->
+<!-- evidence-id: 000698 -->
 
 Shaykh Ayman al-ʿAnqarī said:
 
@@ -14533,6 +15231,7 @@ This refutes those who claim that doing so at the grave is merely a bidʿah whil
 ---
 
 <!-- telegram-source: dar/messages3.html#message2663 -->
+<!-- evidence-id: 000699 -->
 
 Dr. Ayman al-ʿAnqarī said:
 
@@ -14556,6 +15255,7 @@ Source: Taḥrīr qawl al-shaykh Muḥammad ibn ʿUthaymīn fī tārik al-tawḥ
 ---
 
 <!-- telegram-source: dar/messages4.html#message3289 -->
+<!-- evidence-id: 000700 -->
 
 Fatawa of Shaykh ʿAbd Allāh al-Jarbūʿ on ṭalab al-du‘ā’
 
@@ -14583,6 +15283,7 @@ Saying it is a bid‘ah does not mean it is not shirk. No—it is a bid‘ah tha
 ---
 
 <!-- telegram-source: dar/messages4.html#message3228 -->
+<!-- evidence-id: 000701 -->
 
 Shaykh Abdullah Ibn Zayd said:
 
@@ -14603,8 +15304,10 @@ Those servants, those graves, those idols, those prophets, angels, righteous peo
 ---
 
 ### Tawassul: meanings and distinctions
+<!-- evidence-id: 000702 -->
 
 <!-- telegram-source: dar/messages2.html#message2047 -->
+<!-- evidence-id: 000703 -->
 
 what is Wasīlah?
 
@@ -14727,6 +15430,7 @@ Source: Ta'sīs al-Taqdīs fī Kashf Talbīs Dāwūd bin Jirjīs wa Yalīhi Da�
 ---
 
 <!-- telegram-source: dar/messages5.html#message4373 -->
+<!-- evidence-id: 000704 -->
 
 Shaykh Muḥammad ibn Ibrahim said:
 
@@ -14758,6 +15462,7 @@ Source: Fatāwā wa Rasāʾil by Shaykh Muḥammad ibn Ibrāhīm 1/77
 </details>
 
 <!-- telegram-source: dar/messages5.html#message4347 -->
+<!-- evidence-id: 000705 -->
 
 Shaykh ʿAbdullāh Al-Ghunaymān said:
 
@@ -14785,8 +15490,10 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbdullāh al-Ghunaymān 1/157-15
 ---
 
 ### What may be requested from a living, present, capable person
+<!-- evidence-id: 000706 -->
 
 <!-- telegram-source: personal/messages.html#message758 -->
+<!-- evidence-id: 000707 -->
 
 Shaykh al-Islam Ibn Taymiyyah (رحمه الله) said:
 
@@ -14799,6 +15506,7 @@ And those who visit with the visitation of the people of polytheism and innovati
 ---
 
 <!-- telegram-source: dar/messages2.html#message2110 -->
+<!-- evidence-id: 000708 -->
 
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -14948,6 +15656,7 @@ Source: Ta'sīs al-Taqdīs fī Kashf Talbīs Dāwūd bin Jirjīs wa Yalīhi Da�
 
 ---
 
+<!-- evidence-id: 000709 -->
 Shaykh al-Islām Ibn Taymiyyah said:
 
 Whoever denies what has been established by mass transmission and consensus is a disbeliever after the proof has been established against him, whether or not he calls the established meaning “istighāthah.”
@@ -14982,6 +15691,7 @@ Source: Majmūʿ al-Fatāwā by Ibn Taymiyyah, 1/109-111
 </details>
 
 <!-- telegram-source: personal/messages.html#message913 -->
+<!-- evidence-id: 000710 -->
 
 Shaykh ar-Rājihī said:
 
@@ -15008,8 +15718,10 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 ---
 
 ### Grave visitation and the pathways leading to shirk
+<!-- evidence-id: 000711 -->
 
 <!-- telegram-source: personal/messages.html#message587 -->
+<!-- evidence-id: 000712 -->
 
 Ibn Qayyim said:
 
