@@ -585,8 +585,12 @@
     .saved-actions button { padding: 8px 11px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--gold); cursor: pointer; font: 700 .78rem system-ui,sans-serif; }
     .archive-stats { display: grid; grid-template-columns: repeat(auto-fit,minmax(145px,1fr)); gap: 12px; margin: 24px 0 34px; }
     .stat-card { padding: 16px; border: 1px solid var(--line); border-radius: 9px; background: var(--panel); font-family: system-ui,sans-serif; }
+    button.stat-card { width: 100%; color: inherit; text-align: left; cursor: pointer; }
+    button.stat-card:hover, button.stat-card[aria-expanded="true"] { border-color: var(--gold); background: var(--panel-2); }
     .stat-card strong { display: block; color: var(--gold); font-size: 1.65rem; }
     .stat-card span { color: var(--muted); font-size: .76rem; }
+    .source-needed-results { margin: 0 0 38px; }
+    .source-needed-results[hidden] { display: none; }
     .indicator-key, .changelog { font-family: system-ui,sans-serif; color: var(--muted); }
     .indicator-key strong { color: var(--gold); }
     .media-lightbox { position: fixed; z-index: 100; inset: 0; display: grid; grid-template-rows: auto 1fr auto; background: rgba(5,5,4,.96); padding: 14px; color: var(--text); }
@@ -9022,6 +9026,7 @@
 <section class="topic-panel" id="topic-info" data-topic-panel="info" hidden>
 <h2 id="archive-info-title">Archive Information</h2>
 <div class="archive-stats" id="archive-stats"></div>
+<section class="source-needed-results" id="source-needed-results" hidden><h3>Quotations needing a source</h3><p class="scholar-index-intro">Select an entry to open it in its collection.</p><div class="book-grid" id="source-needed-grid"></div></section>
 <h3>Evidence indicators</h3>
 <p class="scholar-index-intro">Indicators describe what is attached to an entry. They do not independently certify the scholarly accuracy of a quotation.</p>
 <ul class="indicator-key"><li><strong>Arabic</strong> Arabic source text is available.</li><li><strong>Scan</strong> A source image is attached.</li><li><strong>Video</strong> Source media is attached.</li><li><strong>Citation</strong> A named written reference is present.</li><li><strong>Telegram source</strong> The original exported post is linked.</li><li><strong>Source needed</strong> No written citation, scan, or video is currently attached.</li></ul>
@@ -9409,7 +9414,12 @@
     }
 
     function englishCopyText(entry) {
-      return formattedBlockText(entry, ':scope > h3, :scope > h4, :scope > p, :scope > blockquote, :scope > ul > li, :scope > ol > li');
+      const text = formattedBlockText(entry, ':scope > h3, :scope > h4, :scope > p, :scope > blockquote, :scope > ul > li, :scope > ol > li');
+      const videos = [...entry.querySelectorAll('video[src]')]
+        .map(video => new URL(video.getAttribute('src'), location.href).href)
+        .filter((url, index, all) => all.indexOf(url) === index)
+        .map(url => 'Video: ' + url);
+      return [text, ...videos].filter(Boolean).join('\n\n');
     }
 
     function arabicCopyText(entry) {
@@ -10328,6 +10338,7 @@
     function buildArchiveStats() {
       const unique = [...new Map(evidenceEntries.map(entry => [entry.dataset.recordId, entry])).values()];
       const books = new Set(unique.flatMap(entry => JSON.parse(entry.dataset.books || '[]')).map(bookKey));
+      const sourcesNeeded = unique.filter(entry => entry.dataset.needsSource === 'true');
       const values = [
         ['Evidence records', unique.length],
         ['Scholars', new Set(unique.map(entry => entry.dataset.scholar).filter(Boolean)).size],
@@ -10336,11 +10347,25 @@
         ['Arabic texts', unique.filter(entry => entry.dataset.hasArabic === 'true').length],
         ['Source scans', unique.filter(entry => entry.dataset.hasScan === 'true').length],
         ['Source videos', unique.filter(entry => entry.dataset.hasVideo === 'true').length],
-        ['Sources needed', unique.filter(entry => entry.dataset.needsSource === 'true').length]
+        ['Sources needed', sourcesNeeded.length]
       ];
       document.querySelector('#archive-stats').replaceChildren(...values.map(([label, value]) => {
-        const card = document.createElement('div');
+        const actionable = label === 'Sources needed';
+        const card = document.createElement(actionable ? 'button' : 'div');
         card.className = 'stat-card';
+        if (actionable) {
+          card.type = 'button';
+          card.setAttribute('aria-controls', 'source-needed-results');
+          card.setAttribute('aria-expanded', 'false');
+          card.title = 'Show quotations that need a source';
+          card.addEventListener('click', () => {
+            const section = document.querySelector('#source-needed-results');
+            const opening = section.hidden;
+            section.hidden = !opening;
+            card.setAttribute('aria-expanded', String(opening));
+            if (opening) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        }
         const number = document.createElement('strong');
         number.textContent = value;
         const name = document.createElement('span');
@@ -10348,6 +10373,14 @@
         card.append(number, name);
         return card;
       }));
+      const sourceGrid = document.querySelector('#source-needed-grid');
+      sourceGrid.replaceChildren(...sourcesNeeded.map(entry => entryIndexLink(entry)));
+      if (!sourcesNeeded.length) {
+        const empty = document.createElement('p');
+        empty.className = 'scholar-empty';
+        empty.textContent = 'Every published entry currently has a citation, scan, or video.';
+        sourceGrid.replaceChildren(empty);
+      }
     }
 
     let lightboxImages = [];
