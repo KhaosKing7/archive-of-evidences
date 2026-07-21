@@ -6011,23 +6011,6 @@ The answer: A man is not a Muslim unless he knows tawḥīd, embraces it as his 
 
 Source: Ḥusayn and ʿAbd Allāh, the sons of Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah*, 10/139–140.
 
-### Sulaymān ibn ʿAbd Allāh: doubt or ignorance is first answered with evidence
-
-<details class="source-panel arabic-source" data-origin="embedded-quotation">
-<summary>Show Arabic source text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: سليمان بن عبد الله، *الدرر السنية في الأجوبة النجدية*، 8/160.</p>
-<p>فَإِنْ كَانَ شَاكًّا فِي كُفْرِهِمْ أَوْ جَاهِلًا بِكُفْرِهِمْ، بُيِّنَتْ لَهُ الْأَدِلَّةُ مِنْ كِتَابِ اللَّهِ وَسُنَّةِ رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى كُفْرِهِمْ، فَإِنْ شَكَّ بَعْدَ ذَلِكَ أَوْ تَرَدَّدَ، فَإِنَّهُ كَافِرٌ بِإِجْمَاعِ الْعُلَمَاءِ، عَلَى أَنَّ مَنْ شَكَّ فِي كُفْرِ الْكَافِرِ فَهُوَ كَافِرٌ.</p>
-</div>
-</details>
-
-**English**
-
-
-“If he doubts their disbelief or is ignorant of it, the evidences from the Book of Allāh and the Sunnah of His Messenger ﷺ establishing their disbelief are clarified to him. If he continues to doubt or hesitate after that, then he is a disbeliever by the consensus of the scholars, for whoever doubts the disbelief of a disbeliever is a disbeliever.”
-
-Source: Sulaymān ibn ʿAbd Allāh, al-Durar al-Saniyyah, 8/160.
-
 <!-- telegram-source: dar/messages5.html#message5056 -->
 
 The one who calls a grave worshipper a Muslim, and refrains from takfiring them is also a kāfir like them after proof is established.
