@@ -46,7 +46,7 @@ function renderCollection(source) {
     (_, opening, citation, closing) => {
       const formattedCitation = citation.replace(
         /[0-9٠-٩]+\/[0-9٠-٩]+(?:[–—-][0-9٠-٩]+)?/g,
-        reference => `<bdi class="citation-ref" dir="ltr">${reference.replace(/[–—]/g, "-")}</bdi>`,
+        reference => `<bdi class="citation-ref" dir="ltr">&#8206;${reference.replace(/[–—]/g, "-")}&#8206;</bdi>`,
       );
       return opening + formattedCitation + closing;
     },
