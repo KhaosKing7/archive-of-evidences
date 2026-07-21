@@ -96,16 +96,6 @@ const attachVideo = (reference, assetPath) => {
     .map(block => ({ start: block.start, end: block.end, text: insertBeforeSeparator(block.text, video) })));
 };
 
-const markPrimarySourceNeeded = reference => {
-  const blocks = blocksFor(reference);
-  if (!blocks.length) throw new Error(`Cannot flag missing primary source: ${reference}`);
-  const block = blocks[0];
-  if (/Primary source needed/i.test(block.text)) return;
-  const markerEnd = block.text.indexOf("-->") + 3;
-  const updated = `${block.text.slice(0, markerEnd)}\n\n**Source status: Primary source needed.**${block.text.slice(markerEnd)}`;
-  replaceRanges([{ start: block.start, end: block.end, text: updated }]);
-};
-
 // Remove same-section repetitions while preserving every distinct scan and video.
 for (const group of [
   [["dar/messages4.html#message3723"]],
@@ -194,18 +184,6 @@ for (const [reference, exportRoot, sourceRelative, targetRelative] of videos) {
   if (!fs.existsSync(target)) fs.copyFileSync(source, target);
   attachVideo(reference, targetRelative.replaceAll("\\", "/"));
 }
-
-for (const reference of [
-  "dar/messages2.html#message1590",
-  "dar/messages2.html#message1902",
-  "dar/messages2.html#message1706",
-  "dar/messages3.html#message3046",
-  "dar/messages5.html#message4377",
-  "dar/messages2.html#message1923",
-  "dar/messages2.html#message1608",
-  "dar/messages2.html#message1876",
-  "dar/messages3.html#message2635",
-]) markPrimarySourceNeeded(reference);
 
 fs.writeFileSync(bankPath, markdown);
 console.log(`Repaired ${path.relative(root, bankPath)} and attached ${videos.length} source videos.`);

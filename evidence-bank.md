@@ -385,7 +385,6 @@ Whoever does not disavow shirk has not truly realized lā ilāha illā Allāh, e
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/f145e3237565e22db5bb.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 <p><img class="source-scan" src="assets/scans/adc809c4fb88c8b12b8e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
@@ -399,6 +398,11 @@ He must also disassociate himself from shirk and from the mushrikīn, showing en
 The verse, ‘And avoid the ṭāghūt,’ encompasses both abandoning the worship of the ṭāghūt and expressing barāʾah from those who worship the ṭāghūt.”
 
 Source: Ṣāliḥ al-Fawzān, al-Taʿlīq al-Mukhtaṣar al-Mubayyan ʿalā Qurrat ʿUyūn al-Muwaḥḥidīn, p. 18.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached Arabic source scan</summary>
+<p><img class="source-scan" src="assets/scans/6e4eec0c4d7274b8fe1a.jpg" alt="Arabic source scan from al-Taʿlīq al-Mukhtaṣar al-Mubayyan, p. 18" loading="lazy"></p>
+</details>
 
 <!-- telegram-source: dar/messages4.html#message4118 -->
 
@@ -3847,8 +3851,6 @@ We ask Allah for safety and guidance.
 
 <!-- telegram-source: dar/messages2.html#message1590 -->
 
-**Source status: Primary source needed.**
-
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz رحمه الله was asked:
 
 Question:
@@ -3861,13 +3863,13 @@ Whoever is known for holding a corrupt, polytheistic belief, his slaughtered ani
 
 This is major shirk; it is the practice of Jāhiliyyah (pre-Islamic ignorance)—the same as what Quraysh did with Hubal, al-Lāt, and al-‘Uzza, and what the people of Nūḥ did with Wadd, Suwā‘, and others like them. Such individuals are considered among those upon whom the proof (ḥujjah) has been established, because they live among Muslims, and the Qur’an, Sunnah, and the words of scholars have reached them. If someone has not received any of this knowledge, it is only due to his negligence and lack of concern .
 
-However, those who live in distant lands, away from Muslims, and belong to Ahl al-Fatrah (people who have not received the message and have never heard the words of Allah or His Messenger), they are considered disbelievers in worldly rulings, but their ultimate judgment is left to Allah in the Hereafter. In this world, their slaughtered animals are not permissible to eat as long as they practice the ways of the disbelievers.In worldly rulings, their slaughtered animals are not permissible to eat as long as they follow the practices of the disbelievers. However, their ultimate judgment is left to Allah on the Day of Judgment. On that day, they will be tested—if they obey the commands, they will enter Paradise, and if they disobey, they will enter Hellfire. This is the correct view regarding Ahl al-Fatrah
+However, those who live in distant lands, away from Muslims, and belong to Ahl al-Fatrah (people who have not received the message and have never heard the words of Allah or His Messenger), they are considered disbelievers in worldly rulings, but their ultimate judgment is left to Allah in the Hereafter. In this world, their slaughtered animals are not permissible to eat as long as they practice the ways of the disbelievers. Their ultimate judgment is left to Allah on the Day of Judgment. On that day, they will be tested. If they obey the commands, they will enter Paradise, and if they disobey, they will enter Hellfire. This is the correct view regarding Ahl al-Fatrah.
+
+Source: [Official Ibn Bāz fatwa, “The ruling on eating the slaughtered animals of those who hold polytheistic beliefs”](https://binbaz.org.sa/fatwas/8613/حكم-اكل-ذباىح-اصحاب-العقاىد-الشركية).
 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1902 -->
-
-**Source status: Primary source needed.**
 
 Sheikh Bin Bāz رحمه الله was asked:
 
@@ -3877,7 +3879,9 @@ A: There is no excuse for ignorance in these matters—matters of faith, monothe
 
 Merely pronouncing the two testimonies is not sufficient while a person engages in such acts, worshiping the dead, seeking their help, or making vows to them—this is major shirk, and they are not excused. They must dedicate worship to Allah alone, avoid shirk, and be wary of it in all its forms.
 
-Abandoning prayer is disbelief. The one who does not pray is a disbeliever, as the Prophet ﷺ said: “Between a man and disbelief and polytheism is the abandonment of prayer.” He also said: *“The covenant that distinguishes us from them is prayer; whoever abandons it has disbelieved.”
+Abandoning prayer is disbelief. The one who does not pray is a disbeliever, as the Prophet ﷺ said: “Between a man and disbelief and polytheism is the abandonment of prayer.” He also said: “The covenant that distinguishes us from them is prayer; whoever abandons it has disbelieved.”
+
+Source: [Official Ibn Bāz fatwa, “The issue of excuse due to ignorance in matters of creed”](https://binbaz.org.sa/fatwas/14751/مسالة-العذر-بالجهل-في-مساىل-العقيدة).
 
 ---
 
@@ -3903,8 +3907,6 @@ Answer: The Quran has reached them: “This is a message for the people” [Ibra
 
 <!-- telegram-source: dar/messages2.html#message1706 -->
 
-**Source status: Primary source needed.**
-
 Sheikh Bin Bāz was Asked:
 
 Question:
@@ -3928,6 +3930,8 @@ So, whoever receives the message of the Noble Qur’an and the purified Sunnah a
 If a person invokes the dead, seeks their intercession, or calls upon stars, trees, stones, idols, or jinn—making supplications to them, seeking their help, or offering vows to them—this constitutes major shirk. Such a person must be called to repent by the authorities. If they repent, they are accepted back into Islam; otherwise, they are subject to capital punishment for committing shirk against Allah. As the Prophet ﷺ said: “Whoever changes his religion, kill him.”
 
 Allah sent His Prophet ﷺ to call people to tawḥīd and to strive against the mushrikīn. Thus, if a person lives among Muslims or in a land where the Qur’an and Sunnah have reached, yet remains negligent and continues in their acts of shirk, they are to be judged as a mushrik.
+
+Source: [Official Ibn Bāz fatwa, “The ruling on grave worshippers and whether they are excused due to ignorance”](https://binbaz.org.sa/fatwas/11713/حكم-عباد-القبور-وهل-يعذرون-بالجهل).
 
 ---
 
@@ -4171,8 +4175,6 @@ Therefore, it is obligatory to be alert to these matters, and for the student of
 
 <!-- telegram-source: dar/messages3.html#message3046 -->
 
-**Source status: Primary source needed.**
-
 Shaykh Bin Bāz was Asked:
 
 Question: Is there disagreement on the issue of excuse due to ignorance?
@@ -4182,6 +4184,8 @@ Answer: It is a great issue, and the original ruling is that there is no excuse 
 Question: But is it correct to say this is a matter of disagreement?
 
 Answer: No, it is not a matter of disagreement, except in subtle details that may be hidden, like the story of the one who said to his family: “Burn me.”
+
+Source: [Official Ibn Bāz fatwa, “Is the issue of excuse due to ignorance a disputed issue?”](https://binbaz.org.sa/fatwas/31405/هل-مسالة-العذر-بالجهل-من-المساىل-الخلافية).
 
 
 ---
@@ -4502,8 +4506,6 @@ Sheikh Ibn Uthaymeen رحمه الله on Udhr bil Jahl
 
 <!-- telegram-source: dar/messages5.html#message4377 -->
 
-**Source status: Primary source needed.**
-
 Shaykh Muqbil was asked:
 
 Q: Is everyone who falls into major shirk while not knowing, or while being a mutaʾawwil (one acting based on interpretation), considered a mushrik who has exited the religion?
@@ -4511,6 +4513,8 @@ Q: Is everyone who falls into major shirk while not knowing, or while being a mu
 A: Shirk itself differs. The one who prostrates to an idol is considered a mushrik, committing Shirk al-Akbar, and this is up to Allah: if he was ignorant, then if Allah wills He excuses him, and if He wills He punishes him.
 
 And we also say excuse due to ignorance (al-ʿudhr bil-jahl), but we judge him according to the outward of his action (i.e we call him a mushrik). And if the action was Shirk al-Akbar, such as vowing to other than Allah and slaughtering for other than Allah while he does not know, then we hope that Allah forgives him and excuses him due to his ignorance.
+
+Source: [Official Muqbil ibn Hādī al-Wādiʿī fatwa](https://www.muqbel.net/fatwa.php?fatwa_id=3751).
 
 ---
 
@@ -4685,8 +4689,6 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <!-- telegram-source: dar/messages2.html#message1923 -->
 
-**Source status: Primary source needed.**
-
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
 Q: Tell us about the virtue of monotheism (Tawḥīd). If someone unknowingly engages in major shirk throughout their life and dies upon it, are they excused due to ignorance? What is the criterion for ignorance that warrants an excuse?
@@ -4706,6 +4708,8 @@ Nonetheless, such cases are extremely rare today, especially with the advancemen
 Now, no one can claim ignorance about shirk, Tawḥīd, Paradise, or Hell. No one is unaware that zinā is forbidden, that shirk is prohibited, that ribā (usury) is ḥarām, that alcohol and intoxicants are forbidden, and that killing innocent lives is impermissible. These are clear and universally known prohibitions.
 
 Thus, a person cannot claim ignorance about them. How long will they remain ignorant? They have every opportunity to ask, learn, and remove their ignorance. If they neglect this duty, they are to blame for their own shortcomings.
+
+Source: [Official Ṣāliḥ al-Fawzān fatwa](https://www.alfawzan.af.org.sa/ar/node/13595).
 
 ---
 
@@ -5259,8 +5263,6 @@ Sheikh fawzan on ʿUdhr bil Jahl #ʿUdhr_bil_Jahl
 
 <!-- telegram-source: dar/messages2.html#message1608 -->
 
-**Source status: Primary source needed.**
-
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
 Question:
@@ -5269,7 +5271,9 @@ May Allah bless you, esteemed scholar. A questioner asks: Is this statement a vi
 
 Answer:
 
-This is not what the people of Sunnah and the Jama'ah have said. They do not say this. We rule based on what is apparent. We have no knowledge of the unseen, only the visible. So, if someone commits shirk by saying or doing something openly—such as slaughtering for other than Allah, making vows to other than Allah, or prostrating to other than Allah—we declare them a disbeliever based on their actions. If they speak words of disbelief, we judge them as disbelievers based on their words. We do not judge what is in the heart. Likewise, if someone accepts Islam and outwardly demonstrates Islam, we judge them as Muslim based on their appearance. We only judge by outward appearances, not by what is hidden.
+This is not what the people of Sunnah and the Jamāʿah have said. They do not say this. We rule based on what is apparent. We have no knowledge of the unseen, only the visible. So, if someone commits shirk by saying or doing something openly, such as slaughtering for other than Allah, making vows to other than Allah, or prostrating to other than Allah, we declare them a disbeliever based on their actions. If they speak words of disbelief, we judge them as disbelievers based on their words. We do not judge what is in the heart. Likewise, if someone accepts Islam and outwardly demonstrates Islam, we judge them as Muslim based on their appearance. We only judge by outward appearances, not by what is hidden.
+
+Source: [Official Ṣāliḥ al-Fawzān fatwa](https://alfawzan.af.org.sa/ar/node/9646).
 
 ---
 
@@ -5489,8 +5493,6 @@ A: I do not understand how the proof has not been established upon him. The basi
 
 <!-- telegram-source: dar/messages2.html#message1876 -->
 
-**Source status: Primary source needed.**
-
 Sheikh ar-Rājiḥī said:
 
 Q: Is a person ignorant of Tawḥīd excused for their ignorance regarding the matter of invoking others besides Allah and worshiping graves?
@@ -5501,7 +5503,7 @@ The excuse for ignorance applies only to those of the Fatrah (the time before th
 
 However, a person may be excused in matters that are subtle or obscure, which are not clear to them, similar to the people of Fatrah who never heard the Qur’an.
 
-[Sharḥ Kitāb as-Sunnah by al-Barbahārī – Sheikh ar-Rājiḥī]
+Source: [ʿAbd al-ʿAzīz al-Rājihī, *Sharḥ Kitāb al-Sunnah*](https://shamela.ws/book/35083/148).
 
 ---
 
@@ -5568,8 +5570,6 @@ As for lesser shirk, it depends on whether his good deeds outweigh the bad or th
 
 <!-- telegram-source: dar/messages3.html#message2635 -->
 
-**Source status: Primary source needed.**
-
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
 Question: Is a person excused due to ignorance if he performs acts of shirk, such as circumambulating a grave, without knowing that what he is doing is shirk against Allah Almighty?
@@ -5583,6 +5583,8 @@ This view was adopted by Shaykh Muḥammad ibn ʿAbd al-Wahhāb, may Allah have 
 “We do not declare anyone a disbeliever until the proof has been established upon him.” Other scholars, however, held that no one is excused after the sending of the Messenger ﷺ, since Allah says: “And We never punish until We have sent a Messenger.”, and indeed, the Messenger has been sent, and the Qur’ān has been revealed and is recited. Its texts are clear in warning against shirk and in defining it. Therefore, they are not excused.
 
 These two positions are both attributed to the scholars, and were mentioned by Shaykh al-Islām Ibn Taymiyyah and others. May Allah grant everyone success in obeying Him, bless all with righteous deeds and beneficial knowledge, and may peace and blessings be upon Muḥammad, his family, and his companions.
+
+Source: [ʿAbd al-ʿAzīz al-Rājihī, source text in Shamela](https://shamela.ws/book/37010/193).
 
 
 ---
@@ -13757,6 +13759,22 @@ Source: Fatāwā al-Aʾimmah an-Najdiyyah 3/116-117
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/1852ba39834e8f0bbbab.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
+
+---
+
+### ʿAbd al-ʿAzīz Ibn Bāz: invoking the dead and the worldly ruling on Ahl al-Fatrah
+
+Shaykh ʿAbd al-ʿAzīz Ibn Bāz was asked whether it is permissible to eat the slaughtered animals of those who make vows, offer sacrifices, and supplicate to those whom they regard as awliyāʾ when the proof has not removed their doubts.
+
+He answered:
+
+“Whoever is known for holding a corrupt, polytheistic belief, his slaughtered animal is not permissible to eat. If he lives among Muslims, then he has no excuse because he neither inquired nor cared. If it is known that he worships other than Allah, such as those who worship al-Badawī, al-Ḥusayn, al-Ḥasan, ʿAlī, Ibn ʿArabī, or others whom they call awliyāʾ, then such people are disbelievers, and their slaughtered animals are impermissible to eat. The same applies to anyone who worships other than Allah, makes vows for them, offers sacrifices to them, or seeks their aid.
+
+This is major shirk. It is the practice of Jāhiliyyah, the same as what Quraysh did with Hubal, al-Lāt, and al-ʿUzzā, and what the people of Nūḥ did with Wadd, Suwāʿ, and others like them. Such individuals are considered among those upon whom the proof has been established because they live among Muslims, and the Qurʾān, Sunnah, and the words of the scholars have reached them. If someone has not received any of this knowledge, it is only due to his negligence and lack of concern.
+
+As for one who is in a distant land away from the Muslims and belongs to Ahl al-Fatrah, to whom the call has not reached and who has not heard the words of Allah or His Messenger, he has the ruling of the disbelievers in this world, while his matter in the Hereafter is left to Allah. His slaughtered animal is not eaten so long as he practices the deeds of the disbelievers. On the Day of Resurrection he will be tested. If he obeys, he will enter Paradise, and if he disobeys, he will enter the Fire. This is the correct view regarding Ahl al-Fatrah.”
+
+Source: [Official Ibn Bāz fatwa, “The ruling on eating the slaughtered animals of those who hold polytheistic beliefs”](https://binbaz.org.sa/fatwas/8613/حكم-اكل-ذباىح-اصحاب-العقاىد-الشركية).
 
 ---
 
