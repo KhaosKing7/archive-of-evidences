@@ -398,7 +398,11 @@
     }
     .evidence-entry[hidden],
     .filtered-heading[hidden] { display: none; }
-    body.filters-active .topic-panel > hr { display: none; }
+    .evidence-entry.entry-separated {
+      margin-top: 44px;
+      padding-top: 44px;
+      border-top: 1px solid var(--line);
+    }
     .scholar-index-intro {
       color: var(--muted);
       font-family: system-ui, sans-serif;
@@ -11127,6 +11131,7 @@
           }
           if (isElement && node.tagName === 'HR') {
             flush();
+            node.remove();
             return;
           }
           pending.push(node);
@@ -11202,18 +11207,18 @@
       });
     }
 
-    function applyFilters() {
-      const filtersActive = Boolean(
-        controls.search.value.trim()
-        || controls.book.value.trim()
-        || controls.scholar.value
-        || controls.century.value
-        || controls.category.value
-        || controls.arabic.checked
-        || controls.scan.checked
-      );
-      document.body.classList.toggle('filters-active', filtersActive);
+    function updateEntrySeparators(entries) {
+      let previousCategory = '';
+      entries.forEach(entry => entry.classList.remove('entry-separated'));
+      entries.filter(entry => !entry.hidden).forEach(entry => {
+        if (entry.dataset.categoryId === previousCategory) {
+          entry.classList.add('entry-separated');
+        }
+        previousCategory = entry.dataset.categoryId;
+      });
+    }
 
+    function applyFilters() {
       if (activeTopic === 'scholars') {
         let shownEntries = 0;
         let shownScholars = 0;
@@ -11238,6 +11243,7 @@
         entry.hidden = !entryMatches(entry);
         if (!entry.hidden) visible++;
       });
+      updateEntrySeparators(scoped);
       updateVisibleHeadings(scoped);
       controls.count.textContent = visible + ' of ' + scoped.length + ' entries';
     }
