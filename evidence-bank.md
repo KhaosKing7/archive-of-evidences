@@ -592,20 +592,6 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 1/163.
 
 Source: Muḥammad ibn ʿAbd al-Wahhāb, al-Durar al-Saniyyah, 1/161.
 
-<!-- telegram-source: personal/messages.html#message520 -->
-
-قال الشيخ محمد بن عبدالوهاب رحمه الله:
-
-«واعلم أن الإنسان ما يصير مؤمنا بالله، إلا بالكفر بالطاغوت، والدليل قوله تعالى: ﴿لا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيم﴾ [البقرة: ٢٥٦]، الرشد: دين محمد، والغي: دين أبي جهل، والعروة الوثقى: شهادة أن لا إله إلا الله، وهي متضمنة للنفي والإثبات. تنفي جميع أنواع العبادة عن غير الله تعالى، وتثبت جميع أنواع العبادة كلها لله وحده لا شريك له»
-
-الدرر السنية جـ ١ صـ ١٦٣
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/b761ae5c46d231f1de3f.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages5.html#message4899 -->
 
 Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
@@ -747,6 +733,11 @@ He does not say it with the tongue alone; he says it with the tongue and the hea
 There is no īmān except in two things: kufr biṭ-ṭāghūt and belief in Allāh. Allāh says: “So whoever disbelieves in ṭāghūt and believes in Allāh, he has grasped the most trustworthy handhold, which will never break.” There is nothing except by denial or affirmation. The word of tawḥīd contains kufr biṭ-ṭāghūt and belief in Allāh. “Lā ilāha” is kufr biṭ-ṭāghūt, “illā Allāh” is belief in Allāh.
 
 Both are necessary. If someone says “Allāh” only, or “tawḥīd for Allāh,” or “I worship Allāh,” it is not valid. Both denial and affirmation are required. Whoever does not disbelieve in ṭāghūt does not believe in Allāh. True belief in Allāh and tawḥīd only occurs through both: kufr biṭ-ṭāghūt and belief in Allāh.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4113.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -2358,6 +2349,11 @@ Likewise, in the case of one who is far removed from hearing the Qurʾān and th
 
 As for one who lives among the Muslims, where the Qurʾān and the Sunnah are known, then ignorance is not an excuse for him — neither in ʿaqīdah nor in other than it. Allāh said: “This Qurʾān has been revealed to me that I may warn you thereby and whomever it reaches.” Allāh knows best. The Qurʾān and the Sunnah are to be learned. Allāh al-Mustaʿān.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4482.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message2628 -->
@@ -3851,6 +3847,8 @@ We ask Allah for safety and guidance.
 
 <!-- telegram-source: dar/messages2.html#message1590 -->
 
+**Source status: Primary source needed.**
+
 Shaykh ʿAbd al-ʿAzīz Ibn Bāz رحمه الله was asked:
 
 Question:
@@ -3868,6 +3866,8 @@ However, those who live in distant lands, away from Muslims, and belong to Ahl a
 ---
 
 <!-- telegram-source: dar/messages2.html#message1902 -->
+
+**Source status: Primary source needed.**
 
 Sheikh Bin Bāz رحمه الله was asked:
 
@@ -3902,6 +3902,8 @@ Answer: The Quran has reached them: “This is a message for the people” [Ibra
 ---
 
 <!-- telegram-source: dar/messages2.html#message1706 -->
+
+**Source status: Primary source needed.**
 
 Sheikh Bin Bāz was Asked:
 
@@ -3952,6 +3954,11 @@ Likewise, the one who denies what Allah has made obligatory — matters that are
 As long as such a person lived among Muslims, heard the Qurʾān, saw the Muslims and their practices, then the proof has been established against him, as Allah says: {And this Qurʾān was revealed to me that I may warn you thereby and whomever it reaches} [al-Anʿām: 19].
 
 That is, whoever the Qurʾān reaches, then the proof has reached them. And if he turned away, did not seek knowledge, and did not investigate, then his matter is with Allah — but in terms of the ruling in this world, he is like the disbelievers of Quraysh who were killed at Badr or died in Makkah, and like the general disbelievers among today’s Christians and Jews. All of them have had the proof established against them, because they did not submit to what Muḥammad ﷺ brought, nor did they pay heed to it, so they became disbelievers. We ask Allah for safety and wellbeing.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2853.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4110,6 +4117,11 @@ Answer: No, it is not a disputed issue, except in subtle cases that may be uncle
 
 Sheikh Bin Baz رحمه الله on Excuse of Ignorance
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages-491.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message3403 -->
@@ -4150,9 +4162,16 @@ Likewise, if he believes in everything but says: “Zinā is ḥalāl,” or “
 
 Therefore, it is obligatory to be alert to these matters, and for the student of knowledge to be upon insight, and not to be deceived by the words of these apostates—these ignorant misguiders who worship graves and seek aid from the dead, while claiming, “We are Muslims.” We ask Allah for safety. May Allah grant everyone success and guidance.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3417.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message3046 -->
+
+**Source status: Primary source needed.**
 
 Shaykh Bin Bāz was Asked:
 
@@ -4430,12 +4449,6 @@ He رحمه الله , said: “Some students of knowledge today are confused an
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message4228 -->
-
-A compilation of 30 fatawas of shaykh ibn ʿUthaymīn positon on udhr bil Jahl. We will translate these fatawas overtime and share them here
-
----
-
 <!-- telegram-source: dar/messages4.html#message3934 -->
 
 Shaykh Ibn ʿUthaymīn was asked: Is it permissible to declare a specific individual (muʿayyan) a disbeliever if he commits an act of kufr?
@@ -4480,9 +4493,16 @@ And from this platform, I call upon this man to repent to Allah – Exalted is H
 
 Sheikh Ibn Uthaymeen رحمه الله on Udhr bil Jahl
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages2-1102.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4377 -->
+
+**Source status: Primary source needed.**
 
 Shaykh Muqbil was asked:
 
@@ -4665,6 +4685,8 @@ Member: ʿAbd Allāh ibn Ghadayyān
 
 <!-- telegram-source: dar/messages2.html#message1923 -->
 
+**Source status: Primary source needed.**
+
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
 Q: Tell us about the virtue of monotheism (Tawḥīd). If someone unknowingly engages in major shirk throughout their life and dies upon it, are they excused due to ignorance? What is the criterion for ignorance that warrants an excuse?
@@ -4707,6 +4729,11 @@ So how could someone not know what shirk is, or not ask about it, or not investi
 
 Fatawa Date:  24 Jul 2024
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-3100.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message2941 -->
@@ -4728,6 +4755,11 @@ The caller asks: is he called a Muslim,
 Shaykh?
 
 The shaykh Responded:  No — he is not called a Muslim.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2941.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4789,6 +4821,11 @@ A: Based on the apparent act, whoever prostrates to other than Allah — we judg
 
 This group — the Murji’ah — has now appeared again. They are the ones saying such things.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2696.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message659 -->
@@ -4833,6 +4870,11 @@ Last question, Shaykh: These people use a dangerous method — they exploit scho
 
 The Shaykh said: Leave them; their sin is upon them.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-503.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message3223 -->
@@ -4848,6 +4890,11 @@ Answer: If he is ignorant, and no daʿwah has reached him, and the call of any m
 Questioner: May Allah grant you success, the questioner says: “If I see a person committing acts of shirk, such as supplicating to the dead or seeking shafāʿah (intercession) from them—how do I treat him? As a Muslim or as a kāfir?”
 
 Shaykh: You treat him as a mushrik. You hear him committing shirk, calling upon other than Allah—do you treat him as a Muslim? No, treat him with the treatment of the mushrik. But call him to Islam. Clarify to him that this is shirk akbar (major shirk), and clarify the danger of shirk. The gate of daʿwah to Allah and sincere advice remains open.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3223.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4881,6 +4928,11 @@ Q: Regarding the specific individual, is it required that the conditions of takf
 
 A: The specific individual and the non-specific—what concerns us is only the outward, O brothers. We have nothing except the outward. We judge people according to what appears from them. As for the inner realities and the hearts, none knows them except Allāh, exalted and Most High.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4290.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4886 -->
@@ -4895,6 +4947,11 @@ The proof has reached them, the proof has been established against them. Leave u
 
 Whoever the Qurʾān reaches, the proof has been established against him: {And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches} [al-Anʿām: 19], until the Day of Resurrection.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4886.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message3133 -->
@@ -4904,6 +4961,11 @@ Shaykh Ṣāliḥ al-Fawzān was asked:
 The questioner says: “O virtuous Shaykh, may Allah grant you success, a repeated question—among them this: Lately, many say that the worshippers of graves and shrines are not mushrikīn, and that some of them are just ignorant. We hope you will clarify this, may Allah grant you success.”
 
 The Shaykh responded: “How does he know they are ignorant? How does he know about them? How does he excuse them when he doesn’t even know? This kind of talk is guessing the unseen. As for the worshippers of graves—they are mushrikūn, mushrikūn—because they are worshipping other than Allah. And if it is assumed that one of them never knew, the Qur’an didn’t reach him, nothing reached him— he remains upon his jāhiliyyah. Such a person’s case is looked into. But to say, “The worshippers of graves are ignorant and not mushrikīn”— this is incorrect.”
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-3133.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4949,6 +5011,10 @@ The questioner said: May Allah grant you Paradise.
 
 The Shaykh concluded: We have been tested with them; may Allah guide them and protect us from their evil.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4365.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4991,6 +5057,11 @@ Question: Does the one who goes to the graves of the awliyāʾ and the righteous
 Answer: Is there any doubt that this is kufr? Yes, he becomes a kāfir. This person worshipped other than Allāh — he slaughtered for other than Allāh, made vows to other than Allāh, and sought aid from other than Allāh.
 
 We judge that this is kufr based on his actions and what has outwardly appeared from him. He is among the Muslims — he hears about shirk and the warnings against it — so he is not excused. The ḥujjah has been established against him, because he is in the lands of the Muslims, hearing the khuṭab, exhortations, Qur’ān, and the warnings against shirk.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-3181.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5042,6 +5113,11 @@ Q: “Your Eminence Shaykh, may Allah grant you success, I am from outside this 
 
 A: “No. She is treated as the mushrikīn are treated, because she died upon shirk. So she is treated as the mushrikīn are treated. Ḥajj is not performed on her behalf, nor is forgiveness sought for her.”
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4552.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message4111 -->
@@ -5051,6 +5127,11 @@ Shaykh Ṣāliḥ al-Fawzān was asked:
 Q: My mother died while calling upon the awliyāʾ and the ṣāliḥīn out of ignorance. Is it permissible for me to supplicate for her forgiveness?
 
 A: No. Do not supplicate for her. It was not for the Prophet and those who believed to seek forgiveness for the mushrikīn, even if they were close relatives. This is not permissible.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4111.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5077,6 +5158,11 @@ This is what we have been commanded with. We have nothing except outward appeara
 As for what is between him and Allah, then Allah is  more seeing and knowing regarding them; if he is excused, Allah knows that he is excused — then his affair is left to Allah. We do not judge the hearts; rather, we judge what appears to us.
 
 So whoever manifests kufr and shirk, we judge him with kufr and shirk, and we apply to him the rulings of shirk and the rulings of kufr— whether he is specific individual or not.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4324.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5164,9 +5250,16 @@ This is a great error, and it completely destroys the religion, leaving no relig
 
 Sheikh fawzan on ʿUdhr bil Jahl #ʿUdhr_bil_Jahl
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages2-1575.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages2.html#message1608 -->
+
+**Source status: Primary source needed.**
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
 
@@ -5198,6 +5291,11 @@ A: Whoever outwardly displays shirk — slaughtering for other than Allāh, or v
 
 Sheikh Fawzan on the traits of the Murji’ah
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages-642.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4914 -->
@@ -5212,6 +5310,11 @@ As for what is in the hearts, none knows it except Allāh. We have not been task
 
 Whoever does shirk, we judge him as a mushrik, and whoever does kufr, we judge that he is a kāfir. This is a group of the Murjiʾah that has appeared now, they are the ones who say these statements.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4914.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message4176 -->
@@ -5221,6 +5324,11 @@ Shaykh Ṣāliḥ al-Fawzān said:
 Yes, we judge people by the apparent. We do not know what is in the hearts. But whoever does good, we testify goodness for him based on what is apparent. And whoever does evil, we testify evil for him based on what is apparent. As for the hearts, none knows them except Allāh.
 
 The Murjiʾah now say: no—whoever commits an act of kufr or shirk or a grave evil, you must not judge him, because you do not know what is in his heart. You do not know what is in his heart. We were not tasked with the hearts; rather, we were tasked to judge by what is apparent. We judge people by their outward actions, as for the hearts, none knows them except Allāh, Glorified and Exalted.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4176.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5264,6 +5372,11 @@ The questioner has confused two matters: the issue of takfīr and the issue of j
 
 The danger of doubting the kufr of the mushrik - Sheikh Fawzan
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages-984.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message877 -->
@@ -5306,6 +5419,11 @@ As for takfīr, that is another matter. Declaring a specific individual a kāfir
 
 The essential matter is attachment to the Book of Allah and the Sunnah of His Messenger. Allah has removed all excuses by sending down His Book and His Messenger. So if someone says, “I’m ignorant,” it is said to him: You turned away from what was wājib upon you—seeking the truth—and you didn’t search for it. You are accountable for this. No one is going to come to your home saying, “This is the word of Allah, this is what the Prophet said.” This responsibility lies with you. As long as you know there is a Book from Allah and a Messenger, it is wājib upon you to seek what Allah has obligated. If you turn away, the blame is upon you. You are not excused by your ignorance. This is not a case where ignorance is an excuse.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2848.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4278 -->
@@ -5321,6 +5439,11 @@ This is what the shaykh says: that this is something not known among the earlier
 Then regarding someone like this: does the statement of the shaykh apply to him—his saying, “Whoever does not declare the kāfir to be a kāfir is himself a kāfir”? Because this is shirk and kufr against Allāh, exalted and majestic, and yet he did not declare him a kāfir; rather, he judged him to be a Muslim.
 
 Meaning: as for people like these, the existence of doubts must be removed before judging them to be disbelievers. But we say: this is ignorance—ignorance that no one preceded them in. If a mushrik falls into shirk, then he is a mushrik. Shirk does not exist independently such that the action is called shirk while its doer is called a Muslim. A person is held accountable for what he does.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4278.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5365,6 +5488,8 @@ A: I do not understand how the proof has not been established upon him. The basi
 ---
 
 <!-- telegram-source: dar/messages2.html#message1876 -->
+
+**Source status: Primary source needed.**
 
 Sheikh ar-Rājiḥī said:
 
@@ -5434,9 +5559,16 @@ If it is small in comparison to much sincerity, this is the view of Shaykh al-Is
 
 As for lesser shirk, it depends on whether his good deeds outweigh the bad or the opposite. If the bad deeds outweigh, then his good deeds are nullified and shirk overcomes them. But if the good deeds, especially tawḥīd, are abundant, they may outweigh the shirk.”
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2654.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message2635 -->
+
+**Source status: Primary source needed.**
 
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -5461,6 +5593,11 @@ Is a mushrik considered a muwaḥḥid as long as he remains ignorant? Response 
 
 This audio is more than 10 years old and he still repeats the same thing he claims to have repented from. Be warned of this individual and his followers. And return back to the scholars.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4647.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message4116 -->
@@ -5471,12 +5608,10 @@ Question: What is the ruling regarding someone who is new to Islām if he Does I
 
 Answer: Yes, he is a mushrik; this is shirk—he becomes a mushrik, because he directed worship to other than Allāh. But the issue is whether he is excused or not excused. If he has not heard of Islām and has no knowledge, then Allāh says that He does not punish until a messenger has been sent. So he will be tested on the Day of Resurrection. Texts have come indicating that those to whom the message did not reach will be tested.
 
-
----
-
-<!-- telegram-source: dar/messages4.html#message3846 -->
-
-A important clarification on Shaykh Rājihī speech which some people have began twisting
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4116.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5493,6 +5628,11 @@ As for the matter of the Hereafter—whether the proof was established against h
 But in this worldly life, we deal with him as a mushrik disbeliever. We judge that his action is disbelief and that he, in his very person, is a disbeliever. However, his final outcome is left to Allāh. We hold the belief that whoever meets Allāh as a polytheist, then the Fire will be his abode, because Allāh says: “Indeed, whoever associates others with Allāh – Allāh has forbidden him Paradise” (Al-Māʾidah: 72).
 
 But Allāh knows best the state of His servants on the Day of Resurrection.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3327.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5558,25 +5698,6 @@ As for judging him with kufr outwardly and inwardly, then this is suspended unti
 </details>
 ---
 
-<!-- telegram-source: dar/messages5.html#message4682 -->
-
-Shaykh Khālid al-Mushayqiḥ was asked:
-
-Q: As for the last question, we conclude with it. It says: those who perform ṭawāf around graves or fall into some forms of shirk—do we treat them as kuffār, or are they excused due to ignorance?
-
-A: This is the aṣl (principle): if a person sacrifices to a grave, or makes ṭawāf around a grave, or makes du‘āʾ to a grave besides Allāh, or bows or prostrates, then the aṣl is that they are mushrikūn with Allāh.
-
-Q: Even if he outwardly shows Islām?
-
-A: Yes, even if his outward appearance is Islām, his reality is shirk. But the aṣl is that if he directs an act of ‘ibādah to the occupant of the grave or shrine, then the ruling in origin is that he is a mushrik—yes, a mushrik with Allāh.
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/5e6a415f4b4ec520753a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-<p><img class="source-scan" src="assets/scans/321e3c641e735eddc61e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: personal/messages.html#message525 -->
 
 <div class="video-source" data-origin="telegram-attachment">
@@ -5594,12 +5715,22 @@ Q: Even if he outwardly shows Islām?
 
 A: Yes, even if his outward appearance is Islām, his reality is shirk. But the aṣl is that if he directs an act of ‘ibādah to the occupant of the grave or shrine, then the ruling in origin is that he is a mushrik—yes, a mushrik with Allāh.
 
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/5e6a415f4b4ec520753a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+<p><img class="source-scan" src="assets/scans/321e3c641e735eddc61e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
 
 ---
 
 <!-- telegram-source: dar/messages2.html#message1388 -->
 
 Sheikh Salih as-Suhaymi on Udhr Bil Jahl
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages2-1388.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5683,6 +5814,10 @@ As for the claim that a person is excused due to ignorance (ʿudhr bil-jahl), th
 
 Fatawa date: 29th Jul 2025
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3191.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -5773,11 +5908,10 @@ And that defender authored parts, books, fatwās, and responses with differing t
 
 The contradiction of those who say there is Excuse of Ignorance for the one who associates partners with Allah.
 
----
-
-<!-- telegram-source: dar/messages4.html#message3862 -->
-
-The one who is aware of the one who endorsed the website mentioned in this fatawa aswell as introduced the book mentioned. Then know that this individual and his students, who are well known and some of the biggest distorters of what salafiyyah is, are the one who have enforced this evil belief into the west. May Allah protect us from them. May Allah keep us firm on what tawhid is and not doubt it.
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages3-2871.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -6145,6 +6279,11 @@ A: Either he is ignorant, or he is covering up for shirk. He is covering up shir
 
 But if he intends concealment and obscuring the truth, then it is obligatory that he be refuted. It is obligatory that he be refuted and that his statement be condemned.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-905.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: personal/messages.html#message760 -->
@@ -6496,6 +6635,11 @@ So, the curse itself is not lifted, but when does it apply to a person specifica
 When do we say to this ʿādhir (excuser) — the one who excuses these people or those he sees — “You are a kāfir”? We ask him: “Do you excuse everyone who worships graves?” If he says: “No, I excuse only these people I know — so-and-so and so-and-so — because, to me, the daʿwah has not reached them,” then we tell him: “These people are mushrikīn by the proof of Allāh and His Messenger ﷺ.” We clarify it to him. If he persists afterward, then the ruling of takfīr applies to him, because now you have removed his shubhah, fulfilled the conditions, and the mawāniʿ are gone.
 
 This is regarding the specific individual. But before you perform takfīr ʿayn and want to issue the general ruling — takfīr nawʿ — that does not require the fulfillment of conditions or removal of preventers. You simply say: “Whoever does not declare the mushrikīn to be disbelievers is like them.”
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3705.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -7833,6 +7977,11 @@ A person may also be excused in minor matters from the subsidiary rulings that m
 Likewise, in the case of one who is far removed from hearing the Qurʾān and the Sunnah — in remote regions of the world — such people are Ahl al-Fatrah. The correct view is that they will be tested on the Day of Resurrection: whoever responds to the command will enter Jannah, and whoever disobeys will enter the Fire.
 
 As for one who lives among the Muslims, where the Qurʾān and the Sunnah are known, then ignorance is not an excuse for him — neither in ʿaqīdah nor in other than it. Allāh said: “This Qurʾān has been revealed to me that I may warn you thereby and whomever it reaches.” Allāh knows best. The Qurʾān and the Sunnah are to be learned. Allāh al-Mustaʿān.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4482.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -10306,6 +10455,11 @@ Question: How can a Muslim rid himself of shirk?
 
 Answer: Deliverance from both major and minor shirk is through sincere repentance to Allāh, returning to Him, and adhering firmly to His commands while avoiding His prohibitions. Through steadfastness and sincerity in obedience, Allāh protects His servant from falling into shirk.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3725.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages3.html#message2727 -->
@@ -10343,6 +10497,11 @@ A: rather, the one described in the question is a mushrik, a kāfir. Allāh does
 Whoever makes du‘āʾ to other than Allāh is a mushrik, and whoever worships graves is a mushrik. Such a person is not to be given zakāh. Rather, he is to be called to Islām and taught tawḥīd. If he accepts it, then that is what is sought; otherwise, it is upon the ruler to carry out concerning him what the Sharīʿah requires.
 
 As for the one who swears by other than Allāh, he may be given zakāh, because swearing by other than Allāh does not expel one from the religion, even though it is shirk. He may be given zakāh, and he should be advised and taught that swearing by other than Allāh is a type of shirk, so that Allāh may guide him.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4218.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -10931,6 +11090,11 @@ A: A person who performs Istighāthah with the inhabitants of the grave and asks
 
 And his ṣalāh is invalid in the sense that it is not correct to follow him. Whoever worships besides Allah, performs Istighāthah from other than Allah, or asks for fulfillment of needs from anyone other than Allah — this person is kāfir. That is, one does not pray behind him and he is treated like the kuffār.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4444.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message4070 -->
@@ -11304,6 +11468,11 @@ As for those people, they should be taught. Tell them to learn and to gather the
 
 Saying it is a bid‘ah does not mean it is not shirk. No—it is a bid‘ah that is shirk.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3289.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4591 -->
@@ -11418,12 +11587,6 @@ The fourth matter: That you know what is the ʿIbādah upon which [the matter] r
 The fifth matter: That you grasp the difference between the two Tawḥīds: al-Rubūbiyyah and al-Ulūhiyyah. And that you know: Is there a correlation between them? And what is the reality of this correlation? Is it a correlationfrom the aspect of necessity andinference? Or is it a correlation in reality?
 
 This matter is of great importance, and much of the deception of the Mushrikīn—of old and of new—comes from the direction of this issue between the two Tawḥīds: al-Rubūbiyyah and al-Ulūhiyyah. And the author—raḥimahu Allāh—will guide you to great principles related to this subject. Therefore, the knowledge of Tawḥīd and the knowledge of Shirk, and the grasping of that—O Muwaḥḥid —is by the Tawfīq of Allāh, through the knowledge of four Qawāʿid derived from the Kitāb of Allāh and the Sunnah of His Messenger ﷺ."
-
----
-
-<!-- telegram-source: dar/messages2.html#message1226 -->
-
-Refuting the Polytheists: The Fallacy Of Majāz ʿAqlī in Istighāthah | Shaykh Dr. Ṣāliḥ Sindī
 
 ---
 
@@ -11645,26 +11808,6 @@ A: “Yes; he did not lie. Ibn Taymiyyah explicitly stated this. Ibn Taymiyyah m
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message3503 -->
-
-Shaykh Ibn Bāz was asked:
-
-Question: May Allah reward you well, Shaykh! What about someone who goes to a grave and asks the deceased to make Duʿāʾ for them with Allah?
-
-Answer: This is also shirk, because the dead have no power to do that. If one says to the deceased: “Intercede for me, make Duʿāʾ to Allah for me,” they are committing shirk according to the correct view, because they are asking for something beyond the person’s ability.
-
-Question: Some people claim that this is the view of Ibn Taymiyyah [i.e it is a innovation]. Is that correct?
-
-Answer: No, this is not correct about Ibn Taymiyyah. Ibn Taymiyyah explicitly stated that this is shirk al-akbar.
-
-[Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.59]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/a09cbb7581fe9a15c22e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages4.html#message3747 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
@@ -11680,20 +11823,6 @@ Although he is a mushrik, he is also a fool who misguides himself. Allāh says: 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/8920aa36f33f71957da8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages4.html#message3977 -->
-
-Shaykh Ibn ʿUthaymīn said:
-
-To call upon a deceased created being who does not respond through known tangible means is also shirk al-akbar, because one assumes that they have a hidden control over the universe and thus directs du‘āʾ to them.
-
-[al-Qawl al-Mufīd ʿalā Kitāb at-Tawḥīd 1/160]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/6c4178f63c24b616bf37.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 ---
 
@@ -11721,49 +11850,6 @@ Allāh said regarding them: “In their hearts is a disease, and Allāh has incr
 
 ---
 
-<!-- telegram-source: dar/messages4.html#message3770 -->
-
-Supplicating to Other than Allah and istighāthah with them
-
-al-Lajnah ad-Dai’ma was asked:
-
-Q: We request your ruling regarding a group of people who sit in circles inside the mosque, remembering Allah and His Messenger, and who — during their adhkār — say things that contradict tawḥīd. For example, they all say together in one voice: “Take my hand, O Messenger of Allah!” And their leader says things like: “O key to the treasures of Allah! — O Kaʿbah of Allah’s manifestation! — O Throne of Allah’s istiwāʾ! — O Kursī of Allah’s descent! Enrich us, O Messenger of Allah! You are the one intended, O Beloved of Allah! You, you, O Messenger of Allah!” and other similar phrases filled with expressions of shirk.
-
-A: Firstly: Remembering Allah in groups with one voice, as practiced by the Ṣūfiyyah, is an bidʿah. It has been authentically reported from the Messenger of Allah ﷺ that he said: “Whoever introduces into this matter of ours that which is not from it, it will be rejected.”
-
-Secondly: Calling upon other than Allah and seeking help from them to remove distress or hardship is major shirk, and it is not permissible to do so. This is because duʿāʾ and istighāthah are acts of ʿibādah and devotion due solely to Allah. Directing them to anyone besides Him constitutes major shirk that expels a person from Islam — and we seek refuge in Allah from that.
-
-Allah the Exalted said: “And do not call upon, besides Allāh, that which neither benefits you nor harms you; for if you do so, then indeed you will be among the wrongdoers. And if Allah touches you with harm, none can remove it but He; and if He intends good for you, none can repel His bounty. He causes it to reach whom He wills among His servants. And He is the Forgiving, the Merciful.” (Yūnus :106–107)
-
-And He said: “And the masājid are for Allāh alone, so do not call upon anyone along with Allāh.” (al-Jinn :18) And He said: And whoever calls upon another god besides Allāh for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.” (al-Muʾminūn :117) There are many other verses commanding that ʿibādah (worship) be devoted purely to Allah alone. It is also established in the ḥadīth that the Prophet ﷺ said: “When you ask, ask Allah; and when you seek help, seek help from Allah.” And he ﷺ said: “Duʿāʾ is ʿibādah.”
-
-And Allah grants success. May blessings and peace be upon our Prophet Muḥammad, his family, and his Companions.
-
-[Fatāwā ʿUlamāʾ al-Balad al-Ḥarām p.63-64]
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/03c2e055dd285b08313c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
-<!-- telegram-source: dar/messages5.html#message4921 -->
-
-Is talab ad-du‘āʾ (requesting du‘āʾ) from the dead, shirk?
-
-Shaykh al-Fawzān was asked:
-
-Q: If a person goes to the occupant of a grave and asks him to make duʿāʾ to Allāh for him, is that considered shirk, since some people have reported from Shaykh al-Islām Ibn Taymiyyah that this action is a bidʿah?
-
-A: This is shirk. Seeking needs from the dead is shirk—whether duʿāʾ or anything else. The one who makes an exception for duʿāʾ and says it is not shirk—he must bring the evidence.
-
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/140395e18efcc22d95be.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
----
-
 <!-- telegram-source: dar/messages4.html#message3280 -->
 
 Shaykh Ṣāliḥ al-Fawzān was asked:
@@ -11771,6 +11857,11 @@ Shaykh Ṣāliḥ al-Fawzān was asked:
 Question: Is this statement correct? Those who say that if you ask a dead person to pray for you, it is a form of supplication which is bidʿah and not shirk — is this statement correct?
 
 Answer: This is a false statement. Asking the dead for one’s needs is shirk, and no one disputes this. As for asking the living, who are able to fulfill it, there is no harm — this falls under assistance and cooperation in righteousness and piety. But nothing should be asked from the dead. Rather, supplications are made for them: prayers are asked on their behalf, charity is given for them, Hajj or ʿUmrah may be performed on their behalf. They are in need of others’ supplications; nothing should be requested from them, since they are dead.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3280.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -11794,24 +11885,6 @@ For this reason, directing shafāʿah toward other than Allāh becomes major shi
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/6f962661ba3061854807.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
----
-
-<!-- telegram-source: dar/messages4.html#message3282 -->
-
-Shaykh Ṣāliḥ Āsh-Shaykh was asked:
-
-Question: What is your opinion about those who attribute to Shaykh al-Islām Ibn Taymiyyah that asking the the dead to pray to Allah for you is not shirk akbar but is a bid‘ah?
-
-Answer: This is in the words of Shaykh al-Islām, and it is correct. But by “bid‘ah” he means bid‘ah muḥdatha (a newly introduced innovation), that is, one that occurred in this Ummah. He did not mean by “bid‘ah” that it is an innovation that is not shirk, because among the bid‘ah that occurred in the Ummah, some are kufr-related or shirk-related, and some are not.
-
-So when he said: “And asking the dead to pray for the supplicant is a bid‘ah,” he means this happened in this Ummah. Even the people of Jāhiliyyah did not do this; they did not say: “Pray to Allah for us,” but rather they said: “intercede for us". The matter of asking the dead for prayer is therefore a bid‘ah that even among the polytheists did not exist. Among the people of Jāhiliyyah it did not exist; it occurred in this Ummah.
-
-What existed among the people of Jāhiliyyah was asking in the form of intercession: “intercede for us.” They would come and draw close in order to intercede, or address the deceased by saying: “intercede for us regarding such-and-such.” But saying “Pray to Allah for us” is a bid‘ah that occurred in this Ummah. Shaykh al-Islām’s statement that it is a newly introduced bid‘ah is correct, and the fact that it is a bid‘ah does not mean it is not shirk akbar.
-
-So building domes over graves, asking the occupants of graves, turning to them as seen in some shrines, making ḥajj to these shrines, and establishing rituals for them—all of these are bid‘ah. We say: bid‘ah muḥdatha (an innovation that occurred in this Ummah). Asking them, asking the people of these shrines, or sacrificing for them in this manner did not exist among the people of Jāhiliyyah in this way.
-
-Rather, their worship of the dead was in the form of idols and statues on graves and similar things, but not in this manner. The people of Jāhiliyyah did not perform pilgrimages like the pilgrimage to the house of Allāh, nor did they go to a shrine or grave in this manner. We say this is a bid‘ah. But does this mean it is not shirk akbar? No, because some bid‘ah are mukaffir.
-
 ---
 
 <!-- telegram-source: dar/messages4.html#message3397 -->
@@ -12879,23 +12952,6 @@ Source: ʿAbd ar-Raḥmān ibn Qāsim an-Najdī, *as-Sayf al-Maslūl ʿalā ʿĀ
 </details>
 ---
 
-<!-- telegram-source: personal/messages.html#message558 -->
-
-Shaykh Ibn Bāz was asked:
-
-Question: Many students understand that shirk is limited to asking the dead to fulfill one’s needs. But if one asks them for intercession, meaning to make Duʿāʾ for them, they think this is not shirk al-akbar, but rather an bidʿah.
-
-Answer: No, this is still shirk al-akbar. The reason is that the dead cannot make Duʿāʾ for anyone, nor can they intercede. All of them are bound by their own deeds. Duʿāʾ and intercession are only valid in life. That is why when ʿUmar and the Companions asked for rain, they did not ask the Prophet ﷺ to intercede for them after his death. Instead, they sought it through ʿAbbās, Yazīd ibn al-Aswad, and by Duʿāʾ. If it were lawful to seek rain or intercession from the Prophet ﷺ in his grave, they would have said: “make Duʿāʾ for us, O Messenger of Allah,” but they did not.
-
-Source: Sharḥ Kashf ash-Shubuhāt by Shaykh Ibn Bāz p.53
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/7d84e7f2ca591f49b1a4.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
-
----
-
 <!-- telegram-source: dar/messages5.html#message4643 -->
 
 Shaykh Ibn Bāz was asked:
@@ -12936,25 +12992,6 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh Ibn Bāz p.54
 
 ---
 
-<!-- telegram-source: personal/messages.html#message550 -->
-
-Shaykh Ibn ʿUthaymīn was asked:
-
-Q: “Some people say: ‘O Muhammad,’ or ‘O ʿAlī,’ or ‘O Jīlānī’ in times of distress. What is the ruling?”
-
-A: If a person intends to call upon these individuals and seek help from them, then he is a mushrik committing shirk akbar, which expels him from the religion. He must repent to Allāh ʿAzza wa Jall and call upon Allāh alone. As Allāh says: “Is He [Allāh] not the One who responds to the distressed when they call upon Him, removes the evil, and appoints you as successors on the earth? Is there any deity with Allāh?” (Sūrah an-Naml:62)
-
-Although he is a mushrik, he is also a fool who misguides himself. Allāh says: “And who would turn away from the millah of Ibrāhīm except a fool?” (Sūrah al-Baqarah:130) And He also says: “And who is more astray than one who calls upon other than Allāh, who will not respond to him until the Day of Resurrection, while they are heedless of their call?” (Sūrah al-Aḥqāf:5)
-
-Source: Fatāwā ʿUlamāʾ al-Balad al-Ḥarām p.45
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/8920aa36f33f71957da8.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
-
----
-
 <!-- telegram-source: dar/messages4.html#message3725 -->
 
 Shaykh Ibn ʿUthaymīn was asked:
@@ -12976,6 +13013,11 @@ shirk al-khafī refers to that which lies within the heart and is known only to 
 Question: How can a Muslim rid himself of shirk?
 
 Answer: Deliverance from both major and minor shirk is through sincere repentance to Allāh, returning to Him, and adhering firmly to His commands while avoiding His prohibitions. Through steadfastness and sincerity in obedience, Allāh protects His servant from falling into shirk.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3725.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -13005,6 +13047,11 @@ A: rather, the one described in the question is a mushrik, a kāfir. Allāh does
 Whoever makes du‘āʾ to other than Allāh is a mushrik, and whoever worships graves is a mushrik. Such a person is not to be given zakāh. Rather, he is to be called to Islām and taught tawḥīd. If he accepts it, then that is what is sought; otherwise, it is upon the ruler to carry out concerning him what the Sharīʿah requires.
 
 As for the one who swears by other than Allāh, he may be given zakāh, because swearing by other than Allāh does not expel one from the religion, even though it is shirk. He may be given zakāh, and he should be advised and taught that swearing by other than Allāh is a type of shirk, so that Allāh may guide him.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4218.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -13112,16 +13159,6 @@ As for matters which are obscure. Then the person is excused with ignorance and 
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/46e9da8ccd429d6acf0b.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
----
-
-<!-- telegram-source: dar/messages4.html#message3280 -->
-
-Shaykh Ṣāliḥ al-Fawzān was asked:
-
-Question: Is this statement correct? Those who say that if you ask a dead person to pray for you, it is a form of supplication which is bidʿah and not shirk — is this statement correct?
-
-Answer: This is a false statement. Asking the dead for one’s needs is shirk, and no one disputes this. As for asking the living, who are able to fulfill it, there is no harm — this falls under assistance and cooperation in righteousness and piety. But nothing should be asked from the dead. Rather, supplications are made for them: prayers are asked on their behalf, charity is given for them, Hajj or ʿUmrah may be performed on their behalf. They are in need of others’ supplications; nothing should be requested from them, since they are dead.
-
 ---
 
 <!-- telegram-source: personal/messages.html#message547 -->
@@ -13414,6 +13451,12 @@ Rather, their worship of the dead was in the form of idols and statues on graves
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/8f19930402e2e9537e4e.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3282.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4662 -->
@@ -13527,27 +13570,6 @@ Source: Sharḥ Tafsīr Kalimat at-Tawḥīd  by Shaykh Ṣāliḥ al-Fawzān p.
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/13b0fbde7560018aef81.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
-
----
-
-<!-- telegram-source: dar/messages5.html#message5069 -->
-
-Shaykh Sulaymān ibn ʿAbd Allāh Āl ash-Shaykh said:
-
-So if an arguer disputes that the worship of shrines, and calling upon the dead alongside Allah, is not shirk, and that its people are not mushrikūn, then his affair becomes clear, and his obstinacy and kufr become apparent.
-
-Source: ad-Durar as-Saniyyah 8/128
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Show Arabic source text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: الدرر السنية في الأجوبة النجدية</p>
-<h4 dir="rtl">ص. 128</h4>
-<p>الأوثان، فهو منهم. فإن جادل مجادل في أن عبادة القباب، ودعاء الأموات مع الله، ليس بشرك، وأن أهلها ليسوا بمشركين، بان أمره، واتضح عناده وكفره. ولم يفرق تعالى بين الخائف وغيره، بل أخبر الله تعالى: أن الذين في قلوبهم مرض يفعلون ذلك خوفاً من الدوائر؛ وهكذا حال هؤلاء المرتدين، خافوا من الدوائر، فزال ما في قلوبهم من الإيمان بوعد الله الصادق، بالنصر لأهل التوحيد، فبادروا وسارعوا إلى الشرك، خوفاً أن تصيبهم دائرة، قال الله تعالى: {فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِنْ عِنْدِهِ فَيُصْبِحُوا عَلَى مَا} [سورة المائدة آية: 52] .</p>
-<p>الدليل التاسع: قوله تعالى: {تَرَى كَثِيراً مِنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُوا لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنْفُسُهُمْ أَنْ سَخِطَ اللَّهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ} [سورة المائدة آية: 80] ، فذكر تعالى أن موالاة الكفار موجبة لسخط الله، والخلود في النار، بمجردها، وإن كان الإنسان خائفاً، إلا المكره بشرطه؛ فكيف إذا اجتمع ذلك مع الكفر الصريح، وهو معاداة التوحيد وأهله، والمعاونة على زوال دعوة الله بالإخلاص، وعلى تثبيت دعوة غيره؟!</p>
-<p>الدليل العاشر: قوله تعالى: {وَلَوْ كَانُوا يُؤْمِنُونَ بِاللَّهِ وَالنَّبِيِّ وَمَا أُنْزِلَ إِلَيْهِ مَا اتَّخَذُوهُمْ أَوْلِيَاءَ وَلَكِنَّ كَثِيراً مِنْهُمْ</p>
-</div>
 </details>
 
 ---
@@ -13755,30 +13777,6 @@ Source: Fatāwā al-Aʾimmah an-Najdiyyah 3/116-117
 
 ---
 
-<!-- telegram-source: dar/messages4.html#message3723 -->
-
-Some of the Murji’ah use the claim of hidden shirk to excuse the mushrikĩn, they say Istighathā falls into this category, that it is hidden shirk. What did Our Imām’s Ibn Bāz and Ibn ‘Uthaymīn say regarding hidden shirk and what it is?
-
-Shaykh Ibn Bāz was asked:
-
-Question:
-
-Your Eminence, you have mentioned shirk al-akbar (major shirk) and shirk al-asghar (minor shirk) — but what is shirk al-khafī (Hidden shirk), since some scholars have said that shirk is “more hidden than the crawling of a black ant on a smooth black stone”?
-
-Answer:
-
-Hidden shirk is of two types:
-
-The first type is shirk al-asghar — and this is riyāʼ, for its place is in the hearts. It is called hidden shirk because it is subtle and often concealed, and it is also called minor shirk because it does not expel one from Islām, though it diminishes the sincerity of worship.
-
-The second type is another form of hidden shirk, which is the shirk of hypocrisy — and we seek refuge with Allāh from it. This occurs within the hearts, when people conceal disbelief and misguidance, deny Allāh and His Messenger, and believe the message of the Prophet ﷺ to be false. This is major hypocrisy and constitutes shirk al-akbar and apostasy from Islām — we seek refuge with Allāh.
-
-It is the hypocrisy of the munāfiqūn (hypocrites) — their showing off is the riyāʼ of the hypocrites, and their disbelief is the kufr of the hypocrites; outwardly they are with the Muslims, but inwardly they are with the disbelievers through their corrupt beliefs and their denial of Allāh and His Messenger.
-
-Allāh said regarding them: “In their hearts is a disease, and Allāh has increased their disease.” (Sūrah al-Baqarah, 2:10)
-
----
-
 <!-- telegram-source: dar/messages4.html#message3770 -->
 
 Supplicating to Other than Allah and istighāthah with them
@@ -13925,6 +13923,11 @@ A: A person who performs Istighāthah with the inhabitants of the grave and asks
 
 And his ṣalāh is invalid in the sense that it is not correct to follow him. Whoever worships besides Allah, performs Istighāthah from other than Allah, or asks for fulfillment of needs from anyone other than Allah — this person is kāfir. That is, one does not pray behind him and he is treated like the kuffār.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages5-4444.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages5.html#message4393 -->
@@ -13974,12 +13977,6 @@ However, this does not necessarily mean that it is to be used as evidence for th
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/4fa3544a918e08d3fc26.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
----
-
-<!-- telegram-source: dar/messages2.html#message1226 -->
-
-Refuting the Polytheists: The Fallacy Of Majāz ʿAqlī in Istighāthah | Shaykh Dr. Ṣāliḥ Sindī
-
 ---
 
 ### Ṭalab al-duʿāʾ and requesting intercession from the dead
@@ -14390,33 +14387,6 @@ Source: as-Sayf al-Maslūl ʿalā ʿĀbid ar-Rasūl by Shaykh ʿAbd ar-Raḥmān
 
 ---
 
-<!-- telegram-source: personal/messages.html#message546 -->
-
-Ṭalab ad-Duʿāʾ (requesting Duʿāʾ) from the dead is Shirk Akbar
-
-Shaykh Ibn Bāz was asked:
-
-Q: “A person comes to a grave and asks the one in it to make du‘ā’ for him to Allah—what is the ruling?”
-
-A: “The same applies. He (the deceased) does not possess that. If someone says, ‘Intercede for me, or make du‘ā’ for me,’ this is shirk, without any doubt—because the deceased does not possess the ability to do that (i.e. to say) ‘Make du‘ā’ to Allah for me,’ or ‘Intercede for me’.
-
-Q: “If he says to the grave: ‘Make du‘ā’ for me to Allah’?”
-
-A: “This is not permissible. This is shirk, for he is requesting from the deceased what he cannot do. His affair (i.e., his ability to act) has ended.”
-
-Q: “Some people claim this is the statement of Ibn Taymiyyah— is this correct, Shaykh?”
-
-A: “Yes; he did not lie. Ibn Taymiyyah explicitly stated this. Ibn Taymiyyah made it clear that this is shirk akbar.”
-
-Source: Subul as-Salām Sharḥ Nawāqiḍ al-Islām by Shaykh Ibn Bāz p.84-85
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/f169c87f6f78a04ac233.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
-
----
-
 <!-- telegram-source: dar/messages4.html#message3503 -->
 
 Shaykh Ibn Bāz was asked:
@@ -14453,6 +14423,10 @@ Q: If a person goes to the occupant of a grave and asks him to make duʿāʾ to 
 
 A: This is shirk. Seeking needs from the dead is shirk—whether duʿāʾ or anything else. The one who makes an exception for duʿāʾ and says it is not shirk—he must bring the evidence.
 
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/140395e18efcc22d95be.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
 
 ---
 
@@ -14479,6 +14453,11 @@ Shaykh Ṣāliḥ al-Fawzān was asked:
 Q: Noble shaykh, may Allāh grant you success. If I see a person committing acts of shirk, such as calling upon the dead and seeking intercession from them, how should I treat him—do I treat him as a Muslim or as a kāfir?
 
 A: You treat him as a Muslim while he is committing shirk and you can hear him committing shirk and calling upon other than Allāh?!!! Treat him as a mushrik, but call him to Islam. Explain to him that this is major shirk, and clarify the danger of shirk, from the angle of calling to Allāh and offering sincere advice. Yes.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-4063.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -14522,73 +14501,6 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 <p><img class="source-scan" src="assets/scans/aa23a239d53fd24f9421.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
 </details>
 
----
-
-<!-- telegram-source: dar/messages4.html#message3965 -->
-
-Shaykh Ṣāliḥ Āl ash-Shaykh said:
-
-As for the technical usage: al-shafāʿah (intercession) is a general term for every duʿāʾ that the Prophet ﷺ will make for his ummah on the Day of Resurrection. Every supplication he offers to Allāh in the great gathering on that Day is counted as shafāʿah. This is like what has come in the hadith: “Ummati, ummati” (my ummah, my ummah), or “Ummati yā Rabb” (my ummah, O Lord), and similar expressions. All of these are shafāʿah. For this reason, the scholars classified shafāʿah into several types, due to what appears in the narrations and due to the differing wordings regarding it.
-
-Shafāʿah is duʿāʾ, and Ṭalab ash-shafāʿah (requesting shafāʿah) is Ṭalab ad-Duʿā (requesting duʿāʾ). So if someone says: “I seek istishfāʿ (request for intercession),” it is as if he said: “I ask the Messenger ﷺ to make duʿāʾ for me with Allāh.” Shafāʿah is a request; therefore, whoever seeks istishfāʿ is requesting shafāʿah. Shafāʿah is duʿāʾ, and it is also the seeking of duʿāʾ.
-
-For this reason, every proof previously presented—and every proof in the Book or the Sunnah that invalidates calling upon alongside Allāh any being that is treated like an deity—serves as evidence against shafāʿah of the dead, meaning against istishfāʿ with the dead and with those absent from the realm of responsibility. This is because the true nature of the intercessor is that he is one who requests, and the true nature of the one seeking intercession is also that he is one who requests. In the assumption of the seeker, the shāfiʿ is making duʿāʾ, and the seeker is calling upon the one from whom he seeks shafāʿah.
-
-Meaning: if a person comes to the grave of the Prophet ﷺ, or the grave of a walī, or something similar, and says: “I seek shafāʿah through you,” or “I ask for shafāʿah,” he has requested and called upon that being to make duʿāʾ for him.
-
-For this reason, directing shafāʿah toward other than Allāh becomes major shirk, because in reality it is a duʿāʾ to other than Allāh. In reality it is a request from this dead person—a request, a turning with petition and duʿāʾ to other than Allāh. Thus one directs to other than Allāh what is in essence asking, requesting, and praying.
-
-Source: Sharḥ Fatḥ al-Majīd li-Sharḥ Kitāb at-Tawḥīd by Shaykh Ṣāliḥ Āl ash-Shaykh 2/41-42
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Show Arabic source text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: فتح المجيد شرح كتاب التوحيد</p>
-<h4 dir="rtl">ص. 41</h4>
-<p>خلقه من أنثى بلا ذكر، كما قال تعالى: {إِنَّ مَثَلَ عِيسَى عِنْدَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ} 1 فليس ربا ولا إلها. سبحان الله عما يشركون. قال تعالى: {فَأَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيّاًِيًّا قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا وَالسَّلامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا ذَلِكَ عِيسَى ابْنُ مَرْيَمَ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ سُبْحَانَهُ إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُسْتَقِيمٌ2} . وقال: {لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْداً لِلَّهِ وَلا الْمَلائِكَةُ الْمُقَرَّبُونَ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعاً} 3، ويشهد المؤمن أيضا ببطلان قول أعدائه اليهود: إنه ولد بغي، لعنهم الله تعالى. فلا يصح إسلام أحد علم ما كانوا يقولونه حتى يبرأ من قول الطائفتين جميعا في عيسى عليه السلام، ويعتقد ما قاله الله تعالى فيه: أنه عبد الله ورسوله.</p>
-<p>قوله: &quot;وكلمته&quot; إنما سمي عيسى عليه السلام كلمة لوجوده بقوله تعالى: &quot; كن &quot; كما قاله السلف من المفسرين. قال الإمام أحمد في الرد على الجهمية4: &quot;بالكلمة التي ألقاها إلى</p>
-<p>1 سورة آل عمران آية: 59.</p>
-<p>2 في قرة العيون: فبين تعالى الصراط المستقيم الذي من سلكه نجا ومن خرج منه هلك. وقال تعالى: (إن مثل عيسى عند الله كمثل آدم خلقه من تراب ثم قال له كن فيكون الحق من ربك فلا تكن من الممترين) فبين تعالى الصراط المستقيم بيانا شافيا ووافيا، وأقام حججه على توحيده فأحق الحق وأبطل الباطل ولو كره المشركون.</p>
-<p>3 سورة النساء آية: 172.</p>
-<p>4 صفحة 20 طبعة عيسى الحلبي وأولاده في باب: ثم إن الجهمي ادعى أمرا فقال: إنا وجدنا آية في كتاب الله تدل على أن القرآن مخلوق. فقلنا: أي آية؟ قال: قول الله: (إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم) وعيسى مخلوق.</p>
-<h4 dir="rtl">ص. 42</h4>
-<p>مريم حين قال له: &quot;كن&quot; فكان عيسى بكن، وليس عيسى هو &quot;كن&quot;، ولكن بكن كان، فكن من الله تعالى قول، وليس &quot;كن&quot; مخلوقا، وكذب النصارى والجهمية على الله في أمر عيسى&quot; انتهى.</p>
-<p>قوله: &quot;ألقاها إلى مريم&quot; قال ابن كثير: خلقه بالكلمة التي أرسل بها جبريل إلى مريم فنفخ فيها من روحه بأمر ربه عز وجل، فكان عيسى بإذن الله عز وجل، فهو ناشئ عن الكلمة التي قال له: &quot;كن فكان&quot;، والروح التي أرسل بها: هو جبريل عليه السلام.</p>
-<p>وقوله: &quot;وروح منه&quot;1. قال أبي بن كعب: &quot;عيسى روح من الأرواح التي خلقها الله</p>
-<p>1 الظاهر أن معنى &quot;وروح منه&quot; أنه كغيره من بني آدم الذي يقول الله فيه: (فإذا سويته ونفخت فيه من روحي) كما مثل له في الآية الأخرى بأنه مثل آدم. والله أعلم. وقال في قرة العيون: أي من الأرواح التي استخرجها من صلب آدم عليه السلام وأخذ عليها العهد على أنه تعالى ربهم وإلههم كما قال تعالى: (وإذ أخذ ربك من بني آدم من ظهورهم ذريتهم وأشهدهم على أنفسهم ألست بربكم قالوا بلى شهدنا) الآية. وروح عيسى من تلك الأرواح التي خلقها الله تعالى. وذكر ابن جرير عن وهب بن منبه قال: &quot;نفخ جبريل في جيب درع مريم حتى وصلت النفخة إلى الرحم فاشتملت عليه&quot;. وعن السدي أن النفخة دخلت في صدرها فحملت. وقال ابن جريج: يقولون إنما نفخ في جيب درعها وكمها انتهى مختصرا. فجبريل نفخ والله خلق بقول: &quot;كن&quot; فكان. كما قال تعالى: (فإذا سويته ونفخت فيه من روحي) فسبحان من لا يخلق غيره ولا يعبد سواه. وقد أورد بعض النصارى على بعض علماء المسلمين قول الله تعالى: (وروح منه) . فقال في الجواب: هذا ليس خاصا بعيسى عليه السلام بل المخلوقات كذلك كلها. كما قال تعالى: (وسخر لكم ما في السماوات وما في الأرض جميعا منه) أي خلقا وإيجادا، وعيسى كذلك خلقه وأوجده كسائر مخلوقاته. وفي هذا الحديث الرد على اليهود أعداء الله وأعداء أنبيائه ورسله؛ فإنهم كانوا هم والنصارى على طرفي نقيض فنسبوه إلى أنه ولد بغي، قاتلهم الله. فأكذبهم الله تعالى في كتابه وأبطل قولهم كما أبطل قول الغلاة من النصارى فيما تقدم من الآيات ونحوها. فالنصارى غلوا في عيسى ابن مريم عليه السلام أعظم الغلو والكفر والضلال، واليهود جفوا في حقه غاية الجفاء، وكلاهما قد ضل ضلالا بعيدا، نبه الله تعالى في مواضع كثيرة من كتابه وبين تعالى الحق والصدق، ورفع قدر المسيح عليه السلام وجعله من أولي العزم الخمسة المذكورين في سورة الأحزاب (7: 33 والشورى 13: 42) وأمر نبيه صلى الله عليه وسلم أن يصبر كما صبروا فقال: (واصبر كما صبر أولو العزم من الرسل) ، فهم أفضل الرسل على التحقيق، والنبي صلى الله عليه وسلم أفضلهم -صلوات الله وسلامه- عليه وعلى جميع الأنبياء والمرسلين ومن تبعهم بإحسان إلى يوم الدين.</p>
-</div>
-</details>
-
----
-
-<!-- telegram-source: dar/messages4.html#message3397 -->
-
-Shaykh Ayman al-ʿAnqarī said:
-
-A very important issue: What is the ruling on requesting shafāʿah (intercession) and duʿāʾ (supplication) from the dead, such as one saying, “O Messenger of Allāh, ask Allāh for me,” or “supplicate to Allāh for me,” or saying, “O ʿAbd al-Qādir al-Jīlānī, intercede for me”?
-
-Requesting intercession from the dead is shirk akbar (major shirk), whether at the grave of the dead or from afar.
-
-And Imām Abū al-ʿAbbās Ibn Taymiyyah mentioned in his book Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt al-Islām wa ʿIbādāt al-Shirk (pp. 31–32) that the way of the Ṣaḥābah (may Allāh be pleased with them) was that they considered this shirk—seeking intercession through the angels, the dead, the prophets, and the righteous. And he mentioned that this was the creed of the Ṣaḥābah (may Allāh be pleased with them) by ijmāʿ.
-
-And also, shafāʿah means request and asking. So when you say, “O Messenger of Allāh, intercede for me,” or “ask Allāh for me,” you have directed to him a type from the types of worship, which is duʿāʾ, and duʿāʾ is not directed except to Allāh. You have directed it to other than Him, so you fell into shirk akbar.
-
-And for this reason, he ﷺ said in the ḥadīth of al-Nuʿmān ibn Bashīr with the people of the Sunan: “Ad-duʿāʾ is worship.” And he brought it with the particle of restriction and the separating pronoun to show exclusivity—that worship is confined within duʿāʾ.
-
-And Ibn Taymiyyah, may Allāh have mercy on him, also pointed out in Qāʿidah ʿAẓīmah fī al-Farq bayna ʿIbādāt al-Islām wa ʿIbādāt al-Shirk (p. 136) an important point in this issue: that they believe, by their requesting from the dead and requesting shafāʿah from them, in a spiritual presence for them, and that they have movement and influence. So the souls of those who invoke them from among the grave-worshippers connect with those dead.
-
-And he referred to that in Majmūʿ al-Fatāwā (vol. 1, p. 167), with his statement:
-
-“And a people from the heretical philosophers of naturalism innovated another form of shirk, which they mentioned concerning the visitation of graves, as Ibn Sīnā mentioned that. And regarding the meaning of shafāʿah, he said: the intercession of the prophets and the righteous, according to the foundation of this idolatrous philosophical belief that Ibn Sīnā and others held, is not as the people of īmān know it—that it is a supplication by which the righteous man supplicates and it is answered—but they claim that the influence in the forces of the world or in the events of the world is the force of the soul, or the movements of the celestial spheres, or the natural force. And man, in their claim, if he loves a righteous man who has died, especially if he visits his grave, then his soul attains a connection with the soul of that dead person, in that which benefits from that separated soul from the ‘active intellect’ according to them.” So his words ended.
-
-This explicit text from Ibn Taymiyyah mentioned a reason for this image—requesting shafāʿah and duʿāʾ from the dead—being shirk, and what the heretical philosophers such as Ibn Sīnā were upon: that they believe in a spiritual presence for the dead, so their souls connect with them, and they believe in their influence in raising their needs to Allāh.
-
-Thus it became clear that the form of requesting shafāʿah and duʿāʾ from the dead is shirk akbar, and it is not an innovation as some people claim at his grave. Rather, it is shirk akbar whether at the shrine of the dead or away from it, as Ibn Taymiyyah mentioned that.
-
-<details class="source-panel scan-source" data-origin="telegram-attachment">
-<summary>Show attached source scan</summary>
-<p><img class="source-scan" src="assets/scans/5969a56c70dcfc30497a.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
-</details>
 ---
 
 <!-- telegram-source: personal/messages.html#message588 -->
@@ -14662,6 +14574,11 @@ As for those people, they should be taught. Tell them to learn and to gather the
 
 Saying it is a bid‘ah does not mean it is not shirk. No—it is a bid‘ah that is shirk.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/dar-messages4-3289.mp4"></video>
+<p class="media-caption">Video source from the Telegram export.</p>
+</div>
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message3228 -->
@@ -14685,33 +14602,6 @@ Those servants, those graves, those idols, those prophets, angels, righteous peo
 ---
 
 ### Tawassul: meanings and distinctions
-
-<!-- telegram-source: personal/messages.html#message581 -->
-
-Shaykh Sulaymān ibn ʿAbd Allāh ibn Muḥammad said:
-
-Know that tawassul through the essence (dhāt) of a created being, or through their rank, is not the same as asking them or making duʿāʾ to them. Tawassul through their essence or their jāh is when one says: “O Allāh, forgive me, have mercy on me, admit me to Paradise through Your Prophet Muḥammad ﷺ,” or “through the rank of Your Prophet Muḥammad ﷺ,” and the like. This is an bid‘ah, not shirk.
-
-But asking them and making duʿāʾ to them is when one says: “O Messenger of Allāh, I ask You for intercession,” or “I am in great distress, relieve me,” or “I seek protection with You from so-and-so, help me,” and the like. This is Kufr and shirk al-akbar that takes the person out of the millah, because it diverts the right of Allāh to someone else. Du‘āʾ is an act of worship that is valid only for Allāh. Whoever calls upon another has in effect worshipped them, and whoever worships other than Allāh has committed shirk.
-
-The evidences for this are too many to enumerate. Many people do not distinguish between tawassul through a created being or through their rank, and asking or making duʿāʾ to them. Understand this, and may Allāh guide us and you to follow the best of paths.
-
-Source: Ad-Durar as-Saniyyah 3/165-166
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Show Arabic source text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: الدرر السنية في الأجوبة النجدية</p>
-<h4 dir="rtl">ص. 165</h4>
-<p>عقيل، وأبي الحسن بن الزاغوني، وأمثالهم، وإن كان في كلام القاضي ما يوافق هذا تارة، وهذا تارة; وممن يخالفهم في ذلك: أبو عبد الله بن حامد، وأبو بكر عبد العزيز، وأبو عبد الله بن بطة، وأبو عبد الله بن مندة، وأبو نصر السجزي، ويحيى بن عمار السجستاني، وأبو إسماعيل الأنصاري، وأبو عمر بن عبد البر، وأمثالهم; وقد ذكر أبو عبد الله الرازي عن بعض المتفلسفة أن إثبات ذلك يلزم جميع الطوائف، وإن أنكروه، وقرر ذلك.</p>
-<p>وكلام السلف والأئمة ومن نقل مذهبهم في هذا الأصل كثير، يوجد في كتب التفسير والأصول; قال إسحاق بن راهويه: حدثنا بشر بن عمر، سمعت غير واحد من المفسرين يقول: {الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى} [سورة طه آية: 5] أي: ارتفع; وقال البخاري في صحيحه: قال أبو العالية: استوى إلى السماء: ارتفع; قال: وقال مجاهد: استوى: علا على العرش; قال الحسين بن مسعود البغوي في تفسيره المشهور: قال ابن عباس، وأكثر مفسري السلف: &quot;اسْتَوَى إِلَى السَّمَاءِ ارتفع إلى السماء&quot;، وكذلك قال الخليل بن أحمد; وروى البيهقي في كتاب الصفات: قال الفراء: {ثُمَّ اسْتَوَى} أي: صعد، قاله ابن عباس، وهو كقولك للرجل: كان قاعدا، فاستوى قائما; وروى الشافعي في مسنده عن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال عن يوم الجمعة: &quot; وهو اليوم الذي استوى فيه ربكم على العرش &quot;.</p>
-<h4 dir="rtl">ص. 166</h4>
-<p>والتفاسير المأثورة، عن النبي صلى الله عليه وسلم والصحابة والتابعين، مثل تفسير محمد بن جرير الطبري، وتفسير عبد الرحمن بن إبراهيم المعروف بدحيم، وتفسير عبد الرحمن بن أبي حاتم، وتفسير ابن المنذر، وتفسير أبي بكر عبد العزيز، وتفسير أبي بكر بن مردويه; وما قبل هؤلاء من التفاسير، مثل تفسير أحمد بن حنبل، وإسحاق بن إبراهيم، وبقي بن مخلد، وغيرهم، ومن قبلهم، مثل تفسير عبد بن حميد، وتفسير عبد الرزاق، وتفسير سنيد، ووكيع بن الجراح، فيها من هذا الباب والموافق لقول المثبتين ما لا يكاد يحصى; وكذلك الكتب المصنفة في السنة، التي فيها آثار النبي صلى الله عليه وسلم والصحابة، والتابعين.</p>
-<p>وقال أبو محمد حرب بن إسماعيل الكرماني، في مسائله المعروفة، التي نقلها عن أحمد وإسحاق، وغيرهما، وذكر معهما من الآثار عن النبي صلى الله عليه وسلم والصحابة، وغيرهم، ما ذكر، وهو كتاب كبير صنفه على طريقة الموطأ ونحوه من المصنفات، قال في آخره في الجامع، باب القول في المذهب: هذا مذهب أئمة العلم وأصحاب الأثر وأهل السنة المعروفين بها المقتدى بهم فيها; وأدركت من أدركت من علماء أهل العراق، والحجاز، والشام، وغيرهم عليها؛ فمن خالف شيئا من هذه المذاهب، أو طعن فيها، أو عاب قائلها، فهو مبتدع، خارج من الجماعة، زائل عن منهج السنة، وسبيل الحق; وهو مذهب</p>
-</div>
-</details>
-
----
 
 <!-- telegram-source: dar/messages2.html#message2047 -->
 
@@ -14830,30 +14720,6 @@ Source: Ta'sīs al-Taqdīs fī Kashf Talbīs Dāwūd bin Jirjīs wa Yalīhi Da�
 <p>في ب: «بلاد».</p>
 <p>(11)</p>
 <p>«حَتَّى اسْتَنْقَذُوا مَا بِأَيْدِيهِمْ مِنْ بُلْدَانِ المُسْلِمِينَ» ساقطة من أ.</p>
-</div>
-</details>
-
----
-
-<!-- telegram-source: personal/messages.html#message513 -->
-
-Shaykh ʿAbd al-Raḥmān ibn Ḥasan ibn Muḥammad said:
-
-If they intend by tawassul: the du‘āʾ of the dead, and seeking intercession through them, this is exactly the shirk of the mushrikūn; and the evidences for its nullity in the Qur’ān are very many.
-
-Among them is Allāh’s statement: “Or have they taken other than Allāh as intercessors? Say, "Even though they do not possess [power over] anything, nor do they reason?" Say, "To Allāh belongs [the right to allow] intercession entirely. To Him belongs the dominion of the heavens and the earth. Then to Him you will be returned.’” (Sūrah az-Zumar 39:43–44) The one who has the dominion of the heavens and the earth is the One who grants permission for intercession, as Allāh also said: “Who is it that can intercede with Him except by His permission?” (Sūrah al-Baqarah 2:255)
-
-Source: Ad-Durar as-Saniyyah 2/238
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Show Arabic source text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p class="arabic-citation">المصدر: الدرر السنية في الأجوبة النجدية</p>
-<h4 dir="rtl">ص. 238</h4>
-<p>الصحابة السابقون الأولون، من المهاجرين والأنصار، رضي الله عنهم، التوسل بالنبي (بعد وفاته، كما كانوا يتوسلون بدعائه في حياته إذا قحطوا.</p>
-<p>وثبت عن أمير المؤمنين عمر بن الخطاب أنه خرج بالعباس بن عبد المطلب، عام الرمادة، بمحضر من السابقين الأولين، يستسقون، فقال عمر: (اللهم إنا كنا إذا أجدبنا نتوسل إليك بنبينا فتسقينا، وإنا نتوسل إليك بعم نبينا، فاسقنا، ثم قال: ارفع يديك يا عباس، فرفع يديه يسأل الله تعالى) ; ولم يسأله بجاه النبي ولا بغيره; ولو كان هذا التوسل حقا، كانوا إليه أسبق، وعليه أحرص.</p>
-<p>فإن كانوا أرادوا بالتوسل دعاء الميت، والاستشفاع به، فهذا هو شرك المشركين بعينه; والأدلة على بطلانه في القرآن كثيرة جدا، فمن ذلك قوله تعالى: {أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ قُلْ أَوَلَوْ كَانُوا لا يَمْلِكُونَ شَيْئاً وَلا يَعْقِلُونَ قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعاً لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ} [سورة الزمر آية: 43&quot;44] . فالذي له ملك السماوات والأرض، هو الذي يأذن في الشفاعة، كما قال تعالى: {مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ} [سورة البقرة آية: 255] .</p>
-<p>وقال تعالى: {وَكَمْ مِنْ مَلَكٍ فِي السَّمَاوَاتِ لا تُغْنِي شَفَاعَتُهُمْ شَيْئاً إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَى} [سورة النجم آية: 26] ، وهو لا يرضى إلا الإخلاص في الأقوال</p>
 </div>
 </details>
 
