@@ -8638,18 +8638,59 @@
     }
 
     function sourceWorks(entry) {
-      const titles = [...entry.querySelectorAll('p em')]
-        .map(node => node.textContent.replace(/\s+/g, ' ').trim())
-        .filter(title => title.length >= 4 && title.length <= 140);
-      if (titles.length) return [...new Set(titles)];
-      const source = entry.dataset.source || sourceLabel(entry);
-      const cleaned = source
-        .replace(/^.*?,\s*/, '')
-        .replace(/\b(?:vol\.?|volume|p\.?|pp\.?|page)\s*\d+[\s\S]*$/i, '')
-        .replace(/\s+\d+\s*\/\s*\d+[\s\S]*$/, '')
-        .replace(/[.\s]+$/, '')
+      const citationParagraphs = [...entry.querySelectorAll(':scope > p')].filter(paragraph => {
+        const text = paragraph.textContent.replace(/\s+/g, ' ').trim();
+        return /^(?:source|reference|references)\s*:/i.test(text)
+          || (/^\[[\s\S]+\]$/.test(text) && /(?:\b(?:p|pp|page|vol|volume)\.?\s*\d|\d+\s*\/\s*\d+)/i.test(text));
+      });
+      const titles = citationParagraphs.flatMap(paragraph => [...paragraph.querySelectorAll('em')])
+        .map(node => canonicalBookTitle(node.textContent));
+      if (titles.length) return [...new Map(titles.filter(Boolean).map(title => [bookKey(title), title])).values()];
+
+      const inferred = citationParagraphs.flatMap(paragraph => {
+        let source = paragraph.textContent.replace(/\s+/g, ' ').trim()
+          .replace(/^(?:source|reference|references)\s*:\s*/i, '')
+          .replace(/^\[|\]$/g, '')
+          .trim();
+        if (!/(?:\b(?:p|pp|page|vol|volume)\.?\s*\d|\d+\s*\/\s*\d+)/i.test(source)) return [];
+        source = source
+          .replace(/\b(?:vol\.?|volume|p\.?|pp\.?|page)\s*\d+[\s\S]*$/i, '')
+          .replace(/[,;]?\s+\d+\s*\/\s*\d+[\s\S]*$/, '')
+          .replace(/[.\s]+$/, '')
+          .trim();
+        const parts = source.split(/,\s*/).filter(Boolean);
+        if (parts.length > 1 && identifyScholar(parts[0])) source = parts.slice(1).join(', ');
+        source = source.replace(/\s+by\s+(?:Shaykh|Imām|al-ʿAllāmah)[\s\S]*$/i, '').trim();
+        const title = canonicalBookTitle(source);
+        return title ? [title] : [];
+      });
+      return [...new Map(inferred.map(title => [bookKey(title), title])).values()];
+    }
+
+    function bookKey(value) {
+      const key = normalize(value)
+        .replace(/\b(?:ad|ar|as|ash|at|az)\b/g, 'al')
+        .replace(/^the\s+/, '')
         .trim();
-      return cleaned.length >= 4 && cleaned.length <= 140 ? [cleaned] : [];
+      if (/^al durar al saniyyah(?:\s+fi\s+al ajwibah\s+al najdiyyah)?$/.test(key)) return 'al durar al saniyyah';
+      return key;
+    }
+
+    function canonicalBookTitle(value) {
+      const raw = String(value || '').trim();
+      if (/^["“‘'«][\s\S]+["”’'»]$/.test(raw)) return '';
+      const title = raw
+        .replace(/^[\s\[\](){}`'“”‘’"«»]+|[\s\[\](){}`'“”‘’"«».,;:]+$/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+      if (title.length < 4 || title.length > 140 || /^https?:|^fatw[āa]|^question\b/i.test(title)) return '';
+      const key = bookKey(title);
+      const canonical = {
+        'al durar al saniyyah': 'al-Durar al-Saniyyah',
+        'majmu al fatawa': 'Majmūʿ al-Fatāwā',
+        'kitab al tawhid': 'Kitāb al-Tawḥīd'
+      };
+      return canonical[key] || title;
     }
 
     function numericHash(value) {
@@ -9017,7 +9058,10 @@
         });
       const categories = [...new Set(scoped.map(entry => entry.dataset.category).filter(Boolean))].sort(optionSort);
       availableScholars = scholarNames;
-      availableBooks = [...new Set(scoped.flatMap(entry => JSON.parse(entry.dataset.books || '[]')))].sort(optionSort);
+      availableBooks = [...new Map(scoped
+        .flatMap(entry => JSON.parse(entry.dataset.books || '[]'))
+        .map(book => [bookKey(book), canonicalBookTitle(book)]))
+        .values()].filter(Boolean).sort(optionSort);
       [...selectedScholars].forEach(value => { if (!availableScholars.includes(value)) selectedScholars.delete(value); });
       [...selectedBooks].forEach(value => { if (!availableBooks.includes(value)) selectedBooks.delete(value); });
       renderChips('scholar');
@@ -9082,7 +9126,7 @@
       const searchedScholar = scholarMatches.length === 1 ? scholarMatches[0].name : '';
       const books = JSON.parse(entry.dataset.books || '[]');
       return (!search || (searchedScholar ? entry.dataset.scholar === searchedScholar : entry.dataset.search.includes(search)))
-        && (!selectedBooks.size || [...selectedBooks].some(book => books.includes(book)))
+        && (!selectedBooks.size || [...selectedBooks].some(selected => books.some(book => bookKey(book) === bookKey(selected))))
         && (!selectedScholars.size || selectedScholars.has(entry.dataset.scholar))
         && (!controls.century.value || entry.dataset.century === controls.century.value)
         && (!controls.category.value || entry.dataset.category === controls.category.value)
@@ -9257,13 +9301,16 @@
       const grouped = new Map();
       evidenceEntries.forEach(entry => {
         JSON.parse(entry.dataset.books || '[]').forEach(book => {
-          if (!grouped.has(book)) grouped.set(book, []);
-          grouped.get(book).push(entry);
+          const key = bookKey(book);
+          if (!key) return;
+          if (!grouped.has(key)) grouped.set(key, { title: canonicalBookTitle(book), entries: [] });
+          grouped.get(key).entries.push(entry);
         });
       });
 
-      [...grouped.keys()].sort(optionSort).forEach(book => {
-        const entries = grouped.get(book).filter((entry, index, all) => {
+      [...grouped.values()].sort((left, right) => optionSort(left.title, right.title)).forEach(group => {
+        const book = group.title;
+        const entries = group.entries.filter((entry, index, all) => {
           const key = citationKey(entry);
           return all.findIndex(candidate => citationKey(candidate) === key) === index;
         });
