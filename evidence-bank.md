@@ -15975,6 +15975,32 @@ Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, pp. 18-19, ed. Badr Yū
 </div>
 </details>
 
+---
+
+### Al-Ājurrī: the Qurʾān is uncreated and the contrary positions are rejected
+<!-- evidence-id: 000738 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Abū Bakr al-Ājurrī -->
+<!-- authority-death: 360 -->
+<!-- provenance: external-primary-text -->
+
+Abū Bakr al-Ājurrī said:
+
+“Beware, may Allāh have mercy upon you, of those who say that a person’s utterance of the Qurʾān is created. This was, according to Aḥmad ibn Ḥanbal and those who followed his path, a grave objectionable doctrine. Its proponent is an innovator who is to be avoided, neither spoken to nor sat with, and the people are to be warned against him.
+
+The scholars recognize nothing other than what we previously mentioned: the Qurʾān is the speech of Allāh and is not created. Whoever says that it is created has disbelieved. Whoever says, ‘The Qurʾān is the speech of Allāh,’ and then stops without saying that it is uncreated is a Jahmī. Whoever says, ‘My utterance of the Qurʾān is created,’ is likewise a Jahmī. This is what Aḥmad ibn Ḥanbal said, and he spoke very sternly concerning it.”
+
+Source: Abū Bakr al-Ājurrī, *al-Sharīʿah*, 1/533-535, chapter on the Lafẓiyyah. [Read the source online](https://www.islamweb.net/ar/library/content/1006/196/%D8%A8%D8%A7%D8%A8-%D8%B0%D9%83%D8%B1-%D8%A7%D9%84%D9%84%D9%81%D8%B8%D9%8A%D8%A9).
+
+<details class="source-panel arabic-source" data-origin="external-primary-text">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ مُحَمَّدُ بْنُ الْحُسَيْنِ: احْذَرُوا رَحِمَكُمُ اللَّهُ هَؤُلَاءِ الَّذِينَ يَقُولُونَ: إِنَّ لَفْظَهُ بِالْقُرْآنِ مَخْلُوقٌ، وَهَذَا عِنْدَ أَحْمَدَ بْنِ حَنْبَلٍ وَمَنْ كَانَ عَلَى طَرِيقَتِهِ مُنْكَرٌ عَظِيمٌ، وَقَائِلُ هَذَا مُبْتَدِعٌ، يُجْتَنَبُ وَلَا يُكَلَّمُ وَلَا يُجَالَسُ، وَيُحَذَّرُ مِنْهُ النَّاسُ.</p>
+<p>لَا يَعْرِفُ الْعُلَمَاءُ غَيْرَ مَا تَقَدَّمَ ذِكْرُنَا لَهُ، وَهُوَ أَنَّ الْقُرْآنَ كَلَامُ اللَّهِ غَيْرُ مَخْلُوقٍ، وَمَنْ قَالَ: مَخْلُوقٌ فَقَدْ كَفَرَ، وَمَنْ قَالَ: الْقُرْآنُ كَلَامُ اللَّهِ وَوَقَفَ فَهُوَ جَهْمِيٌّ، وَمَنْ قَالَ: لَفْظِي بِالْقُرْآنِ مَخْلُوقٌ فَهُوَ جَهْمِيٌّ أَيْضًا، كَذَا قَالَ أَحْمَدُ بْنُ حَنْبَلٍ، وَغَلَّظَ فِيهِ الْقَوْلَ جِدًّا.</p>
+<p class="arabic-citation">المصدر: أبو بكر الآجري، <em>الشريعة</em>، <bdi dir="ltr">1/533-535</bdi>، باب ذكر اللفظية.</p>
+</div>
+</details>
+
 ## 15. The believers’ vision of Allāh
 
 ### Hadith: the believers will see their Lord as they see the full moon
