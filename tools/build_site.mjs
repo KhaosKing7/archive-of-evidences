@@ -41,6 +41,17 @@ function renderCollection(source) {
     },
   );
 
+  rendered = rendered.replace(
+    /(<p class="arabic-citation">)([\s\S]*?)(<\/p>)/g,
+    (_, opening, citation, closing) => {
+      const formattedCitation = citation.replace(
+        /[0-9٠-٩]+\/[0-9٠-٩]+(?:[–—-][0-9٠-٩]+)?/g,
+        reference => `<bdi class="citation-ref" dir="ltr">${reference.replace(/[–—]/g, "-")}</bdi>`,
+      );
+      return opening + formattedCitation + closing;
+    },
+  );
+
   return rendered.trim();
 }
 
