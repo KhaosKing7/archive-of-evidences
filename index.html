@@ -488,14 +488,6 @@
     }
     .entry-tool:hover { border-color: var(--gold-soft); background: var(--panel-2); }
     .entry-tool:disabled { opacity: .32; cursor: not-allowed; }
-    .quote-caption {
-      margin: 5px 0 15px;
-      padding-left: 11px;
-      border-left: 2px solid var(--gold);
-      color: #e1b64f;
-      font: 650 .84rem/1.45 system-ui, sans-serif;
-      letter-spacing: .01em;
-    }
     .copy-toast {
       position: fixed;
       z-index: 50;
@@ -8685,7 +8677,7 @@
 
     function formattedBlockText(root, selector) {
       return [...root.querySelectorAll(selector)]
-        .filter(node => !node.closest('.entry-tools') && !node.closest('.source-panel') && !node.classList.contains('quote-caption'))
+        .filter(node => !node.closest('.entry-tools') && !node.closest('.source-panel'))
         .map(node => node.textContent.replace(/\s+/g, ' ').trim())
         .filter(Boolean)
         .filter(text => !/^(English|Arabic)$/i.test(text))
@@ -8755,7 +8747,7 @@
       return text ? text.charAt(0).toUpperCase() + text.slice(1) + '.' : '';
     }
 
-    function captionForEntry(entry) {
+    function generatedHeadingForEntry(entry) {
       const heading = entry.querySelector(':scope > h3')?.textContent.replace(/\s+/g, ' ').trim() || '';
       const text = normalize(entry.textContent);
       const category = normalize(entry.dataset.category);
@@ -8830,15 +8822,14 @@
       return sentenceCase(entry.dataset.category || 'A concise clarification of this issue');
     }
 
-    function addQuoteCaption(entry) {
-      const caption = document.createElement('p');
-      caption.className = 'quote-caption';
-      caption.textContent = captionForEntry(entry);
-      const heading = entry.querySelector(':scope > h3');
+    function ensureQuoteHeading(entry) {
+      if (entry.querySelector(':scope > h3')) return;
+      const heading = document.createElement('h3');
+      heading.className = 'generated-entry-heading';
+      heading.textContent = generatedHeadingForEntry(entry).replace(/[.\s]+$/, '');
       const tools = entry.querySelector(':scope > .entry-tools');
-      if (heading) heading.after(caption);
-      else if (tools) tools.after(caption);
-      else entry.prepend(caption);
+      if (tools) tools.after(heading);
+      else entry.prepend(heading);
     }
 
     function prepareEvidenceEntries() {
@@ -8886,7 +8877,7 @@
             wrapper.appendChild(sourcePanel);
           });
           addEntryTools(wrapper);
-          addQuoteCaption(wrapper);
+          ensureQuoteHeading(wrapper);
           evidenceEntries.push(wrapper);
         };
 
