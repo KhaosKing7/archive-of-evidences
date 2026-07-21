@@ -24,9 +24,163 @@ if (tawhidStart < 0 || otherTawhidStart < 0 || istighathaStart < 0) {
 // Section 10 was an uncategorized import bucket. It is intentionally excluded
 // from the published collection while its genuinely relevant entries are
 // reviewed and moved into the defined topical sections.
-const rawTawhid = markdown.slice(tawhidStart, otherTawhidStart).trim();
-const rawIstighatha = markdown.slice(istighathaStart).trim();
+let rawTawhid = markdown.slice(tawhidStart, otherTawhidStart).trim();
+let rawIstighatha = markdown.slice(istighathaStart).trim();
 let subsection = 0;
+
+function replaceSection(source, number, transform) {
+  const startMarker = `## ${number}. `;
+  const nextMarker = `## ${number + 1}. `;
+  const start = source.indexOf(startMarker);
+  const end = source.indexOf(nextMarker, start);
+  if (start < 0 || end < 0) throw new Error(`Could not isolate section ${number}`);
+  return source.slice(0, start) + transform(source.slice(start, end)) + source.slice(end);
+}
+
+function removeTelegramEntry(source, reference) {
+  const escaped = reference.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return source.replace(
+    new RegExp(`<!-- telegram-source: ${escaped} -->[\\s\\S]*?(?:\\n---\\s*\\n|(?=\\n### ))`, "g"),
+    "",
+  );
+}
+
+function extractHeadingBlock(source, heading) {
+  const marker = `### ${heading}`;
+  const start = source.indexOf(marker);
+  if (start < 0) return { source, block: "" };
+  const next = source.indexOf("\n### ", start + marker.length);
+  const end = next < 0 ? source.length : next + 1;
+  return {
+    source: source.slice(0, start) + source.slice(end),
+    block: source.slice(start, end).trim(),
+  };
+}
+
+function insertBeforeHeading(source, heading, block) {
+  if (!block || source.includes(block)) return source;
+  const marker = `### ${heading}`;
+  const position = source.indexOf(marker);
+  if (position < 0) throw new Error(`Could not find insertion heading: ${heading}`);
+  return source.slice(0, position) + block.trim() + "\n\n" + source.slice(position);
+}
+
+function hasVisibleEvidence(body) {
+  return /(?:\bSource\s*:|المصدر\s*:|source-scan|source-video|media-file|\[[^\]]*(?:p\.?|pp\.?|page|vol\.?|\d+\s*\/\s*\d+)[^\]]*\])/i.test(body);
+}
+
+function addPublicTelegramSources(source) {
+  return source.replace(
+    /<!-- telegram-source: dar\/messages[^#]*\.html#message(\d+)(?:-message\d+)? -->\s*([\s\S]*?)(?=\n---\s*\n|\n### |\n## |$)/g,
+    (entry, messageId, body) => {
+      if (hasVisibleEvidence(body)) return entry;
+      return entry.trimEnd() +
+        `\n\n[Open the original Telegram source post](https://t.me/salafsaqeedah/${messageId})\n`;
+    },
+  );
+}
+
+rawTawhid = replaceSection(rawTawhid, 7, section => {
+  let curated = section.replace(
+    /### Scholars explaining or transmitting Ibn Taymiyyah’s position[\s\S]*?(?=### The name of shirk and punishment before the message)/,
+    "",
+  );
+  for (const reference of [
+    "dar/messages3.html#message2605",
+    "dar/messages2.html#message1594",
+    "dar/messages4.html#message3784",
+    "dar/messages.html#message540",
+    "dar/messages4.html#message3636",
+    "dar/messages2.html#message2072",
+    "personal/messages.html#message608",
+    "dar/messages3.html#message2388",
+    "dar/messages2.html#message1878",
+    "dar/messages3.html#message2562",
+    "dar/messages2.html#message1997",
+    "dar/messages3.html#message2902",
+    "dar/messages2.html#message1985",
+    "personal/messages.html#message517",
+    "dar/messages5.html#message4482",
+    "dar/messages3.html#message2628",
+    "dar/messages4.html#message3606",
+    "dar/messages4.html#message3924",
+    "personal/messages.html#message751",
+  ]) {
+    curated = removeTelegramEntry(curated, reference);
+  }
+  return curated;
+});
+
+// Keep each quotation under the user's defined subject. The Ibn Taymiyyah
+// passage concerns the name/ruling of a mushrik, not the independent duty of
+// declaring the mushrikin disbelievers, so it belongs in section 5 and is also
+// mirrored in the Ibn Taymiyyah-only section 7. The other two general passages
+// already appear in their proper sections 2 and 3.
+let sectionFour = "";
+let ibnTaymiyyahNamesBlock = "";
+rawTawhid = replaceSection(rawTawhid, 4, section => {
+  let result = extractHeadingBlock(
+    section,
+    "Ibn Taymiyyah: religious descriptions follow the person’s own belief and action",
+  );
+  ibnTaymiyyahNamesBlock = result.block;
+  section = result.source;
+
+  result = extractHeadingBlock(
+    section,
+    "ʿAbd al-Raḥmān ibn Ḥasan: consensus concerning disavowal from major shirk and its people",
+  );
+  section = result.source;
+
+  result = extractHeadingBlock(section, "Full statement of ʿAbd Allāh al-Ghunaymān");
+  section = result.source;
+
+  const aymanPattern = /### Ayman al-ʿAnqarī: takfīr of the mushrikīn is part of kufr biṭ-ṭāghūt[\s\S]*?\n---\s*\n/;
+  const ayman = section.match(aymanPattern)?.[0]?.trim() ?? "";
+  section = section.replace(aymanPattern, "");
+  sectionFour = section.trimEnd() + (ayman ? `\n\n${ayman}\n` : "");
+  return sectionFour;
+});
+
+rawTawhid = replaceSection(rawTawhid, 5, section =>
+  insertBeforeHeading(section, "The name of shirk and punishment before the message", ibnTaymiyyahNamesBlock),
+);
+
+rawTawhid = replaceSection(rawTawhid, 5, section => {
+  let curated = section;
+  // These imports address other sects or unrelated general rulings rather than
+  // the ignorant person who commits major shirk.
+  for (const reference of [
+    "dar/messages3.html#message2605",
+    "dar/messages2.html#message1594",
+    "dar/messages4.html#message3784",
+    "dar/messages.html#message540",
+    "personal/messages.html#message751",
+    "dar/messages3.html#message2268",
+    "dar/messages5.html#message4732",
+  ]) {
+    curated = removeTelegramEntry(curated, reference);
+  }
+  return curated;
+});
+
+rawTawhid = replaceSection(rawTawhid, 7, section =>
+  insertBeforeHeading(section, "The name of shirk and punishment before the message", ibnTaymiyyahNamesBlock),
+);
+
+rawTawhid = replaceSection(rawTawhid, 8, section => {
+  let curated = section;
+  for (const reference of [
+    "dar/messages3.html#message3168",
+    "dar/messages5.html#message4248",
+  ]) {
+    curated = removeTelegramEntry(curated, reference);
+  }
+  return curated;
+});
+
+rawTawhid = addPublicTelegramSources(rawTawhid);
+rawIstighatha = addPublicTelegramSources(rawIstighatha);
 
 function renderCollection(source) {
   let rendered = marked.parse(source, { gfm: true, breaks: false });

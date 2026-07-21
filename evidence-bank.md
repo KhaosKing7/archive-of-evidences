@@ -1001,7 +1001,10 @@ Source: ʿAbd Allāh al-Ghunaymān, Sharḥ Kitāb al-Tawḥīd, 1/70.
 
 “Whoever does not declare the mushrikīn disbelievers, doubts their disbelief, or considers their path correct, is a disbeliever like them, because he has not fulfilled kufr biṭ-ṭāghūt. ‘So whoever disbelieves in the ṭāghūt and believes in Allāh…’ Kufr biṭ-ṭāghūt includes declaring the mushrikīn disbelievers.”
 
-[Telegram export, ʿUdhr bil-Jahl topic; source media retained in the export]
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/personal-545.mp4"></video>
+<p class="media-caption">Arabic source video from the user’s Telegram export.</p>
+</div>
 
 ### An unnamed Najdī scholar: failure to declare the mushrikīn disbelievers
 
@@ -5555,14 +5558,6 @@ As for judging him with kufr outwardly and inwardly, then this is suspended unti
 </details>
 ---
 
-### Ṣāliḥ Āl al-Shaykh: separating the outward name from punishment
-
-“Whoever commits major shirk is a mushrik. Establishing the proof is a condition for punishment. Just as we call the Jews and Christians disbelievers even if they never heard of the Prophet ﷺ, likewise the people of idols and graves: whoever commits shirk is a mushrik, and the worldly rulings of the mushrikīn apply to him.
-
-If the proof was not established against him, it is not decisively said that he is in the Fire if he dies. His affair is suspended until the proof is established before Allāh. There is therefore a difference between making the establishment of the proof a condition and refraining from applying the description of shirk.”
-
-[Telegram export, ʿUdhr bil-Jahl topic]
-
 <!-- telegram-source: dar/messages5.html#message4682 -->
 
 Shaykh Khālid al-Mushayqiḥ was asked:
@@ -6459,7 +6454,7 @@ The point of evidence is that a person’s wealth and blood are not protected un
 
 Source: Ayman al-ʿAnqarī, Sharḥ Nawāqiḍ al-Islām, pp. 41–43.
 
-<!-- telegram-source: personal/messages.html#message505 -->
+<!-- telegram-source: personal/messages.html#message505-message506 -->
 
 How to deal with the excuser of shirk - Answered by Shaykh ʿAbd Allāh al-Jarbūʿ
 
@@ -6474,6 +6469,11 @@ First: this one who excuses the mushrik — if he says he is Muslim, meaning he 
 If there is an issue, then distance yourself from him — distance yourself and increase in distancing — if he insists. And we continue on our path.
 
 And if a person believes in his kufr, he does not speak, he does not say: “So-and-so is a kāfir,” or: “So-and-so declared takfīr,” nor does he cause chaos among people. He proceeds on his way — seeks knowledge, calls to Allāh, learns, remembers Allāh, makes duʿā’, sends ṣalawāt upon the Messenger, and stays away from these people.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/jarbou-excuser-of-shirk.mp4"></video>
+<p class="media-caption">Arabic source video from the user’s Telegram export.</p>
+</div>
 
 ---
 
@@ -8572,17 +8572,18 @@ This section can be built almost entirely from quoted distinctions:
 
 <a id="other-tawhid"></a>
 
-<!-- telegram-source: dar/messages4.html#message3219 -->
-
----
-
 ### Permanent Committee: the confused excuser is not immediately treated like the original disbeliever
 
 The Permanent Committee’s answer says that it is not permissible for muwaḥḥidīn to declare their brothers disbelievers merely because those brothers refrain from declaring grave worshippers disbelievers until proof is established against them. Their hesitation may arise from a doubt concerning whether the proof must first be established upon the grave worshipper.
 
 The answer contrasts this with Jews, Christians, Communists, and similar groups, whose disbelief is not treated as doubtful.
 
-Source: Fatāwā al-Lajnah al-Dāʾimah, 3/96–99. Telegram translation and scan retained in the export.
+Source: *Fatāwā al-Lajnah al-Dāʾimah*, 3/96-97, 99.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Show attached source scan</summary>
+<p><img class="source-scan" src="assets/scans/07e68add6bcbbd3459d0.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
+</details>
 
 ### Al-Malaṭī on the Muʿtazilah’s endless chain of takfīr
 
