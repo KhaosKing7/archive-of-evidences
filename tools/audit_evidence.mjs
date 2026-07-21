@@ -44,7 +44,7 @@ const sections = [...html.matchAll(/<h2 id="section-(\d+)">([\s\S]*?)<\/h2>/g)].
   const end = index + 1 < all.length ? all[index + 1].index : html.length;
   return {
     number: Number(match[1]),
-    title: textOf(match[2]),
+    title: textOf(match[2]).replace(/^\d+\.\s*/, ""),
     start: match.index,
     end,
     body: html.slice(match.index, end),
@@ -145,16 +145,25 @@ const emptyHeadings = headingMatches.filter((match, index) => {
 }).map(match => ({ title: textOf(match[1]), section: sectionForPosition(match.index) }));
 
 const translationRatios = [];
-for (const match of html.matchAll(/<details class="source-panel arabic-source"[\s\S]*?<div class="arabic-text"[^>]*>([\s\S]*?)<\/div>[\s\S]*?<\/details>([\s\S]*?)(?=<h[23]|<hr>|<!-- telegram-source:|$)/g)) {
-  const arabicText = textOf(match[1]).replace(/المصدر\s*:[\s\S]*$/i, "");
-  const englishText = textOf(match[2]).replace(/^English\s*/i, "").replace(/Source\s*:[\s\S]*$/i, "");
+for (let index = 0; index < headingMatches.length; index += 1) {
+  const match = headingMatches[index];
+  const nextHeading = index + 1 < headingMatches.length ? headingMatches[index + 1].index : html.length;
+  const nextSection = html.indexOf("<h2 ", match.index + match[0].length);
+  const end = nextSection >= 0 && nextSection < nextHeading ? nextSection : nextHeading;
+  const body = html.slice(match.index + match[0].length, end);
+  const arabicPanel = body.match(/<details class="source-panel arabic-source"[\s\S]*?<div class="arabic-text"[^>]*>([\s\S]*?)<\/div>[\s\S]*?<\/details>/);
+  if (!arabicPanel) continue;
+  const arabicText = textOf(arabicPanel[1]).replace(/المصدر\s*:[\s\S]*$/i, "");
+  const englishBody = body
+    .replace(arabicPanel[0], " ")
+    .replace(/<details class="source-panel scan-source"[\s\S]*?<\/details>/gi, " ");
+  const englishText = textOf(englishBody.replace(/<p[^>]*>\s*(?:<strong>)?Source\s*:[\s\S]*?<\/p>/i, " "))
+    .replace(/^English\s*/i, "");
   const arabicWords = arabicText.split(/\s+/).filter(Boolean).length;
   const englishWords = englishText.split(/\s+/).filter(Boolean).length;
   if (arabicWords >= 40 && englishWords / arabicWords < 0.55) {
-    const before = html.slice(Math.max(0, match.index - 500), match.index);
-    const heading = [...before.matchAll(/<h3[^>]*>([\s\S]*?)<\/h3>/g)].at(-1);
     translationRatios.push({
-      title: heading ? textOf(heading[1]) : "Untitled entry",
+      title: textOf(match[1]),
       section: sectionForPosition(match.index),
       arabicWords,
       englishWords,

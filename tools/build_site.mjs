@@ -20,7 +20,8 @@ let html = fs.readFileSync(htmlPath, "utf8");
 const tawhidStart = markdown.indexOf("## 1. ");
 const otherTawhidStart = markdown.indexOf("## 10. ");
 const istighathaStart = markdown.indexOf("## 11. ");
-if (tawhidStart < 0 || otherTawhidStart < 0 || istighathaStart < 0) {
+const salafStart = markdown.indexOf("# Salaf Evidence Archive");
+if (tawhidStart < 0 || otherTawhidStart < 0 || istighathaStart < 0 || salafStart < 0) {
   throw new Error("Could not find the collection boundaries in evidence-bank.md");
 }
 
@@ -28,7 +29,8 @@ if (tawhidStart < 0 || otherTawhidStart < 0 || istighathaStart < 0) {
 // from the published collection while its genuinely relevant entries are
 // reviewed and moved into the defined topical sections.
 let rawTawhid = markdown.slice(tawhidStart, otherTawhidStart).trim();
-let rawIstighatha = markdown.slice(istighathaStart).trim();
+let rawIstighatha = markdown.slice(istighathaStart, salafStart).trim();
+let rawSalaf = markdown.slice(salafStart + "# Salaf Evidence Archive".length).trim();
 let subsection = 0;
 
 function replaceSection(source, number, transform) {
@@ -184,6 +186,7 @@ rawTawhid = replaceSection(rawTawhid, 8, section => {
 
 rawTawhid = addPublicTelegramSources(rawTawhid);
 rawIstighatha = addPublicTelegramSources(rawIstighatha);
+rawSalaf = addPublicTelegramSources(rawSalaf);
 
 function renderCollection(source) {
   let rendered = marked.parse(source, { gfm: true, breaks: false });
@@ -218,6 +221,7 @@ function renderCollection(source) {
 
 const tawhidHtml = renderCollection(rawTawhid);
 const istighathaHtml = renderCollection(rawIstighatha);
+const salafHtml = renderCollection(rawSalaf);
 
 const tawhidPanel =
   `<section class="topic-panel" id="topic-tawhid" data-topic-panel="tawhid">\n` +
@@ -225,10 +229,13 @@ const tawhidPanel =
 const istighathaPanel =
   `<section class="topic-panel" id="topic-istighatha" data-topic-panel="istighatha" hidden>\n` +
   `${istighathaHtml}\n</section>`;
+const salafPanel =
+  `<section class="topic-panel" id="topic-salaf" data-topic-panel="salaf" hidden>\n` +
+  `${salafHtml}\n</section>`;
 
 html = html.replace(
-  /<section class="topic-panel" id="topic-tawhid"[\s\S]*?<\/section>\s*<section class="topic-panel" id="topic-istighatha"[\s\S]*?<\/section>/,
-  `${tawhidPanel}\n${istighathaPanel}`,
+  /<section class="topic-panel" id="topic-tawhid"[\s\S]*?<\/section>\s*<section class="topic-panel" id="topic-istighatha"[\s\S]*?<\/section>(?:\s*<section class="topic-panel" id="topic-salaf"[\s\S]*?<\/section>)?/,
+  `${tawhidPanel}\n${istighathaPanel}\n${salafPanel}`,
 );
 
 const h3Map = new Map();

@@ -26,7 +26,14 @@ for (let index = 0; index < lines.length; index += 1) {
 
   if (heading || telegram) {
     output.push(line);
-    if (!/^<!-- evidence-id: \d{6} -->$/.test(lines[index + 1]?.trim() || "")) output.push(marker());
+    const currentBlock = [...output].reverse().slice(1).findIndex(previous =>
+      /^###\s+|^##\s+|^---\s*$/.test(previous.trim()),
+    );
+    const blockStart = currentBlock < 0 ? 0 : output.length - currentBlock - 1;
+    const blockAlreadyHasId = output.slice(blockStart).some(previous =>
+      /^<!-- evidence-id: \d{6} -->$/.test(previous.trim()),
+    );
+    if (!blockAlreadyHasId && !/^<!-- evidence-id: \d{6} -->$/.test(lines[index + 1]?.trim() || "")) output.push(marker());
     afterRule = false;
     continue;
   }
