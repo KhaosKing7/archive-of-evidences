@@ -714,28 +714,6 @@ Allāh does not accept that anyone be associated with Him in any type of ʿibād
 </details>
 ---
 
-<!-- telegram-source: personal/messages.html#message662-message663 -->
-<!-- evidence-id: 000032 -->
-
-Shaykh al-Fawzān was asked:
-
-Q: Is our declaring takfīr upon the grave-worshippers from this ummah considered part of affirming kufr biṭ-ṭāghūt?
-
-A: Yes, without a doubt; without a doubt. The ṭāghūt is whatever is worshipped besides Allah while being pleased with that, or calling to it.
-
-But if he is worshipped while not being pleased with that, then the ṭāghūt is the one whom Shayṭān commanded them with, so they are worshipping Shayṭān and not worshipping the righteous man or the walī; rather they worship Shayṭān who commanded them to do that.
-
-As for the righteous man and the followers of the prophets, they will disavow those who worshipped them on the Day of Judgment, and they will say: “We did not command them, nor were we aware of their worship of us.”
-
-“They will say: "Glorified be You! You are our Walî instead of them. Nay, but they used to worship the jinn.” [Sabaʾ:41] meaning, the Shayāṭīn “most of them were believers in them”  because they obeyed the Shayāṭīn, so they became worshippers of the Shayāṭīn. Yes.
-
-<div class="video-source" data-origin="telegram-attachment">
-<video class="source-video" controls preload="metadata" src="assets/videos/fawzan-takfir-grave-worshippers-taghut.mp4"></video>
-<p class="media-caption">Arabic video source from the user’s Telegram export.</p>
-</div>
-
----
-
 <!-- telegram-source: dar/messages5.html#message4271 -->
 <!-- evidence-id: 000033 -->
 
@@ -1008,7 +986,7 @@ It is obligatory to read the books of Ahl al-Sunnah from the scholars of the da�
 <!-- evidence-id: 000048 -->
 
 <!-- telegram-source: personal/messages.html#message662-message663 -->
-<!-- evidence-id: 000049 -->
+<!-- evidence-id: 000032 -->
 
 Shaykh al-Fawzān was asked:
 
