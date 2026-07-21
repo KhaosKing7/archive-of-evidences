@@ -15722,6 +15722,57 @@ Source: Ighāthat al-Lahfān fī Maṣāyid ash-Shayṭān 1/359
 
 ## 12. Methodology concerning the divine attributes
 
+### Imām Aḥmad: transmitted reports are accepted with submission rather than speculative dispute
+<!-- evidence-id: 000731 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+
+Imām Aḥmad ibn Ḥanbal said:
+
+“The foundations of the Sunnah with us are adherence to what the Companions of the Messenger of Allāh ﷺ were upon, taking them as an example, abandoning innovations, and abandoning disputation in religion. The Sunnah explains the Qurʾān and consists of the indications of the Qurʾān. There is no analogy in the Sunnah, examples are not coined for it, and it is not grasped through intellects or desires. It is only following and abandoning desire.
+
+Belief in the reports concerning divine decree and faith in them is required. It is not said, ‘Why?’ or ‘How?’ Rather, it is affirmation and faith. Whoever does not know the explanation of a report and whose intellect does not reach it has been sufficed by it and the matter has been made decisive for him. He must believe in it and submit to it. The same applies to all the reports concerning the vision, even if they are unfamiliar to the ears and the listener feels uneasy about them. He is only required to believe in them and not reject a single letter of them, as with the other transmitted reports from trustworthy narrators.”
+
+Source: Aḥmad ibn Ḥanbal, *Uṣūl al-Sunnah*, pp. 14-21, Dār al-Manār edition.
+
+<p class="verification-note unresolved">This copy transmits the treatise through a chain ending with ʿAbdūs ibn Mālik al-ʿAṭṭār from Imām Aḥmad. No named overall authentication judgment for the transmission was found in the consulted edition.</p>
+
+<details class="source-panel chain-source">
+<summary>Transmission chain of the treatise</summary>
+<p>Yaḥyā ibn Abī al-Ḥasan ibn al-Bannāʾ → his father Abū ʿAlī al-Ḥasan ibn ʿUmar ibn al-Bannāʾ → Abū al-Ḥusayn ʿAlī ibn Muḥammad ibn ʿAbd Allāh ibn Bishrān → ʿUthmān ibn Aḥmad ibn al-Sammāk → Abū Muḥammad al-Ḥasan ibn ʿAbd al-Wahhāb Abū al-ʿAnbar → Abū Jaʿfar Muḥammad ibn Sulaymān al-Manqarī → ʿAbdūs ibn Mālik al-ʿAṭṭār → Imām Aḥmad ibn Ḥanbal.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ عَبْدُوسُ بْنُ مَالِكٍ الْعَطَّارُ: سَمِعْتُ أَبَا عَبْدِ اللَّهِ أَحْمَدَ بْنَ حَنْبَلٍ يَقُولُ: أُصُولُ السُّنَّةِ عِنْدَنَا التَّمَسُّكُ بِمَا كَانَ عَلَيْهِ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَالِاقْتِدَاءُ بِهِمْ، وَتَرْكُ الْبِدَعِ، وَكُلُّ بِدْعَةٍ فَهِيَ ضَلَالَةٌ، وَتَرْكُ الْخُصُومَاتِ فِي الدِّينِ. وَالسُّنَّةُ تُفَسِّرُ الْقُرْآنَ، وَهِيَ دَلَائِلُ الْقُرْآنِ، وَلَيْسَ فِي السُّنَّةِ قِيَاسٌ، وَلَا تُضْرَبُ لَهَا الْأَمْثَالُ، وَلَا تُدْرَكُ بِالْعُقُولِ وَلَا الْأَهْوَاءِ، إِنَّمَا هُوَ الِاتِّبَاعُ وَتَرْكُ الْهَوَى.</p>
+<p>وَالْإِيمَانُ بِالْأَحَادِيثِ فِيهِ وَالْإِيمَانُ بِهَا، لَا يُقَالُ: لِمَ؟ وَلَا كَيْفَ؟ إِنَّمَا هُوَ التَّصْدِيقُ وَالْإِيمَانُ بِهَا. وَمَنْ لَمْ يَعْرِفْ تَفْسِيرَ الْحَدِيثِ وَيَبْلُغْهُ عَقْلُهُ فَقَدْ كُفِيَ ذَلِكَ وَأُحْكِمَ لَهُ، فَعَلَيْهِ الْإِيمَانُ بِهِ وَالتَّسْلِيمُ. وَمِثْلُ أَحَادِيثِ الرُّؤْيَةِ كُلِّهَا، وَإِنْ نَبَتْ عَنِ الْأَسْمَاعِ وَاسْتَوْحَشَ مِنْهَا الْمُسْتَمِعُ، وَإِنَّمَا عَلَيْهِ الْإِيمَانُ بِهَا، وَأَنْ لَا يَرُدَّ مِنْهَا حَرْفًا وَاحِدًا، وَغَيْرُهَا مِنَ الْأَحَادِيثِ الْمَأْثُورَاتِ عَنِ الثِّقَاتِ.</p>
+<p class="arabic-citation">المصدر: أحمد بن حنبل، <em>أصول السنة</em>، ص. <bdi dir="ltr">14-21</bdi>، طبعة دار المنار.</p>
+</div>
+</details>
+
+---
+
+### Al-Bukhārī: none of Allāh’s attributes resembles creation
+<!-- evidence-id: 000715 -->
+<!-- record-type: direct-authorial-statement -->
+
+Imām al-Bukhārī said:
+
+“In this is evidence that the voice of Allāh does not resemble the voices of creation, because the voice of Allāh, majestic is His mention, is heard from afar just as it is heard from nearby, and because the angels fall unconscious from His voice. When the angels call to one another, they do not fall unconscious. Allāh, mighty and majestic, said: ‘So do not set up rivals to Allāh.’ There is no rival or likeness to the attributes of Allāh, and nothing from His attributes is found among created beings.”
+
+Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, p. 98, ed. ʿAbd al-Raḥmān ʿUmayrah.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ أَبُو عَبْدِ اللَّهِ: «وَفِي هَذَا دَلِيلٌ أَنَّ صَوْتَ اللَّهِ لَا يُشْبِهُ أَصْوَاتَ الْخَلْقِ، لِأَنَّ صَوْتَ اللَّهِ جَلَّ ذِكْرُهُ يُسْمَعُ مِنْ بُعْدٍ كَمَا يُسْمَعُ مِنْ قُرْبٍ، وَأَنَّ الْمَلَائِكَةَ يُصْعَقُونَ مِنْ صَوْتِهِ، فَإِذَا تَنَادَى الْمَلَائِكَةُ لَمْ يُصْعَقُوا، وَقَالَ عَزَّ وَجَلَّ: {فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا}، فَلَيْسَ لِصِفَةِ اللَّهِ نِدٌّ، وَلَا مِثْلٌ، وَلَا يُوجَدُ شَيْءٌ مِنْ صِفَاتِهِ فِي الْمَخْلُوقِينَ».</p>
+<p class="arabic-citation">المصدر: البخاري، <em>خلق أفعال العباد</em>، ص. <bdi dir="ltr">98</bdi>، تحقيق عبد الرحمن عميرة.</p>
+</div>
+</details>
+
+---
+
 ### Al-Ṭabarī: affirm the realities of the attributes without resemblance
 <!-- evidence-id: 000713 -->
 <!-- record-type: direct-authorial-statement -->
@@ -15768,58 +15819,6 @@ Source: Ibn Jarīr al-Ṭabarī, *al-Tabṣīr fī Maʿālim al-Dīn*, pp. 146-1
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>التبصير في معالم الدين</em>، ص. <bdi dir="ltr">146-147</bdi>، تحقيق علي بن عبد العزيز الشبل، دار العاصمة.</p>
 </div>
 </details>
-
----
-
-### Al-Bukhārī: none of Allāh’s attributes resembles creation
-<!-- evidence-id: 000715 -->
-<!-- record-type: direct-authorial-statement -->
-
-Imām al-Bukhārī said:
-
-“In this is evidence that the voice of Allāh does not resemble the voices of creation, because the voice of Allāh, majestic is His mention, is heard from afar just as it is heard from nearby, and because the angels fall unconscious from His voice. When the angels call to one another, they do not fall unconscious. Allāh, mighty and majestic, said: ‘So do not set up rivals to Allāh.’ There is no rival or likeness to the attributes of Allāh, and nothing from His attributes is found among created beings.”
-
-Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, p. 98, ed. ʿAbd al-Raḥmān ʿUmayrah.
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>قَالَ أَبُو عَبْدِ اللَّهِ: «وَفِي هَذَا دَلِيلٌ أَنَّ صَوْتَ اللَّهِ لَا يُشْبِهُ أَصْوَاتَ الْخَلْقِ، لِأَنَّ صَوْتَ اللَّهِ جَلَّ ذِكْرُهُ يُسْمَعُ مِنْ بُعْدٍ كَمَا يُسْمَعُ مِنْ قُرْبٍ، وَأَنَّ الْمَلَائِكَةَ يُصْعَقُونَ مِنْ صَوْتِهِ، فَإِذَا تَنَادَى الْمَلَائِكَةُ لَمْ يُصْعَقُوا، وَقَالَ عَزَّ وَجَلَّ: {فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا}، فَلَيْسَ لِصِفَةِ اللَّهِ نِدٌّ، وَلَا مِثْلٌ، وَلَا يُوجَدُ شَيْءٌ مِنْ صِفَاتِهِ فِي الْمَخْلُوقِينَ».</p>
-<p class="arabic-citation">المصدر: البخاري، <em>خلق أفعال العباد</em>، ص. <bdi dir="ltr">98</bdi>، تحقيق عبد الرحمن عميرة.</p>
-</div>
-</details>
-
----
-
-### Imām Aḥmad: transmitted reports are accepted with submission rather than speculative dispute
-<!-- evidence-id: 000731 -->
-<!-- record-type: transmitted-report -->
-<!-- report-status: unresolved -->
-
-Imām Aḥmad ibn Ḥanbal said:
-
-“The foundations of the Sunnah with us are adherence to what the Companions of the Messenger of Allāh ﷺ were upon, taking them as an example, abandoning innovations, and abandoning disputation in religion. The Sunnah explains the Qurʾān and consists of the indications of the Qurʾān. There is no analogy in the Sunnah, examples are not coined for it, and it is not grasped through intellects or desires. It is only following and abandoning desire.
-
-Belief in the reports concerning divine decree and faith in them is required. It is not said, ‘Why?’ or ‘How?’ Rather, it is affirmation and faith. Whoever does not know the explanation of a report and whose intellect does not reach it has been sufficed by it and the matter has been made decisive for him. He must believe in it and submit to it. The same applies to all the reports concerning the vision, even if they are unfamiliar to the ears and the listener feels uneasy about them. He is only required to believe in them and not reject a single letter of them, as with the other transmitted reports from trustworthy narrators.”
-
-Source: Aḥmad ibn Ḥanbal, *Uṣūl al-Sunnah*, pp. 14-21, Dār al-Manār edition.
-
-<p class="verification-note unresolved">This copy transmits the treatise through a chain ending with ʿAbdūs ibn Mālik al-ʿAṭṭār from Imām Aḥmad. No named overall authentication judgment for the transmission was found in the consulted edition.</p>
-
-<details class="source-panel chain-source">
-<summary>Transmission chain of the treatise</summary>
-<p>Yaḥyā ibn Abī al-Ḥasan ibn al-Bannāʾ → his father Abū ʿAlī al-Ḥasan ibn ʿUmar ibn al-Bannāʾ → Abū al-Ḥusayn ʿAlī ibn Muḥammad ibn ʿAbd Allāh ibn Bishrān → ʿUthmān ibn Aḥmad ibn al-Sammāk → Abū Muḥammad al-Ḥasan ibn ʿAbd al-Wahhāb Abū al-ʿAnbar → Abū Jaʿfar Muḥammad ibn Sulaymān al-Manqarī → ʿAbdūs ibn Mālik al-ʿAṭṭār → Imām Aḥmad ibn Ḥanbal.</p>
-</details>
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>قَالَ عَبْدُوسُ بْنُ مَالِكٍ الْعَطَّارُ: سَمِعْتُ أَبَا عَبْدِ اللَّهِ أَحْمَدَ بْنَ حَنْبَلٍ يَقُولُ: أُصُولُ السُّنَّةِ عِنْدَنَا التَّمَسُّكُ بِمَا كَانَ عَلَيْهِ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَالِاقْتِدَاءُ بِهِمْ، وَتَرْكُ الْبِدَعِ، وَكُلُّ بِدْعَةٍ فَهِيَ ضَلَالَةٌ، وَتَرْكُ الْخُصُومَاتِ فِي الدِّينِ. وَالسُّنَّةُ تُفَسِّرُ الْقُرْآنَ، وَهِيَ دَلَائِلُ الْقُرْآنِ، وَلَيْسَ فِي السُّنَّةِ قِيَاسٌ، وَلَا تُضْرَبُ لَهَا الْأَمْثَالُ، وَلَا تُدْرَكُ بِالْعُقُولِ وَلَا الْأَهْوَاءِ، إِنَّمَا هُوَ الِاتِّبَاعُ وَتَرْكُ الْهَوَى.</p>
-<p>وَالْإِيمَانُ بِالْأَحَادِيثِ فِيهِ وَالْإِيمَانُ بِهَا، لَا يُقَالُ: لِمَ؟ وَلَا كَيْفَ؟ إِنَّمَا هُوَ التَّصْدِيقُ وَالْإِيمَانُ بِهَا. وَمَنْ لَمْ يَعْرِفْ تَفْسِيرَ الْحَدِيثِ وَيَبْلُغْهُ عَقْلُهُ فَقَدْ كُفِيَ ذَلِكَ وَأُحْكِمَ لَهُ، فَعَلَيْهِ الْإِيمَانُ بِهِ وَالتَّسْلِيمُ. وَمِثْلُ أَحَادِيثِ الرُّؤْيَةِ كُلِّهَا، وَإِنْ نَبَتْ عَنِ الْأَسْمَاعِ وَاسْتَوْحَشَ مِنْهَا الْمُسْتَمِعُ، وَإِنَّمَا عَلَيْهِ الْإِيمَانُ بِهَا، وَأَنْ لَا يَرُدَّ مِنْهَا حَرْفًا وَاحِدًا، وَغَيْرُهَا مِنَ الْأَحَادِيثِ الْمَأْثُورَاتِ عَنِ الثِّقَاتِ.</p>
-<p class="arabic-citation">المصدر: أحمد بن حنبل، <em>أصول السنة</em>، ص. <bdi dir="ltr">14-21</bdi>، طبعة دار المنار.</p>
-</div>
-</details>
-
 ## 13. Divine highness and istiwāʾ
 
 ### Ibn al-Mubārak: Allāh is above His heavens upon His Throne
@@ -15850,30 +15849,12 @@ Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, pp. 31-32, ed. ʿAbd al-Raḥm
 
 ---
 
-### Al-Ṭabarī: the Lord is the One who rose over the Throne
-<!-- evidence-id: 000717 -->
-<!-- record-type: direct-authorial-statement -->
-
-Ibn Jarīr al-Ṭabarī said:
-
-“A person should know that his Lord is the One who rose over the Throne. To Him belongs whatever is in the heavens, whatever is on the earth, whatever is between them, and whatever is beneath the soil. Whoever goes beyond that has failed, lost, strayed, and perished.”
-
-Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, pp. 26-27, ed. Badr Yūsuf al-Maʿtūq.
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>وَيَعْلَمَ أَنَّ رَبَّهُ هُوَ الَّذِي عَلَى الْعَرْشِ اسْتَوَى، {لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَى}، فَمَنْ تَجَاوَزَ ذَلِكَ فَقَدْ خَابَ وَخَسِرَ وَضَلَّ وَهَلَكَ.</p>
-<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">26-27</bdi>، تحقيق بدر يوسف المعتوق.</p>
-</div>
-</details>
-
----
-
 ### A report rejecting the claim that istawā means istawlā
 <!-- evidence-id: 000718 -->
 <!-- record-type: transmitted-report -->
 <!-- report-status: unresolved -->
+<!-- authority-name: Abū ʿAbd Allāh ibn al-Aʿrābī -->
+<!-- authority-death: 231 -->
 <!-- provenance: telegram-supplied -->
 <!-- telegram-source: dar/messages.html#message988 -->
 
@@ -15897,35 +15878,26 @@ Source: al-Lālakāʾī, *Sharḥ Uṣūl Iʿtiqād Ahl al-Sunnah wa-al-Jamāʿa
 <p><img class="source-scan" src="assets/scans/salaf-message-988.jpg" alt="Telegram-supplied Arabic source scan for the report rejecting istawā as istawlā" loading="lazy"></p>
 </details>
 
-## 14. The Qurʾān is the uncreated speech of Allāh
+---
 
-### Jaʿfar al-Ṣādiq: the Qurʾān is the speech of Allāh
-<!-- evidence-id: 000720 -->
-<!-- record-type: transmitted-report -->
-<!-- report-status: unresolved -->
+### Al-Ṭabarī: the Lord is the One who rose over the Throne
+<!-- evidence-id: 000717 -->
+<!-- record-type: direct-authorial-statement -->
 
-Muʿāwiyah ibn ʿAmmār al-Duhnī said that he asked Jaʿfar ibn Muḥammad al-Ṣādiq whether the Qurʾān was created or a creator. Jaʿfar replied:
+Ibn Jarīr al-Ṭabarī said:
 
-“It is neither a creator nor created. Rather, it is the speech of Allāh, mighty and majestic.”
+“A person should know that his Lord is the One who rose over the Throne. To Him belongs whatever is in the heavens, whatever is on the earth, whatever is between them, and whatever is beneath the soil. Whoever goes beyond that has failed, lost, strayed, and perished.”
 
-Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 19, report 15, ed. Badr Yūsuf al-Maʿtūq.
-
-<p class="verification-note unresolved">No named authentication judgment was found in the consulted edition.</p>
-
-<details class="source-panel chain-source">
-<summary>Full chain</summary>
-<p>Ibn Jarīr al-Ṭabarī → Mūsā ibn Sahl al-Ramlī → Mūsā ibn Dāwūd → Maʿbad Abū ʿAbd al-Raḥmān → Muʿāwiyah ibn ʿAmmār al-Duhnī → Jaʿfar ibn Muḥammad al-Ṣādiq.</p>
-</details>
+Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, pp. 26-27, ed. Badr Yūsuf al-Maʿtūq.
 
 <details class="source-panel arabic-source" data-origin="local-library">
 <summary>Arabic text</summary>
 <div class="arabic-text" dir="rtl" lang="ar">
-<p>حَدَّثَنَا مُوسَى بْنُ سَهْلٍ الرَّمْلِيُّ، حَدَّثَنَا مُوسَى بْنُ دَاوُدَ، حَدَّثَنَا مَعْبَدٌ أَبُو عَبْدِ الرَّحْمَنِ، عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ الدُّهْنِيِّ، قَالَ: قُلْتُ لِجَعْفَرِ بْنِ مُحَمَّدٍ رَضِيَ اللَّهُ عَنْهُ: إِنَّهُمْ يَسْأَلُونَ عَنِ الْقُرْآنِ: مَخْلُوقٌ أَوْ خَالِقٌ؟ فَقَالَ: «إِنَّهُ لَيْسَ بِخَالِقٍ وَلَا مَخْلُوقٍ، وَلَكِنَّهُ كَلَامُ اللَّهِ عَزَّ وَجَلَّ».</p>
-<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">19</bdi>، الأثر رقم <bdi dir="ltr">15</bdi>، تحقيق بدر يوسف المعتوق.</p>
+<p>وَيَعْلَمَ أَنَّ رَبَّهُ هُوَ الَّذِي عَلَى الْعَرْشِ اسْتَوَى، {لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَى}، فَمَنْ تَجَاوَزَ ذَلِكَ فَقَدْ خَابَ وَخَسِرَ وَضَلَّ وَهَلَكَ.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">26-27</bdi>، تحقيق بدر يوسف المعتوق.</p>
 </div>
 </details>
-
----
+## 14. The Qurʾān is the uncreated speech of Allāh
 
 ### ʿAmr ibn Dīnār: the scholars maintained for seventy years that the Qurʾān is uncreated
 <!-- evidence-id: 000721 -->
@@ -15955,6 +15927,34 @@ Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, p. 29, ed. ʿAbd al-Raḥmān 
 
 ---
 
+### Jaʿfar al-Ṣādiq: the Qurʾān is the speech of Allāh
+<!-- evidence-id: 000720 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+
+Muʿāwiyah ibn ʿAmmār al-Duhnī said that he asked Jaʿfar ibn Muḥammad al-Ṣādiq whether the Qurʾān was created or a creator. Jaʿfar replied:
+
+“It is neither a creator nor created. Rather, it is the speech of Allāh, mighty and majestic.”
+
+Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 19, report 15, ed. Badr Yūsuf al-Maʿtūq.
+
+<p class="verification-note unresolved">No named authentication judgment was found in the consulted edition.</p>
+
+<details class="source-panel chain-source">
+<summary>Full chain</summary>
+<p>Ibn Jarīr al-Ṭabarī → Mūsā ibn Sahl al-Ramlī → Mūsā ibn Dāwūd → Maʿbad Abū ʿAbd al-Raḥmān → Muʿāwiyah ibn ʿAmmār al-Duhnī → Jaʿfar ibn Muḥammad al-Ṣādiq.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>حَدَّثَنَا مُوسَى بْنُ سَهْلٍ الرَّمْلِيُّ، حَدَّثَنَا مُوسَى بْنُ دَاوُدَ، حَدَّثَنَا مَعْبَدٌ أَبُو عَبْدِ الرَّحْمَنِ، عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ الدُّهْنِيِّ، قَالَ: قُلْتُ لِجَعْفَرِ بْنِ مُحَمَّدٍ رَضِيَ اللَّهُ عَنْهُ: إِنَّهُمْ يَسْأَلُونَ عَنِ الْقُرْآنِ: مَخْلُوقٌ أَوْ خَالِقٌ؟ فَقَالَ: «إِنَّهُ لَيْسَ بِخَالِقٍ وَلَا مَخْلُوقٍ، وَلَكِنَّهُ كَلَامُ اللَّهِ عَزَّ وَجَلَّ».</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">19</bdi>، الأثر رقم <bdi dir="ltr">15</bdi>، تحقيق بدر يوسف المعتوق.</p>
+</div>
+</details>
+
+---
+
 ### Al-Ṭabarī: the Qurʾān remains the uncreated speech of Allāh wherever it is recited or written
 <!-- evidence-id: 000722 -->
 <!-- record-type: direct-authorial-statement -->
@@ -15974,26 +15974,6 @@ Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, pp. 18-19, ed. Badr Yū
 </details>
 
 ## 15. The believers’ vision of Allāh
-
-### Al-Ṭabarī: the people of Paradise will see their Lord
-<!-- evidence-id: 000723 -->
-<!-- record-type: direct-authorial-statement -->
-
-Ibn Jarīr al-Ṭabarī said:
-
-“As for the correct position concerning the believers seeing their Lord, mighty and majestic, on the Day of Resurrection, which is the religion by which we worship Allāh and upon which we found Ahl al-Sunnah wa-al-Jamāʿah, it is that the people of Paradise will see Him according to what the authentic reports from the Messenger of Allāh ﷺ establish.”
-
-Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 20, ed. Badr Yūsuf al-Maʿtūq.
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>وَأَمَّا الصَّوَابُ مِنَ الْقَوْلِ فِي رُؤْيَةِ الْمُؤْمِنِينَ رَبَّهُمْ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ، وَهُوَ دِينُنَا الَّذِي نَدِينُ اللَّهَ بِهِ، وَأَدْرَكْنَا عَلَيْهِ أَهْلَ السُّنَّةِ وَالْجَمَاعَةِ، فَهُوَ أَنَّ أَهْلَ الْجَنَّةِ يَرَوْنَهُ عَلَى مَا صَحَّتْ بِهِ الْأَخْبَارُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.</p>
-<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">20</bdi>، تحقيق بدر يوسف المعتوق.</p>
-</div>
-</details>
-
----
 
 ### Hadith: the believers will see their Lord as they see the full moon
 <!-- evidence-id: 000724 -->
@@ -16026,6 +16006,25 @@ Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 20, report 18. The h
 </div>
 </details>
 
+---
+
+### Al-Ṭabarī: the people of Paradise will see their Lord
+<!-- evidence-id: 000723 -->
+<!-- record-type: direct-authorial-statement -->
+
+Ibn Jarīr al-Ṭabarī said:
+
+“As for the correct position concerning the believers seeing their Lord, mighty and majestic, on the Day of Resurrection, which is the religion by which we worship Allāh and upon which we found Ahl al-Sunnah wa-al-Jamāʿah, it is that the people of Paradise will see Him according to what the authentic reports from the Messenger of Allāh ﷺ establish.”
+
+Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 20, ed. Badr Yūsuf al-Maʿtūq.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا الصَّوَابُ مِنَ الْقَوْلِ فِي رُؤْيَةِ الْمُؤْمِنِينَ رَبَّهُمْ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ، وَهُوَ دِينُنَا الَّذِي نَدِينُ اللَّهَ بِهِ، وَأَدْرَكْنَا عَلَيْهِ أَهْلَ السُّنَّةِ وَالْجَمَاعَةِ، فَهُوَ أَنَّ أَهْلَ الْجَنَّةِ يَرَوْنَهُ عَلَى مَا صَحَّتْ بِهِ الْأَخْبَارُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">20</bdi>، تحقيق بدر يوسف المعتوق.</p>
+</div>
+</details>
 ## 16. Statements concerning the Jahmiyyah and sectarian disbelief
 
 ### Ḥammād ibn Abī Sulaymān disavows the religion of one who says the Qurʾān is created
@@ -16103,7 +16102,6 @@ Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, p. 33, ed. ʿAbd al-Raḥmān 
 <p class="arabic-citation">المصدر: البخاري، <em>خلق أفعال العباد</em>، ص. <bdi dir="ltr">33</bdi>، تحقيق عبد الرحمن عميرة.</p>
 </div>
 </details>
-
 ## 17. Early explanations of ṭāghūt and disbelief in it
 
 ### ʿUmar ibn al-Khaṭṭāb: the ṭāghūt is Satan
@@ -16182,5 +16180,173 @@ Source: Ibn Jarīr al-Ṭabarī, *Jāmiʿ al-Bayān*, 5/419, commentary on al-Ba
 <p>قَالَ أَبُو جَعْفَرٍ: وَالصَّوَابُ مِنَ الْقَوْلِ عِنْدِي فِي «الطَّاغُوتِ» أَنَّهُ كُلُّ ذِي طُغْيَانٍ عَلَى اللَّهِ، فَعُبِدَ مِنْ دُونِهِ، إِمَّا بِقَهْرٍ مِنْهُ لِمَنْ عَبَدَهُ، وَإِمَّا بِطَاعَةٍ مِمَّنْ عَبَدَهُ لَهُ، إِنْسَانًا كَانَ ذَلِكَ الْمَعْبُودُ، أَوْ شَيْطَانًا، أَوْ وَثَنًا، أَوْ صَنَمًا، أَوْ كَائِنًا مَا كَانَ مِنْ شَيْءٍ.</p>
 <p>فَتَأْوِيلُ الْكَلَامِ إِذًا: فَمَنْ يَجْحَدْ رُبُوبِيَّةَ كُلِّ مَعْبُودٍ مِنْ دُونِ اللَّهِ، فَيَكْفُرْ بِهِ، وَيُؤْمِنْ بِاللَّهِ، يَقُولُ: وَيُصَدِّقْ بِاللَّهِ أَنَّهُ إِلَهُهُ وَرَبُّهُ وَمَعْبُودُهُ، فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى.</p>
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>جامع البيان</em>، <bdi dir="ltr">5/419</bdi>، عند تفسير البقرة: <bdi dir="ltr">256</bdi>، طبعة دار التربية والتراث.</p>
+</div>
+</details>
+
+## 18. Takfīr of sects and of one who does not declare them disbelievers
+
+### Yazīd ibn Hārūn: ruling on the one who says the Qurʾān is created and the one who does not declare him a disbeliever
+<!-- evidence-id: 000732 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Yazīd ibn Hārūn -->
+<!-- authority-death: 206 -->
+
+Ibn Baṭṭah reported that Yazīd ibn Hārūn said:
+
+“Whoever says that the Qurʾān is created is a disbeliever. Whoever does not declare him a disbeliever is himself a disbeliever. Whoever doubts his disbelief is a disbeliever.”
+
+Source: Ibn Baṭṭah, *al-Ibānah al-Kubrā*, 6/57, report 257.
+
+<p class="verification-note unresolved">This is a transmitted report with a complete chain in the cited source. No named authentication judgment for this exact chain was found during the present review, so the archive does not grade it.</p>
+
+<details class="source-panel chain-source">
+<summary>Full chain</summary>
+<p>Ibn Baṭṭah → Abū Ḥafṣ ʿUmar ibn al-Ḥasan ibn Khalaf → Aḥmad ibn Ḥamdān al-ʿAskarī → Muḥammad ibn Mujāhid → Yazīd ibn Hārūn.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="online-primary-text">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>حَدَّثَنِي أَبُو حَفْصٍ عُمَرُ بْنُ الْحَسَنِ بْنِ خَلَفٍ، قَالَ: حَدَّثَنَا أَحْمَدُ بْنُ حَمْدَانَ الْعَسْكَرِيُّ، قَالَ: حَدَّثَنَا مُحَمَّدُ بْنُ مُجَاهِدٍ، قَالَ: سَمِعْتُ يَزِيدَ بْنَ هَارُونَ، يَقُولُ: «مَنْ قَالَ: الْقُرْآنُ مَخْلُوقٌ فَهُوَ كَافِرٌ، وَمَنْ لَمْ يُكَفِّرْهُ فَهُوَ كَافِرٌ، وَمَنْ شَكَّ فِي كُفْرِهِ فَهُوَ كَافِرٌ».</p>
+<p class="arabic-citation">المصدر: ابن بطة، <em>الإبانة الكبرى</em>، <bdi dir="ltr">6/57</bdi>، الأثر رقم <bdi dir="ltr">257</bdi>.</p>
+</div>
+</details>
+
+---
+
+### Aḥmad ibn Ḥanbal: ruling on the one who says the Qurʾān is created and the one who does not declare him a disbeliever
+<!-- evidence-id: 000733 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Aḥmad ibn Ḥanbal -->
+<!-- authority-death: 241 -->
+
+In the letter attributed to Imām Aḥmad ibn Ḥanbal and addressed to Musaddad ibn Musarhad, it states:
+
+“The Qurʾān is the speech of Allāh, mighty and majestic. Whoever says that it is created is a disbeliever in Allāh the Magnificent, and whoever does not declare him a disbeliever is himself a disbeliever.”
+
+Source: Ibn Abī Yaʿlā, *Ṭabaqāt al-Ḥanābilah*, 2/428, in the biography of Musaddad ibn Musarhad. [Open the passage in Shamela](https://shamela.ws/book/1520/1003#p1).
+
+<p class="verification-note unresolved">The cited passage reproduces a letter attributed to Imām Aḥmad. The linked location does not provide a complete transmission chain for the letter, and no named authentication judgment for this exact wording was found during the present review. The archive therefore leaves its transmission status unresolved.</p>
+
+<details class="source-panel chain-source">
+<summary>Transmission information</summary>
+<p>Ibn Abī Yaʿlā reproduces the statement as part of the letter attributed to Imām Aḥmad and addressed to Musaddad ibn Musarhad. A complete chain for the letter is not displayed at the cited passage.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="online-primary-text">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَالْقُرْآنُ كَلَامُ اللَّهِ عَزَّ وَجَلَّ، فَمَنْ قَالَ: مَخْلُوقٌ فَهُوَ كَافِرٌ بِاللَّهِ الْعَظِيمِ، وَمَنْ لَمْ يُكَفِّرْهُ فَهُوَ كَافِرٌ.</p>
+<p class="arabic-citation">المصدر: ابن أبي يعلى، <em>طبقات الحنابلة</em>، <bdi dir="ltr">2/428</bdi>، في ترجمة مسدد بن مسرهد.</p>
+</div>
+</details>
+
+---
+
+### Aḥmad ibn Ḥanbal: whoever doubts the disbelief of one who says the Qurʾān is created is a disbeliever
+<!-- evidence-id: 000734 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Aḥmad ibn Ḥanbal -->
+<!-- authority-death: 241 -->
+
+Shāhīn ibn al-Sumaydaʿ said that he heard Imām Aḥmad ibn Ḥanbal say:
+
+“Whoever says that the Qurʾān is created is a disbeliever, and whoever doubts his disbelief is a disbeliever.”
+
+Source: Ibn Abī Yaʿlā, *Ṭabaqāt al-Ḥanābilah*, 1/173, in the biography of Shāhīn ibn al-Sumaydaʿ.
+
+<p class="verification-note unresolved">The report has a complete chain in the cited source. No named authentication judgment for this exact chain was found during the present review, so the archive does not grade it.</p>
+
+<details class="source-panel chain-source">
+<summary>Full chain</summary>
+<p>Ibn Abī Yaʿlā → Abū al-Ḥusayn ibn al-Muhtadī bi-Allāh → Abū al-Ḥusayn ibn Akhī Mīmī → ʿAlī ibn Muḥammad al-Mawṣilī → Mūsā ibn Muḥammad al-Ghassānī → Shāhīn ibn al-Sumaydaʿ → Aḥmad ibn Ḥanbal.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="online-primary-text">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَنْبَأَنَا أَبُو الْحُسَيْنِ بْنُ الْمُهْتَدِي بِاللَّهِ، عَنْ أَبِي الْحُسَيْنِ بْنِ أَخِي مِيمِي، قَالَ: أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدٍ الْمَوْصِلِيُّ، حَدَّثَنَا مُوسَى بْنُ مُحَمَّدٍ الْغَسَّانِيُّ، حَدَّثَنَا شَاهِينُ بْنُ السَّمَيْذَعِ، قَالَ: سَمِعْتُ أَبَا عَبْدِ اللَّهِ يَقُولُ: «مَنْ قَالَ: الْقُرْآنُ مَخْلُوقٌ فَهُوَ كَافِرٌ، وَمَنْ شَكَّ فِي كُفْرِهِ فَهُوَ كَافِرٌ».</p>
+<p class="arabic-citation">المصدر: ابن أبي يعلى، <em>طبقات الحنابلة</em>، <bdi dir="ltr">1/173</bdi>، في ترجمة شاهين بن السميذع.</p>
+</div>
+</details>
+
+---
+
+### Muḥammad ibn Saḥnūn: whoever doubts the disbelief and punishment of one who reviles the Prophet is a disbeliever
+<!-- evidence-id: 000735 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Muḥammad ibn Saḥnūn -->
+<!-- authority-death: 256 -->
+
+Muḥammad ibn Saḥnūn said:
+
+“The scholars have reached consensus that one who reviles the Prophet ﷺ and disparages him is a disbeliever. The threat of Allāh’s punishment applies to him, and his ruling according to the Ummah is execution. Whoever doubts his disbelief and punishment has disbelieved.”
+
+Source: Ibn Taymiyyah, *al-Ṣārim al-Maslūl ʿalā Shātim al-Rasūl*, p. 513, transmitting the statement of Muḥammad ibn Saḥnūn.
+
+<p class="verification-note unresolved">The consulted Shamela text quotes Muḥammad ibn Saḥnūn without a transmission chain at this location. No named authentication judgment for the attribution was found during the present review.</p>
+
+<details class="source-panel chain-source">
+<summary>Transmission information</summary>
+<p>Ibn Taymiyyah cites the statement directly from Muḥammad ibn Saḥnūn without reproducing a chain at this location.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ مُحَمَّدُ بْنُ سَحْنُونٍ: «أَجْمَعَ الْعُلَمَاءُ أَنَّ شَاتِمَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُنْتَقِصَ لَهُ كَافِرٌ، وَالْوَعِيدُ جَارٍ عَلَيْهِ بِعَذَابِ اللَّهِ، وَحُكْمُهُ عِنْدَ الْأُمَّةِ الْقَتْلُ، وَمَنْ شَكَّ فِي كُفْرِهِ وَعَذَابِهِ كَفَرَ».</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>الصارم المسلول على شاتم الرسول</em>، ص. <bdi dir="ltr">513</bdi>، ناقلًا قول محمد بن سحنون.</p>
+</div>
+</details>
+
+---
+
+### Ḥarb al-Kirmānī: the transmitted creed concerning the Jahmiyyah and those who do not declare them disbelievers
+<!-- evidence-id: 000736 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Ḥarb al-Kirmānī -->
+<!-- authority-death: 280 -->
+
+Ḥarb al-Kirmānī introduced this creed by saying that it was the doctrine of the leading scholars, the people of reports, and the recognized people of the Sunnah whom he had met in Iraq, the Ḥijāz, Syria, and elsewhere. He specifically named Aḥmad ibn Ḥanbal, Isḥāq ibn Rāhawayh, ʿAbd Allāh ibn al-Zubayr al-Ḥumaydī, and Saʿīd ibn Manṣūr among those from whom he had learned it. The creed states:
+
+“The Qurʾān is the speech of Allāh, spoken by Him, and is not created. Whoever claims that the Qurʾān is created is a Jahmī and a disbeliever. Whoever claims that the Qurʾān is the speech of Allāh but stops short and does not say that it is uncreated is more disbelieving than the first and fouler in statement. Whoever claims that our utterances of the Qurʾān and our recitation of it are created, while the Qurʾān is the speech of Allāh, is a filthy, innovating Jahmī. Whoever does not declare these people and all the Jahmiyyah disbelievers is like them.”
+
+Source: Ḥarb al-Kirmānī, *Masāʾil Ḥarb al-Kirmānī*, 3/967 and 3/975, ed. Fāyiz Ḥābis.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ أَبُو الْقَاسِمِ: حَدَّثَنَا أَبُو مُحَمَّدٍ حَرْبُ بْنُ إِسْمَاعِيلَ، قَالَ: هَذَا مَذْهَبُ أَئِمَّةِ الْعِلْمِ، وَأَصْحَابِ الْأَثَرِ، وَأَهْلِ السُّنَّةِ الْمَعْرُوفِينَ بِهَا، الْمُقْتَدَى بِهِمْ فِيهَا، وَأَدْرَكْتُ مَنْ أَدْرَكْتُ مِنْ عُلَمَاءِ أَهْلِ الْعِرَاقِ وَالْحِجَازِ وَالشَّامِ وَغَيْرِهِمْ عَلَيْهَا. وَهُوَ مَذْهَبُ أَحْمَدَ، وَإِسْحَاقَ بْنِ إِبْرَاهِيمَ بْنِ مَخْلَدٍ، وَعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ الْحُمَيْدِيِّ، وَسَعِيدِ بْنِ مَنْصُورٍ، وَغَيْرِهِمْ مِمَّنْ جَالَسْنَا وَأَخَذْنَا عَنْهُمُ الْعِلْمَ.</p>
+<p>وَالْقُرْآنُ كَلَامُ اللَّهِ تَكَلَّمَ بِهِ لَيْسَ بِمَخْلُوقٍ، فَمَنْ زَعَمَ أَنَّ الْقُرْآنَ مَخْلُوقٌ فَهُوَ جَهْمِيٌّ كَافِرٌ، وَمَنْ زَعَمَ أَنَّ الْقُرْآنَ كَلَامُ اللَّهِ وَوَقَفَ وَلَمْ يَقُلْ لَيْسَ بِمَخْلُوقٍ فَهُوَ أَكْفَرُ مِنَ الْأَوَّلِ وَأَخْبَثُ قَوْلًا، وَمَنْ زَعَمَ أَنَّ أَلْفَاظَنَا بِالْقُرْآنِ وَتِلَاوَتَنَا لَهُ مَخْلُوقَةٌ وَالْقُرْآنُ كَلَامُ اللَّهِ فَهُوَ جَهْمِيٌّ خَبِيثٌ مُبْتَدِعٌ. وَمَنْ لَمْ يُكَفِّرْ هَؤُلَاءِ الْقَوْمَ وَلَا الْجَهْمِيَّةَ كُلَّهُمْ فَهُوَ مِثْلُهُمْ.</p>
+<p class="arabic-citation">المصدر: حرب الكرماني، <em>مسائل حرب الكرماني</em>، <bdi dir="ltr">3/967</bdi> و<bdi dir="ltr">3/975</bdi>، تحقيق فايز حابس.</p>
+</div>
+</details>
+
+---
+
+### Al-Ṭabarī: disbelief of one who holds that the speech of Allāh is created or doubts that it is uncreated
+<!-- evidence-id: 000737 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Al-Ṭabarī -->
+<!-- authority-death: 310 -->
+
+Ibn Jarīr al-Ṭabarī said:
+
+“We have previously demonstrated that no accountable person may remain ignorant that Allāh is knowing with knowledge, powerful with power, speaking with speech, mighty with might, and the Creator, and that every originated thing is fashioned and created. We stated that whoever is ignorant of this is a disbeliever in Allāh.
+
+Accordingly, whoever claims that the speech of Allāh is created and that He once had no speech is more deserving of disbelief and of losing the name of faith. There is likewise no doubt that whoever claims that the speech of Allāh becomes originated and created when it is recited, memorized, or written is a disbeliever in Allāh. The same ruling applies if he doubts that it is uncreated, whether it is recited, memorized, or written.”
+
+Source: Ibn Jarīr al-Ṭabarī, *al-Tabṣīr fī Maʿālim al-Dīn*, pp. 149-151, ed. ʿAlī ibn ʿAbd al-ʿAzīz al-Shibl.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَدْ دَلَّلْنَا فِيمَا مَضَى قَبْلُ مِنْ كِتَابِنَا هَذَا أَنَّهُ لَا يَسَعُ أَحَدًا بَلَغَ حَدَّ التَّكْلِيفِ الْجَهْلُ بِأَنَّ اللَّهَ جَلَّ ذِكْرُهُ عَالِمٌ لَهُ عِلْمٌ، وَقَادِرٌ لَهُ قُدْرَةٌ، وَمُتَكَلِّمٌ لَهُ كَلَامٌ، وَعَزِيزٌ لَهُ عِزَّةٌ، وَأَنَّهُ خَالِقٌ، وَأَنَّهُ لَا مُحْدَثٌ إِلَّا مَصْنُوعٌ مَخْلُوقٌ. وَقُلْنَا: مَنْ جَهِلَ ذَلِكَ فَهُوَ بِاللَّهِ كَافِرٌ.</p>
+<p>فَلَا شَكَّ أَنَّ مَنْ زَعَمَ أَنَّ كَلَامَهُ مَخْلُوقٌ، وَأَنَّهُ قَدْ كَانَ وَلَا كَلَامَ لَهُ، فَإِنَّهُ أَوْلَى بِالْكُفْرِ وَبِزَوَالِ اسْمِ الْإِيمَانِ عَنْهُ. فَلَا شَكَّ أَنَّ مَنْ يَزْعُمُ أَنَّ كَلَامَ اللَّهِ يَتَحَوَّلُ بِتِلَاوَتِهِ إِذَا تَلَاهُ، وَبِحِفْظِهِ إِذَا حَفِظَهُ، أَوْ بِكِتَابَتِهِ إِذْ كَتَبَهُ مُحْدَثًا مَخْلُوقًا، فَبِاللَّهِ تَعَالَى ذِكْرُهُ كَافِرٌ. وَكَذَلِكَ الْقَوْلُ فِيهِ إِنْ شَكَّ أَنَّهُ غَيْرُ مَخْلُوقٍ، مَقْرُوءًا كَانَ، أَوْ مَحْفُوظًا، أَوْ مَكْتُوبًا.</p>
+<p class="arabic-citation">المصدر: ابن جرير الطبري، <em>التبصير في معالم الدين</em>، ص. <bdi dir="ltr">149-151</bdi>، تحقيق علي بن عبد العزيز الشبل.</p>
 </div>
 </details>
