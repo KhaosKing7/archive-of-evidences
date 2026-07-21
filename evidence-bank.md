@@ -15819,6 +15819,7 @@ Source: Ibn Jarīr al-Ṭabarī, *al-Tabṣīr fī Maʿālim al-Dīn*, pp. 146-1
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>التبصير في معالم الدين</em>، ص. <bdi dir="ltr">146-147</bdi>، تحقيق علي بن عبد العزيز الشبل، دار العاصمة.</p>
 </div>
 </details>
+
 ## 13. Divine highness and istiwāʾ
 
 ### Ibn al-Mubārak: Allāh is above His heavens upon His Throne
@@ -15897,6 +15898,7 @@ Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, pp. 26-27, ed. Badr Yū
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">26-27</bdi>، تحقيق بدر يوسف المعتوق.</p>
 </div>
 </details>
+
 ## 14. The Qurʾān is the uncreated speech of Allāh
 
 ### ʿAmr ibn Dīnār: the scholars maintained for seventy years that the Qurʾān is uncreated
@@ -16025,6 +16027,7 @@ Source: Ibn Jarīr al-Ṭabarī, *Ṣarīḥ al-Sunnah*, p. 20, ed. Badr Yūsuf 
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">20</bdi>، تحقيق بدر يوسف المعتوق.</p>
 </div>
 </details>
+
 ## 16. Statements concerning the Jahmiyyah and sectarian disbelief
 
 ### Ḥammād ibn Abī Sulaymān disavows the religion of one who says the Qurʾān is created
@@ -16102,6 +16105,7 @@ Source: al-Bukhārī, *Khalq Afʿāl al-ʿIbād*, p. 33, ed. ʿAbd al-Raḥmān 
 <p class="arabic-citation">المصدر: البخاري، <em>خلق أفعال العباد</em>، ص. <bdi dir="ltr">33</bdi>، تحقيق عبد الرحمن عميرة.</p>
 </div>
 </details>
+
 ## 17. Early explanations of ṭāghūt and disbelief in it
 
 ### ʿUmar ibn al-Khaṭṭāb: the ṭāghūt is Satan

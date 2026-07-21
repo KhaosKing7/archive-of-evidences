@@ -9110,8 +9110,8 @@
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>التبصير في معالم الدين</em>، ص. <bdi dir="ltr">146-147</bdi>، تحقيق علي بن عبد العزيز الشبل، دار العاصمة.</p>
 </div>
 </details>
-## 13. Divine highness and istiwāʾ
 
+<h2 id="section-13">13. Divine highness and istiwāʾ</h2>
 <h3 id="subsection-120">Ibn al-Mubārak: Allāh is above His heavens upon His Throne</h3>
 <!-- evidence-id: 000716 -->
 <!-- record-type: transmitted-report -->
@@ -9174,8 +9174,8 @@
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">26-27</bdi>، تحقيق بدر يوسف المعتوق.</p>
 </div>
 </details>
-## 14. The Qurʾān is the uncreated speech of Allāh
 
+<h2 id="section-14">14. The Qurʾān is the uncreated speech of Allāh</h2>
 <h3 id="subsection-123">ʿAmr ibn Dīnār: the scholars maintained for seventy years that the Qurʾān is uncreated</h3>
 <!-- evidence-id: 000721 -->
 <!-- record-type: transmitted-report -->
@@ -9282,8 +9282,8 @@
 <p class="arabic-citation">المصدر: ابن جرير الطبري، <em>صريح السنة</em>، ص. <bdi dir="ltr">20</bdi>، تحقيق بدر يوسف المعتوق.</p>
 </div>
 </details>
-## 16. Statements concerning the Jahmiyyah and sectarian disbelief
 
+<h2 id="section-16">16. Statements concerning the Jahmiyyah and sectarian disbelief</h2>
 <h3 id="subsection-128">Ḥammād ibn Abī Sulaymān disavows the religion of one who says the Qurʾān is created</h3>
 <!-- evidence-id: 000725 -->
 <!-- record-type: transmitted-report -->
@@ -9347,8 +9347,8 @@
 <p class="arabic-citation">المصدر: البخاري، <em>خلق أفعال العباد</em>، ص. <bdi dir="ltr">33</bdi>، تحقيق عبد الرحمن عميرة.</p>
 </div>
 </details>
-## 17. Early explanations of ṭāghūt and disbelief in it
 
+<h2 id="section-17">17. Early explanations of ṭāghūt and disbelief in it</h2>
 <h3 id="subsection-131">ʿUmar ibn al-Khaṭṭāb: the ṭāghūt is Satan</h3>
 <!-- evidence-id: 000728 -->
 <!-- record-type: transmitted-report -->
@@ -10295,7 +10295,7 @@
 
     function prepareEvidenceEntries() {
       let entryNumber = 0;
-      ['tawhid', 'istighatha'].forEach(topic => {
+      ['tawhid', 'istighatha', 'salaf'].forEach(topic => {
         const panel = document.querySelector('[data-topic-panel="' + topic + '"]');
         let category = topics[topic].links[0]?.[1] || topic;
         let categoryId = topics[topic].links[0]?.[0] || '';
@@ -11127,7 +11127,10 @@
           if (!target) return;
           setActiveLink(id);
           history.pushState(null, '', '#' + id);
-          requestAnimationFrame(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+          requestAnimationFrame(() => {
+            const top = target.getBoundingClientRect().top + window.scrollY - 28;
+            window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+          });
         });
         return link;
       }));
