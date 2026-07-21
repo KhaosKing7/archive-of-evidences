@@ -6047,7 +6047,11 @@ Source: Muḥammad ibn ʿAbd al-Wahhāb, as transmitted by ʿAbd al-Laṭīf Āl
 </div>
 </details>
 
-“Whoever says, ‘I do not oppose the mushrikīn,’ or opposes them but does not declare them disbelievers, or says, ‘I do not oppose the people of lā ilāha illā Allāh even if they commit disbelief and shirk and oppose the religion of Allāh,’ or says, ‘I do not oppose the domes,’ is not a Muslim.”
+Shaykhs Ḥusayn and ʿAbd Allāh, the sons of Shaykh Muḥammad ibn ʿAbd al-Wahhāb, may Allāh the Exalted have mercy on them, said in the course of one of their answers:
+
+“The eleventh issue: A man has entered this religion and loves it, but he does not show enmity toward the mushrikīn. Or he shows them enmity but does not declare them disbelievers. Or he says, ‘I am a Muslim, but I am unable to declare the people of lā ilāha illā Allāh disbelievers, even if they do not know its meaning.’ Another man has entered this religion and loves it, but he says, ‘I do not oppose the domes. I know that they neither benefit nor harm, but I do not oppose them.’
+
+The answer: A man is not a Muslim unless he knows tawḥīd, embraces it as his religion, acts according to what it requires, believes the Messenger ﷺ concerning what he informed of, obeys him in what he prohibited and commanded, and believes in him and in what he brought. Therefore, whoever says, ‘I do not show enmity toward the mushrikīn,’ or shows them enmity but does not declare them disbelievers, or says, ‘I do not oppose the people of lā ilāha illā Allāh, even if they commit kufr and shirk and oppose the religion of Allāh,’ or says, ‘I do not oppose the domes,’ is not a Muslim. Rather, he is among those concerning whom Allāh said: ‘They say, “We believe in some and disbelieve in others,” and wish to take a path between that. It is they who are truly the disbelievers.’”
 
 Source: Ḥusayn and ʿAbd Allāh, the sons of Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah*, 10/139–140.
 
