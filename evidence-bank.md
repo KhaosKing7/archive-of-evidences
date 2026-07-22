@@ -6945,6 +6945,288 @@ He answered:
 
 ---
 
+### Aḥmad ibn Ḥanbal: whoever doubts the disbelief of one who says the Qurʾān is created is a disbeliever
+<!-- evidence-id: 000734 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Aḥmad ibn Ḥanbal -->
+<!-- authority-death: 241 -->
+
+Shāhīn ibn al-Sumaydaʿ said that he heard Imām Aḥmad ibn Ḥanbal say:
+
+“Whoever says that the Qurʾān is created is a disbeliever, and whoever doubts his disbelief is a disbeliever.”
+
+Source: Ibn Abī Yaʿlā, *Ṭabaqāt al-Ḥanābilah*, 1/173, in the biography of Shāhīn ibn al-Sumaydaʿ. Also transmitted in *al-Jāmiʿ li-ʿUlūm al-Imām Aḥmad, al-ʿAqīdah*, 3/572.
+
+<p class="verification-note unresolved">The report has a complete chain in the cited source. No named authentication judgment for this exact chain was found during the present review, so the archive does not grade it.</p>
+
+<details class="source-panel chain-source">
+<summary>Full chain</summary>
+<p>Ibn Abī Yaʿlā → Abū al-Ḥusayn ibn al-Muhtadī bi-Allāh → Abū al-Ḥusayn ibn Akhī Mīmī → ʿAlī ibn Muḥammad al-Mawṣilī → Mūsā ibn Muḥammad al-Ghassānī → Shāhīn ibn al-Sumaydaʿ → Aḥmad ibn Ḥanbal.</p>
+</details>
+
+<details class="source-panel arabic-source" data-origin="online-primary-text">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَنْبَأَنَا أَبُو الْحُسَيْنِ بْنُ الْمُهْتَدِي بِاللَّهِ، عَنْ أَبِي الْحُسَيْنِ بْنِ أَخِي مِيمِي، قَالَ: أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدٍ الْمَوْصِلِيُّ، حَدَّثَنَا مُوسَى بْنُ مُحَمَّدٍ الْغَسَّانِيُّ، حَدَّثَنَا شَاهِينُ بْنُ السَّمَيْذَعِ، قَالَ: سَمِعْتُ أَبَا عَبْدِ اللَّهِ يَقُولُ: «مَنْ قَالَ: الْقُرْآنُ مَخْلُوقٌ فَهُوَ كَافِرٌ، وَمَنْ شَكَّ فِي كُفْرِهِ فَهُوَ كَافِرٌ».</p>
+<p class="arabic-citation">المصدر: ابن أبي يعلى، <em>طبقات الحنابلة</em>، <bdi dir="ltr">1/173</bdi>، في ترجمة شاهين بن السميذع. ونقله أيضًا <em>الجامع لعلوم الإمام أحمد، العقيدة</em>، <bdi dir="ltr">3/572</bdi>.</p>
+</div>
+</details>
+
+---
+
+### Muḥammad ibn Saḥnūn: whoever doubts the disbelief of one who reviles the Prophet is a disbeliever
+<!-- evidence-id: 000735 -->
+<!-- record-type: transmitted-report -->
+<!-- report-status: unresolved -->
+<!-- authority-name: Muḥammad ibn Saḥnūn -->
+<!-- authority-death: 256 -->
+
+Muḥammad ibn Saḥnūn said:
+
+“The scholars have unanimously agreed that one who reviles the Prophet ﷺ and disparages him is a disbeliever. The threat of Allāh’s punishment applies to him, and his ruling according to the Ummah is execution. Whoever doubts his disbelief and punishment has disbelieved.”
+
+Source: Ibn Taymiyyah, *al-Ṣārim al-Maslūl ʿalā Shātim al-Rasūl*, p. 513, transmitting the statement of Muḥammad ibn Saḥnūn.
+
+<p class="verification-note unresolved">The consulted text quotes Muḥammad ibn Saḥnūn without a transmission chain at this location. No named authentication judgment for the attribution was found during the present review.</p>
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ مُحَمَّدُ بْنُ سَحْنُونٍ: «أَجْمَعَ الْعُلَمَاءُ أَنَّ شَاتِمَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُنْتَقِصَ لَهُ كَافِرٌ، وَالْوَعِيدُ جَارٍ عَلَيْهِ بِعَذَابِ اللَّهِ، وَحُكْمُهُ عِنْدَ الْأُمَّةِ الْقَتْلُ، وَمَنْ شَكَّ فِي كُفْرِهِ وَعَذَابِهِ كَفَرَ».</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>الصارم المسلول على شاتم الرسول</em>، ص. <bdi dir="ltr">513</bdi>، ناقلًا قول محمد بن سحنون.</p>
+</div>
+</details>
+
+---
+
+### Ḥarb al-Kirmānī: the transmitted creed concerning the Jahmiyyah and those who do not declare them disbelievers
+<!-- evidence-id: 000736 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Ḥarb al-Kirmānī -->
+<!-- authority-death: 280 -->
+
+Ḥarb al-Kirmānī introduced this creed as the doctrine of the leading scholars, the people of reports, and the recognized people of the Sunnah whom he met in Iraq, the Ḥijāz, Syria, and elsewhere. He specifically named Aḥmad ibn Ḥanbal, Isḥāq ibn Rāhawayh, ʿAbd Allāh ibn al-Zubayr al-Ḥumaydī, and Saʿīd ibn Manṣūr. The creed states:
+
+“The Qurʾān is the speech of Allāh, spoken by Him, and is not created. Whoever claims that the Qurʾān is created is a Jahmī and a disbeliever. Whoever claims that the Qurʾān is the speech of Allāh but stops short and does not say that it is uncreated is more disbelieving than the first and fouler in statement. Whoever claims that our utterances of the Qurʾān and our recitation of it are created, while the Qurʾān is the speech of Allāh, is a filthy, innovating Jahmī. Whoever does not declare these people and all the Jahmiyyah disbelievers is like them.”
+
+Source: Ḥarb al-Kirmānī, *Masāʾil Ḥarb al-Kirmānī*, 3/967 and 3/975, ed. Fāyiz Ḥābis.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قَالَ أَبُو الْقَاسِمِ: حَدَّثَنَا أَبُو مُحَمَّدٍ حَرْبُ بْنُ إِسْمَاعِيلَ، قَالَ: هَذَا مَذْهَبُ أَئِمَّةِ الْعِلْمِ، وَأَصْحَابِ الْأَثَرِ، وَأَهْلِ السُّنَّةِ الْمَعْرُوفِينَ بِهَا، الْمُقْتَدَى بِهِمْ فِيهَا، وَأَدْرَكْتُ مَنْ أَدْرَكْتُ مِنْ عُلَمَاءِ أَهْلِ الْعِرَاقِ وَالْحِجَازِ وَالشَّامِ وَغَيْرِهِمْ عَلَيْهَا. وَهُوَ مَذْهَبُ أَحْمَدَ، وَإِسْحَاقَ بْنِ إِبْرَاهِيمَ بْنِ مَخْلَدٍ، وَعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ الْحُمَيْدِيِّ، وَسَعِيدِ بْنِ مَنْصُورٍ، وَغَيْرِهِمْ مِمَّنْ جَالَسْنَا وَأَخَذْنَا عَنْهُمُ الْعِلْمَ.</p>
+<p>وَالْقُرْآنُ كَلَامُ اللَّهِ تَكَلَّمَ بِهِ لَيْسَ بِمَخْلُوقٍ، فَمَنْ زَعَمَ أَنَّ الْقُرْآنَ مَخْلُوقٌ فَهُوَ جَهْمِيٌّ كَافِرٌ، وَمَنْ زَعَمَ أَنَّ الْقُرْآنَ كَلَامُ اللَّهِ وَوَقَفَ وَلَمْ يَقُلْ لَيْسَ بِمَخْلُوقٍ فَهُوَ أَكْفَرُ مِنَ الْأَوَّلِ وَأَخْبَثُ قَوْلًا، وَمَنْ زَعَمَ أَنَّ أَلْفَاظَنَا بِالْقُرْآنِ وَتِلَاوَتَنَا لَهُ مَخْلُوقَةٌ وَالْقُرْآنُ كَلَامُ اللَّهِ فَهُوَ جَهْمِيٌّ خَبِيثٌ مُبْتَدِعٌ. وَمَنْ لَمْ يُكَفِّرْ هَؤُلَاءِ الْقَوْمَ وَلَا الْجَهْمِيَّةَ كُلَّهُمْ فَهُوَ مِثْلُهُمْ.</p>
+<p class="arabic-citation">المصدر: حرب الكرماني، <em>مسائل حرب الكرماني</em>، <bdi dir="ltr">3/967</bdi> و<bdi dir="ltr">3/975</bdi>، تحقيق فايز حابس.</p>
+</div>
+</details>
+
+---
+
+### Ibn Taymiyyah: disbelief of the extremist Rāfiḍah and of one who doubts it
+<!-- evidence-id: 000739 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Ibn Taymiyyah -->
+<!-- authority-death: 728 -->
+
+Ibn Taymiyyah said:
+
+“As for one whose reviling is accompanied by the claim that ʿAlī is a deity, or that he was the prophet but Jibrīl mistakenly delivered the message to someone else, there is no doubt concerning his disbelief. Rather, there is no doubt concerning the disbelief of one who refrains from declaring him a disbeliever.
+
+As for one who goes beyond that and claims that the Companions apostatized after the Messenger of Allāh ﷺ, except for a small group numbering fewer than a dozen, or claims that the majority of them became sinners, there is likewise no doubt concerning his disbelief. He has rejected what the Qurʾān explicitly states in several places concerning Allāh’s pleasure with them and praise of them. Rather, whoever doubts the disbelief of a person such as this is certainly a disbeliever.”
+
+Source: Ibn Taymiyyah, *al-Ṣārim al-Maslūl ʿalā Shātim al-Rasūl*, pp. 586-587.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>أَمَّا مَنْ اقْتَرَنَ بِسَبِّهِ دَعْوَى أَنَّ عَلِيًّا إِلَهٌ، أَوْ أَنَّهُ كَانَ هُوَ النَّبِيَّ وَإِنَّمَا غَلِطَ جِبْرِيلُ فِي الرِّسَالَةِ، فَهَذَا لَا شَكَّ فِي كُفْرِهِ، بَلْ لَا شَكَّ فِي كُفْرِ مَنْ تَوَقَّفَ فِي تَكْفِيرِهِ.</p>
+<p>وَأَمَّا مَنْ جَاوَزَ ذَلِكَ إِلَى أَنْ زَعَمَ أَنَّهُمُ ارْتَدُّوا بَعْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَّا نَفَرًا قَلِيلًا لَا يَبْلُغُونَ بِضْعَةَ عَشَرَ نَفْسًا، أَوْ أَنَّهُمْ فَسَقُوا عَامَّتَهُمْ، فَهَذَا لَا رَيْبَ أَيْضًا فِي كُفْرِهِ؛ فَإِنَّهُ مُكَذِّبٌ لِمَا نَصَّهُ الْقُرْآنُ فِي غَيْرِ مَوْضِعٍ مِنَ الرِّضَى عَنْهُمْ وَالثَّنَاءِ عَلَيْهِمْ، بَلْ مَنْ يَشُكُّ فِي كُفْرِ مِثْلِ هَذَا فَإِنَّ كُفْرَهُ مُتَعَيِّنٌ.</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>الصارم المسلول على شاتم الرسول</em>، ص. <bdi dir="ltr">586-587</bdi>.</p>
+</div>
+</details>
+
+---
+
+### Ibn Taymiyyah: whoever doubts the disbelief of the Druze is a disbeliever like them
+<!-- evidence-id: 000740 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Ibn Taymiyyah -->
+<!-- authority-death: 728 -->
+
+Ibn Taymiyyah said concerning the Druze:
+
+“The disbelief of these people is not disputed among the Muslims. Rather, whoever doubts their disbelief is a disbeliever like them. They do not have the status of the People of the Book or ordinary mushrikīn. Rather, they are misguided disbelievers.”
+
+Source: Ibn Taymiyyah, *Majmūʿ al-Fatāwā*, 35/161-162.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>كُفْرُ هَؤُلَاءِ مِمَّا لَا يَخْتَلِفُ فِيهِ الْمُسْلِمُونَ، بَلْ مَنْ شَكَّ فِي كُفْرِهِمْ فَهُوَ كَافِرٌ مِثْلُهُمْ، لَا هُمْ بِمَنْزِلَةِ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ، بَلْ هُمُ الْكَفَرَةُ الضَّالُّونَ.</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>مجموع الفتاوى</em>، <bdi dir="ltr">35/161-162</bdi>.</p>
+</div>
+</details>
+
+---
+
+### Al-Ḥajjāwī: one who does not declare followers of another religion disbelievers
+<!-- evidence-id: 000741 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Al-Ḥajjāwī -->
+<!-- authority-death: 968 -->
+
+Al-Ḥajjāwī said:
+
+“Whoever does not declare a person who follows a religion other than Islam, such as the Christians, to be a disbeliever, or doubts their disbelief, or considers their religion correct, is a disbeliever.”
+
+Source: Mūsā al-Ḥajjāwī, *al-Iqnāʿ fī Fiqh al-Imām Aḥmad*, 4/298.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>أَوْ لَمْ يُكَفِّرْ مَنْ دَانَ بِغَيْرِ الْإِسْلَامِ، كَالنَّصَارَى، أَوْ شَكَّ فِي كُفْرِهِمْ، أَوْ صَحَّحَ مَذْهَبَهُمْ، فَهُوَ كَافِرٌ.</p>
+<p class="arabic-citation">المصدر: موسى الحجاوي، <em>الإقناع في فقه الإمام أحمد</em>، <bdi dir="ltr">4/298</bdi>.</p>
+</div>
+</details>
+
+---
+
+### ʿAbd Allāh ibn Muḥammad ibn ʿAbd al-Wahhāb: whoever denies that worshipping other than Allāh nullifies Islam
+<!-- evidence-id: 000742 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: ʿAbd Allāh ibn Muḥammad ibn ʿAbd al-Wahhāb -->
+<!-- authority-death: 1242 -->
+
+ʿAbd Allāh ibn Muḥammad ibn ʿAbd al-Wahhāb said:
+
+“If he stubbornly rejects this and says that none of these matters causes harm, and that a person who pronounces the two testimonies cannot thereby become a disbeliever, then there is no doubt concerning his disbelief, nor concerning the disbelief of one who doubts his disbelief. By saying this, he rejects Allāh, His Messenger, and the consensus of the Muslims. The evidence for this is manifest in the Book, the Sunnah, and consensus.
+
+Therefore, whoever says that nothing can invalidate the two testimonies once they have been pronounced, or says that someone who pronounces the two testimonies, prays, and fasts may not be declared a disbeliever even if he worships other than Allāh, is a disbeliever. Whoever doubts his disbelief is also a disbeliever, because the person who makes this claim rejects Allāh, His Messenger, and the consensus of the Muslims.”
+
+Source: ʿAbd Allāh ibn Muḥammad ibn ʿAbd al-Wahhāb, *al-Durar al-Saniyyah*, 10/250-251.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>فَإِنْ كَابَرَ وَعَانَدَ، وَقَالَ: لَا يَضُرُّ شَيْءٌ مِنْ ذَلِكَ، وَلَا يَكْفُرُ بِهِ مَنْ أَتَى بِالشَّهَادَتَيْنِ، فَلَا شَكَّ فِي كُفْرِهِ، وَلَا كُفْرِ مَنْ شَكَّ فِي كُفْرِهِ، لِأَنَّهُ بِقَوْلِهِ هَذَا مُكَذِّبٌ لِلَّهِ وَلِرَسُولِهِ، وَلِإِجْمَاعِ الْمُسْلِمِينَ؛ وَالْأَدِلَّةُ عَلَى ذَلِكَ ظَاهِرَةٌ بِالْكِتَابِ وَالسُّنَّةِ وَالْإِجْمَاعِ.</p>
+<p>فَمَنْ قَالَ: إِنَّ التَّلَفُّظَ بِالشَّهَادَتَيْنِ لَا يَضُرُّ مَعَهُمَا شَيْءٌ، أَوْ قَالَ: مَنْ أَتَى بِالشَّهَادَتَيْنِ وَصَلَّى وَصَامَ لَا يَجُوزُ تَكْفِيرُهُ، وَإِنْ عَبَدَ غَيْرَ اللَّهِ، فَهُوَ كَافِرٌ، وَمَنْ شَكَّ فِي كُفْرِهِ فَهُوَ كَافِرٌ؛ لِأَنَّ قَائِلَ هَذَا الْقَوْلِ مُكَذِّبٌ لِلَّهِ وَلِرَسُولِهِ، وَلِإِجْمَاعِ الْمُسْلِمِينَ كَمَا قَدَّمْنَا.</p>
+<p class="arabic-citation">المصدر: عبد الله بن محمد بن عبد الوهاب، <em>الدرر السنية في الأجوبة النجدية</em>، <bdi dir="ltr">10/250-251</bdi>.</p>
+</div>
+</details>
+
+---
+
+### ʿAbd al-Raḥmān ibn Ḥasan: whoever does not declare those who deified ʿAlī disbelievers
+<!-- evidence-id: 000743 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: ʿAbd al-Raḥmān ibn Ḥasan -->
+<!-- authority-death: 1285 -->
+
+ʿAbd al-Raḥmān ibn Ḥasan said:
+
+“Those who believed that ʿAlī ibn Abī Ṭālib possessed divinity were placed in trenches by him and burned because of their shirk with Allāh. Ask this ignorant fabricator: Was ʿAlī correct in killing them or mistaken? Were they disbelievers or not? Whoever does not declare them disbelievers is a disbeliever.”
+
+Source: ʿAbd al-Raḥmān ibn Ḥasan, *al-Durar al-Saniyyah*, 11/388-389.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَكَذَلِكَ الَّذِينَ اعْتَقَدُوا الْأُلُوهِيَّةَ فِي عَلِيِّ بْنِ أَبِي طَالِبٍ، خَدَّ لَهُمُ الْأَخَادِيدَ، وَأَحْرَقَهُمْ بِالنَّارِ لِشِرْكِهِمْ بِاللَّهِ.</p>
+<p>فَسَلْ هَذَا الْجَاهِلَ الْمُفْتَرِيَ: هَلْ أَصَابَ عَلِيٌّ فِي قَتْلِهِمْ أَمْ أَخْطَأَ؟ وَهَلْ كَانُوا كُفَّارًا أَمْ لَا؟ وَمَنْ لَمْ يُكَفِّرْهُمْ فَهُوَ كَافِرٌ.</p>
+<p class="arabic-citation">المصدر: عبد الرحمن بن حسن، <em>الدرر السنية في الأجوبة النجدية</em>، <bdi dir="ltr">11/388-389</bdi>.</p>
+</div>
+</details>
+
+---
+
+### The scholars of the Najdī daʿwah: one who does not declare the Jahmiyyah and grave-worshippers disbelievers
+<!-- evidence-id: 000744 -->
+<!-- record-type: direct-authorial-statement -->
+
+ʿAbd Allāh and Ibrāhīm, the sons of ʿAbd al-Laṭīf, and Sulaymān ibn Saḥmān said:
+
+“The imamate of one who does not declare the Jahmiyyah and the grave-worshippers disbelievers, or doubts declaring them disbelievers, is not valid. This issue is among the clearest matters to students of knowledge and the people of transmitted reports. Imām Aḥmad and scholars of knowledge and ḥadīth like him did not differ over declaring the Jahmiyyah disbelievers and regarding them as misguided heretics.
+
+A distinction may be made between one upon whom the proof whose rejection entails disbelief has been established and one who is unaware of it. Shaykh al-Islām inclines to this view regarding matters whose evidence may be obscure to some people.”
+
+Source: ʿAbd Allāh and Ibrāhīm, the sons of ʿAbd al-Laṭīf, and Sulaymān ibn Saḥmān, *al-Durar al-Saniyyah*, 10/436-437.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>لَا تَصِحُّ إِمَامَةُ مَنْ لَا يُكَفِّرُ الْجَهْمِيَّةَ وَالْقُبُورِيِّينَ، أَوْ يَشُكُّ فِي تَكْفِيرِهِمْ؛ وَهَذِهِ الْمَسْأَلَةُ مِنْ أَوْضَحِ الْوَاضِحَاتِ عِنْدَ طَلَبَةِ الْعِلْمِ وَأَهْلِ الْأَثَرِ.</p>
+<p>وَذَلِكَ أَنَّ الْإِمَامَ أَحْمَدَ وَأَمْثَالَهُ مِنْ أَهْلِ الْعِلْمِ وَالْحَدِيثِ لَمْ يَخْتَلِفُوا فِي تَكْفِيرِ الْجَهْمِيَّةِ وَأَنَّهُمْ ضُلَّالٌ زَنَادِقَةٌ.</p>
+<p>وَقَدْ يُفَرَّقُ بَيْنَ مَنْ قَامَتْ عَلَيْهِ الْحُجَّةُ الَّتِي يَكْفُرُ تَارِكُهَا وَبَيْنَ مَنْ لَا شُعُورَ لَهُ بِذَلِكَ، وَهَذَا الْقَوْلُ يَمِيلُ إِلَيْهِ شَيْخُ الْإِسْلَامِ فِي الْمَسَائِلِ الَّتِي قَدْ يَخْفَى دَلِيلُهَا عَلَى بَعْضِ النَّاسِ.</p>
+<p class="arabic-citation">المصدر: عبد الله وإبراهيم ابنا عبد اللطيف، وسليمان بن سحمان، <em>الدرر السنية في الأجوبة النجدية</em>، <bdi dir="ltr">10/436-437</bdi>.</p>
+</div>
+</details>
+
+---
+
+### Muḥammad ibn ʿAbd al-Laṭīf: whoever doubts their disbelief after establishment of the proof
+<!-- evidence-id: 000745 -->
+<!-- record-type: direct-authorial-statement -->
+<!-- authority-name: Muḥammad ibn ʿAbd al-Laṭīf -->
+<!-- authority-death: 1367 -->
+
+Muḥammad ibn ʿAbd al-Laṭīf said:
+
+“These acts belong to the religion of pre-Islamic ignorance which the Messenger of Allāh ﷺ was sent to condemn, remove, and erase, because they are major shirk whose prohibition is shown by clear verses. Whoever believes them permissible and lawful and regards them as worship and religion is among the most disbelieving and misguided of Allāh’s creation. Whoever doubts their disbelief after the proof has been established upon them is a disbeliever.”
+
+Source: Muḥammad ibn ʿAbd al-Laṭīf, *al-Durar al-Saniyyah*, 10/439-440.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>إِنَّ هَذِهِ الْأَفْعَالَ هِيَ مِنْ دِينِ الْجَاهِلِيَّةِ الَّتِي بُعِثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِإِنْكَارِهَا وَإِزَالَتِهَا وَمَحْوِ آثَارِهَا؛ لِأَنَّهَا مِنَ الشِّرْكِ الْأَكْبَرِ الَّذِي دَلَّتِ الْآيَاتُ الْمُحْكَمَاتُ عَلَى تَحْرِيمِهِ.</p>
+<p>فَمَنِ اعْتَقَدَ جَوَازَهُ وَحِلَّهُ، وَأَنَّهُ عِبَادَةٌ وَدِينٌ، فَهُوَ مِنْ أَكْفَرِ خَلْقِ اللَّهِ وَأَضَلِّهِمْ، وَمَنْ شَكَّ فِي كُفْرِهِمْ بَعْدَ قِيَامِ الْحُجَّةِ عَلَيْهِمْ فَهُوَ كَافِرٌ.</p>
+<p class="arabic-citation">المصدر: محمد بن عبد اللطيف، <em>الدرر السنية في الأجوبة النجدية</em>، <bdi dir="ltr">10/439-440</bdi>.</p>
+</div>
+</details>
+
+---
+
+### The Permanent Committee: one who does not declare an established disbeliever a disbeliever
+<!-- evidence-id: 000746 -->
+<!-- record-type: direct-authorial-statement -->
+
+The Permanent Committee said:
+
+“Whoever’s disbelief has been established must be believed and judged to be a disbeliever, and the Muslim ruler must apply the prescribed punishment for apostasy if he does not repent. Whoever does not declare someone whose disbelief is established to be a disbeliever is himself a disbeliever, unless he has a doubt concerning the matter, in which case that doubt must be removed.”
+
+Source: *Fatāwā al-Lajnah al-Dāʾimah*, 2/142, fatwa no. 6201.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>مَنْ ثَبَتَ كُفْرُهُ وَجَبَ اعْتِقَادُ كُفْرِهِ وَالْحُكْمُ عَلَيْهِ بِهِ، وَإِقَامَةُ وَلِيِّ الْأَمْرِ حَدَّ الرِّدَّةِ عَلَيْهِ إِنْ لَمْ يَتُبْ، وَمَنْ لَمْ يُكَفِّرْ مَنْ ثَبَتَ كُفْرُهُ فَهُوَ كَافِرٌ، إِلَّا أَنْ تَكُونَ لَهُ شُبْهَةٌ فِي ذَلِكَ، فَلَا بُدَّ مِنْ كَشْفِهَا.</p>
+<p class="arabic-citation">المصدر: <em>فتاوى اللجنة الدائمة</em>، <bdi dir="ltr">2/142</bdi>، الفتوى رقم <bdi dir="ltr">6201</bdi>.</p>
+</div>
+</details>
+
+---
+
+### The Permanent Committee: whoever does not declare the Jews and Christians disbelievers
+<!-- evidence-id: 000747 -->
+<!-- record-type: direct-authorial-statement -->
+
+The Permanent Committee said:
+
+“Whoever does not declare the Jews and Christians disbelievers is a disbeliever, in accordance with the legal principle that whoever does not declare a disbeliever to be a disbeliever after the proof has been established upon him is himself a disbeliever.”
+
+Source: *Fatāwā al-Lajnah al-Dāʾimah*, 12/279-280.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>فَمَنْ لَمْ يُكَفِّرِ الْيَهُودَ وَالنَّصَارَى فَهُوَ كَافِرٌ، طَرْدًا لِقَاعِدَةِ الشَّرِيعَةِ: مَنْ لَمْ يُكَفِّرِ الْكَافِرَ بَعْدَ إِقَامَةِ الْحُجَّةِ عَلَيْهِ فَهُوَ كَافِرٌ.</p>
+<p class="arabic-citation">المصدر: <em>فتاوى اللجنة الدائمة</em>، <bdi dir="ltr">12/279-280</bdi>.</p>
+</div>
+</details>
+
+---
+
 ## 7. Ibn Taymiyyah’s position on ʿudhr bil-jahl
 
 This section intentionally repeats every Ibn Taymiyyah-related entry found in the ʿUdhr bil-Jahl collections. Direct statements are arranged by subject, followed by statements from scholars explaining or transmitting his position. Duplicate posts are removed.
@@ -16272,91 +16554,6 @@ Source: Ibn Abī Yaʿlā, *Ṭabaqāt al-Ḥanābilah*, 2/428, in the biography 
 <p class="arabic-citation">المصدر: ابن أبي يعلى، <em>طبقات الحنابلة</em>، <bdi dir="ltr">2/428</bdi>، في ترجمة مسدد بن مسرهد.</p>
 </div>
 </details>
-
----
-
-### Aḥmad ibn Ḥanbal: whoever doubts the disbelief of one who says the Qurʾān is created is a disbeliever
-<!-- evidence-id: 000734 -->
-<!-- record-type: transmitted-report -->
-<!-- report-status: unresolved -->
-<!-- authority-name: Aḥmad ibn Ḥanbal -->
-<!-- authority-death: 241 -->
-
-Shāhīn ibn al-Sumaydaʿ said that he heard Imām Aḥmad ibn Ḥanbal say:
-
-“Whoever says that the Qurʾān is created is a disbeliever, and whoever doubts his disbelief is a disbeliever.”
-
-Source: Ibn Abī Yaʿlā, *Ṭabaqāt al-Ḥanābilah*, 1/173, in the biography of Shāhīn ibn al-Sumaydaʿ.
-
-<p class="verification-note unresolved">The report has a complete chain in the cited source. No named authentication judgment for this exact chain was found during the present review, so the archive does not grade it.</p>
-
-<details class="source-panel chain-source">
-<summary>Full chain</summary>
-<p>Ibn Abī Yaʿlā → Abū al-Ḥusayn ibn al-Muhtadī bi-Allāh → Abū al-Ḥusayn ibn Akhī Mīmī → ʿAlī ibn Muḥammad al-Mawṣilī → Mūsā ibn Muḥammad al-Ghassānī → Shāhīn ibn al-Sumaydaʿ → Aḥmad ibn Ḥanbal.</p>
-</details>
-
-<details class="source-panel arabic-source" data-origin="online-primary-text">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>وَأَنْبَأَنَا أَبُو الْحُسَيْنِ بْنُ الْمُهْتَدِي بِاللَّهِ، عَنْ أَبِي الْحُسَيْنِ بْنِ أَخِي مِيمِي، قَالَ: أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدٍ الْمَوْصِلِيُّ، حَدَّثَنَا مُوسَى بْنُ مُحَمَّدٍ الْغَسَّانِيُّ، حَدَّثَنَا شَاهِينُ بْنُ السَّمَيْذَعِ، قَالَ: سَمِعْتُ أَبَا عَبْدِ اللَّهِ يَقُولُ: «مَنْ قَالَ: الْقُرْآنُ مَخْلُوقٌ فَهُوَ كَافِرٌ، وَمَنْ شَكَّ فِي كُفْرِهِ فَهُوَ كَافِرٌ».</p>
-<p class="arabic-citation">المصدر: ابن أبي يعلى، <em>طبقات الحنابلة</em>، <bdi dir="ltr">1/173</bdi>، في ترجمة شاهين بن السميذع.</p>
-</div>
-</details>
-
----
-
-### Muḥammad ibn Saḥnūn: whoever doubts the disbelief and punishment of one who reviles the Prophet is a disbeliever
-<!-- evidence-id: 000735 -->
-<!-- record-type: transmitted-report -->
-<!-- report-status: unresolved -->
-<!-- authority-name: Muḥammad ibn Saḥnūn -->
-<!-- authority-death: 256 -->
-
-Muḥammad ibn Saḥnūn said:
-
-“The scholars have reached consensus that one who reviles the Prophet ﷺ and disparages him is a disbeliever. The threat of Allāh’s punishment applies to him, and his ruling according to the Ummah is execution. Whoever doubts his disbelief and punishment has disbelieved.”
-
-Source: Ibn Taymiyyah, *al-Ṣārim al-Maslūl ʿalā Shātim al-Rasūl*, p. 513, transmitting the statement of Muḥammad ibn Saḥnūn.
-
-<p class="verification-note unresolved">The consulted Shamela text quotes Muḥammad ibn Saḥnūn without a transmission chain at this location. No named authentication judgment for the attribution was found during the present review.</p>
-
-<details class="source-panel chain-source">
-<summary>Transmission information</summary>
-<p>Ibn Taymiyyah cites the statement directly from Muḥammad ibn Saḥnūn without reproducing a chain at this location.</p>
-</details>
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>قَالَ مُحَمَّدُ بْنُ سَحْنُونٍ: «أَجْمَعَ الْعُلَمَاءُ أَنَّ شَاتِمَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُنْتَقِصَ لَهُ كَافِرٌ، وَالْوَعِيدُ جَارٍ عَلَيْهِ بِعَذَابِ اللَّهِ، وَحُكْمُهُ عِنْدَ الْأُمَّةِ الْقَتْلُ، وَمَنْ شَكَّ فِي كُفْرِهِ وَعَذَابِهِ كَفَرَ».</p>
-<p class="arabic-citation">المصدر: ابن تيمية، <em>الصارم المسلول على شاتم الرسول</em>، ص. <bdi dir="ltr">513</bdi>، ناقلًا قول محمد بن سحنون.</p>
-</div>
-</details>
-
----
-
-### Ḥarb al-Kirmānī: the transmitted creed concerning the Jahmiyyah and those who do not declare them disbelievers
-<!-- evidence-id: 000736 -->
-<!-- record-type: direct-authorial-statement -->
-<!-- authority-name: Ḥarb al-Kirmānī -->
-<!-- authority-death: 280 -->
-
-Ḥarb al-Kirmānī introduced this creed by saying that it was the doctrine of the leading scholars, the people of reports, and the recognized people of the Sunnah whom he had met in Iraq, the Ḥijāz, Syria, and elsewhere. He specifically named Aḥmad ibn Ḥanbal, Isḥāq ibn Rāhawayh, ʿAbd Allāh ibn al-Zubayr al-Ḥumaydī, and Saʿīd ibn Manṣūr among those from whom he had learned it. The creed states:
-
-“The Qurʾān is the speech of Allāh, spoken by Him, and is not created. Whoever claims that the Qurʾān is created is a Jahmī and a disbeliever. Whoever claims that the Qurʾān is the speech of Allāh but stops short and does not say that it is uncreated is more disbelieving than the first and fouler in statement. Whoever claims that our utterances of the Qurʾān and our recitation of it are created, while the Qurʾān is the speech of Allāh, is a filthy, innovating Jahmī. Whoever does not declare these people and all the Jahmiyyah disbelievers is like them.”
-
-Source: Ḥarb al-Kirmānī, *Masāʾil Ḥarb al-Kirmānī*, 3/967 and 3/975, ed. Fāyiz Ḥābis.
-
-<details class="source-panel arabic-source" data-origin="local-library">
-<summary>Arabic text</summary>
-<div class="arabic-text" dir="rtl" lang="ar">
-<p>قَالَ أَبُو الْقَاسِمِ: حَدَّثَنَا أَبُو مُحَمَّدٍ حَرْبُ بْنُ إِسْمَاعِيلَ، قَالَ: هَذَا مَذْهَبُ أَئِمَّةِ الْعِلْمِ، وَأَصْحَابِ الْأَثَرِ، وَأَهْلِ السُّنَّةِ الْمَعْرُوفِينَ بِهَا، الْمُقْتَدَى بِهِمْ فِيهَا، وَأَدْرَكْتُ مَنْ أَدْرَكْتُ مِنْ عُلَمَاءِ أَهْلِ الْعِرَاقِ وَالْحِجَازِ وَالشَّامِ وَغَيْرِهِمْ عَلَيْهَا. وَهُوَ مَذْهَبُ أَحْمَدَ، وَإِسْحَاقَ بْنِ إِبْرَاهِيمَ بْنِ مَخْلَدٍ، وَعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ الْحُمَيْدِيِّ، وَسَعِيدِ بْنِ مَنْصُورٍ، وَغَيْرِهِمْ مِمَّنْ جَالَسْنَا وَأَخَذْنَا عَنْهُمُ الْعِلْمَ.</p>
-<p>وَالْقُرْآنُ كَلَامُ اللَّهِ تَكَلَّمَ بِهِ لَيْسَ بِمَخْلُوقٍ، فَمَنْ زَعَمَ أَنَّ الْقُرْآنَ مَخْلُوقٌ فَهُوَ جَهْمِيٌّ كَافِرٌ، وَمَنْ زَعَمَ أَنَّ الْقُرْآنَ كَلَامُ اللَّهِ وَوَقَفَ وَلَمْ يَقُلْ لَيْسَ بِمَخْلُوقٍ فَهُوَ أَكْفَرُ مِنَ الْأَوَّلِ وَأَخْبَثُ قَوْلًا، وَمَنْ زَعَمَ أَنَّ أَلْفَاظَنَا بِالْقُرْآنِ وَتِلَاوَتَنَا لَهُ مَخْلُوقَةٌ وَالْقُرْآنُ كَلَامُ اللَّهِ فَهُوَ جَهْمِيٌّ خَبِيثٌ مُبْتَدِعٌ. وَمَنْ لَمْ يُكَفِّرْ هَؤُلَاءِ الْقَوْمَ وَلَا الْجَهْمِيَّةَ كُلَّهُمْ فَهُوَ مِثْلُهُمْ.</p>
-<p class="arabic-citation">المصدر: حرب الكرماني، <em>مسائل حرب الكرماني</em>، <bdi dir="ltr">3/967</bdi> و<bdi dir="ltr">3/975</bdi>، تحقيق فايز حابس.</p>
-</div>
-</details>
-
----
 
 ### Al-Ṭabarī: disbelief of one who holds that the speech of Allāh is created or doubts that it is uncreated
 <!-- evidence-id: 000737 -->
