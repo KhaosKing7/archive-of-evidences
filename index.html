@@ -718,8 +718,7 @@
       <div class="topic-summary" id="topic-summary"></div>
       <div class="archive-tools" id="archive-tools">
         <label>Search all text
-          <input id="archive-search" type="search" placeholder="Words, translation, citation…" list="archive-search-suggestions">
-          <datalist id="archive-search-suggestions"></datalist>
+          <input id="archive-search" type="search" placeholder="Words, translation, citation…" autocomplete="off" enterkeyhint="search" spellcheck="false">
         </label>
         <label>Books or sources
           <div class="multi-combobox" id="book-combobox">
@@ -10758,6 +10757,7 @@
           });
           addEntryTools(wrapper);
           ensureQuoteHeading(wrapper);
+          wrapper.dataset.search = normalize(wrapper.textContent);
           evidenceEntries.push(wrapper);
         };
 
@@ -11059,9 +11059,9 @@
       });
     }
 
-    function applyFilters() {
+    function applyFilters(options = {}) {
       clearSearchHighlights();
-      sortEvidenceEntries();
+      if (options.sortEntries !== false) sortEvidenceEntries();
       if (activeTopic === 'scholars') {
         let shownEntries = 0;
         let shownScholars = 0;
@@ -11123,7 +11123,7 @@
       });
       updateEntrySeparators(scoped);
       updateVisibleHeadings(scoped);
-      if (controls.search.value.trim()) scoped.filter(entry => !entry.hidden).forEach(highlightEntry);
+      if (controls.search.value.trim()) scoped.filter(entry => !entry.hidden).slice(0, 20).forEach(highlightEntry);
       controls.count.textContent = visible + ' of ' + scoped.length + ' entries';
     }
 
@@ -11448,16 +11448,6 @@
       document.addEventListener('keydown', event => { if (event.key === 'Escape' && !document.querySelector('#media-lightbox').hidden) closeLightbox(); });
     }
 
-    function setupSearchSuggestions() {
-      const values = new Set([
-        'ʿudhr bil-jahl', 'kufr biṭ-ṭāghūt', 'tawḥīd', 'mushrikīn', 'istighāthah',
-        ...scholarCatalog.map(scholar => scholar.name),
-        ...evidenceEntries.map(entry => entry.dataset.category),
-        ...evidenceEntries.flatMap(entry => JSON.parse(entry.dataset.books || '[]'))
-      ]);
-      document.querySelector('#archive-search-suggestions').replaceChildren(...[...values].sort(optionSort).map(value => new Option(value)));
-    }
-
     function setupMobileControls() {
       const sidebar = document.querySelector('aside');
       if (matchMedia('(max-width: 900px)').matches) sidebar.classList.add('mobile-collapsed');
@@ -11552,15 +11542,30 @@
     buildSavedIndex();
     buildArchiveStats();
     setupMediaViewer();
-    setupSearchSuggestions();
     setupCombobox('book');
     setupCombobox('scholar');
     setupMobileControls();
     Object.values(controls).forEach(control => {
-      if (!control || [controls.count, controls.clear, controls.book, controls.scholar, controls.bookOptions, controls.scholarOptions, controls.bookChips, controls.scholarChips, controls.sort].includes(control)) return;
+      if (!control || [controls.search, controls.count, controls.clear, controls.book, controls.scholar, controls.bookOptions, controls.scholarOptions, controls.bookChips, controls.scholarChips, controls.sort].includes(control)) return;
       control.addEventListener(control.tagName === 'INPUT' && !['checkbox'].includes(control.type) ? 'input' : 'change', applyFilters);
     });
-    controls.sort.addEventListener('change', applyFilters);
+    let searchTimer;
+    const runSearch = () => {
+      clearTimeout(searchTimer);
+      applyFilters({ sortEntries: false });
+    };
+    controls.search.addEventListener('input', () => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(runSearch, 140);
+    });
+    controls.search.addEventListener('keydown', event => {
+      if (event.key !== 'Enter') return;
+      event.preventDefault();
+      runSearch();
+      const firstMatch = entriesInScope().find(entry => !entry.hidden);
+      firstMatch?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    controls.sort.addEventListener('change', () => applyFilters());
     controls.clear.addEventListener('click', () => clearFilters());
     document.querySelector('#copy-saved').addEventListener('click', () => {
       const seen = new Set();
