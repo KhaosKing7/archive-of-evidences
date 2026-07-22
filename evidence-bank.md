@@ -1932,6 +1932,14 @@ And this has specific cases which do not include one who worships an idol, a gra
 
 Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.592.
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>تَقَدَّمَ لَكَ الْبَيَانُ إِنَّ هَذَا جَهْلٌ وَتَخْبِيطٌ وَضَلَالٌ، وَأَنَّهُ لَمْ يَفْهَمْ كَلَامَ الشَّيْخِ وَلَمْ يَعْرِفْ مَوْضُوعَهُ وَمَا أُرِيدَ بِهِ، وَكَيْفَ لَا يَحْكُمُ الشَّيْخَانِ عَلَى أَحَدٍ بِالْكُفْرِ أَوِ الشِّرْكِ، وَقَدْ حَكَمَ بِهِ اللَّهُ وَرَسُولُهُ، وَكَافَّةُ أَهْلِ الْعِلْمِ؟ وَهَذَانِ الشَّيْخَانِ يَحْكُمَانِ أَنَّ مَنِ ارْتَكَبَ مَا يُوجِبُ الْكُفْرَ وَالرِّدَّةَ وَالشِّرْكَ يُحْكَمُ عَلَيْهِ بِمُقْتَضَى ذَلِكَ وَبِمُوجِبِ مَا اقْتَرَفَ كُفْرًا أَوْ شِرْكًا أَوْ فِسْقًا، إِلَّا أَنْ يَقُومَ مَانِعٌ شَرْعِيٌّ يَمْنَعُ مِنَ الْإِطْلَاقِ، وَهَذَا لَهُ صُوَرٌ مَخْصُوصَةٌ، لَا يَدْخُلُ فِيهَا مَنْ عَبَدَ صَنَمًا أَوْ قَبْرًا أَوْ بَشَرًا أَوْ مَدَرًا، لِظُهُورِ الْبُرْهَانِ، وَقِيَامِ الْحُجَّةِ بِالرُّسُلِ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">320</bdi> في النسخة النصية المرفقة، ويوافق ص. <bdi dir="ltr">592</bdi> في الطبعة المصورة المستشهد بها.</p>
+</div>
+</details>
+
 ---
 
 <!-- evidence-id: 000092 -->
@@ -2275,6 +2283,14 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 "As for al-`Irāqī and his misguided companions, they argued that the Sheikh (Ibn Taymiyyah) does not declare the ignorant to be disbelievers and that he says they are excused. They made this claim in a vague manner without providing details, and used this misconception as a shield to reject the Quranic verses and prophetic hadiths. They raised their voices against the monotheists, as was the case with their predecessors from the worshippers of graves and polytheists. And to Allah is the final return, and He is the Judge between His servants regarding what they differed in."
 
 [Minhāj al-Tāsīs wa al-Taqdīs p.227]
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا الْعِرَاقِيُّ وَإِخْوَانُهُ الْمُبْطِلُونَ، فَشَبَّهُوا بِأَنَّ الشَّيْخَ لَا يُكَفِّرُ الْجَاهِلَ، وَأَنَّهُ يَقُولُ: هُوَ مَعْذُورٌ، وَأَجْمَلُوا الْقَوْلَ وَلَمْ يُفَصِّلُوا، وَجَعَلُوا هَذِهِ الشُّبْهَةَ تُرْسًا يَدْفَعُونَ بِهِ الْآيَاتِ الْقُرْآنِيَّةَ وَالْأَحَادِيثَ النَّبَوِيَّةَ، وَصَاحُوا عَلَى عِبَادِ اللَّهِ الْمُوَحِّدِينَ، كَمَا جَرَى لِأَسْلَافِهِمْ مِنْ عُبَّادِ الْقُبُورِ وَالْمُشْرِكِينَ، وَإِلَى اللَّهِ الْمَصِيرُ، وَهُوَ الْحَاكِمُ بِعِلْمِهِ وَعَدْلِهِ بَيْنَ عِبَادِهِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">227</bdi>.</p>
+</div>
+</details>
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
@@ -3696,6 +3712,16 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 
 [Minhāj at-Taʾsīs wat-Taqdīs fī Kashf Shubuhāt Dāwūd Ibn Jirjīs by Shaykẖ ʿAbd Al-Laṭīf p.99]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَالشَّيْخُ مُحَمَّدٌ رَحِمَهُ اللَّهُ مِنْ أَعْظَمِ النَّاسِ تَوَقُّفًا وَإِحْجَامًا عَنْ إِطْلَاقِ الْكُفْرِ، حَتَّى إِنَّهُ لَمْ يَجْزِمْ بِتَكْفِيرِ الْجَاهِلِ الَّذِي يَدْعُو غَيْرَ اللَّهِ مِنْ أَهْلِ الْقُبُورِ أَوْ غَيْرِهِمْ إِذَا لَمْ يَتَيَسَّرْ لَهُ مَنْ يَنْصَحُهُ وَيُبَلِّغُهُ الْحُجَّةَ الَّتِي يَكْفُرُ تَارِكُهَا. قَالَ فِي بَعْضِ رَسَائِلِهِ: وَإِذَا كُنَّا لَا نُقَاتِلُ مَنْ يَعْبُدُ قُبَّةَ الْكَوَّازِ حَتَّى نَتَقَدَّمَ بِدَعْوَتِهِ إِلَى إِخْلَاصِ الدِّينِ لِلَّهِ، فَكَيْفَ نُكَفِّرُ مَنْ لَمْ يُهَاجِرْ إِلَيْنَا وَإِنْ كَانَ مُؤْمِنًا مُوَحِّدًا؟</p>
+<p>وَقَالَ: وَقَدْ سُئِلَ عَنْ مِثْلِ هَؤُلَاءِ الْجُهَّالِ، فَقَرَّرَ أَنَّ مَنْ قَامَتْ عَلَيْهِ الْحُجَّةُ وَتَأَهَّلَ لِمَعْرِفَتِهَا يَكْفُرُ بِعِبَادَةِ الْقُبُورِ. وَقَدْ سَبَقَ مِنْ كَلَامِهِ مَا فِيهِ الْكِفَايَةُ، مَعَ أَنَّ الْعَلَّامَةَ ابْنَ الْقَيِّمِ رَحِمَهُ اللَّهُ جَزَمَ بِكُفْرِ الْمُقَلِّدِينَ لِشُيُوخِهِمْ فِي الْمَسَائِلِ الْمُكَفِّرَةِ إِذَا تَمَكَّنُوا مِنْ طَلَبِ الْحَقِّ وَمَعْرِفَتِهِ وَتَأَهَّلُوا لِذَلِكَ فَأَعْرَضُوا وَلَمْ يَلْتَفِتُوا.</p>
+<p>وَمَنْ لَمْ يَتَمَكَّنْ وَلَمْ يَتَأَهَّلْ لِمَعْرِفَةِ مَا جَاءَتْ بِهِ الرُّسُلُ فَهُوَ عِنْدَهُ مِنْ جِنْسِ أَهْلِ الْفَتْرَةِ مِمَّنْ لَمْ تَبْلُغْهُ دَعْوَةُ رَسُولٍ مِنَ الرُّسُلِ. وَكِلَا النَّوْعَيْنِ لَا يُحْكَمُ بِإِسْلَامِهِمْ وَلَا يَدْخُلُونَ فِي مُسَمَّى الْمُسْلِمِينَ، حَتَّى عِنْدَ مَنْ لَمْ يُكَفِّرْ بَعْضَهُمْ. وَأَمَّا الشِّرْكُ فَهُوَ يَصْدُقُ عَلَيْهِمْ وَاسْمُهُ يَتَنَاوَلُهُمْ. وَأَيُّ إِسْلَامٍ يَبْقَى مَعَ مُنَاقَضَةِ أَصْلِهِ وَقَاعِدَتِهِ الْكُبْرَى، شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ؟ وَبَقَاءُ الْإِسْلَامِ وَمُسَمَّاهُ مَعَ بَعْضِ مَا ذَكَرَ الْفُقَهَاءُ فِي بَابِ حُكْمِ الْمُرْتَدِّ أَظْهَرُ مِنْ بَقَائِهِ مَعَ عِبَادَةِ الصَّالِحِينَ وَدُعَائِهِمْ. وَلَكِنَّ الْعِرَاقِيَّ يَفِرُّ مِنْ أَنْ يُسَمَّى ذَلِكَ عِبَادَةً وَدُعَاءً، وَيَزْعُمُ أَنَّهُ تَوَسُّلٌ وَنِدَاءٌ وَيَرَاهُ مُسْتَحَبًّا، وَهَيْهَاتَ هَيْهَاتَ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">98-99</bdi>.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/0a740a97606a589490d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -3730,6 +3756,14 @@ And the extreme groups of the Jahmiyyah, the Qadariyyah, the Rāfiḍah, and oth
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.166]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>قال رحمه الله: فجنس هؤلاء المشركين وأمثالهم ممن يعبد الأولياء والصالحين نحكم بأنهم مشركون، ونرى كفرهم إذا قامت عليهم الحجة الرسالية. أما ما عدا هذا من الذنوب التي دونه في الرتبة والمفسدة فإنا لا نكفر بها ولا نحكم على أحد من أهل القبلة الذين باينوا عباد الأوثان والأصنام والقبور بكفر بمجرد ذنب ارتكبوه وعظيم جرم اجترحوه. وغلاة الجهمية والقدرية والرافضة ونحوهم ممن كفرهم السلف لا نخرج فيهم عن أقوال أئمة الهدى والفتوى من سلف هذه الأمة. ونبرأ إلى الله مما أتت به الخوارج، وقالته في أهل الذنوب من المسلمين.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">60</bdi> في النسخة النصية المرفقة، ويوافق ص. <bdi dir="ltr">166</bdi> في الطبعة المصورة المستشهد بها.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/19bf66072d318400e7f3.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -3746,6 +3780,14 @@ And despite that, al-ʿAllāmah Ibn al-Qayyim firmly stated the kufr of those wh
 And both types are not judged to be Muslims, nor do they enter into the Label of “Muslims,” even according to those who did not declare some of them to be kuffār — and his statement regarding that will come to you. As for shirk, it applies to them, and its name includes them. And what Islām remains alongside contradicting its very foundation?
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.99]
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>مَعَ أَنَّ الْعَلَّامَةَ ابْنَ الْقَيِّمِ رَحِمَهُ اللَّهُ جَزَمَ بِكُفْرِ الْمُقَلِّدِينَ لِشُيُوخِهِمْ فِي الْمَسَائِلِ الْمُكَفِّرَةِ إِذَا تَمَكَّنُوا مِنْ طَلَبِ الْحَقِّ وَمَعْرِفَتِهِ وَتَأَهَّلُوا لِذَلِكَ فَأَعْرَضُوا وَلَمْ يَلْتَفِتُوا. وَمَنْ لَمْ يَتَمَكَّنْ وَلَمْ يَتَأَهَّلْ لِمَعْرِفَةِ مَا جَاءَتْ بِهِ الرُّسُلُ فَهُوَ عِنْدَهُ مِنْ جِنْسِ أَهْلِ الْفَتْرَةِ مِمَّنْ لَمْ تَبْلُغْهُ دَعْوَةُ رَسُولٍ مِنَ الرُّسُلِ. وَكِلَا النَّوْعَيْنِ لَا يُحْكَمُ بِإِسْلَامِهِمْ وَلَا يَدْخُلُونَ فِي مُسَمَّى الْمُسْلِمِينَ، حَتَّى عِنْدَ مَنْ لَمْ يُكَفِّرْ بَعْضَهُمْ. وَأَمَّا الشِّرْكُ فَهُوَ يَصْدُقُ عَلَيْهِمْ وَاسْمُهُ يَتَنَاوَلُهُمْ. وَأَيُّ إِسْلَامٍ يَبْقَى مَعَ مُنَاقَضَةِ أَصْلِهِ؟</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">99</bdi>.</p>
+</div>
+</details>
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
@@ -7635,6 +7677,14 @@ And this has specific cases which do not include one who worships an idol, a gra
 
 Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.592.
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>تقدم لك البيان إن هذا جهل وتخبيط وضلال، وأنه لم يفهم كلام الشيخ ولم يعرف موضوعه وما أريد به، وكيف لا يحكم الشيخان على أحد بالكفر أو الشرك، وقد حكم به الله ورسوله، وكافة أهل العلم؟ وهذان الشيخان يحكمان أن من ارتكب ما يوجب الكفر والردة والشرك يحكم عليه بمقتضى ذلك وبموجب ما اقترف كفراً أو شركاً أو فسقاً إلاّ أن يقوم مانع شرعي يمنع من الاطلاق، وهذا له صور مخصوصة، لا يدخل فيها من عبد صنماً أو قبراً أو بشراً أو مدراً لظهور البرهان، وقيام الحجة بالرسل.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">320</bdi> في النسخة النصية المرفقة، ويوافق ص. <bdi dir="ltr">592</bdi> في الطبعة المصورة المستشهد بها.</p>
+</div>
+</details>
+
 ---
 
 <!-- evidence-id: 000340 -->
@@ -8435,6 +8485,14 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
 [Minhāj al-Tāsīs wa al-Taqdīs p.227]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا الْعِرَاقِيُّ وَإِخْوَانُهُ الْمُبْطِلُونَ، فَشَبَّهُوا بِأَنَّ الشَّيْخَ لَا يُكَفِّرُ الْجَاهِلَ، وَأَنَّهُ يَقُولُ: هُوَ مَعْذُورٌ، وَأَجْمَلُوا الْقَوْلَ وَلَمْ يُفَصِّلُوا، وَجَعَلُوا هَذِهِ الشُّبْهَةَ تُرْسًا يَدْفَعُونَ بِهِ الْآيَاتِ الْقُرْآنِيَّةَ وَالْأَحَادِيثَ النَّبَوِيَّةَ، وَصَاحُوا عَلَى عِبَادِ اللَّهِ الْمُوَحِّدِينَ، كَمَا جَرَى لِأَسْلَافِهِمْ مِنْ عُبَّادِ الْقُبُورِ وَالْمُشْرِكِينَ، وَإِلَى اللَّهِ الْمَصِيرُ، وَهُوَ الْحَاكِمُ بِعِلْمِهِ وَعَدْلِهِ بَيْنَ عِبَادِهِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">227</bdi>.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/9768e758c69d534b8156.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -8710,6 +8768,14 @@ And this has specific cases which do not include one who worships an idol, a gra
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.592]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>تَقَدَّمَ لَكَ الْبَيَانُ إِنَّ هَذَا جَهْلٌ وَتَخْبِيطٌ وَضَلَالٌ، وَأَنَّهُ لَمْ يَفْهَمْ كَلَامَ الشَّيْخِ وَلَمْ يَعْرِفْ مَوْضُوعَهُ وَمَا أُرِيدَ بِهِ، وَكَيْفَ لَا يَحْكُمُ الشَّيْخَانِ عَلَى أَحَدٍ بِالْكُفْرِ أَوِ الشِّرْكِ، وَقَدْ حَكَمَ بِهِ اللَّهُ وَرَسُولُهُ، وَكَافَّةُ أَهْلِ الْعِلْمِ؟ وَهَذَانِ الشَّيْخَانِ يَحْكُمَانِ أَنَّ مَنِ ارْتَكَبَ مَا يُوجِبُ الْكُفْرَ وَالرِّدَّةَ وَالشِّرْكَ يُحْكَمُ عَلَيْهِ بِمُقْتَضَى ذَلِكَ وَبِمُوجِبِ مَا اقْتَرَفَ كُفْرًا أَوْ شِرْكًا أَوْ فِسْقًا، إِلَّا أَنْ يَقُومَ مَانِعٌ شَرْعِيٌّ يَمْنَعُ مِنَ الْإِطْلَاقِ، وَهَذَا لَهُ صُوَرٌ مَخْصُوصَةٌ، لَا يَدْخُلُ فِيهَا مَنْ عَبَدَ صَنَمًا أَوْ قَبْرًا أَوْ بَشَرًا أَوْ مَدَرًا، لِظُهُورِ الْبُرْهَانِ، وَقِيَامِ الْحُجَّةِ بِالرُّسُلِ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">320</bdi> في النسخة النصية المرفقة، ويوافق ص. <bdi dir="ltr">592</bdi> في الطبعة المصورة المستشهد بها.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/f9529ae7d69af3e6474c.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -8826,6 +8892,14 @@ Sheikh Abd al-Latif ibn Abd al-Rahman ibn Hasan Āl al-Shaykh said:
 
 [Minhāj al-Tāsīs wa al-Taqdīs p.227]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا الْعِرَاقِيُّ وَإِخْوَانُهُ الْمُبْطِلُونَ، فَشَبَّهُوا بِأَنَّ الشَّيْخَ لَا يُكَفِّرُ الْجَاهِلَ، وَأَنَّهُ يَقُولُ: هُوَ مَعْذُورٌ، وَأَجْمَلُوا الْقَوْلَ وَلَمْ يُفَصِّلُوا، وَجَعَلُوا هَذِهِ الشُّبْهَةَ تُرْسًا يَدْفَعُونَ بِهِ الْآيَاتِ الْقُرْآنِيَّةَ وَالْأَحَادِيثَ النَّبَوِيَّةَ، وَصَاحُوا عَلَى عِبَادِ اللَّهِ الْمُوَحِّدِينَ، كَمَا جَرَى لِأَسْلَافِهِمْ مِنْ عُبَّادِ الْقُبُورِ وَالْمُشْرِكِينَ، وَإِلَى اللَّهِ الْمَصِيرُ، وَهُوَ الْحَاكِمُ بِعِلْمِهِ وَعَدْلِهِ بَيْنَ عِبَادِهِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">227</bdi>.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/9768e758c69d534b8156.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -8859,6 +8933,16 @@ And Allah continues to plant in this dīn a seed whose proof is established amon
 
 [Minhāj at-Taʾsīs wat-Taqdīs fī Kashf Shubuhāt Dāwūd Ibn Jirjīs by Shaykẖ ʿAbd Al-Laṭīf p.99]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَالشَّيْخُ مُحَمَّدٌ رَحِمَهُ اللَّهُ مِنْ أَعْظَمِ النَّاسِ تَوَقُّفًا وَإِحْجَامًا عَنْ إِطْلَاقِ الْكُفْرِ، حَتَّى إِنَّهُ لَمْ يَجْزِمْ بِتَكْفِيرِ الْجَاهِلِ الَّذِي يَدْعُو غَيْرَ اللَّهِ مِنْ أَهْلِ الْقُبُورِ أَوْ غَيْرِهِمْ إِذَا لَمْ يَتَيَسَّرْ لَهُ مَنْ يَنْصَحُهُ وَيُبَلِّغُهُ الْحُجَّةَ الَّتِي يَكْفُرُ تَارِكُهَا. قَالَ فِي بَعْضِ رَسَائِلِهِ: وَإِذَا كُنَّا لَا نُقَاتِلُ مَنْ يَعْبُدُ قُبَّةَ الْكَوَّازِ حَتَّى نَتَقَدَّمَ بِدَعْوَتِهِ إِلَى إِخْلَاصِ الدِّينِ لِلَّهِ، فَكَيْفَ نُكَفِّرُ مَنْ لَمْ يُهَاجِرْ إِلَيْنَا وَإِنْ كَانَ مُؤْمِنًا مُوَحِّدًا؟</p>
+<p>وَقَالَ: وَقَدْ سُئِلَ عَنْ مِثْلِ هَؤُلَاءِ الْجُهَّالِ، فَقَرَّرَ أَنَّ مَنْ قَامَتْ عَلَيْهِ الْحُجَّةُ وَتَأَهَّلَ لِمَعْرِفَتِهَا يَكْفُرُ بِعِبَادَةِ الْقُبُورِ. وَقَدْ سَبَقَ مِنْ كَلَامِهِ مَا فِيهِ الْكِفَايَةُ، مَعَ أَنَّ الْعَلَّامَةَ ابْنَ الْقَيِّمِ رَحِمَهُ اللَّهُ جَزَمَ بِكُفْرِ الْمُقَلِّدِينَ لِشُيُوخِهِمْ فِي الْمَسَائِلِ الْمُكَفِّرَةِ إِذَا تَمَكَّنُوا مِنْ طَلَبِ الْحَقِّ وَمَعْرِفَتِهِ وَتَأَهَّلُوا لِذَلِكَ فَأَعْرَضُوا وَلَمْ يَلْتَفِتُوا.</p>
+<p>وَمَنْ لَمْ يَتَمَكَّنْ وَلَمْ يَتَأَهَّلْ لِمَعْرِفَةِ مَا جَاءَتْ بِهِ الرُّسُلُ فَهُوَ عِنْدَهُ مِنْ جِنْسِ أَهْلِ الْفَتْرَةِ مِمَّنْ لَمْ تَبْلُغْهُ دَعْوَةُ رَسُولٍ مِنَ الرُّسُلِ. وَكِلَا النَّوْعَيْنِ لَا يُحْكَمُ بِإِسْلَامِهِمْ وَلَا يَدْخُلُونَ فِي مُسَمَّى الْمُسْلِمِينَ، حَتَّى عِنْدَ مَنْ لَمْ يُكَفِّرْ بَعْضَهُمْ. وَأَمَّا الشِّرْكُ فَهُوَ يَصْدُقُ عَلَيْهِمْ وَاسْمُهُ يَتَنَاوَلُهُمْ. وَأَيُّ إِسْلَامٍ يَبْقَى مَعَ مُنَاقَضَةِ أَصْلِهِ وَقَاعِدَتِهِ الْكُبْرَى، شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ؟ وَبَقَاءُ الْإِسْلَامِ وَمُسَمَّاهُ مَعَ بَعْضِ مَا ذَكَرَ الْفُقَهَاءُ فِي بَابِ حُكْمِ الْمُرْتَدِّ أَظْهَرُ مِنْ بَقَائِهِ مَعَ عِبَادَةِ الصَّالِحِينَ وَدُعَائِهِمْ. وَلَكِنَّ الْعِرَاقِيَّ يَفِرُّ مِنْ أَنْ يُسَمَّى ذَلِكَ عِبَادَةً وَدُعَاءً، وَيَزْعُمُ أَنَّهُ تَوَسُّلٌ وَنِدَاءٌ وَيَرَاهُ مُسْتَحَبًّا، وَهَيْهَاتَ هَيْهَاتَ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">98-99</bdi>.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/0a740a97606a589490d1.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -8875,6 +8959,14 @@ As for making the dead into means by which one seeks Istighāthah from them, Mak
 The one who does that is takfired by the mere belief and action, even if he does not believe in their independence, as the Qurʾān has stated in more than one place. So al-ʿIrāqī (Dāwūd ibn Jirjīs) is opposing the Qurʾān and contradicting its texts.
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.623]
+
+<details class="source-panel arabic-source" data-origin="telegram-source-scan">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا جَعْلُ الْأَمْوَاتِ أَسْبَابًا يُسْتَغَاثُ بِهَا وَتُدْعَى وَتُرْجَى وَتُعَظَّمُ عَلَى أَنَّهَا وَسَائِطُ، فَهَذَا دِينُ عُبَّادِ الْأَصْنَامِ، يَكْفُرُ فَاعِلُهُ بِمُجَرَّدِ اعْتِقَادِهِ وَفِعْلِهِ، وَإِنْ لَمْ يَعْتَقِدِ الِاسْتِقْلَالَ، كَمَا نَصَّ عَلَيْهِ الْقُرْآنُ فِي غَيْرِ مَوْضِعٍ، فَالْعِرَاقِيُّ مُعَارِضٌ لِلْقُرْآنِ مُصَادِمٌ لِنُصُوصِهِ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">623</bdi>، من النسخة المصورة المرفقة.</p>
+</div>
+</details>
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
@@ -10813,6 +10905,14 @@ And both types are not judged to be Muslims, nor do they enter into the Label of
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.99]
 
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>مَعَ أَنَّ الْعَلَّامَةَ ابْنَ الْقَيِّمِ رَحِمَهُ اللَّهُ جَزَمَ بِكُفْرِ الْمُقَلِّدِينَ لِشُيُوخِهِمْ فِي الْمَسَائِلِ الْمُكَفِّرَةِ إِذَا تَمَكَّنُوا مِنْ طَلَبِ الْحَقِّ وَمَعْرِفَتِهِ وَتَأَهَّلُوا لِذَلِكَ فَأَعْرَضُوا وَلَمْ يَلْتَفِتُوا. وَمَنْ لَمْ يَتَمَكَّنْ وَلَمْ يَتَأَهَّلْ لِمَعْرِفَةِ مَا جَاءَتْ بِهِ الرُّسُلُ فَهُوَ عِنْدَهُ مِنْ جِنْسِ أَهْلِ الْفَتْرَةِ مِمَّنْ لَمْ تَبْلُغْهُ دَعْوَةُ رَسُولٍ مِنَ الرُّسُلِ. وَكِلَا النَّوْعَيْنِ لَا يُحْكَمُ بِإِسْلَامِهِمْ وَلَا يَدْخُلُونَ فِي مُسَمَّى الْمُسْلِمِينَ، حَتَّى عِنْدَ مَنْ لَمْ يُكَفِّرْ بَعْضَهُمْ. وَأَمَّا الشِّرْكُ فَهُوَ يَصْدُقُ عَلَيْهِمْ وَاسْمُهُ يَتَنَاوَلُهُمْ. وَأَيُّ إِسْلَامٍ يَبْقَى مَعَ مُنَاقَضَةِ أَصْلِهِ؟</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">99</bdi>.</p>
+</div>
+</details>
+
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
 <p><img class="source-scan" src="assets/scans/d84e498fa5d1a2dc3f11.jpg" alt="Attached Arabic source scan" loading="lazy"></p>
@@ -10850,6 +10950,15 @@ It includes complete humility and love, and it includes complete obedience and e
 All of the prophets are upon the religion of Islām. It entails submission to Allāh alone. Whoever submits to Him and to others besides Him is a mushrik, and whoever does not submit to Him is arrogant from His worship.
 
 [Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.162]
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>يوضح ذلك: أن أصل الإسلام وقاعدته: شهادة أن لا إله إلا الله، وهي أصل الإيمان بالله وحده وهي أفضل شعب الإيمان. وهذا الأصل لا بد فيه من العلم والعمل والإقرار بإجماع المسلمين. ومدلوله: وجوب عبادة الله وحده لا شريك له والبراءة من عبادة ما سواه كائنا من كان، وهذا هو الحكمة التي خلقت لها الإنس والجن وأرسلت لها الرسل وأنزلت بها الكتب، وهي تتضمن كمال الذل والحب، وتتضمّن كمال الطاعة والتعظيم.</p>
+<p>وهذا هو دين الإسلام الذي لا يقبل الله ديناً غيره، لا من الأولين ولا من الآخرين. فإن جميع الأنبياء على دين الإسلام، وهو يتضمن الاستسلام لله وحده. فمن استسلم لله ولغيره كان مشركاً. ومن لم يستسلم له كان مستكبراً عن عبادته.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">57</bdi> في النسخة النصية المرفقة، ويوافق ص. <bdi dir="ltr">162</bdi> في الطبعة المصورة المستشهد بها.</p>
+</div>
+</details>
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
@@ -14635,6 +14744,14 @@ As for making the dead into means by which one seeks Istighāthah from them, Mak
 The one who does that is takfired by the mere belief and action, even if he does not believe in their independence, as the Qurʾān has stated in more than one place. So al-ʿIrāqī (Dāwūd ibn Jirjīs) is opposing the Qurʾān and contradicting its texts.
 
 Source: Minhāj at-Taʾsīs wa at-Taqdīs fī Kashf Shubuhāt Dāwūd ibn Jirjis by Shaykh ʿAbd al-Laṭīf Āl ash-Shaykh p.623
+
+<details class="source-panel arabic-source" data-origin="telegram-source-scan">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>وَأَمَّا جَعْلُ الْأَمْوَاتِ أَسْبَابًا يُسْتَغَاثُ بِهَا وَتُدْعَى وَتُرْجَى وَتُعَظَّمُ عَلَى أَنَّهَا وَسَائِطُ، فَهَذَا دِينُ عُبَّادِ الْأَصْنَامِ، يَكْفُرُ فَاعِلُهُ بِمُجَرَّدِ اعْتِقَادِهِ وَفِعْلِهِ، وَإِنْ لَمْ يَعْتَقِدِ الِاسْتِقْلَالَ، كَمَا نَصَّ عَلَيْهِ الْقُرْآنُ فِي غَيْرِ مَوْضِعٍ، فَالْعِرَاقِيُّ مُعَارِضٌ لِلْقُرْآنِ مُصَادِمٌ لِنُصُوصِهِ.</p>
+<p class="arabic-citation">المصدر: عبد اللطيف بن عبد الرحمن آل الشيخ، <em>منهاج التأسيس والتقديس في كشف شبهات داود بن جرجيس</em>، ص. <bdi dir="ltr">623</bdi>، من النسخة المصورة المرفقة.</p>
+</div>
+</details>
 
 <details class="source-panel scan-source" data-origin="telegram-attachment">
 <summary>Show attached source scan</summary>
