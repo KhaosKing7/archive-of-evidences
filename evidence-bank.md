@@ -463,6 +463,8 @@ After that there are matters which are obligatory, but leaving them is a sin; le
 
 The point of the question is to properly define al-walāʾ wa al-barāʾ, the abandonment of which is kufr. The obligatory walāʾ which is from Islām and tawḥīd—rather it is Islām and tawḥīd—is love: love of Islām and love of Allāh. And al-barāʾ, which is its counterpart, is hatred—hatred of the objects of worship of the mushrikīn. This is a level that whoever does not bring it has not come with Islām, because he has nullified the foundation of al-walāʾ wa al-barāʾ.
 
+Source: [Ṣāliḥ Āl al-Shaykh, lecture “al-Ahamm fa-al-Muhimm,” beginning around 1:02:33](https://baheth.ieasybooks.com/ar/media/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%85-%D9%81%D8%A7%D9%84%D9%85%D9%87%D9%85-%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A2%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-37bb3838-7a4c-47ff-8d79-8da5f07eab6b).
+
 ---
 
 ### Ṣāliḥ Āl al-Shaykh
@@ -1067,9 +1069,6 @@ Source: *al-Durar al-Saniyyah fī al-Ajwibah al-Najdiyyah*, 9/291–292, in the 
 
 
 ### Ibn Taymiyyah: collected statements on the ignorant person who commits major shirk
-<!-- evidence-id: 000053 -->
-
-These entries are also retained in section 7 as a standalone presentation of Ibn Taymiyyah’s position. They are repeated here so they remain available in their proper topical category.
 
 ### The name of shirk and punishment before the message
 <!-- evidence-id: 000054 -->
@@ -1548,6 +1547,7 @@ Source: Ijmāʿ Ahl as-Sunnah an-Nabawiyyah ʿalā Takfīr al-Muʿaṭṭilah al
 
 ---
 
+<!-- telegram-source: dar/messages2.html#message1677-message1679 -->
 <!-- evidence-id: 000074 -->
 A doubt the Murjiah bring to excuse Shirk
 
@@ -1572,6 +1572,13 @@ Shaykh Taqi Ad-Dīn's stance regarding ALLĀH’S attributes was that ignorance 
 The author of Al-Ikhtiyarat stated: "Apostasy applies to anyone who associates others with ALLĀH (ﷻ), hates the Prophet (ﷺ) or what he brought, fails to reject wrongdoing in his heart, believes that some of the Companions fought alongside the disbelievers or deems such an act permissible, denies a matter upon which there is definitive consensus, or places intermediaries between himself and ALLĀH (ﷻ) relying on them, calling upon them, and seeking from them—this is unanimous disbelief."
 
 He further stated: "Whoever doubts one of ALLĀH’S attributes in a way that one like him should not be ignorant of is an apostate. However, if it is something one like him could be ignorant of, he is not an apostate. This is why the Prophet (ﷺ) did not declare the man who doubted ALLĀH’S power to be a disbeliever."
+
+Source: ʿAbd Allāh Abā Buṭayn, al-Intiṣār li-Ḥizb Allāh al-Muwaḥḥidīn wa al-Radd ʿalā al-Mujādil ʿan al-Mushrikīn, pp. 22 and 26-28.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Source scan</summary>
+<img class="source-scan" src="assets/scans/0ac1f592766e23ab52c9.jpg" alt="Arabic source scan for the statement of Abd Allah Aba Butayn" loading="lazy">
+</details>
 
 ---
 
@@ -1638,6 +1645,7 @@ Source: Muʿjam al-Tawḥīd 3/74.
 
 ---
 
+<!-- telegram-source: dar/messages2.html#message1997-message1999 -->
 <!-- evidence-id: 000078 -->
 Sheikh Sulaymān ibn Suhmān said:
 
@@ -1661,8 +1669,16 @@ If he fails to do so, his argument collapses, and people of knowledge will recog
 
 Only those who have deeply studied the works of Shaykh Al-Islām Ibn Taymiyyah and are well-versed in his principles can truly understand his words.
 
+Source: Sulaymān ibn Saḥmān, al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād, pp. 163-164.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Source scan</summary>
+<img class="source-scan" src="assets/scans/43016959878772be81d6.jpg" alt="Arabic source scan for the statement of Sulayman ibn Sahman" loading="lazy">
+</details>
+
 ---
 
+<!-- telegram-source: dar/messages2.html#message2072-message2074 -->
 <!-- evidence-id: 000079 -->
 al-‘Allāmah ‘Abdullāh Abā Butayn said:
 
@@ -1686,7 +1702,14 @@ The general meaning of Allāh’s statement: “Indeed, Allāh does not forgive 
 
 And: “A group was guided, while a group deserved to be in error, for they took devils as allies instead of Allāh, and they thought they were guided” (Al-Aʿrāf 7:30).
 
-Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs against those who claim that Allāh does not punish anyone for a sin they committed or a misguidance they believed in—unless they knew it was wrong. If that were true, there would be no difference between the misguided ones who think they are upon guidance and those who are truly guided.
+Ibn Jarīr (al-Ṭabarī) commented: “This is one of the clearest proofs against those who claim that Allāh does not punish anyone for a sin they committed or a misguidance they believed in—unless they knew it was wrong. If that were true, there would be no difference between the misguided ones who think they are upon guidance and those who are truly guided. But Allāh has clearly distinguished between them in this verse.”
+
+Source: ʿAbd Allāh Abā Buṭayn, Taʾsīs al-Taqdīs fī Kashf Talbīs Dāwūd ibn Jirjīs wa-Yalīhi Daḥḍ Shubuhāt ʿalā al-Tawḥīd, pp. 158-160.
+
+<details class="source-panel scan-source" data-origin="telegram-attachment">
+<summary>Source scan</summary>
+<img class="source-scan" src="assets/scans/bf4fa28ad275a6b0d5cf.jpg" alt="Arabic source scan for the statement of Abd Allah Aba Butayn" loading="lazy">
+</details>
 
 ---
 
@@ -1747,19 +1770,7 @@ Source: al-Asinnah al-Ḥaddād fī Kashf Shubuhāt ʿAlawī al-Ḥaddād p. 159
 
 ---
 
-<!-- evidence-id: 000083 -->
-Shaykh Ṣāliḥ al-Fawzān Was asked:
-
-Q: certain preachers who claim to follow Salafiyyah, (who are really) modern-day Murji'ah, have spread a particular interpretation of Ibn Taymiyyah's words. They say: "We don't do individual takfir until conditions are met and obstacles are removed." Or they say: "Not everyone who commits Kufr is necessarily ruled as Kafir." Or statements that are general concerning the ruling by what is apparent of Islam.
-
-Similarly, may Allah protect you, is about to Imam al-Mujaddid Muhammad ibn Abdul-Wahhab and his statement: "We do not takfir those who worship the grave of Abdul-Qadir, and the grave of Ahmad al-Badawi and their likes, due to their ignorance, and due to no one informing them." (To clarify this statement in’sha’allah which is heavily used by the Murji’ah, This is related to the hukm (ruling) for the hereafter  however they are labeled a mushrik in this life).  [Durar as-Saniyyah, 1/104]
-
-Similarly, with the statements of some scholars that say only judge can do takfir, As well as words of Ibn Uthaymeen about a person who commits shirk. They argue using these general statements, that the individual ignorant grave-worshipper, who claims Islam, is a Muslim in reality. They attribute this understanding to the scholars. Is this true?
-
-A: This is a lie and slander against them (the scholars), and is misguidance. This is a lie and slander against them.
-
----
-
+<!-- telegram-source: dar/messages3.html#message2635 -->
 <!-- evidence-id: 000084 -->
 Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
 
@@ -1775,41 +1786,7 @@ This view was adopted by Shaykh Muḥammad ibn ʿAbd al-Wahhāb, may Allah have 
 
 These two positions are both attributed to the scholars, and were mentioned by Shaykh al-Islām Ibn Taymiyyah and others. May Allah grant everyone success in obeying Him, bless all with righteous deeds and beneficial knowledge, and may peace and blessings be upon Muḥammad, his family, and his companions.
 
-https://shamela.ws/book/37010/193
-
-
----
-
-<!-- evidence-id: 000085 -->
-Shaykh ʿAbd al-ʿAzīz al-Rājihī was asked:
-
-“Is the one who performs ṭawāf around graves or commits acts of shirk out of ignorance—meaning he does not know that what he is doing is shirk—to be excused? Please provide detail.
-
-The Shaykh said: "The scholars have 2 opinions on this after the mission/prohethood (بعثة) of Prophet ﷺ — Ahl Al-Fiṭrah after the prophethood/mission of Prophet ﷺ, regarding them their is a scholarly discussion.
-
-But after the Prophet ﷺ was sent and the Qur’ān was revealed—Allah says: “And We never punish until We have sent a messenger”—and indeed Allah has sent the Messenger and revealed the Qur’ān.
-
-So is the mushrik excused if the matter has been confused for him—if he was performing ṭawāf around graves and calling upon them—and he did not perceive the truth, nor recognize it, because of the deception of corrupt scholars who distort things for him and beautify shirk in his eyes?
-
-Some scholars have said he is excused in such a case, but he is treated in this world as a mushrik: he is not washed, not prayed over, not buried among Muslims, and no pilgrimage is performed on his behalf, nor is mercy invoked for him. In the Hereafter, his matter is left to Allah.
-
-This is the position adopted by Shaykh Muḥammad ibn ʿAbd al-Wahhāb رحمه الله. He said that no one is declared a kāfir until the ḥujjah (proof) is established against him.
-
-Other scholars said no one is excused after the Prophet ﷺ, because Allah says: “And We never punish until We have sent a messenger”—and the Messenger has been sent and the Qur’ān revealed, and the Qur’ān is recited and the texts are clear regarding the prohibition of shirk. Therefore, they are not excused. These are two views held by scholars.
-
-In any case, those who say he is excused also say that in this world he is treated as a mushrik: he is not washed, not prayed over, not buried in the Muslim cemeteries, pilgrimage is not performed for him, and mercy is not invoked for him. As for the Hereafter, his matter is with Allah.
-
-Shaykh al-Islām Ibn Taymiyyah رحمه الله said a profound statement. He said:
-
-There are two types of shirk: greater and lesser. Whoever is free from both dies upon tawḥīd. Whoever is free from both dies upon tawḥīd and enters Paradise. Whoever is free from the greater enters Paradise.
-
-Whoever dies upon the greater shirk enters the Fire. And whoever dies upon the lesser shirk—if his good deeds outweigh his bad—enters Paradise. That is because of the abundance of tawḥīd alongside a small amount of shirk. But if his bad deeds outweigh his good, he will be punished for this lesser shirk. Shirk is accounted for whether it is greater or if it is extensive in amount.
-
-If it is small in comparison to much sincerity, this is the view of Shaykh al-Islām رحمه الله: shirk is held accountable in both of its forms—greater and abundant in quantity. If someone dies upon greater shirk, he dies from among the people of the Fire.
-
-As for lesser shirk, it depends on whether his good deeds outweigh the bad or the opposite. If the bad deeds outweigh, then his good deeds are nullified and shirk overcomes them. But if the good deeds, especially tawḥīd, are abundant, they may outweigh the shirk.”
-
----
+Source: [Shaykh ʿAbd al-ʿAzīz al-Rājihī, recorded answer in the Shamela collection](https://shamela.ws/book/37010/193).
 
 ---
 
@@ -1824,6 +1801,7 @@ Source: Kashf al-Awhām by Shaykh Sulaymān ibn Saḥmān p.116-117.
 
 ---
 
+<!-- telegram-source: dar/messages3.html#message3168-message3171 -->
 <!-- evidence-id: 000087 -->
 An important fatawa and advice from Shaykh ʿAbd Allāh al-Jarbūʿ that I requested
 
@@ -1863,6 +1841,11 @@ Shaykh al-Islām (Ibn Taymiyyah) stated that a group from the Salaf declared suc
 
 I asked after : May Allah reward you, Shaykh.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/1b8d450ad96cf21cb2c6.mp4"></video>
+<p class="media-caption">Arabic video source from the Telegram export.</p>
+</div>
+
 ---
 
 ---
@@ -1886,6 +1869,7 @@ Source: Taḥrīr Qawl Shaykh al-Islām Ibn Taymiyyah raḥimahullāh fī Fāʿi
 
 ---
 
+<!-- telegram-source: dar/messages5.html#message4482-message4483 -->
 <!-- evidence-id: 000089 -->
 The position of Imām Ibn Taymiyyah and Muḥammad Ibn ʿAbd al-Wahhāb on ʿUdhr bil Jahl explained by Shaykh Ibn Bāz
 
@@ -1902,6 +1886,11 @@ A person may also be excused in minor matters from the subsidiary rulings that m
 Likewise, in the case of one who is far removed from hearing the Qurʾān and the Sunnah — in remote regions of the world — such people are Ahl al-Fatrah. The correct view is that they will be tested on the Day of Resurrection: whoever responds to the command will enter Jannah, and whoever disobeys will enter the Fire.
 
 As for one who lives among the Muslims, where the Qurʾān and the Sunnah are known, then ignorance is not an excuse for him — neither in ʿaqīdah nor in other than it. Allāh said: “This Qurʾān has been revealed to me that I may warn you thereby and whomever it reaches.” Allāh knows best. The Qurʾān and the Sunnah are to be learned. Allāh al-Mustaʿān.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/a8cb5e01a8c3bf0a8c69.mov"></video>
+<p class="media-caption">Arabic video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -2459,7 +2448,7 @@ As for one who lives among the Muslims, where the Qurʾān and the Sunnah are kn
 
 ---
 
-<!-- telegram-source: dar/messages3.html#message2628 -->
+<!-- telegram-source: dar/messages3.html#message2628-message2629 -->
 <!-- evidence-id: 000115 -->
 
 Shaykh Ṣāliḥ al-Fawzān Was asked:
@@ -2471,6 +2460,11 @@ Similarly, may Allah protect you, is about to Imam al-Mujaddid Muhammad ibn Abdu
 Similarly, with the statements of some scholars that say only judge can do takfir, As well as words of Ibn Uthaymeen about a person who commits shirk. They argue using these general statements, that the individual ignorant grave-worshipper, who claims Islam, is a Muslim in reality. They attribute this understanding to the scholars. Is this true?
 
 A: This is a lie and slander against them (the scholars), and is misguidance. This is a lie and slander against them.
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/80e41bbfce953c48a301.mp4"></video>
+<p class="media-caption">Arabic video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -4504,7 +4498,7 @@ Shaykh Badr ibn ʿAlī al-ʿUtaybī — The student of Shaykh Ibn Bāz — clear
 </details>
 ---
 
-<!-- telegram-source: dar/messages4.html#message3517 -->
+<!-- telegram-source: dar/messages4.html#message3517-message3518 -->
 <!-- evidence-id: 000209 -->
 
 Shaykh Ibn ʿUthaymīn said:
@@ -4528,9 +4522,14 @@ And for this reason, now there are people in the remote parts of Africa, in the 
 
 This is one of the clear fatawas of Shaykh Ibn ʿUthaymīn differentiating between the Ism of Mushrikeen being applied even if one is ignorant, and the ruling of the Mushrikeen (check video I linked above for the clear fatawa clarifying this distinction) is only after the proof is established. This is a principle the people of knowledge have applied.
 
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/76a2ffb3f04c92b9271e.mp4"></video>
+<p class="media-caption">Arabic video source from the Telegram export.</p>
+</div>
+
 ---
 
-<!-- telegram-source: dar/messages3.html#message2455 -->
+<!-- telegram-source: dar/messages3.html#message2455-message2458 -->
 <!-- evidence-id: 000210 -->
 
 [Ruling on Vowing to a Saint and Its Consequences]
@@ -4564,6 +4563,13 @@ So now tell the brother:
 1. He must separate from her until she repents from this shirk. If she repents, she must offer expiation for her vow as a kaffārat yamīn.
 
 2. He must admonish her and instill fear of Allah in her. He should tell her that her actions are major shirk, and if she dies upon it, she will die destined for Hell—may Allah protect us.
+
+Source: [Shaykh Ibn ʿUthaymīn, Fatāwā Nūr ʿalā al-Darb, recorded answer](https://shamela.ws/book/7687/2849).
+
+<div class="video-source" data-origin="telegram-attachment">
+<video class="source-video" controls preload="metadata" src="assets/videos/f1cf671d3a03d5b924d1.mov"></video>
+<p class="media-caption">Arabic video source from the Telegram export.</p>
+</div>
 
 ---
 
@@ -6214,10 +6220,8 @@ The contradiction of those who say there is Excuse of Ignorance for the one who 
 
 ---
 
-<!-- telegram-source: personal/messages.html#message518 -->
-<!-- evidence-id: 000287 -->
-
 ### Diagram: the ruling on one who falls into major shirk
+<!-- telegram-source: personal/messages.html#message518 -->
 <!-- evidence-id: 000288 -->
 
 The English and Arabic versions are displayed together below.
@@ -9106,18 +9110,6 @@ He then rejects the claim that a man is Muslim “in himself” without referenc
 Source: ʿAbd al-Laṭīf ibn ʿAbd al-Raḥmān Āl ash-Shaykh, al-Durar al-Saniyyah, 10/493, in his refutation of Dāwūd ibn Jirjīs.
 
 ## 9. Between the two extremes
-
-This section can be built almost entirely from quoted distinctions:
-
-- Major shirk must not be renamed Islam.
-- The outward description of an act and its doer must not automatically be confused with the question of punishment in the Hereafter.
-- A person unreached by the message is not simply placed in the same category as a Muslim upon tawḥīd.
-- A confused Muslim who hesitates because of a scholarly doubt is not automatically treated like the original mushrik before clarification.
-- Statements concerning clear major shirk should not be generalized to every obscure theological or subsidiary issue.
-- General rulings should not be turned into uncontrolled chains of takfīr.
-
-
-<a id="other-tawhid"></a>
 
 ### Permanent Committee: the confused excuser is not immediately treated like the original disbeliever
 <!-- evidence-id: 000447 -->
@@ -12219,8 +12211,6 @@ But all sinners — except those whom Allah guides — act arrogantly. They are 
 
 ## 11. Istighāthah, Ṭalab al-Duʿāʾ, and Tawassul
 
-Every unique substantive statement from the personal Istighatha/Tawasul Telegram topic and the relevant Dār as-Salafiyyah #tawḥīd posts is included below. Caption-only media not containing a written statement is omitted. Full-context passages found through the direct local-book search are placed under the same subjects rather than separated by collection.
-
 <!-- telegram-source: dar/messages3.html#message3161 -->
 <!-- evidence-id: 000597 -->
 
@@ -12423,6 +12413,8 @@ It is the hypocrisy of the munāfiqūn (hypocrites) — their showing off is the
 
 Allāh said regarding them: “In their hearts is a disease, and Allāh has increased their disease.” (Sūrah al-Baqarah, 2:10)
 
+Source: [Shaykh ʿAbd al-ʿAzīz ibn Bāz, “Definition of hidden shirk”](https://binbaz.org.sa/fatwas/1204/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%83-%D8%A7%D9%84%D8%AE%D9%81%D9%8A).
+
 ---
 
 <!-- telegram-source: dar/messages4.html#message3280 -->
@@ -12496,7 +12488,6 @@ Thus it became clear that the form of requesting shafāʿah and duʿāʾ from th
 ---
 
 ### Foundations: duʿāʾ, worship, and istighāthah
-<!-- evidence-id: 000610 -->
 
 <!-- telegram-source: dar/messages3.html#message2200 -->
 <!-- evidence-id: 000611 -->
@@ -14212,7 +14203,6 @@ Source: ʿAbd al-Laṭīf Āl al-Shaykh, Tuḥfat al-Ṭālib wa-al-Jalīs fī K
 ---
 
 ### Istighāthah and calling upon the dead or absent
-<!-- evidence-id: 000661 -->
 
 <!-- telegram-source: personal/messages.html#message552 -->
 <!-- evidence-id: 000662 -->
@@ -15868,7 +15858,6 @@ Source: Sharḥ Kitāb at-Tawḥīd by Shaykh ʿAbdullāh al-Ghunaymān 1/157-15
 ---
 
 ### What may be requested from a living, present, capable person
-<!-- evidence-id: 000706 -->
 
 <!-- telegram-source: personal/messages.html#message758 -->
 <!-- evidence-id: 000707 -->
@@ -15879,7 +15868,16 @@ Shaykh al-Islam Ibn Taymiyyah (رحمه الله) said:
 
 And those who visit with the visitation of the people of polytheism and innovation are those who travel to their graves for that purpose, and it is a pilgrimage to them. Allah the Exalted forbids that pilgrimage be made to any house other than His. Nor is pilgrimage made to all of His houses; rather one does not travel except to three mosques. Travel to the Sacred Mosque for Hajj is obligatory, and to each one of the three..."
 
-[A Great Principle on the Difference Between the Worship of the People of Islam and Faith and the Worship of the People of Polytheism and Hypocrisy, pg. 74]
+Source: Ibn Taymiyyah, A Great Principle on the Difference Between the Worship of the People of Islam and Faith and the Worship of the People of Polytheism and Hypocrisy, p. 74.
+
+<details class="source-panel arabic-source" data-origin="local-library">
+<summary>Arabic text</summary>
+<div class="arabic-text" dir="rtl" lang="ar">
+<p>نستشفع، أو نتوسل، أو نتوجه؛ لأنه لن يشفع لهم في ذلك، وإنما يتوسل، ويستشفع ويتوجه به، فيما كان شفيعًا فيه صلى الله عليه وسلم، ولا طلبوا منه بعد موته أن يشفع لهم، ويدعو لهم، كما تفعله النصارى، فيطلبون الشفاعة من الموتى، الأنبياء وغيرهم، فإن الميت قد انقطع عنه التكليف، ليس هو كالحي الذي يطلب منه ما هو مأمور به من عبادة وطاعة ونفع الغير، فإن الحي إذا طلب منه أن يعين غيره بدعاء، أو شفاعة، أو نفع، أو صدقة، فقد طلب منه ما يأمره الله به من الإحسان، والميت ليس مأمورًا بشيء أمر تكليف؛ لانقطاع التكليف بالموت، بل هو بمنزلة أهل الجنة، والملائكة، يفعل ما أريد منه، فما أراده الله منه حصل، سواء طلب ذلك منه الحي أو لم يطلبه، وما لم يرده منه لم يحصل، فليس في سؤال الحي للميت فائدة للحي، ولا للميت، بل فيه شرك بالميت، وإيذاء له، فإن دعاءه يؤذيه، وليس فيه فائدة للحي، بل فيه ظلمه لنفسه، وشركه بربه، وإيذاؤه للميت، ففيه أنواع الظلم الثلاثة.</p>
+<p>وهؤلاء الذين يزورون زيارة أهل الشرك والبدع، هم الذين يسافرون إلى قبورهم لذلك، وهو حج لهم، والله سبحانه يحرّم أن يحج إلى بيت غيره. ولا يحجّ إلى جميع بيوته، بل لا يسافر إلا إلى ثلاثة مساجد، والسفر إلى المسجد الحرام للحج واجب، وإلى كل واحد من الثلاثة...</p>
+<p class="arabic-citation">المصدر: ابن تيمية، <em>قاعدة عظيمة في الفرق بين عبادات أهل الإسلام والإيمان وعبادات أهل الشرك والنفاق</em>، ص. <bdi dir="ltr">74</bdi>.</p>
+</div>
+</details>
 
 ---
 
@@ -16096,7 +16094,6 @@ Source: Shurūḥ Rasāʾil al-Imām al-Mujaddid Muḥammad ibn ʿAbd al-Wahhāb
 ---
 
 ### Grave visitation and the pathways leading to shirk
-<!-- evidence-id: 000711 -->
 
 <!-- telegram-source: personal/messages.html#message587 -->
 <!-- evidence-id: 000712 -->
